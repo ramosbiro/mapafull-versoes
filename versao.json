@@ -1,17 +1,24 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.0",
-  "codigo": 31,
+  "versao": "0.10.1",
+  "codigo": 32,
   "data": "28/10/2026",
-  "tamanho": 194726229,
-  "sha256": "6494f8b87c86addc8c9ce187b2555584f5310fae00305baae2c1457705ad5a48",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.0/MapaFullRamos-0.10.0.apk",
+  "tamanho": 194729597,
+  "sha256": "fe9ad2f4a41e3a2991315666490ae210aed5c5f11f12cb6405f357c855fc3834",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.1/MapaFullRamos-0.10.1.apk",
   "notas": [
-    "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
-    "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
-    "Correção: ao abrir, a câmera às vezes não seguia a sua posição."
+    "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
+    "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
   ],
   "versoes": [
+    {
+      "versao": "0.10.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
+        "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
+      ]
+    },
     {
       "versao": "0.10.0",
       "data": "28/10/2026",
@@ -100,13 +107,6 @@
         "Mapas offline: no menu e nas Configurações, baixe o mapa por país, região e estado (Brasil > regiões > estados), com barra de progresso, tamanho de cada um, espaço livre do aparelho, aviso de atualização e opção de apagar.",
         "Com o mapa baixado, a tela de navegação 3D funciona sem internet: ruas, nomes e ícones vêm do pacote do aparelho. \"Usar só mapas baixados\" desliga o mapa on-line; sem internet eles entram sozinhos.",
         "Primeiro estado disponível: São Paulo. Os demais entram aos poucos."
-      ]
-    },
-    {
-      "versao": "0.8.2",
-      "data": "28/10/2026",
-      "itens": [
-        "Abertura refeita de novo: primeiro o mapa se monta visto de cima e o percurso se desenha; a seta (pequena, dentro do mapa) aparece no ponto de partida; a câmera desce, cola na seta, segue a curva da rota e chega ao destino; o pino surge e a câmera sobe até o ícone. Sem a entrada pelas esquinas e sem o ponto grande de partida."
       ]
     }
   ]
