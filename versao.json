@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.2",
-  "codigo": 12,
+  "versao": "0.7.3",
+  "codigo": 13,
   "data": "28/10/2026",
-  "tamanho": 193405159,
-  "sha256": "a64a317aa8a97c4695c03ab4db008774bd981a05a09a3b6f92e33d5f78b6802b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.2/MapaFullRamos-0.7.2.apk",
+  "tamanho": 193405131,
+  "sha256": "265eb6023a85a00009b1e156f8933610d7cda3e5c0b39a492446f59ed8096cfe",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.3/MapaFullRamos-0.7.3.apk",
   "notas": [
-    "Trocar entre o mapa completo e a navegação 3D vai direto: a tela com o ícone aparece só ao abrir o aplicativo."
+    "A animação de abertura usa sempre as cores do ícone do aplicativo; a cor de destaque das Configurações não muda mais a abertura."
   ],
   "versoes": [
+    {
+      "versao": "0.7.3",
+      "data": "28/10/2026",
+      "itens": [
+        "A animação de abertura usa sempre as cores do ícone do aplicativo; a cor de destaque das Configurações não muda mais a abertura."
+      ]
+    },
     {
       "versao": "0.7.2",
       "data": "28/10/2026",
