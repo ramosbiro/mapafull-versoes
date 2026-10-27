@@ -1,0 +1,81 @@
+{
+  "nome": "MapaFull Ramos",
+  "versao": "0.7.0",
+  "codigo": 10,
+  "data": "28/10/2026",
+  "tamanho": 193403539,
+  "sha256": "1ba0461c57c2ea0bff9cd8d474e16bd829c0ed5f3290e323cf3ecfb8b948b195",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.0/MapaFullRamos-0.7.0.apk",
+  "notas": [
+    "Atualização pelo próprio aplicativo: ao abrir, ele confere se há versão nova e mostra a versão instalada, a nova e o que mudou.",
+    "Atualizar baixa a versão nova com barra de progresso; terminado o download, a barra fica verde e o botão vira Instalar.",
+    "Em Configurações > Aplicativo, o botão Procurar atualização confere na hora."
+  ],
+  "versoes": [
+    {
+      "versao": "0.7.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Atualização pelo próprio aplicativo: ao abrir, ele confere se há versão nova e mostra a versão instalada, a nova e o que mudou.",
+        "Atualizar baixa a versão nova com barra de progresso; terminado o download, a barra fica verde e o botão vira Instalar.",
+        "Em Configurações > Aplicativo, o botão Procurar atualização confere na hora."
+      ]
+    },
+    {
+      "versao": "0.6.2",
+      "data": "28/10/2026",
+      "itens": [
+        "O tema claro/escuro não troca mais o fundo do mapa completo: ele segue o botão Dia/Noite do próprio mapa."
+      ]
+    },
+    {
+      "versao": "0.6.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Mapa completo: Configurações agora é a última opção do menu Ferramentas."
+      ]
+    },
+    {
+      "versao": "0.6.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Tela 3D com os botões Unidades e Camadas, com todas as opções do mapa completo: Polícia Militar e as frentes, Polícia Civil, Polícia Científica, órgãos, saúde (CNES), escolas, transporte, comércio... e as áreas (PM, Bombeiros, Ambiental, Trânsito, Rodoviária, Delegacias, municípios), rodovias, radares, ciclovias, metrô e trens, ônibus, áreas de risco e o mapa de calor da análise criminal.",
+        "Unidades com os mesmos ícones e cores do mapa completo; toque num ícone para ver os dados e ir até lá."
+      ]
+    },
+    {
+      "versao": "0.5.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Abertura sem travar: o mapa só começa a ser montado quando a animação termina; a imagem final fica com o radar pulsando até o mapa aparecer. Sem barra nem texto de carregando."
+      ]
+    },
+    {
+      "versao": "0.5.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Novo nome: MapaFull Ramos, com ícone próprio (mapa dobrado, rota e pino) na tela do celular, no menu e nas Configurações.",
+        "Abertura animada ao abrir o app: as partículas montam o ícone em 3D, a rota corre, o pino cai com o radar e o nome aparece (2 s; um toque pula)."
+      ]
+    },
+    {
+      "versao": "0.4.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Tela de navegação com o mesmo visual do mapa completo: mesma fonte, mesmos cartões e a mesma cor de destaque.",
+        "Configurações (também no card Ferramentas do mapa completo): tema claro, escuro ou automático e a cor de destaque -- tudo o que era vermelho passa a usar a cor escolhida.",
+        "Navegação livre: sem destino, mostra a rua, a velocidade, o limite da via e os radares à frente."
+      ]
+    },
+    {
+      "versao": "0.3.0",
+      "data": "27/10/2026",
+      "itens": [
+        "Tela de navegação: Casa, Trabalho, Favoritos, busca, rua e cidade embaixo, menu e configurações.",
+        "A área em que você está (batalhão, companhia, DP) também durante a navegação.",
+        "Ajuda por perto: hospitais, pronto-socorros, SAMU, PM, delegacias e bombeiros mais próximos.",
+        "Claro de dia e escuro à noite, automático pelo sol."
+      ]
+    }
+  ]
+}
