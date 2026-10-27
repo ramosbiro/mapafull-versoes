@@ -1,15 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.8.2",
-  "codigo": 20,
+  "versao": "0.9.0",
+  "codigo": 21,
   "data": "28/10/2026",
-  "tamanho": 194203194,
-  "sha256": "c7c7f5480ee94d6c2f59e6f609fd3180b73709566a3135c87978d87db7f92f36",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.8.2/MapaFullRamos-0.8.2.apk",
+  "tamanho": 194790445,
+  "sha256": "cfd97af8b0f6691a66555c70e1a516d01f70ae07a5fa2282b62048d9c8620c6e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.0/MapaFullRamos-0.9.0.apk",
   "notas": [
-    "Abertura refeita de novo: primeiro o mapa se monta visto de cima e o percurso se desenha; a seta (pequena, dentro do mapa) aparece no ponto de partida; a câmera desce, cola na seta, segue a curva da rota e chega ao destino; o pino surge e a câmera sobe até o ícone. Sem a entrada pelas esquinas e sem o ponto grande de partida."
+    "Mapas offline: no menu e nas Configurações, baixe o mapa por país, região e estado (Brasil > regiões > estados), com barra de progresso, tamanho de cada um, espaço livre do aparelho, aviso de atualização e opção de apagar.",
+    "Com o mapa baixado, a tela de navegação 3D funciona sem internet: ruas, nomes e ícones vêm do pacote do aparelho. \"Usar só mapas baixados\" desliga o mapa on-line; sem internet eles entram sozinhos.",
+    "Primeiro estado disponível: São Paulo. Os demais entram aos poucos."
   ],
   "versoes": [
+    {
+      "versao": "0.9.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Mapas offline: no menu e nas Configurações, baixe o mapa por país, região e estado (Brasil > regiões > estados), com barra de progresso, tamanho de cada um, espaço livre do aparelho, aviso de atualização e opção de apagar.",
+        "Com o mapa baixado, a tela de navegação 3D funciona sem internet: ruas, nomes e ícones vêm do pacote do aparelho. \"Usar só mapas baixados\" desliga o mapa on-line; sem internet eles entram sozinhos.",
+        "Primeiro estado disponível: São Paulo. Os demais entram aos poucos."
+      ]
+    },
     {
       "versao": "0.8.2",
       "data": "28/10/2026",
@@ -92,13 +103,6 @@
         "Atualização pelo próprio aplicativo: ao abrir, ele confere se há versão nova e mostra a versão instalada, a nova e o que mudou.",
         "Atualizar baixa a versão nova com barra de progresso; terminado o download, a barra fica verde e o botão vira Instalar.",
         "Em Configurações > Aplicativo, o botão Procurar atualização confere na hora."
-      ]
-    },
-    {
-      "versao": "0.6.2",
-      "data": "28/10/2026",
-      "itens": [
-        "O tema claro/escuro não troca mais o fundo do mapa completo: ele segue o botão Dia/Noite do próprio mapa."
       ]
     }
   ]
