@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.5",
-  "codigo": 15,
+  "versao": "0.7.6",
+  "codigo": 16,
   "data": "28/10/2026",
-  "tamanho": 193406667,
-  "sha256": "d9861b9c1c6b1d9c83fec0bd59531af982038c3d8201b2105c8a441732960103",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.5/MapaFullRamos-0.7.5.apk",
+  "tamanho": 193407855,
+  "sha256": "0893e176dae9a197eb6a00f53e210ac4445b9460f68e351c307c73eb3a807c9b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.6/MapaFullRamos-0.7.6.apk",
   "notas": [
-    "Com o aplicativo aberto, a versão nova também aparece: ele confere a cada 5 minutos e ao voltar para a tela. Durante uma navegação com rota, o aviso espera a rota terminar."
+    "Configurações > Aplicativo: o estado da atualização virou um cartão. Verde quando você está na versão mais recente; vermelho quando há versão nova, com as correções e o botão para atualizar. Ele confere sozinho ao abrir as Configurações."
   ],
   "versoes": [
+    {
+      "versao": "0.7.6",
+      "data": "28/10/2026",
+      "itens": [
+        "Configurações > Aplicativo: o estado da atualização virou um cartão. Verde quando você está na versão mais recente; vermelho quando há versão nova, com as correções e o botão para atualizar. Ele confere sozinho ao abrir as Configurações."
+      ]
+    },
     {
       "versao": "0.7.5",
       "data": "28/10/2026",
@@ -92,15 +99,6 @@
       "itens": [
         "Novo nome: MapaFull Ramos, com ícone próprio (mapa dobrado, rota e pino) na tela do celular, no menu e nas Configurações.",
         "Abertura animada ao abrir o app: as partículas montam o ícone em 3D, a rota corre, o pino cai com o radar e o nome aparece (2 s; um toque pula)."
-      ]
-    },
-    {
-      "versao": "0.4.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Tela de navegação com o mesmo visual do mapa completo: mesma fonte, mesmos cartões e a mesma cor de destaque.",
-        "Configurações (também no card Ferramentas do mapa completo): tema claro, escuro ou automático e a cor de destaque -- tudo o que era vermelho passa a usar a cor escolhida.",
-        "Navegação livre: sem destino, mostra a rua, a velocidade, o limite da via e os radares à frente."
       ]
     }
   ]
