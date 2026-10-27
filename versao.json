@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.6",
-  "codigo": 27,
+  "versao": "0.9.7",
+  "codigo": 28,
   "data": "28/10/2026",
-  "tamanho": 194715837,
-  "sha256": "7b3b6e72fb17337f31bba372efa79610de3220078d8e7dd1e76597fd16eea315",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.6/MapaFullRamos-0.9.6.apk",
+  "tamanho": 194716357,
+  "sha256": "6f2f0274eb0aaa1e3c2752ab17f49bb052bedd8aeb220de9b4f6818f2873c06b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.7/MapaFullRamos-0.9.7.apk",
   "notas": [
-    "Mapa completo: ao abrir Ferramentas aparece direto uma lista compacta com todas as opções (Unidades, Camadas, Minha localização, Dash, Navegação 3D, Imprimir, backups, Maximizar, Tela cheia, Resetar, Ocultar ferramentas e Configurações), no padrão do aplicativo. Sem o ⋮ e sem o menu solto; tocar numa opção recolhe o card."
+    "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
   ],
   "versoes": [
+    {
+      "versao": "0.9.7",
+      "data": "28/10/2026",
+      "itens": [
+        "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
+      ]
+    },
     {
       "versao": "0.9.6",
       "data": "28/10/2026",
@@ -92,13 +99,6 @@
       "data": "28/10/2026",
       "itens": [
         "Nova animação de abertura: as partículas formam o mapa, os contornos são soldados com faíscas, a seta de navegação entra e percorre a rota até o destino, o pino surge com uma onda de choque e o nome aparece. Sem o ponto branco enorme e sem o radar pulsando no fim."
-      ]
-    },
-    {
-      "versao": "0.7.6",
-      "data": "28/10/2026",
-      "itens": [
-        "Configurações > Aplicativo: o estado da atualização virou um cartão. Verde quando você está na versão mais recente; vermelho quando há versão nova, com as correções e o botão para atualizar. Ele confere sozinho ao abrir as Configurações."
       ]
     }
   ]
