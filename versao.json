@@ -1,16 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.2",
-  "codigo": 23,
+  "versao": "0.9.3",
+  "codigo": 24,
   "data": "28/10/2026",
-  "tamanho": 194791953,
-  "sha256": "1b44608c09ddbbae56e2b8ad287f0fbd8d1c46b4cbc52821e30c5b9d4311a2d8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.2/MapaFullRamos-0.9.2.apk",
+  "tamanho": 194777341,
+  "sha256": "09ac8c00afb121e71b1f12f19689faa6d3ef83a8b03f13d02d3c3d3d1889c093",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.3/MapaFullRamos-0.9.3.apk",
   "notas": [
-    "Abertura: título refeito, sem o brilho atrás das letras. \"MapaFull\" forte e \"Ramos\" fino entram letra a letra saindo do desfoque, uma linha fina se abre embaixo e aparecem o subtítulo (Mapa operacional · Navegação 3D · Offline) e a versão.",
-    "Mapas offline: os 27 estados do Brasil disponíveis (Sul, Sudeste, Centro-Oeste, Nordeste e Norte), com Fernando de Noronha em Pernambuco."
+    "O pino ficou inteiro vermelho, sem o ponto branco no meio: na animação de abertura e no ícone do aplicativo."
   ],
   "versoes": [
+    {
+      "versao": "0.9.3",
+      "data": "28/10/2026",
+      "itens": [
+        "O pino ficou inteiro vermelho, sem o ponto branco no meio: na animação de abertura e no ícone do aplicativo."
+      ]
+    },
     {
       "versao": "0.9.2",
       "data": "28/10/2026",
@@ -95,13 +101,6 @@
       "data": "28/10/2026",
       "itens": [
         "A animação de abertura usa sempre as cores do ícone do aplicativo; a cor de destaque das Configurações não muda mais a abertura."
-      ]
-    },
-    {
-      "versao": "0.7.2",
-      "data": "28/10/2026",
-      "itens": [
-        "Trocar entre o mapa completo e a navegação 3D vai direto: a tela com o ícone aparece só ao abrir o aplicativo."
       ]
     }
   ]
