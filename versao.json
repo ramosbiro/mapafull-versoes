@@ -1,16 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.1",
-  "codigo": 11,
+  "versao": "0.7.2",
+  "codigo": 12,
   "data": "28/10/2026",
-  "tamanho": 193404719,
-  "sha256": "db76b6f0eefa79a0396141c2a984cdfbaac1fbd56f12fd66ab7be8894ec6b062",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.1/MapaFullRamos-0.7.1.apk",
+  "tamanho": 193405159,
+  "sha256": "a64a317aa8a97c4695c03ab4db008774bd981a05a09a3b6f92e33d5f78b6802b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.2/MapaFullRamos-0.7.2.apk",
   "notas": [
-    "Atualização mais segura: antes de instalar, o app confere que o arquivo baixado é o próprio MapaFull Ramos, com a mesma assinatura e uma versão mais nova.",
-    "A procura por versão nova funciona também em redes que bloqueiam o endereço de arquivos do GitHub."
+    "Trocar entre o mapa completo e a navegação 3D vai direto: a tela com o ícone aparece só ao abrir o aplicativo."
   ],
   "versoes": [
+    {
+      "versao": "0.7.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Trocar entre o mapa completo e a navegação 3D vai direto: a tela com o ícone aparece só ao abrir o aplicativo."
+      ]
+    },
     {
       "versao": "0.7.1",
       "data": "28/10/2026",
