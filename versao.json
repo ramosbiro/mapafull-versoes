@@ -1,17 +1,24 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.0",
-  "codigo": 10,
+  "versao": "0.7.1",
+  "codigo": 11,
   "data": "28/10/2026",
-  "tamanho": 193403539,
-  "sha256": "1ba0461c57c2ea0bff9cd8d474e16bd829c0ed5f3290e323cf3ecfb8b948b195",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.0/MapaFullRamos-0.7.0.apk",
+  "tamanho": 193404719,
+  "sha256": "db76b6f0eefa79a0396141c2a984cdfbaac1fbd56f12fd66ab7be8894ec6b062",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.1/MapaFullRamos-0.7.1.apk",
   "notas": [
-    "Atualização pelo próprio aplicativo: ao abrir, ele confere se há versão nova e mostra a versão instalada, a nova e o que mudou.",
-    "Atualizar baixa a versão nova com barra de progresso; terminado o download, a barra fica verde e o botão vira Instalar.",
-    "Em Configurações > Aplicativo, o botão Procurar atualização confere na hora."
+    "Atualização mais segura: antes de instalar, o app confere que o arquivo baixado é o próprio MapaFull Ramos, com a mesma assinatura e uma versão mais nova.",
+    "A procura por versão nova funciona também em redes que bloqueiam o endereço de arquivos do GitHub."
   ],
   "versoes": [
+    {
+      "versao": "0.7.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Atualização mais segura: antes de instalar, o app confere que o arquivo baixado é o próprio MapaFull Ramos, com a mesma assinatura e uma versão mais nova.",
+        "A procura por versão nova funciona também em redes que bloqueiam o endereço de arquivos do GitHub."
+      ]
+    },
     {
       "versao": "0.7.0",
       "data": "28/10/2026",
