@@ -1,17 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.0",
-  "codigo": 21,
+  "versao": "0.9.1",
+  "codigo": 22,
   "data": "28/10/2026",
-  "tamanho": 194790445,
-  "sha256": "cfd97af8b0f6691a66555c70e1a516d01f70ae07a5fa2282b62048d9c8620c6e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.0/MapaFullRamos-0.9.0.apk",
+  "tamanho": 194790665,
+  "sha256": "72b2055f6ee9658cf0a353d0a114ad96ab4e0c266afa4ca86530b9cb91a78604",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.1/MapaFullRamos-0.9.1.apk",
   "notas": [
-    "Mapas offline: no menu e nas Configurações, baixe o mapa por país, região e estado (Brasil > regiões > estados), com barra de progresso, tamanho de cada um, espaço livre do aparelho, aviso de atualização e opção de apagar.",
-    "Com o mapa baixado, a tela de navegação 3D funciona sem internet: ruas, nomes e ícones vêm do pacote do aparelho. \"Usar só mapas baixados\" desliga o mapa on-line; sem internet eles entram sozinhos.",
-    "Primeiro estado disponível: São Paulo. Os demais entram aos poucos."
+    "Mapas offline: Rio de Janeiro, Minas Gerais e Espírito Santo disponíveis, além de São Paulo (todo o Sudeste).",
+    "São Paulo refeito com o litoral completo (o primeiro pacote cortava parte da costa); quem já baixou recebe o aviso de atualização.",
+    "O aviso de mapa novo agora compara também a assinatura do arquivo, para nenhuma atualização passar despercebida."
   ],
   "versoes": [
+    {
+      "versao": "0.9.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Mapas offline: Rio de Janeiro, Minas Gerais e Espírito Santo disponíveis, além de São Paulo (todo o Sudeste).",
+        "São Paulo refeito com o litoral completo (o primeiro pacote cortava parte da costa); quem já baixou recebe o aviso de atualização.",
+        "O aviso de mapa novo agora compara também a assinatura do arquivo, para nenhuma atualização passar despercebida."
+      ]
+    },
     {
       "versao": "0.9.0",
       "data": "28/10/2026",
@@ -94,15 +103,6 @@
       "itens": [
         "Atualização mais segura: antes de instalar, o app confere que o arquivo baixado é o próprio MapaFull Ramos, com a mesma assinatura e uma versão mais nova.",
         "A procura por versão nova funciona também em redes que bloqueiam o endereço de arquivos do GitHub."
-      ]
-    },
-    {
-      "versao": "0.7.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Atualização pelo próprio aplicativo: ao abrir, ele confere se há versão nova e mostra a versão instalada, a nova e o que mudou.",
-        "Atualizar baixa a versão nova com barra de progresso; terminado o download, a barra fica verde e o botão vira Instalar.",
-        "Em Configurações > Aplicativo, o botão Procurar atualização confere na hora."
       ]
     }
   ]
