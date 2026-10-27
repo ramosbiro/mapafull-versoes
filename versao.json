@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.3",
-  "codigo": 24,
+  "versao": "0.9.4",
+  "codigo": 25,
   "data": "28/10/2026",
-  "tamanho": 194777341,
-  "sha256": "09ac8c00afb121e71b1f12f19689faa6d3ef83a8b03f13d02d3c3d3d1889c093",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.3/MapaFullRamos-0.9.3.apk",
+  "tamanho": 194709481,
+  "sha256": "a9d69c64588a816ac28de017c952f0a35b2e956724510bf6ebb0392a5f529274",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.4/MapaFullRamos-0.9.4.apk",
   "notas": [
-    "O pino ficou inteiro vermelho, sem o ponto branco no meio: na animação de abertura e no ícone do aplicativo."
+    "A gota vermelha (pino de destino) ficou pequena e dentro do mapa, no fim da rota: no ícone do aplicativo e na animação de abertura. O desenho do ícone ficou centralizado."
   ],
   "versoes": [
+    {
+      "versao": "0.9.4",
+      "data": "28/10/2026",
+      "itens": [
+        "A gota vermelha (pino de destino) ficou pequena e dentro do mapa, no fim da rota: no ícone do aplicativo e na animação de abertura. O desenho do ícone ficou centralizado."
+      ]
+    },
     {
       "versao": "0.9.3",
       "data": "28/10/2026",
@@ -94,13 +101,6 @@
         "Mapa completo: a barra de zoom foi para dentro do botão de ajustes (o mesmo das barras de opacidade), que agora tem o mesmo formato e cantos dos botões Pesquisar e Ferramentas.",
         "Sobre o mapa: o conteúdo continua todo, agora com a marca MapaFull Ramos e o desenvolvedor Leandro Ramos, sem as menções à coordenação.",
         "Cor de destaque: \"Vermelho CoordOp\" passa a se chamar \"Vermelho padrão\"."
-      ]
-    },
-    {
-      "versao": "0.7.3",
-      "data": "28/10/2026",
-      "itens": [
-        "A animação de abertura usa sempre as cores do ícone do aplicativo; a cor de destaque das Configurações não muda mais a abertura."
       ]
     }
   ]
