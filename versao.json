@@ -1,16 +1,28 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.1",
-  "codigo": 32,
+  "versao": "0.10.2",
+  "codigo": 33,
   "data": "28/10/2026",
-  "tamanho": 194729597,
-  "sha256": "fe9ad2f4a41e3a2991315666490ae210aed5c5f11f12cb6405f357c855fc3834",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.1/MapaFullRamos-0.10.1.apk",
+  "tamanho": 194731373,
+  "sha256": "c0cf4c4a3684dd59461763079a3497f3dc7eb89c3397420e5281cf94d8273b7a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.2/MapaFullRamos-0.10.2.apk",
   "notas": [
-    "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
-    "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
+    "Cartão do local no lugar das pílulas: o endereço em destaque e, embaixo, a cidade e a área. Aparece quando a rua ou a área mudam e some sozinho; tocar abre a ficha do local onde você está.",
+    "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
+    "Gestos no mapa 3D: pinça aproxima e afasta, dois dedos para cima ou para baixo deitam ou levantam o mapa (até o limite 3D ou 2D) e a câmera continua seguindo com o ajuste; girar ou arrastar soltam a câmera e \"Seguir\" retoma (tocar de novo volta ao zoom automático).",
+    "Navegação mais fluida: a câmera acompanha a posição quadro a quadro, sem os saltos a cada leitura do GPS."
   ],
   "versoes": [
+    {
+      "versao": "0.10.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Cartão do local no lugar das pílulas: o endereço em destaque e, embaixo, a cidade e a área. Aparece quando a rua ou a área mudam e some sozinho; tocar abre a ficha do local onde você está.",
+        "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
+        "Gestos no mapa 3D: pinça aproxima e afasta, dois dedos para cima ou para baixo deitam ou levantam o mapa (até o limite 3D ou 2D) e a câmera continua seguindo com o ajuste; girar ou arrastar soltam a câmera e \"Seguir\" retoma (tocar de novo volta ao zoom automático).",
+        "Navegação mais fluida: a câmera acompanha a posição quadro a quadro, sem os saltos a cada leitura do GPS."
+      ]
+    },
     {
       "versao": "0.10.1",
       "data": "28/10/2026",
@@ -98,15 +110,6 @@
         "Mapas offline: Rio de Janeiro, Minas Gerais e Espírito Santo disponíveis, além de São Paulo (todo o Sudeste).",
         "São Paulo refeito com o litoral completo (o primeiro pacote cortava parte da costa); quem já baixou recebe o aviso de atualização.",
         "O aviso de mapa novo agora compara também a assinatura do arquivo, para nenhuma atualização passar despercebida."
-      ]
-    },
-    {
-      "versao": "0.9.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Mapas offline: no menu e nas Configurações, baixe o mapa por país, região e estado (Brasil > regiões > estados), com barra de progresso, tamanho de cada um, espaço livre do aparelho, aviso de atualização e opção de apagar.",
-        "Com o mapa baixado, a tela de navegação 3D funciona sem internet: ruas, nomes e ícones vêm do pacote do aparelho. \"Usar só mapas baixados\" desliga o mapa on-line; sem internet eles entram sozinhos.",
-        "Primeiro estado disponível: São Paulo. Os demais entram aos poucos."
       ]
     }
   ]
