@@ -1,15 +1,24 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.7",
-  "codigo": 28,
+  "versao": "0.9.8",
+  "codigo": 29,
   "data": "28/10/2026",
-  "tamanho": 194716357,
-  "sha256": "6f2f0274eb0aaa1e3c2752ab17f49bb052bedd8aeb220de9b4f6818f2873c06b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.7/MapaFullRamos-0.9.7.apk",
+  "tamanho": 194717169,
+  "sha256": "3a205a1dd46349839b179cd89839efc2d56b9bcb9976a423ea5ea93412276a32",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.8/MapaFullRamos-0.9.8.apk",
   "notas": [
-    "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
+    "O aplicativo abre com tudo desligado, no mapa completo e na tela 3D: sem áreas (shapes), camadas, unidades ou locais ligados. Você liga só o que precisar, e o mapa carrega mais rápido.",
+    "Durante o uso, o que você ligar continua ligado ao trocar entre o mapa completo e a navegação 3D; ao abrir o aplicativo de novo, começa desligado. A posição do mapa, o dia/noite, as cores e a ordem dos cards são mantidos."
   ],
   "versoes": [
+    {
+      "versao": "0.9.8",
+      "data": "28/10/2026",
+      "itens": [
+        "O aplicativo abre com tudo desligado, no mapa completo e na tela 3D: sem áreas (shapes), camadas, unidades ou locais ligados. Você liga só o que precisar, e o mapa carrega mais rápido.",
+        "Durante o uso, o que você ligar continua ligado ao trocar entre o mapa completo e a navegação 3D; ao abrir o aplicativo de novo, começa desligado. A posição do mapa, o dia/noite, as cores e a ordem dos cards são mantidos."
+      ]
+    },
     {
       "versao": "0.9.7",
       "data": "28/10/2026",
@@ -92,13 +101,6 @@
         "Configurações > Evitar na rota: pedágios, estradas sem pavimentação, favelas e comunidades, balsas e rodovias. Vale na navegação 3D e na aba Rota do mapa completo; a rota é recalculada até não passar por dentro de nenhuma favela ou comunidade (polígonos oficiais do IBGE 2022) e um aviso mostra o que foi evitado.",
         "Área de risco: novo card em Áreas de interesse no mapa completo e novo grupo nas Camadas da tela 3D, com as favelas e comunidades urbanas do Estado (IBGE 2022) e as áreas de risco (SGB e GeoSampa). Tocar numa área mostra o nome.",
         "Abertura: o miolo branco do pino ficou bem menor."
-      ]
-    },
-    {
-      "versao": "0.7.7",
-      "data": "28/10/2026",
-      "itens": [
-        "Nova animação de abertura: as partículas formam o mapa, os contornos são soldados com faíscas, a seta de navegação entra e percorre a rota até o destino, o pino surge com uma onda de choque e o nome aparece. Sem o ponto branco enorme e sem o radar pulsando no fim."
       ]
     }
   ]
