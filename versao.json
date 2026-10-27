@@ -1,20 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.9.9",
-  "codigo": 30,
+  "versao": "0.10.0",
+  "codigo": 31,
   "data": "28/10/2026",
-  "tamanho": 194722165,
-  "sha256": "75ed90d7c42abb65c8aa8a6c54193e28a8e578509071bbc0609fdd8e1665e506",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.9.9/MapaFullRamos-0.9.9.apk",
+  "tamanho": 194726229,
+  "sha256": "6494f8b87c86addc8c9ce187b2555584f5310fae00305baae2c1457705ad5a48",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.0/MapaFullRamos-0.10.0.apk",
   "notas": [
-    "O aplicativo abre direto na navegação livre (tela 3D), com todas as ferramentas na tela: menu, Unidades, Camadas, Casa, Trabalho, Favoritos e busca. A câmera segue a sua posição e direção; ao mexer no mapa ela para, e \"Seguir\" retoma.",
-    "Sem a barra de baixo: velocímetro novo em anel, flutuante, com a placa do limite da via. Tocar nele abre as opções (voz, radares, excesso de velocidade, tolerância, INMET), no padrão do aplicativo.",
-    "Rota: cartão da manobra em cima e uma pílula compacta com chegada, tempo e distância, encerrar e opções. A escolha da rota ganhou \"Cancelar\" e nada mais fica por cima dela. Deitado, ocupa só a lateral.",
-    "Radares no mapa: com \"Radares\" ligado, os radares aparecem como ícones durante a navegação.",
-    "Mapa completo: Dia/Noite ganhou \"Automático\" (pelo nascer e pôr do sol) no card Mapa das Camadas.",
-    "Correção: com \"Usar só mapas baixados\", o mapa ficava em branco no celular (a leitura do pacote voltava sempre ao começo do arquivo). Agora ele aparece completo."
+    "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
+    "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
+    "Correção: ao abrir, a câmera às vezes não seguia a sua posição."
   ],
   "versoes": [
+    {
+      "versao": "0.10.0",
+      "data": "28/10/2026",
+      "itens": [
+        "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
+        "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
+        "Correção: ao abrir, a câmera às vezes não seguia a sua posição."
+      ]
+    },
     {
       "versao": "0.9.9",
       "data": "28/10/2026",
@@ -101,13 +107,6 @@
       "data": "28/10/2026",
       "itens": [
         "Abertura refeita de novo: primeiro o mapa se monta visto de cima e o percurso se desenha; a seta (pequena, dentro do mapa) aparece no ponto de partida; a câmera desce, cola na seta, segue a curva da rota e chega ao destino; o pino surge e a câmera sobe até o ícone. Sem a entrada pelas esquinas e sem o ponto grande de partida."
-      ]
-    },
-    {
-      "versao": "0.8.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Abertura com jogada de câmera: a câmera mergulha até a seta de navegação, que chega virando esquinas pela grade; segue a seta rente ao mapa pela rota enquanto o mapa se monta em volta; na chegada o pino se levanta à frente e a câmera sobe em arco até o ícone."
       ]
     }
   ]
