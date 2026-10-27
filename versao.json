@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.6",
-  "codigo": 16,
+  "versao": "0.7.7",
+  "codigo": 17,
   "data": "28/10/2026",
-  "tamanho": 193407855,
-  "sha256": "0893e176dae9a197eb6a00f53e210ac4445b9460f68e351c307c73eb3a807c9b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.6/MapaFullRamos-0.7.6.apk",
+  "tamanho": 193409099,
+  "sha256": "4da7e06904a48bb0b18af853427e28c0dc1dd02371cdb58c508ccfc8b341c88d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.7/MapaFullRamos-0.7.7.apk",
   "notas": [
-    "Configurações > Aplicativo: o estado da atualização virou um cartão. Verde quando você está na versão mais recente; vermelho quando há versão nova, com as correções e o botão para atualizar. Ele confere sozinho ao abrir as Configurações."
+    "Nova animação de abertura: as partículas formam o mapa, os contornos são soldados com faíscas, a seta de navegação entra e percorre a rota até o destino, o pino surge com uma onda de choque e o nome aparece. Sem o ponto branco enorme e sem o radar pulsando no fim."
   ],
   "versoes": [
+    {
+      "versao": "0.7.7",
+      "data": "28/10/2026",
+      "itens": [
+        "Nova animação de abertura: as partículas formam o mapa, os contornos são soldados com faíscas, a seta de navegação entra e percorre a rota até o destino, o pino surge com uma onda de choque e o nome aparece. Sem o ponto branco enorme e sem o radar pulsando no fim."
+      ]
+    },
     {
       "versao": "0.7.6",
       "data": "28/10/2026",
@@ -91,14 +98,6 @@
       "data": "28/10/2026",
       "itens": [
         "Abertura sem travar: o mapa só começa a ser montado quando a animação termina; a imagem final fica com o radar pulsando até o mapa aparecer. Sem barra nem texto de carregando."
-      ]
-    },
-    {
-      "versao": "0.5.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Novo nome: MapaFull Ramos, com ícone próprio (mapa dobrado, rota e pino) na tela do celular, no menu e nas Configurações.",
-        "Abertura animada ao abrir o app: as partículas montam o ícone em 3D, a rota corre, o pino cai com o radar e o nome aparece (2 s; um toque pula)."
       ]
     }
   ]
