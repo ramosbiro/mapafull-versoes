@@ -1,15 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.3",
-  "codigo": 13,
+  "versao": "0.7.4",
+  "codigo": 14,
   "data": "28/10/2026",
-  "tamanho": 193405131,
-  "sha256": "265eb6023a85a00009b1e156f8933610d7cda3e5c0b39a492446f59ed8096cfe",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.3/MapaFullRamos-0.7.3.apk",
+  "tamanho": 193406427,
+  "sha256": "20c09b79ade966660b022af69699dc3302f3f04ce7102682ef56eb9c11d49b13",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.4/MapaFullRamos-0.7.4.apk",
   "notas": [
-    "A animação de abertura usa sempre as cores do ícone do aplicativo; a cor de destaque das Configurações não muda mais a abertura."
+    "Mapa completo: a barra de zoom foi para dentro do botão de ajustes (o mesmo das barras de opacidade), que agora tem o mesmo formato e cantos dos botões Pesquisar e Ferramentas.",
+    "Sobre o mapa: o conteúdo continua todo, agora com a marca MapaFull Ramos e o desenvolvedor Leandro Ramos, sem as menções à coordenação.",
+    "Cor de destaque: \"Vermelho CoordOp\" passa a se chamar \"Vermelho padrão\"."
   ],
   "versoes": [
+    {
+      "versao": "0.7.4",
+      "data": "28/10/2026",
+      "itens": [
+        "Mapa completo: a barra de zoom foi para dentro do botão de ajustes (o mesmo das barras de opacidade), que agora tem o mesmo formato e cantos dos botões Pesquisar e Ferramentas.",
+        "Sobre o mapa: o conteúdo continua todo, agora com a marca MapaFull Ramos e o desenvolvedor Leandro Ramos, sem as menções à coordenação.",
+        "Cor de destaque: \"Vermelho CoordOp\" passa a se chamar \"Vermelho padrão\"."
+      ]
+    },
     {
       "versao": "0.7.3",
       "data": "28/10/2026",
