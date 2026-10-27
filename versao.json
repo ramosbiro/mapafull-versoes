@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.8.1",
-  "codigo": 19,
+  "versao": "0.8.2",
+  "codigo": 20,
   "data": "28/10/2026",
-  "tamanho": 194203246,
-  "sha256": "a017c9e73e914df765b84c786642a58a56fed4105d368d7371de2bf30e55b138",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.8.1/MapaFullRamos-0.8.1.apk",
+  "tamanho": 194203194,
+  "sha256": "c7c7f5480ee94d6c2f59e6f609fd3180b73709566a3135c87978d87db7f92f36",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.8.2/MapaFullRamos-0.8.2.apk",
   "notas": [
-    "Abertura com jogada de câmera: a câmera mergulha até a seta de navegação, que chega virando esquinas pela grade; segue a seta rente ao mapa pela rota enquanto o mapa se monta em volta; na chegada o pino se levanta à frente e a câmera sobe em arco até o ícone."
+    "Abertura refeita de novo: primeiro o mapa se monta visto de cima e o percurso se desenha; a seta (pequena, dentro do mapa) aparece no ponto de partida; a câmera desce, cola na seta, segue a curva da rota e chega ao destino; o pino surge e a câmera sobe até o ícone. Sem a entrada pelas esquinas e sem o ponto grande de partida."
   ],
   "versoes": [
+    {
+      "versao": "0.8.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Abertura refeita de novo: primeiro o mapa se monta visto de cima e o percurso se desenha; a seta (pequena, dentro do mapa) aparece no ponto de partida; a câmera desce, cola na seta, segue a curva da rota e chega ao destino; o pino surge e a câmera sobe até o ícone. Sem a entrada pelas esquinas e sem o ponto grande de partida."
+      ]
+    },
     {
       "versao": "0.8.1",
       "data": "28/10/2026",
@@ -92,13 +99,6 @@
       "data": "28/10/2026",
       "itens": [
         "O tema claro/escuro não troca mais o fundo do mapa completo: ele segue o botão Dia/Noite do próprio mapa."
-      ]
-    },
-    {
-      "versao": "0.6.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Mapa completo: Configurações agora é a última opção do menu Ferramentas."
       ]
     }
   ]
