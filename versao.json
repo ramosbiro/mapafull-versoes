@@ -1,15 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.7.7",
-  "codigo": 17,
+  "versao": "0.8.0",
+  "codigo": 18,
   "data": "28/10/2026",
-  "tamanho": 193409099,
-  "sha256": "4da7e06904a48bb0b18af853427e28c0dc1dd02371cdb58c508ccfc8b341c88d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.7.7/MapaFullRamos-0.7.7.apk",
+  "tamanho": 194202686,
+  "sha256": "453dea60abcb8febc5fa71e356590ac2f7c9ade0bd3d65501a0bbd5306dd268b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.8.0/MapaFullRamos-0.8.0.apk",
   "notas": [
-    "Nova animação de abertura: as partículas formam o mapa, os contornos são soldados com faíscas, a seta de navegação entra e percorre a rota até o destino, o pino surge com uma onda de choque e o nome aparece. Sem o ponto branco enorme e sem o radar pulsando no fim."
+    "Configurações > Evitar na rota: pedágios, estradas sem pavimentação, favelas e comunidades, balsas e rodovias. Vale na navegação 3D e na aba Rota do mapa completo; a rota é recalculada até não passar por dentro de nenhuma favela ou comunidade (polígonos oficiais do IBGE 2022) e um aviso mostra o que foi evitado.",
+    "Área de risco: novo card em Áreas de interesse no mapa completo e novo grupo nas Camadas da tela 3D, com as favelas e comunidades urbanas do Estado (IBGE 2022) e as áreas de risco (SGB e GeoSampa). Tocar numa área mostra o nome.",
+    "Abertura: o miolo branco do pino ficou bem menor."
   ],
   "versoes": [
+    {
+      "versao": "0.8.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Configurações > Evitar na rota: pedágios, estradas sem pavimentação, favelas e comunidades, balsas e rodovias. Vale na navegação 3D e na aba Rota do mapa completo; a rota é recalculada até não passar por dentro de nenhuma favela ou comunidade (polígonos oficiais do IBGE 2022) e um aviso mostra o que foi evitado.",
+        "Área de risco: novo card em Áreas de interesse no mapa completo e novo grupo nas Camadas da tela 3D, com as favelas e comunidades urbanas do Estado (IBGE 2022) e as áreas de risco (SGB e GeoSampa). Tocar numa área mostra o nome.",
+        "Abertura: o miolo branco do pino ficou bem menor."
+      ]
+    },
     {
       "versao": "0.7.7",
       "data": "28/10/2026",
@@ -91,13 +102,6 @@
       "itens": [
         "Tela 3D com os botões Unidades e Camadas, com todas as opções do mapa completo: Polícia Militar e as frentes, Polícia Civil, Polícia Científica, órgãos, saúde (CNES), escolas, transporte, comércio... e as áreas (PM, Bombeiros, Ambiental, Trânsito, Rodoviária, Delegacias, municípios), rodovias, radares, ciclovias, metrô e trens, ônibus, áreas de risco e o mapa de calor da análise criminal.",
         "Unidades com os mesmos ícones e cores do mapa completo; toque num ícone para ver os dados e ir até lá."
-      ]
-    },
-    {
-      "versao": "0.5.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Abertura sem travar: o mapa só começa a ser montado quando a animação termina; a imagem final fica com o radar pulsando até o mapa aparecer. Sem barra nem texto de carregando."
       ]
     }
   ]
