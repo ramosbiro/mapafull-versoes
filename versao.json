@@ -1,17 +1,26 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.12.4",
-  "codigo": 52,
+  "versao": "0.12.5",
+  "codigo": 53,
   "data": "28/10/2026",
-  "tamanho": 196105093,
-  "sha256": "28eb8a322401c98e0fcf8e169ddedc89b18c1f54b6e43859d6b4785d05283081",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.4/Vrumbi-0.12.4.apk",
+  "tamanho": 196106065,
+  "sha256": "d7b3da1da262d997ed333f6aa2792da0748a8ab472169ad11dd2d191c79179ca",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.5/Vrumbi-0.12.5.apk",
   "notas": [
-    "Ícone sempre em cima da via: o GPS do celular erra alguns metros (mais ainda parado ou entre prédios) e o ícone aparecia no meio do quarteirão. Agora ele encaixa na rua mais provável, em todas as vias: de carro, moto ou caminhão nas ruas, avenidas e estradas; a pé ou de bicicleta também em calçadões, ciclovias e caminhos (nunca em trilhos).",
-    "Andando, ele prefere a rua no sentido em que você vai e não pula para a paralela; parado, o ícone não fica \"passeando\". Longe de qualquer rua (praça, estacionamento grande), fica a posição do GPS.",
-    "Celular deitado: Som e Ajustes foram para a linha de cima, ao lado do menu; os botões da esquerda ficam acima de Casa, Trabalho e Favoritos, sem ficar embaixo do relógio, e o velocímetro não cobre mais nada."
+    "Barra de baixo mais limpa: Casa, Trabalho e Favoritos viraram um botão só, Favoritos. Ao tocar, aparecem primeiro os principais (Casa e Trabalho, em destaque) e depois todos os seus favoritos.",
+    "O nome da rua não fica mais embaixo do carro: ele aparece na barra de baixo, entre Favoritos e a busca, sem atrapalhar a visão da via.",
+    "Mais rua à frente: seguindo a sua posição, o ícone fica mais perto da parte de baixo da tela (antes ficava quase no meio), mostrando mais do que vem pela frente e menos do que já passou. O velocímetro fica logo acima da busca."
   ],
   "versoes": [
+    {
+      "versao": "0.12.5",
+      "data": "28/10/2026",
+      "itens": [
+        "Barra de baixo mais limpa: Casa, Trabalho e Favoritos viraram um botão só, Favoritos. Ao tocar, aparecem primeiro os principais (Casa e Trabalho, em destaque) e depois todos os seus favoritos.",
+        "O nome da rua não fica mais embaixo do carro: ele aparece na barra de baixo, entre Favoritos e a busca, sem atrapalhar a visão da via.",
+        "Mais rua à frente: seguindo a sua posição, o ícone fica mais perto da parte de baixo da tela (antes ficava quase no meio), mostrando mais do que vem pela frente e menos do que já passou. O velocímetro fica logo acima da busca."
+      ]
+    },
     {
       "versao": "0.12.4",
       "data": "28/10/2026",
@@ -108,13 +117,6 @@
         "A tela do celular fica sempre acesa com o aplicativo aberto (na tela do carro também).",
         "Cor do ícone vale para todos, inclusive táxi, viaturas, ambulância e bombeiros. Nova cor \"Original\" (paleta colorida) mantém as cores do próprio modelo, com a pintura oficial; ao escolher táxi ou viatura ela já vem marcada.",
         "Ícone da posição: cada grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) em um cartão, e uma busca para digitar o tipo de ícone (táxi, viatura, moto, ônibus...)."
-      ]
-    },
-    {
-      "versao": "0.10.10",
-      "data": "27/10/2026",
-      "itens": [
-        "Aviso de versão nova corrigido de vez: confere sempre ao abrir ou voltar ao aplicativo e, se outra janela estiver na frente (como \"Atualizado para...\"), o aviso aparece logo depois que ela fecha, em vez de se perder."
       ]
     }
   ]
