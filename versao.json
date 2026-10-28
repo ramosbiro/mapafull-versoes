@@ -1,15 +1,24 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.12",
-  "codigo": 43,
-  "data": "27/10/2026",
-  "tamanho": 196280512,
-  "sha256": "aaf118f7809ac05cb4c7ec904d36cdbbf633d2a32999f61a5e674748978b8804",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.12/MapaFullRamos-0.10.12.apk",
+  "versao": "0.10.13",
+  "codigo": 44,
+  "data": "28/10/2026",
+  "tamanho": 196285971,
+  "sha256": "ec023ef331f87f83c8176fdb0fece94c143b79b1d5c4d08ea40ef8e8849883bc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.13/MapaFullRamos-0.10.13.apk",
   "notas": [
-    "Ícone de moto de verdade (rodas, motor, tanque, banco e farol) no Perfil do veículo e na biblioteca de ícones; antes era o desenho de um patinete, que agora fica no Patinete."
+    "Favoritos, Casa, Trabalho e todas as configurações agora são gravados na hora no armazenamento do Android: não se perdem mais se o aparelho fechar o aplicativo logo depois de salvar. E entram no backup automático do Android na sua conta Google.",
+    "Configurações > Meus lugares e backup: veja o que está salvo, salve uma cópia de tudo no Google Drive ou no celular e restaure de uma cópia (também em outro celular)."
   ],
   "versoes": [
+    {
+      "versao": "0.10.13",
+      "data": "28/10/2026",
+      "itens": [
+        "Favoritos, Casa, Trabalho e todas as configurações agora são gravados na hora no armazenamento do Android: não se perdem mais se o aparelho fechar o aplicativo logo depois de salvar. E entram no backup automático do Android na sua conta Google.",
+        "Configurações > Meus lugares e backup: veja o que está salvo, salve uma cópia de tudo no Google Drive ou no celular e restaure de uma cópia (também em outro celular)."
+      ]
+    },
     {
       "versao": "0.10.12",
       "data": "27/10/2026",
@@ -104,14 +113,6 @@
         "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
         "Gestos no mapa 3D: pinça aproxima e afasta, dois dedos para cima ou para baixo deitam ou levantam o mapa (até o limite 3D ou 2D) e a câmera continua seguindo com o ajuste; girar ou arrastar soltam a câmera e \"Seguir\" retoma (tocar de novo volta ao zoom automático).",
         "Navegação mais fluida: a câmera acompanha a posição quadro a quadro, sem os saltos a cada leitura do GPS."
-      ]
-    },
-    {
-      "versao": "0.10.1",
-      "data": "27/10/2026",
-      "itens": [
-        "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
-        "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
       ]
     }
   ]
