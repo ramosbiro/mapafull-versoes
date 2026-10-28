@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.12.5",
-  "codigo": 53,
+  "versao": "0.13.0",
+  "codigo": 54,
   "data": "28/10/2026",
-  "tamanho": 196106065,
-  "sha256": "d7b3da1da262d997ed333f6aa2792da0748a8ab472169ad11dd2d191c79179ca",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.5/Vrumbi-0.12.5.apk",
+  "tamanho": 196113477,
+  "sha256": "f3d3160c9dfe471da2fa225984d6f1efc5ff5a300c3ae100d52756541940d269",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.0/Vrumbi-0.13.0.apk",
   "notas": [
-    "Barra de baixo mais limpa: Casa, Trabalho e Favoritos viraram um botão só, Favoritos. Ao tocar, aparecem primeiro os principais (Casa e Trabalho, em destaque) e depois todos os seus favoritos.",
-    "O nome da rua não fica mais embaixo do carro: ele aparece na barra de baixo, entre Favoritos e a busca, sem atrapalhar a visão da via.",
-    "Mais rua à frente: seguindo a sua posição, o ícone fica mais perto da parte de baixo da tela (antes ficava quase no meio), mostrando mais do que vem pela frente e menos do que já passou. O velocímetro fica logo acima da busca."
+    "Novo: alertas da comunidade. O botão laranja Avisar (na tela principal e durante a rota) abre cartões prontos: acidente, trânsito parado, buraco, obra, objeto na pista, veículo parado, alagamento, via interditada e semáforo apagado. Um toque e pronto: o aviso vai para o ponto exato da via em que você está, no seu sentido da pista.",
+    "Os avisos aparecem no mapa para todo mundo que usa o Vrumbi, cada um com o seu ícone e cor. Toque no ícone para ver há quanto tempo foi marcado e responder \"Ainda está lá\" ou \"Não está mais\".",
+    "Dirigindo, o que estiver à frente no seu sentido aparece junto dos radares e a voz avisa (\"Atenção: buraco na via a 200 metros\"). Depois de passar, o Vrumbi pergunta se ainda está lá, com dois botões grandes que somem sozinhos.",
+    "Anônimo: não vai nome, telefone nem rota. Cada aviso some sozinho (trânsito em meia hora, buraco em alguns dias) e cada confirmação renova. Errou? Toque em Desfazer logo depois de enviar. Para não ver os alertas, desligue em Ajustes, \"Alertas da comunidade\"."
   ],
   "versoes": [
+    {
+      "versao": "0.13.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Novo: alertas da comunidade. O botão laranja Avisar (na tela principal e durante a rota) abre cartões prontos: acidente, trânsito parado, buraco, obra, objeto na pista, veículo parado, alagamento, via interditada e semáforo apagado. Um toque e pronto: o aviso vai para o ponto exato da via em que você está, no seu sentido da pista.",
+        "Os avisos aparecem no mapa para todo mundo que usa o Vrumbi, cada um com o seu ícone e cor. Toque no ícone para ver há quanto tempo foi marcado e responder \"Ainda está lá\" ou \"Não está mais\".",
+        "Dirigindo, o que estiver à frente no seu sentido aparece junto dos radares e a voz avisa (\"Atenção: buraco na via a 200 metros\"). Depois de passar, o Vrumbi pergunta se ainda está lá, com dois botões grandes que somem sozinhos.",
+        "Anônimo: não vai nome, telefone nem rota. Cada aviso some sozinho (trânsito em meia hora, buraco em alguns dias) e cada confirmação renova. Errou? Toque em Desfazer logo depois de enviar. Para não ver os alertas, desligue em Ajustes, \"Alertas da comunidade\"."
+      ]
+    },
     {
       "versao": "0.12.5",
       "data": "28/10/2026",
@@ -108,15 +119,6 @@
       "data": "27/10/2026",
       "itens": [
         "Ícone de moto de verdade (rodas, motor, tanque, banco e farol) no Perfil do veículo e na biblioteca de ícones; antes era o desenho de um patinete, que agora fica no Patinete."
-      ]
-    },
-    {
-      "versao": "0.10.11",
-      "data": "27/10/2026",
-      "itens": [
-        "A tela do celular fica sempre acesa com o aplicativo aberto (na tela do carro também).",
-        "Cor do ícone vale para todos, inclusive táxi, viaturas, ambulância e bombeiros. Nova cor \"Original\" (paleta colorida) mantém as cores do próprio modelo, com a pintura oficial; ao escolher táxi ou viatura ela já vem marcada.",
-        "Ícone da posição: cada grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) em um cartão, e uma busca para digitar o tipo de ícone (táxi, viatura, moto, ônibus...)."
       ]
     }
   ]
