@@ -1,20 +1,30 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.12.0",
-  "codigo": 48,
+  "versao": "0.12.1",
+  "codigo": 49,
   "data": "28/10/2026",
-  "tamanho": 196097249,
-  "sha256": "d03119f084e5d2b5e42d1f2fe9bb04006d19167c00e7766a47449df722988933",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.0/Vrumbi-0.12.0.apk",
+  "tamanho": 196102833,
+  "sha256": "12494409e69f9036b46d1e2fae980f307922bc2b1fb31fa04c82690d5c6f113c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.1/Vrumbi-0.12.1.apk",
   "notas": [
-    "O MapaFull agora é Vrumbi! Nome novo, ícone novo e um personagem: o Vrumbi, um pino laranja com olhinhos e sorriso em V.",
-    "Abertura nova: uma rota laranja se desenha, o Vrumbi corre por ela, chega gargalhando com confete e vira a barriga do \"b\" do nome, enquanto um mini Vrumbi pousa no pingo do \"i\". Toque na tela para pular.",
-    "O laranja Vrumbi é a nova cor de destaque do aplicativo inteiro: botões, bordas, abas e títulos. Em Configurações > Aparência dá para voltar ao vermelho ou escolher outra cor. Avisos (radar, limite de velocidade, alertas) continuam vermelhos.",
-    "O Vrumbi reage à sua viagem: \"Bora!\" ao iniciar a rota, cara de dúvida ao recalcular, festa com confete quando você chega e, em viagens longas, um lembrete de pausa a cada 2 horas de estrada.",
-    "No menu e nas Configurações o Vrumbi está vivo: olha para os lados, pisca, dá piscadinha, sorri e ri. Ele também aparece nas atualizações e nos mapas offline.",
-    "Seus favoritos, configurações e mapas baixados continuam como estavam, e os backups feitos com o nome antigo continuam valendo."
+    "Ícone da posição na medida certa: com o mapa afastado (como na escolha da rota) o carro, a seta ou o modelo escolhido diminui junto com o mapa, em vez de cobrir quarteirões. Dirigindo, continua do mesmo tamanho de antes.",
+    "O destino agora aparece no mapa: o Vrumbi espera no fim da rota e comemora quando você chega.",
+    "Botão Tema na tela principal (ao lado de Som e Ajustes): um toque troca entre Automático (claro de dia, escuro à noite), Claro e Escuro. Quem tinha ficado preso no escuro volta ao automático.",
+    "Voltar do Android: agora fecha a janela aberta e volta uma tela (menu, Favoritos, Busca, Configurações, mapas offline e avisos). Na escolha da rota, voltar cancela. Antes ele saía do aplicativo.",
+    "Configurações > GPS e bússola: sinal do GPS ao vivo (precisão em metros, com nota), bússola com mostrador, \"Calibrar a bússola\" com o passo a passo do oito no ar, ajuste fino do norte e dicas para um sinal melhor."
   ],
   "versoes": [
+    {
+      "versao": "0.12.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Ícone da posição na medida certa: com o mapa afastado (como na escolha da rota) o carro, a seta ou o modelo escolhido diminui junto com o mapa, em vez de cobrir quarteirões. Dirigindo, continua do mesmo tamanho de antes.",
+        "O destino agora aparece no mapa: o Vrumbi espera no fim da rota e comemora quando você chega.",
+        "Botão Tema na tela principal (ao lado de Som e Ajustes): um toque troca entre Automático (claro de dia, escuro à noite), Claro e Escuro. Quem tinha ficado preso no escuro volta ao automático.",
+        "Voltar do Android: agora fecha a janela aberta e volta uma tela (menu, Favoritos, Busca, Configurações, mapas offline e avisos). Na escolha da rota, voltar cancela. Antes ele saía do aplicativo.",
+        "Configurações > GPS e bússola: sinal do GPS ao vivo (precisão em metros, com nota), bússola com mostrador, \"Calibrar a bússola\" com o passo a passo do oito no ar, ajuste fino do norte e dicas para um sinal melhor."
+      ]
+    },
     {
       "versao": "0.12.0",
       "data": "28/10/2026",
@@ -108,16 +118,6 @@
         "Configurações > Navegação > Tela do carro: situação da tela, abrir ou fechar, e abrir sozinha ao conectar.",
         "Placa de limite de velocidade fora dos números do velocímetro.",
         "Botões Som e Ajustes sempre à vista, abaixo do menu: um toque liga ou desliga a voz (desligada fica vermelha, \"Mudo\"); Ajustes abre as opções rápidas (voz, radares, excesso de velocidade, tolerância, INMET, evitar na rota e ícone). Na rota, o Som fica acima do velocímetro."
-      ]
-    },
-    {
-      "versao": "0.10.6",
-      "data": "27/10/2026",
-      "itens": [
-        "Ícone da posição com modelos 3D de verdade, de linhas suaves, no lugar dos montados com caixas: sedan, sedan clássico, perua, SUV, picape, esportivos, táxi, carro de aplicativo, viatura da PM, viatura Força Tática, moto da PM, ambulância, bombeiros, helicóptero, ônibus, van, caminhão, moto, bicicleta, patinete e pessoa.",
-        "A cor escolhida pinta a lataria (na pessoa, a camisa), mantendo o brilho do modelo. Táxi (branco, como em São Paulo), viaturas, ambulância e bombeiros ficam com a pintura oficial e o giroflex piscando.",
-        "A pé: a pessoa anda quando você se move e fica parada quando você para.",
-        "Modelos de poly.pizza: Quaternius, Kay Lousberg e kazuma (CC0); Poly by Google, Ivan Klus, PuKkBuMXDD e jeremy (CC-BY 3.0). Créditos em Configurações > Aplicativo."
       ]
     }
   ]
