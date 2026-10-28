@@ -1,19 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.11.0",
-  "codigo": 45,
+  "versao": "0.11.1",
+  "codigo": 46,
   "data": "28/10/2026",
-  "tamanho": 196957028,
-  "sha256": "85fd383cf146aee00f45f55bef27e76334bb96fe038e0240e5cf86a726e9270f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.0/MapaFullRamos-0.11.0.apk",
+  "tamanho": 196293359,
+  "sha256": "70a8fe8fde9b7b4b37768c8e8a155a9171ce517bd34018109642ce07f22cb937",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.1/MapaFullRamos-0.11.1.apk",
   "notas": [
-    "Busca de endereço com TODOS os números: o cadastro de endereços do Censo 2022 (IBGE) com 12,8 milhões de números em 620 mil ruas do Estado de São Paulo. O número digitado aparece exato (\"número exato\") ou, se não estiver no cadastro, calculado entre os vizinhos do mesmo lado da rua (\"posição aproximada\"), com bairro, cidade e CEP.",
-    "Vale para tudo: \"Para onde?\" da navegação, rota, favoritos, Casa e Trabalho, e a busca e a aba Rota do mapa completo.",
-    "Entende o jeito de digitar: com ou sem acento, abreviações (R., Av., Dr., Prof., Jd., Pq.), número por extenso (\"25 de Março\" = \"Vinte e Cinco de Março\"), \"nº\", e a cidade no fim (\"Rua X, 120, Mogi das Cruzes\").",
-    "Cada resultado tem os botões Ir e Salvar. Salvar pede o título do lugar (ex.: \"Casa da mãe\") e se é Favorito, Casa ou Trabalho; nos Favoritos, o lápis muda o título.",
-    "Os endereços de cada cidade são baixados uma vez e ficam no celular: a busca funciona até sem internet."
+    "Configurações agora é sempre a última opção: no menu ☰ (depois de Novidades), no menu Ferramentas do mapa completo e nas opções da navegação (os atalhos Evitar na rota e Ícone da posição ficam no fim, abaixo de Encerrar a rota)."
   ],
   "versoes": [
+    {
+      "versao": "0.11.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Configurações agora é sempre a última opção: no menu ☰ (depois de Novidades), no menu Ferramentas do mapa completo e nas opções da navegação (os atalhos Evitar na rota e Ícone da posição ficam no fim, abaixo de Encerrar a rota)."
+      ]
+    },
     {
       "versao": "0.11.0",
       "data": "28/10/2026",
@@ -107,16 +110,6 @@
       "data": "27/10/2026",
       "itens": [
         "Seta da posição sem o \"gira e volta\": a cada leitura do GPS ela voltava ao ângulo anterior e girava de novo; agora gira só para a direção nova, suave."
-      ]
-    },
-    {
-      "versao": "0.10.3",
-      "data": "27/10/2026",
-      "itens": [
-        "Seta da posição firme na direção do movimento: o rumo agora vem das posições dos últimos segundos (o \"pula para os lados\" do GPS entre prédios e dentro do trem se anula), conferido com o do próprio GPS e sem giros impossíveis para um veículo.",
-        "Parado ou a pé, a seta segue a bússola do aparelho; num veículo parado (trem na estação, carro no semáforo) fica a direção em que você vinha, porque motor e metal desviam a bússola.",
-        "A seta aparece sempre por cima dos prédios 3D, sem entrar nos quarteirões.",
-        "Voltar ao aplicativo depois de usar outro não repete a abertura: em até 30 minutos ele volta na mesma tela, com as camadas e unidades que você ligou."
       ]
     }
   ]
