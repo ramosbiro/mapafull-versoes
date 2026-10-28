@@ -1,21 +1,31 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.2",
-  "codigo": 33,
-  "data": "28/10/2026",
-  "tamanho": 194731373,
-  "sha256": "c0cf4c4a3684dd59461763079a3497f3dc7eb89c3397420e5281cf94d8273b7a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.2/MapaFullRamos-0.10.2.apk",
+  "versao": "0.10.3",
+  "codigo": 34,
+  "data": "27/10/2026",
+  "tamanho": 194733873,
+  "sha256": "e03ac93766bea8336db5a076a04bdcc594299127eaa5323d2c3ec5d6d486ef08",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.3/MapaFullRamos-0.10.3.apk",
   "notas": [
-    "Cartão do local no lugar das pílulas: o endereço em destaque e, embaixo, a cidade e a área. Aparece quando a rua ou a área mudam e some sozinho; tocar abre a ficha do local onde você está.",
-    "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
-    "Gestos no mapa 3D: pinça aproxima e afasta, dois dedos para cima ou para baixo deitam ou levantam o mapa (até o limite 3D ou 2D) e a câmera continua seguindo com o ajuste; girar ou arrastar soltam a câmera e \"Seguir\" retoma (tocar de novo volta ao zoom automático).",
-    "Navegação mais fluida: a câmera acompanha a posição quadro a quadro, sem os saltos a cada leitura do GPS."
+    "Seta da posição firme na direção do movimento: o rumo agora vem das posições dos últimos segundos (o \"pula para os lados\" do GPS entre prédios e dentro do trem se anula), conferido com o do próprio GPS e sem giros impossíveis para um veículo.",
+    "Parado ou a pé, a seta segue a bússola do aparelho; num veículo parado (trem na estação, carro no semáforo) fica a direção em que você vinha, porque motor e metal desviam a bússola.",
+    "A seta aparece sempre por cima dos prédios 3D, sem entrar nos quarteirões.",
+    "Voltar ao aplicativo depois de usar outro não repete a abertura: em até 30 minutos ele volta na mesma tela, com as camadas e unidades que você ligou."
   ],
   "versoes": [
     {
+      "versao": "0.10.3",
+      "data": "27/10/2026",
+      "itens": [
+        "Seta da posição firme na direção do movimento: o rumo agora vem das posições dos últimos segundos (o \"pula para os lados\" do GPS entre prédios e dentro do trem se anula), conferido com o do próprio GPS e sem giros impossíveis para um veículo.",
+        "Parado ou a pé, a seta segue a bússola do aparelho; num veículo parado (trem na estação, carro no semáforo) fica a direção em que você vinha, porque motor e metal desviam a bússola.",
+        "A seta aparece sempre por cima dos prédios 3D, sem entrar nos quarteirões.",
+        "Voltar ao aplicativo depois de usar outro não repete a abertura: em até 30 minutos ele volta na mesma tela, com as camadas e unidades que você ligou."
+      ]
+    },
+    {
       "versao": "0.10.2",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "Cartão do local no lugar das pílulas: o endereço em destaque e, embaixo, a cidade e a área. Aparece quando a rua ou a área mudam e some sozinho; tocar abre a ficha do local onde você está.",
         "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
@@ -25,7 +35,7 @@
     },
     {
       "versao": "0.10.1",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
         "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
@@ -33,7 +43,7 @@
     },
     {
       "versao": "0.10.0",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
         "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
@@ -42,7 +52,7 @@
     },
     {
       "versao": "0.9.9",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "O aplicativo abre direto na navegação livre (tela 3D), com todas as ferramentas na tela: menu, Unidades, Camadas, Casa, Trabalho, Favoritos e busca. A câmera segue a sua posição e direção; ao mexer no mapa ela para, e \"Seguir\" retoma.",
         "Sem a barra de baixo: velocímetro novo em anel, flutuante, com a placa do limite da via. Tocar nele abre as opções (voz, radares, excesso de velocidade, tolerância, INMET), no padrão do aplicativo.",
@@ -54,7 +64,7 @@
     },
     {
       "versao": "0.9.8",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "O aplicativo abre com tudo desligado, no mapa completo e na tela 3D: sem áreas (shapes), camadas, unidades ou locais ligados. Você liga só o que precisar, e o mapa carrega mais rápido.",
         "Durante o uso, o que você ligar continua ligado ao trocar entre o mapa completo e a navegação 3D; ao abrir o aplicativo de novo, começa desligado. A posição do mapa, o dia/noite, as cores e a ordem dos cards são mantidos."
@@ -62,54 +72,45 @@
     },
     {
       "versao": "0.9.7",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
       ]
     },
     {
       "versao": "0.9.6",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "Mapa completo: ao abrir Ferramentas aparece direto uma lista compacta com todas as opções (Unidades, Camadas, Minha localização, Dash, Navegação 3D, Imprimir, backups, Maximizar, Tela cheia, Resetar, Ocultar ferramentas e Configurações), no padrão do aplicativo. Sem o ⋮ e sem o menu solto; tocar numa opção recolhe o card."
       ]
     },
     {
       "versao": "0.9.5",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "A gota vermelha pequena voltou a ter o ponto branco no meio, proporcional ao tamanho novo: no ícone e na abertura."
       ]
     },
     {
       "versao": "0.9.4",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "A gota vermelha (pino de destino) ficou pequena e dentro do mapa, no fim da rota: no ícone do aplicativo e na animação de abertura. O desenho do ícone ficou centralizado."
       ]
     },
     {
       "versao": "0.9.3",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "O pino ficou inteiro vermelho, sem o ponto branco no meio: na animação de abertura e no ícone do aplicativo."
       ]
     },
     {
       "versao": "0.9.2",
-      "data": "28/10/2026",
+      "data": "27/10/2026",
       "itens": [
         "Abertura: título refeito, sem o brilho atrás das letras. \"MapaFull\" forte e \"Ramos\" fino entram letra a letra saindo do desfoque, uma linha fina se abre embaixo e aparecem o subtítulo (Mapa operacional · Navegação 3D · Offline) e a versão.",
         "Mapas offline: os 27 estados do Brasil disponíveis (Sul, Sudeste, Centro-Oeste, Nordeste e Norte), com Fernando de Noronha em Pernambuco."
-      ]
-    },
-    {
-      "versao": "0.9.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Mapas offline: Rio de Janeiro, Minas Gerais e Espírito Santo disponíveis, além de São Paulo (todo o Sudeste).",
-        "São Paulo refeito com o litoral completo (o primeiro pacote cortava parte da costa); quem já baixou recebe o aviso de atualização.",
-        "O aviso de mapa novo agora compara também a assinatura do arquivo, para nenhuma atualização passar despercebida."
       ]
     }
   ]
