@@ -1,20 +1,24 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.13.1",
-  "codigo": 55,
+  "versao": "0.13.2",
+  "codigo": 56,
   "data": "28/10/2026",
-  "tamanho": 196114969,
-  "sha256": "ff129b5f774d38cfd5117c92cca03f766470d23f78f9222ec5a14e3f4c2007e6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.1/Vrumbi-0.13.1.apk",
+  "tamanho": 196118554,
+  "sha256": "6905fb16a18436a4b1e28410b72059687e0044d57f8ee32c3386f40aa5e2ca88",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.2/Vrumbi-0.13.2.apk",
   "notas": [
-    "Interface e mapa agora têm escolhas separadas, cada um com Auto, Claro (Dia) ou Escuro (Noite): tudo claro, tudo escuro ou, por exemplo, a interface escura com o mapa no automático. Uma não muda a outra; só com as duas no Auto elas mudam juntas. Fica em Ajustes rápidos e em Configurações > Aparência, com a explicação na tela.",
-    "Ao pôr uma delas no Auto com a outra fixa, o Vrumbi pergunta se você quer a outra no Auto também (\"Sim, os dois no Auto\" ou \"Não\").",
-    "Automático por horário: claro das 6h às 18h e escuro das 18h às 6h. E dentro de túneis o que estiver no Auto escurece na hora, voltando ao sair (passar POR CIMA de um túnel não conta).",
-    "A faixa da manobra (\"Vire à esquerda...\") agora segue a interface: clara no tema claro, escura no escuro.",
-    "Correção: quando o tema trocava no meio de uma rota (por exemplo, às 18h), a linha azul da rota sumia do mapa. Agora ela continua.",
-    "No mapa completo, Dia/Noite/Automático das Camadas é a mesma escolha \"Mapa\" da Aparência."
+    "O Vrumbi agora explica as coisas: onde antes havia um texto de explicação, é o personagem que fala, num balão (Ajustes rápidos, Favoritos, busca, Camadas, Avisar, Aparência, GPS e bússola, Tela do carro).",
+    "Interface e mapa: a explicação fixa saiu. Ao pôr um deles no Auto, o Vrumbi conta na hora como funciona (claro das 6h às 18h, escuro das 18h às 6h e nos túneis) e, se o outro estiver fixo, pergunta se você quer os dois no Auto."
   ],
   "versoes": [
+    {
+      "versao": "0.13.2",
+      "data": "28/10/2026",
+      "itens": [
+        "O Vrumbi agora explica as coisas: onde antes havia um texto de explicação, é o personagem que fala, num balão (Ajustes rápidos, Favoritos, busca, Camadas, Avisar, Aparência, GPS e bússola, Tela do carro).",
+        "Interface e mapa: a explicação fixa saiu. Ao pôr um deles no Auto, o Vrumbi conta na hora como funciona (claro das 6h às 18h, escuro das 18h às 6h e nos túneis) e, se o outro estiver fixo, pergunta se você quer os dois no Auto."
+      ]
+    },
     {
       "versao": "0.13.1",
       "data": "28/10/2026",
@@ -118,14 +122,6 @@
         "Entende o jeito de digitar: com ou sem acento, abreviações (R., Av., Dr., Prof., Jd., Pq.), número por extenso (\"25 de Março\" = \"Vinte e Cinco de Março\"), \"nº\", e a cidade no fim (\"Rua X, 120, Mogi das Cruzes\").",
         "Cada resultado tem os botões Ir e Salvar. Salvar pede o título do lugar (ex.: \"Casa da mãe\") e se é Favorito, Casa ou Trabalho; nos Favoritos, o lápis muda o título.",
         "Os endereços de cada cidade são baixados uma vez e ficam no celular: a busca funciona até sem internet."
-      ]
-    },
-    {
-      "versao": "0.10.13",
-      "data": "28/10/2026",
-      "itens": [
-        "Favoritos, Casa, Trabalho e todas as configurações agora são gravados na hora no armazenamento do Android: não se perdem mais se o aparelho fechar o aplicativo logo depois de salvar. E entram no backup automático do Android na sua conta Google.",
-        "Configurações > Meus lugares e backup: veja o que está salvo, salve uma cópia de tudo no Google Drive ou no celular e restaure de uma cópia (também em outro celular)."
       ]
     }
   ]
