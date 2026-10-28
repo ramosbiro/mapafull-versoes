@@ -1,18 +1,30 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.6",
-  "codigo": 37,
+  "versao": "0.10.7",
+  "codigo": 38,
   "data": "27/10/2026",
-  "tamanho": 196331328,
-  "sha256": "2c28793d46e8abb317022cf53ee98876255ba82067be2b7c49cf133aa191fbf5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.6/MapaFullRamos-0.10.6.apk",
+  "tamanho": 196941224,
+  "sha256": "0d3121e95d1b46138d434a92a03043ac01e62a4e635e5e255deeea08f6fad925",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.7/MapaFullRamos-0.10.7.apk",
   "notas": [
-    "Ícone da posição com modelos 3D de verdade, de linhas suaves, no lugar dos montados com caixas: sedan, sedan clássico, perua, SUV, picape, esportivos, táxi, carro de aplicativo, viatura da PM, viatura Força Tática, moto da PM, ambulância, bombeiros, helicóptero, ônibus, van, caminhão, moto, bicicleta, patinete e pessoa.",
-    "A cor escolhida pinta a lataria (na pessoa, a camisa), mantendo o brilho do modelo. Táxi (branco, como em São Paulo), viaturas, ambulância e bombeiros ficam com a pintura oficial e o giroflex piscando.",
-    "A pé: a pessoa anda quando você se move e fica parada quando você para.",
-    "Modelos de poly.pizza: Quaternius, Kay Lousberg e kazuma (CC0); Poly by Google, Ivan Klus, PuKkBuMXDD e jeremy (CC-BY 3.0). Créditos em Configurações > Aplicativo."
+    "Tela do carro: com o celular ligado a outra tela (cabo USB-C/HDMI ou espelhamento sem fio na central multimídia), o aplicativo abre nela a navegação 3D própria, deitada e sem botões: mapa, seta, rua, manobra, chegada e velocímetro. Os controles e a voz ficam no celular.",
+    "A rota escolhida no celular aparece na hora na tela do carro (a mesma, sem escolher de novo), e encerrar no celular encerra lá também.",
+    "Configurações > Navegação > Tela do carro: situação da tela, abrir ou fechar, e abrir sozinha ao conectar.",
+    "Placa de limite de velocidade fora dos números do velocímetro.",
+    "Botões Som e Ajustes sempre à vista, abaixo do menu: um toque liga ou desliga a voz (desligada fica vermelha, \"Mudo\"); Ajustes abre as opções rápidas (voz, radares, excesso de velocidade, tolerância, INMET, evitar na rota e ícone). Na rota, o Som fica acima do velocímetro."
   ],
   "versoes": [
+    {
+      "versao": "0.10.7",
+      "data": "27/10/2026",
+      "itens": [
+        "Tela do carro: com o celular ligado a outra tela (cabo USB-C/HDMI ou espelhamento sem fio na central multimídia), o aplicativo abre nela a navegação 3D própria, deitada e sem botões: mapa, seta, rua, manobra, chegada e velocímetro. Os controles e a voz ficam no celular.",
+        "A rota escolhida no celular aparece na hora na tela do carro (a mesma, sem escolher de novo), e encerrar no celular encerra lá também.",
+        "Configurações > Navegação > Tela do carro: situação da tela, abrir ou fechar, e abrir sozinha ao conectar.",
+        "Placa de limite de velocidade fora dos números do velocímetro.",
+        "Botões Som e Ajustes sempre à vista, abaixo do menu: um toque liga ou desliga a voz (desligada fica vermelha, \"Mudo\"); Ajustes abre as opções rápidas (voz, radares, excesso de velocidade, tolerância, INMET, evitar na rota e ícone). Na rota, o Som fica acima do velocímetro."
+      ]
+    },
     {
       "versao": "0.10.6",
       "data": "27/10/2026",
@@ -110,13 +122,6 @@
       "data": "27/10/2026",
       "itens": [
         "Mapa completo: ao abrir Ferramentas aparece direto uma lista compacta com todas as opções (Unidades, Camadas, Minha localização, Dash, Navegação 3D, Imprimir, backups, Maximizar, Tela cheia, Resetar, Ocultar ferramentas e Configurações), no padrão do aplicativo. Sem o ⋮ e sem o menu solto; tocar numa opção recolhe o card."
-      ]
-    },
-    {
-      "versao": "0.9.5",
-      "data": "27/10/2026",
-      "itens": [
-        "A gota vermelha pequena voltou a ter o ponto branco no meio, proporcional ao tamanho novo: no ícone e na abertura."
       ]
     }
   ]
