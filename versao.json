@@ -1,15 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.10",
-  "codigo": 41,
+  "versao": "0.10.11",
+  "codigo": 42,
   "data": "27/10/2026",
-  "tamanho": 196278404,
-  "sha256": "9d5f44232c3d791cfc0c7b8dc222c684c92c9eeda27172f8a12ed29de5e8aee6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.10/MapaFullRamos-0.10.10.apk",
+  "tamanho": 196279352,
+  "sha256": "59202c06eb38d2f482d1900f953ddbe5ebef9ec906bd71bbd8ff320f7524b30b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.11/MapaFullRamos-0.10.11.apk",
   "notas": [
-    "Aviso de versão nova corrigido de vez: confere sempre ao abrir ou voltar ao aplicativo e, se outra janela estiver na frente (como \"Atualizado para...\"), o aviso aparece logo depois que ela fecha, em vez de se perder."
+    "A tela do celular fica sempre acesa com o aplicativo aberto (na tela do carro também).",
+    "Cor do ícone vale para todos, inclusive táxi, viaturas, ambulância e bombeiros. Nova cor \"Original\" (paleta colorida) mantém as cores do próprio modelo, com a pintura oficial; ao escolher táxi ou viatura ela já vem marcada.",
+    "Ícone da posição: cada grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) em um cartão, e uma busca para digitar o tipo de ícone (táxi, viatura, moto, ônibus...)."
   ],
   "versoes": [
+    {
+      "versao": "0.10.11",
+      "data": "27/10/2026",
+      "itens": [
+        "A tela do celular fica sempre acesa com o aplicativo aberto (na tela do carro também).",
+        "Cor do ícone vale para todos, inclusive táxi, viaturas, ambulância e bombeiros. Nova cor \"Original\" (paleta colorida) mantém as cores do próprio modelo, com a pintura oficial; ao escolher táxi ou viatura ela já vem marcada.",
+        "Ícone da posição: cada grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) em um cartão, e uma busca para digitar o tipo de ícone (táxi, viatura, moto, ônibus...)."
+      ]
+    },
     {
       "versao": "0.10.10",
       "data": "27/10/2026",
@@ -105,18 +116,6 @@
         "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
         "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
         "Correção: ao abrir, a câmera às vezes não seguia a sua posição."
-      ]
-    },
-    {
-      "versao": "0.9.9",
-      "data": "27/10/2026",
-      "itens": [
-        "O aplicativo abre direto na navegação livre (tela 3D), com todas as ferramentas na tela: menu, Unidades, Camadas, Casa, Trabalho, Favoritos e busca. A câmera segue a sua posição e direção; ao mexer no mapa ela para, e \"Seguir\" retoma.",
-        "Sem a barra de baixo: velocímetro novo em anel, flutuante, com a placa do limite da via. Tocar nele abre as opções (voz, radares, excesso de velocidade, tolerância, INMET), no padrão do aplicativo.",
-        "Rota: cartão da manobra em cima e uma pílula compacta com chegada, tempo e distância, encerrar e opções. A escolha da rota ganhou \"Cancelar\" e nada mais fica por cima dela. Deitado, ocupa só a lateral.",
-        "Radares no mapa: com \"Radares\" ligado, os radares aparecem como ícones durante a navegação.",
-        "Mapa completo: Dia/Noite ganhou \"Automático\" (pelo nascer e pôr do sol) no card Mapa das Camadas.",
-        "Correção: com \"Usar só mapas baixados\", o mapa ficava em branco no celular (a leitura do pacote voltava sempre ao começo do arquivo). Agora ele aparece completo."
       ]
     }
   ]
