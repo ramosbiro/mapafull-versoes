@@ -1,19 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.7",
-  "codigo": 38,
+  "versao": "0.10.8",
+  "codigo": 39,
   "data": "27/10/2026",
-  "tamanho": 196941224,
-  "sha256": "0d3121e95d1b46138d434a92a03043ac01e62a4e635e5e255deeea08f6fad925",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.7/MapaFullRamos-0.10.7.apk",
+  "tamanho": 196278200,
+  "sha256": "b1661fbaac6f3243e4d1f43df20611198ba25184bf1d51fbe4d3e81d52c7dc92",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.8/MapaFullRamos-0.10.8.apk",
   "notas": [
-    "Tela do carro: com o celular ligado a outra tela (cabo USB-C/HDMI ou espelhamento sem fio na central multimídia), o aplicativo abre nela a navegação 3D própria, deitada e sem botões: mapa, seta, rua, manobra, chegada e velocímetro. Os controles e a voz ficam no celular.",
-    "A rota escolhida no celular aparece na hora na tela do carro (a mesma, sem escolher de novo), e encerrar no celular encerra lá também.",
-    "Configurações > Navegação > Tela do carro: situação da tela, abrir ou fechar, e abrir sozinha ao conectar.",
-    "Placa de limite de velocidade fora dos números do velocímetro.",
-    "Botões Som e Ajustes sempre à vista, abaixo do menu: um toque liga ou desliga a voz (desligada fica vermelha, \"Mudo\"); Ajustes abre as opções rápidas (voz, radares, excesso de velocidade, tolerância, INMET, evitar na rota e ícone). Na rota, o Som fica acima do velocímetro."
+    "Segurança: o nome da tela do carro (informado pelo aparelho conectado) aparece nas Configurações só como texto."
   ],
   "versoes": [
+    {
+      "versao": "0.10.8",
+      "data": "27/10/2026",
+      "itens": [
+        "Segurança: o nome da tela do carro (informado pelo aparelho conectado) aparece nas Configurações só como texto."
+      ]
+    },
     {
       "versao": "0.10.7",
       "data": "27/10/2026",
@@ -115,13 +118,6 @@
       "data": "27/10/2026",
       "itens": [
         "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
-      ]
-    },
-    {
-      "versao": "0.9.6",
-      "data": "27/10/2026",
-      "itens": [
-        "Mapa completo: ao abrir Ferramentas aparece direto uma lista compacta com todas as opções (Unidades, Camadas, Minha localização, Dash, Navegação 3D, Imprimir, backups, Maximizar, Tela cheia, Resetar, Ocultar ferramentas e Configurações), no padrão do aplicativo. Sem o ⋮ e sem o menu solto; tocar numa opção recolhe o card."
       ]
     }
   ]
