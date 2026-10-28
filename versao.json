@@ -1,19 +1,28 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.5",
-  "codigo": 36,
+  "versao": "0.10.6",
+  "codigo": 37,
   "data": "27/10/2026",
-  "tamanho": 194737421,
-  "sha256": "87e84a5f1e4309e50eb57c2f1083f61648ed7bfea13af6d7d7db7cd6ceb795eb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.5/MapaFullRamos-0.10.5.apk",
+  "tamanho": 196331328,
+  "sha256": "2c28793d46e8abb317022cf53ee98876255ba82067be2b7c49cf133aa191fbf5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.6/MapaFullRamos-0.10.6.apk",
   "notas": [
-    "Configurações em duas telas: a lista mostra cada assunto com o resumo do que está escolhido; tocar abre o assunto, onde você altera e toca em Salvar para voltar. O voltar do celular volta para a lista.",
-    "Ícone da posição: tamanho (de 50% a 200%), cor de dentro e cor da borda (laterais da seta, cabine e detalhes dos veículos e o anel no chão).",
-    "Menu: \"Navegação\" abre os ajustes da navegação (veículo, avisos, ícone da posição e evitar na rota), no lugar do antigo \"Navegação livre\", que só voltava ao mapa.",
-    "Ao abrir ou voltar ao aplicativo, a tela só aparece com o estilo e a sua cor já aplicados: sem as bordas brancas e sem o vermelho antes da cor escolhida.",
-    "O voltar do celular não fecha mais o aplicativo: volta uma tela e, na tela inicial, só manda o aplicativo para o fundo."
+    "Ícone da posição com modelos 3D de verdade, de linhas suaves, no lugar dos montados com caixas: sedan, sedan clássico, perua, SUV, picape, esportivos, táxi, carro de aplicativo, viatura da PM, viatura Força Tática, moto da PM, ambulância, bombeiros, helicóptero, ônibus, van, caminhão, moto, bicicleta, patinete e pessoa.",
+    "A cor escolhida pinta a lataria (na pessoa, a camisa), mantendo o brilho do modelo. Táxi (branco, como em São Paulo), viaturas, ambulância e bombeiros ficam com a pintura oficial e o giroflex piscando.",
+    "A pé: a pessoa anda quando você se move e fica parada quando você para.",
+    "Modelos de poly.pizza: Quaternius, Kay Lousberg e kazuma (CC0); Poly by Google, Ivan Klus, PuKkBuMXDD e jeremy (CC-BY 3.0). Créditos em Configurações > Aplicativo."
   ],
   "versoes": [
+    {
+      "versao": "0.10.6",
+      "data": "27/10/2026",
+      "itens": [
+        "Ícone da posição com modelos 3D de verdade, de linhas suaves, no lugar dos montados com caixas: sedan, sedan clássico, perua, SUV, picape, esportivos, táxi, carro de aplicativo, viatura da PM, viatura Força Tática, moto da PM, ambulância, bombeiros, helicóptero, ônibus, van, caminhão, moto, bicicleta, patinete e pessoa.",
+        "A cor escolhida pinta a lataria (na pessoa, a camisa), mantendo o brilho do modelo. Táxi (branco, como em São Paulo), viaturas, ambulância e bombeiros ficam com a pintura oficial e o giroflex piscando.",
+        "A pé: a pessoa anda quando você se move e fica parada quando você para.",
+        "Modelos de poly.pizza: Quaternius, Kay Lousberg e kazuma (CC0); Poly by Google, Ivan Klus, PuKkBuMXDD e jeremy (CC-BY 3.0). Créditos em Configurações > Aplicativo."
+      ]
+    },
     {
       "versao": "0.10.5",
       "data": "27/10/2026",
@@ -108,13 +117,6 @@
       "data": "27/10/2026",
       "itens": [
         "A gota vermelha pequena voltou a ter o ponto branco no meio, proporcional ao tamanho novo: no ícone e na abertura."
-      ]
-    },
-    {
-      "versao": "0.9.4",
-      "data": "27/10/2026",
-      "itens": [
-        "A gota vermelha (pino de destino) ficou pequena e dentro do mapa, no fim da rota: no ícone do aplicativo e na animação de abertura. O desenho do ícone ficou centralizado."
       ]
     }
   ]
