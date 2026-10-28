@@ -1,17 +1,32 @@
 {
-  "nome": "MapaFull Ramos",
-  "versao": "0.11.2",
-  "codigo": 47,
+  "nome": "Vrumbi",
+  "versao": "0.12.0",
+  "codigo": 48,
   "data": "28/10/2026",
-  "tamanho": 196294903,
-  "sha256": "14f183f1ae704f9b7a73d27e4979825df8ad6811e6ff694783e12e52bdda4480",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.2/MapaFullRamos-0.11.2.apk",
+  "tamanho": 196097249,
+  "sha256": "d03119f084e5d2b5e42d1f2fe9bb04006d19167c00e7766a47449df722988933",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.0/Vrumbi-0.12.0.apk",
   "notas": [
-    "Curvas suaves: a seta e o mapa agora giram juntos, sem trancos. Antes, a cada posição do GPS (uma por segundo), a seta dava um \"puxão\" e o mapa girava em outro ritmo; agora o movimento é calculado a cada quadro da tela.",
-    "Com rota, a seta segue o desenho da própria rua e começa a virar um pouco antes da curva; sem rota, segue a direção e a taxa de giro do GPS.",
-    "Entre uma posição e outra do GPS a seta continua andando na sua velocidade, sem as paradinhas de antes. Ao tocar em Iniciar, o mapa gira até a direção da rota de forma suave."
+    "O MapaFull agora é Vrumbi! Nome novo, ícone novo e um personagem: o Vrumbi, um pino laranja com olhinhos e sorriso em V.",
+    "Abertura nova: uma rota laranja se desenha, o Vrumbi corre por ela, chega gargalhando com confete e vira a barriga do \"b\" do nome, enquanto um mini Vrumbi pousa no pingo do \"i\". Toque na tela para pular.",
+    "O laranja Vrumbi é a nova cor de destaque do aplicativo inteiro: botões, bordas, abas e títulos. Em Configurações > Aparência dá para voltar ao vermelho ou escolher outra cor. Avisos (radar, limite de velocidade, alertas) continuam vermelhos.",
+    "O Vrumbi reage à sua viagem: \"Bora!\" ao iniciar a rota, cara de dúvida ao recalcular, festa com confete quando você chega e, em viagens longas, um lembrete de pausa a cada 2 horas de estrada.",
+    "No menu e nas Configurações o Vrumbi está vivo: olha para os lados, pisca, dá piscadinha, sorri e ri. Ele também aparece nas atualizações e nos mapas offline.",
+    "Seus favoritos, configurações e mapas baixados continuam como estavam, e os backups feitos com o nome antigo continuam valendo."
   ],
   "versoes": [
+    {
+      "versao": "0.12.0",
+      "data": "28/10/2026",
+      "itens": [
+        "O MapaFull agora é Vrumbi! Nome novo, ícone novo e um personagem: o Vrumbi, um pino laranja com olhinhos e sorriso em V.",
+        "Abertura nova: uma rota laranja se desenha, o Vrumbi corre por ela, chega gargalhando com confete e vira a barriga do \"b\" do nome, enquanto um mini Vrumbi pousa no pingo do \"i\". Toque na tela para pular.",
+        "O laranja Vrumbi é a nova cor de destaque do aplicativo inteiro: botões, bordas, abas e títulos. Em Configurações > Aparência dá para voltar ao vermelho ou escolher outra cor. Avisos (radar, limite de velocidade, alertas) continuam vermelhos.",
+        "O Vrumbi reage à sua viagem: \"Bora!\" ao iniciar a rota, cara de dúvida ao recalcular, festa com confete quando você chega e, em viagens longas, um lembrete de pausa a cada 2 horas de estrada.",
+        "No menu e nas Configurações o Vrumbi está vivo: olha para os lados, pisca, dá piscadinha, sorri e ri. Ele também aparece nas atualizações e nos mapas offline.",
+        "Seus favoritos, configurações e mapas baixados continuam como estavam, e os backups feitos com o nome antigo continuam valendo."
+      ]
+    },
     {
       "versao": "0.11.2",
       "data": "28/10/2026",
@@ -103,17 +118,6 @@
         "A cor escolhida pinta a lataria (na pessoa, a camisa), mantendo o brilho do modelo. Táxi (branco, como em São Paulo), viaturas, ambulância e bombeiros ficam com a pintura oficial e o giroflex piscando.",
         "A pé: a pessoa anda quando você se move e fica parada quando você para.",
         "Modelos de poly.pizza: Quaternius, Kay Lousberg e kazuma (CC0); Poly by Google, Ivan Klus, PuKkBuMXDD e jeremy (CC-BY 3.0). Créditos em Configurações > Aplicativo."
-      ]
-    },
-    {
-      "versao": "0.10.5",
-      "data": "27/10/2026",
-      "itens": [
-        "Configurações em duas telas: a lista mostra cada assunto com o resumo do que está escolhido; tocar abre o assunto, onde você altera e toca em Salvar para voltar. O voltar do celular volta para a lista.",
-        "Ícone da posição: tamanho (de 50% a 200%), cor de dentro e cor da borda (laterais da seta, cabine e detalhes dos veículos e o anel no chão).",
-        "Menu: \"Navegação\" abre os ajustes da navegação (veículo, avisos, ícone da posição e evitar na rota), no lugar do antigo \"Navegação livre\", que só voltava ao mapa.",
-        "Ao abrir ou voltar ao aplicativo, a tela só aparece com o estilo e a sua cor já aplicados: sem as bordas brancas e sem o vermelho antes da cor escolhida.",
-        "O voltar do celular não fecha mais o aplicativo: volta uma tela e, na tela inicial, só manda o aplicativo para o fundo."
       ]
     }
   ]
