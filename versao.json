@@ -1,15 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.8",
-  "codigo": 39,
+  "versao": "0.10.9",
+  "codigo": 40,
   "data": "27/10/2026",
-  "tamanho": 196278200,
-  "sha256": "b1661fbaac6f3243e4d1f43df20611198ba25184bf1d51fbe4d3e81d52c7dc92",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.8/MapaFullRamos-0.10.8.apk",
+  "tamanho": 196278292,
+  "sha256": "1bbbdf324742eb60246a79afa7de006549944f6be93c3ed9eb36969862491710",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.9/MapaFullRamos-0.10.9.apk",
   "notas": [
-    "Segurança: o nome da tela do carro (informado pelo aparelho conectado) aparece nas Configurações só como texto."
+    "O aviso de versão nova volta a aparecer sozinho também quando o aplicativo volta do fundo ou quando você troca entre o mapa completo e a navegação (antes só depois da animação de abertura)."
   ],
   "versoes": [
+    {
+      "versao": "0.10.9",
+      "data": "27/10/2026",
+      "itens": [
+        "O aviso de versão nova volta a aparecer sozinho também quando o aplicativo volta do fundo ou quando você troca entre o mapa completo e a navegação (antes só depois da animação de abertura)."
+      ]
+    },
     {
       "versao": "0.10.8",
       "data": "27/10/2026",
@@ -111,13 +118,6 @@
       "itens": [
         "O aplicativo abre com tudo desligado, no mapa completo e na tela 3D: sem áreas (shapes), camadas, unidades ou locais ligados. Você liga só o que precisar, e o mapa carrega mais rápido.",
         "Durante o uso, o que você ligar continua ligado ao trocar entre o mapa completo e a navegação 3D; ao abrir o aplicativo de novo, começa desligado. A posição do mapa, o dia/noite, as cores e a ordem dos cards são mantidos."
-      ]
-    },
-    {
-      "versao": "0.9.7",
-      "data": "27/10/2026",
-      "itens": [
-        "Ferramentas (mapa completo): abre só com os ícones, numa coluna estreita; a seta do cabeçalho mostra os nomes e, de novo, volta aos ícones. Para fechar, toque no mapa ou escolha uma opção."
       ]
     }
   ]
