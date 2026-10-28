@@ -1,15 +1,26 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.11.1",
-  "codigo": 46,
+  "versao": "0.11.2",
+  "codigo": 47,
   "data": "28/10/2026",
-  "tamanho": 196293359,
-  "sha256": "70a8fe8fde9b7b4b37768c8e8a155a9171ce517bd34018109642ce07f22cb937",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.1/MapaFullRamos-0.11.1.apk",
+  "tamanho": 196294903,
+  "sha256": "14f183f1ae704f9b7a73d27e4979825df8ad6811e6ff694783e12e52bdda4480",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.2/MapaFullRamos-0.11.2.apk",
   "notas": [
-    "Configurações agora é sempre a última opção: no menu ☰ (depois de Novidades), no menu Ferramentas do mapa completo e nas opções da navegação (os atalhos Evitar na rota e Ícone da posição ficam no fim, abaixo de Encerrar a rota)."
+    "Curvas suaves: a seta e o mapa agora giram juntos, sem trancos. Antes, a cada posição do GPS (uma por segundo), a seta dava um \"puxão\" e o mapa girava em outro ritmo; agora o movimento é calculado a cada quadro da tela.",
+    "Com rota, a seta segue o desenho da própria rua e começa a virar um pouco antes da curva; sem rota, segue a direção e a taxa de giro do GPS.",
+    "Entre uma posição e outra do GPS a seta continua andando na sua velocidade, sem as paradinhas de antes. Ao tocar em Iniciar, o mapa gira até a direção da rota de forma suave."
   ],
   "versoes": [
+    {
+      "versao": "0.11.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Curvas suaves: a seta e o mapa agora giram juntos, sem trancos. Antes, a cada posição do GPS (uma por segundo), a seta dava um \"puxão\" e o mapa girava em outro ritmo; agora o movimento é calculado a cada quadro da tela.",
+        "Com rota, a seta segue o desenho da própria rua e começa a virar um pouco antes da curva; sem rota, segue a direção e a taxa de giro do GPS.",
+        "Entre uma posição e outra do GPS a seta continua andando na sua velocidade, sem as paradinhas de antes. Ao tocar em Iniciar, o mapa gira até a direção da rota de forma suave."
+      ]
+    },
     {
       "versao": "0.11.1",
       "data": "28/10/2026",
@@ -103,13 +114,6 @@
         "Menu: \"Navegação\" abre os ajustes da navegação (veículo, avisos, ícone da posição e evitar na rota), no lugar do antigo \"Navegação livre\", que só voltava ao mapa.",
         "Ao abrir ou voltar ao aplicativo, a tela só aparece com o estilo e a sua cor já aplicados: sem as bordas brancas e sem o vermelho antes da cor escolhida.",
         "O voltar do celular não fecha mais o aplicativo: volta uma tela e, na tela inicial, só manda o aplicativo para o fundo."
-      ]
-    },
-    {
-      "versao": "0.10.4",
-      "data": "27/10/2026",
-      "itens": [
-        "Seta da posição sem o \"gira e volta\": a cada leitura do GPS ela voltava ao ângulo anterior e girava de novo; agora gira só para a direção nova, suave."
       ]
     }
   ]
