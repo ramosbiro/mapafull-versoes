@@ -1,17 +1,22 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.11",
-  "codigo": 42,
+  "versao": "0.10.12",
+  "codigo": 43,
   "data": "27/10/2026",
-  "tamanho": 196279352,
-  "sha256": "59202c06eb38d2f482d1900f953ddbe5ebef9ec906bd71bbd8ff320f7524b30b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.11/MapaFullRamos-0.10.11.apk",
+  "tamanho": 196280512,
+  "sha256": "aaf118f7809ac05cb4c7ec904d36cdbbf633d2a32999f61a5e674748978b8804",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.12/MapaFullRamos-0.10.12.apk",
   "notas": [
-    "A tela do celular fica sempre acesa com o aplicativo aberto (na tela do carro também).",
-    "Cor do ícone vale para todos, inclusive táxi, viaturas, ambulância e bombeiros. Nova cor \"Original\" (paleta colorida) mantém as cores do próprio modelo, com a pintura oficial; ao escolher táxi ou viatura ela já vem marcada.",
-    "Ícone da posição: cada grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) em um cartão, e uma busca para digitar o tipo de ícone (táxi, viatura, moto, ônibus...)."
+    "Ícone de moto de verdade (rodas, motor, tanque, banco e farol) no Perfil do veículo e na biblioteca de ícones; antes era o desenho de um patinete, que agora fica no Patinete."
   ],
   "versoes": [
+    {
+      "versao": "0.10.12",
+      "data": "27/10/2026",
+      "itens": [
+        "Ícone de moto de verdade (rodas, motor, tanque, banco e farol) no Perfil do veículo e na biblioteca de ícones; antes era o desenho de um patinete, que agora fica no Patinete."
+      ]
+    },
     {
       "versao": "0.10.11",
       "data": "27/10/2026",
@@ -107,15 +112,6 @@
       "itens": [
         "Biblioteca de ícones da posição ampliada, todos em 3D: viatura da PM (giroflex piscando e \"PM\" no teto), viatura da Força Tática, moto da PM, ambulância, caminhão de bombeiros, helicóptero com rotor girando, ônibus, van, táxi, carro de aplicativo, SUV, picape, esportivo, patinete e ponto, além de seta, carro, moto, caminhão, bicicleta e a pé.",
         "Escolha em grade por grupo (Navegação, Carros, Segurança e emergência, Transporte, Duas rodas e a pé) e mais cores (amarelo e ciano). Viaturas, ambulância, bombeiros e táxi têm a pintura oficial; neles a cor vale para o anel no chão."
-      ]
-    },
-    {
-      "versao": "0.10.0",
-      "data": "27/10/2026",
-      "itens": [
-        "A seta grande de navegação voltou, agora em 3D de verdade: deita e inclina com o mapa, gira com a direção e desliza entre uma posição do GPS e a próxima.",
-        "Biblioteca de ícones da posição: seta, carro, moto, caminhão, bicicleta ou pessoa a pé, todos em 3D, e a cor do ícone (cor de destaque, azul, vermelho, verde, laranja, roxo, grafite ou branco). Em Configurações > Ícone da posição, ou pelas opções do velocímetro.",
-        "Correção: ao abrir, a câmera às vezes não seguia a sua posição."
       ]
     }
   ]
