@@ -1,15 +1,30 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.4",
-  "codigo": 35,
+  "versao": "0.10.5",
+  "codigo": 36,
   "data": "27/10/2026",
-  "tamanho": 194733917,
-  "sha256": "1f466f8d74cae5cc8f0b554139873816805fc3192b372761baa8ffb7422bbaea",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.4/MapaFullRamos-0.10.4.apk",
+  "tamanho": 194737421,
+  "sha256": "87e84a5f1e4309e50eb57c2f1083f61648ed7bfea13af6d7d7db7cd6ceb795eb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.5/MapaFullRamos-0.10.5.apk",
   "notas": [
-    "Seta da posição sem o \"gira e volta\": a cada leitura do GPS ela voltava ao ângulo anterior e girava de novo; agora gira só para a direção nova, suave."
+    "Configurações em duas telas: a lista mostra cada assunto com o resumo do que está escolhido; tocar abre o assunto, onde você altera e toca em Salvar para voltar. O voltar do celular volta para a lista.",
+    "Ícone da posição: tamanho (de 50% a 200%), cor de dentro e cor da borda (laterais da seta, cabine e detalhes dos veículos e o anel no chão).",
+    "Menu: \"Navegação\" abre os ajustes da navegação (veículo, avisos, ícone da posição e evitar na rota), no lugar do antigo \"Navegação livre\", que só voltava ao mapa.",
+    "Ao abrir ou voltar ao aplicativo, a tela só aparece com o estilo e a sua cor já aplicados: sem as bordas brancas e sem o vermelho antes da cor escolhida.",
+    "O voltar do celular não fecha mais o aplicativo: volta uma tela e, na tela inicial, só manda o aplicativo para o fundo."
   ],
   "versoes": [
+    {
+      "versao": "0.10.5",
+      "data": "27/10/2026",
+      "itens": [
+        "Configurações em duas telas: a lista mostra cada assunto com o resumo do que está escolhido; tocar abre o assunto, onde você altera e toca em Salvar para voltar. O voltar do celular volta para a lista.",
+        "Ícone da posição: tamanho (de 50% a 200%), cor de dentro e cor da borda (laterais da seta, cabine e detalhes dos veículos e o anel no chão).",
+        "Menu: \"Navegação\" abre os ajustes da navegação (veículo, avisos, ícone da posição e evitar na rota), no lugar do antigo \"Navegação livre\", que só voltava ao mapa.",
+        "Ao abrir ou voltar ao aplicativo, a tela só aparece com o estilo e a sua cor já aplicados: sem as bordas brancas e sem o vermelho antes da cor escolhida.",
+        "O voltar do celular não fecha mais o aplicativo: volta uma tela e, na tela inicial, só manda o aplicativo para o fundo."
+      ]
+    },
     {
       "versao": "0.10.4",
       "data": "27/10/2026",
@@ -100,13 +115,6 @@
       "data": "27/10/2026",
       "itens": [
         "A gota vermelha (pino de destino) ficou pequena e dentro do mapa, no fim da rota: no ícone do aplicativo e na animação de abertura. O desenho do ícone ficou centralizado."
-      ]
-    },
-    {
-      "versao": "0.9.3",
-      "data": "27/10/2026",
-      "itens": [
-        "O pino ficou inteiro vermelho, sem o ponto branco no meio: na animação de abertura e no ícone do aplicativo."
       ]
     }
   ]
