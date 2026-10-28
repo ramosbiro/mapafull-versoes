@@ -1,18 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.13.0",
-  "codigo": 54,
+  "versao": "0.13.1",
+  "codigo": 55,
   "data": "28/10/2026",
-  "tamanho": 196113477,
-  "sha256": "f3d3160c9dfe471da2fa225984d6f1efc5ff5a300c3ae100d52756541940d269",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.0/Vrumbi-0.13.0.apk",
+  "tamanho": 196114969,
+  "sha256": "ff129b5f774d38cfd5117c92cca03f766470d23f78f9222ec5a14e3f4c2007e6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.1/Vrumbi-0.13.1.apk",
   "notas": [
-    "Novo: alertas da comunidade. O botão laranja Avisar (na tela principal e durante a rota) abre cartões prontos: acidente, trânsito parado, buraco, obra, objeto na pista, veículo parado, alagamento, via interditada e semáforo apagado. Um toque e pronto: o aviso vai para o ponto exato da via em que você está, no seu sentido da pista.",
-    "Os avisos aparecem no mapa para todo mundo que usa o Vrumbi, cada um com o seu ícone e cor. Toque no ícone para ver há quanto tempo foi marcado e responder \"Ainda está lá\" ou \"Não está mais\".",
-    "Dirigindo, o que estiver à frente no seu sentido aparece junto dos radares e a voz avisa (\"Atenção: buraco na via a 200 metros\"). Depois de passar, o Vrumbi pergunta se ainda está lá, com dois botões grandes que somem sozinhos.",
-    "Anônimo: não vai nome, telefone nem rota. Cada aviso some sozinho (trânsito em meia hora, buraco em alguns dias) e cada confirmação renova. Errou? Toque em Desfazer logo depois de enviar. Para não ver os alertas, desligue em Ajustes, \"Alertas da comunidade\"."
+    "Interface e mapa agora têm escolhas separadas, cada um com Auto, Claro (Dia) ou Escuro (Noite): tudo claro, tudo escuro ou, por exemplo, a interface escura com o mapa no automático. Uma não muda a outra; só com as duas no Auto elas mudam juntas. Fica em Ajustes rápidos e em Configurações > Aparência, com a explicação na tela.",
+    "Ao pôr uma delas no Auto com a outra fixa, o Vrumbi pergunta se você quer a outra no Auto também (\"Sim, os dois no Auto\" ou \"Não\").",
+    "Automático por horário: claro das 6h às 18h e escuro das 18h às 6h. E dentro de túneis o que estiver no Auto escurece na hora, voltando ao sair (passar POR CIMA de um túnel não conta).",
+    "A faixa da manobra (\"Vire à esquerda...\") agora segue a interface: clara no tema claro, escura no escuro.",
+    "Correção: quando o tema trocava no meio de uma rota (por exemplo, às 18h), a linha azul da rota sumia do mapa. Agora ela continua.",
+    "No mapa completo, Dia/Noite/Automático das Camadas é a mesma escolha \"Mapa\" da Aparência."
   ],
   "versoes": [
+    {
+      "versao": "0.13.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Interface e mapa agora têm escolhas separadas, cada um com Auto, Claro (Dia) ou Escuro (Noite): tudo claro, tudo escuro ou, por exemplo, a interface escura com o mapa no automático. Uma não muda a outra; só com as duas no Auto elas mudam juntas. Fica em Ajustes rápidos e em Configurações > Aparência, com a explicação na tela.",
+        "Ao pôr uma delas no Auto com a outra fixa, o Vrumbi pergunta se você quer a outra no Auto também (\"Sim, os dois no Auto\" ou \"Não\").",
+        "Automático por horário: claro das 6h às 18h e escuro das 18h às 6h. E dentro de túneis o que estiver no Auto escurece na hora, voltando ao sair (passar POR CIMA de um túnel não conta).",
+        "A faixa da manobra (\"Vire à esquerda...\") agora segue a interface: clara no tema claro, escura no escuro.",
+        "Correção: quando o tema trocava no meio de uma rota (por exemplo, às 18h), a linha azul da rota sumia do mapa. Agora ela continua.",
+        "No mapa completo, Dia/Noite/Automático das Camadas é a mesma escolha \"Mapa\" da Aparência."
+      ]
+    },
     {
       "versao": "0.13.0",
       "data": "28/10/2026",
@@ -112,13 +126,6 @@
       "itens": [
         "Favoritos, Casa, Trabalho e todas as configurações agora são gravados na hora no armazenamento do Android: não se perdem mais se o aparelho fechar o aplicativo logo depois de salvar. E entram no backup automático do Android na sua conta Google.",
         "Configurações > Meus lugares e backup: veja o que está salvo, salve uma cópia de tudo no Google Drive ou no celular e restaure de uma cópia (também em outro celular)."
-      ]
-    },
-    {
-      "versao": "0.10.12",
-      "data": "27/10/2026",
-      "itens": [
-        "Ícone de moto de verdade (rodas, motor, tanque, banco e farol) no Perfil do veículo e na biblioteca de ícones; antes era o desenho de um patinete, que agora fica no Patinete."
       ]
     }
   ]
