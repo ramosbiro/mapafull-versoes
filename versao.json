@@ -1,16 +1,30 @@
 {
   "nome": "MapaFull Ramos",
-  "versao": "0.10.13",
-  "codigo": 44,
+  "versao": "0.11.0",
+  "codigo": 45,
   "data": "28/10/2026",
-  "tamanho": 196285971,
-  "sha256": "ec023ef331f87f83c8176fdb0fece94c143b79b1d5c4d08ea40ef8e8849883bc",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.10.13/MapaFullRamos-0.10.13.apk",
+  "tamanho": 196957028,
+  "sha256": "85fd383cf146aee00f45f55bef27e76334bb96fe038e0240e5cf86a726e9270f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.11.0/MapaFullRamos-0.11.0.apk",
   "notas": [
-    "Favoritos, Casa, Trabalho e todas as configurações agora são gravados na hora no armazenamento do Android: não se perdem mais se o aparelho fechar o aplicativo logo depois de salvar. E entram no backup automático do Android na sua conta Google.",
-    "Configurações > Meus lugares e backup: veja o que está salvo, salve uma cópia de tudo no Google Drive ou no celular e restaure de uma cópia (também em outro celular)."
+    "Busca de endereço com TODOS os números: o cadastro de endereços do Censo 2022 (IBGE) com 12,8 milhões de números em 620 mil ruas do Estado de São Paulo. O número digitado aparece exato (\"número exato\") ou, se não estiver no cadastro, calculado entre os vizinhos do mesmo lado da rua (\"posição aproximada\"), com bairro, cidade e CEP.",
+    "Vale para tudo: \"Para onde?\" da navegação, rota, favoritos, Casa e Trabalho, e a busca e a aba Rota do mapa completo.",
+    "Entende o jeito de digitar: com ou sem acento, abreviações (R., Av., Dr., Prof., Jd., Pq.), número por extenso (\"25 de Março\" = \"Vinte e Cinco de Março\"), \"nº\", e a cidade no fim (\"Rua X, 120, Mogi das Cruzes\").",
+    "Cada resultado tem os botões Ir e Salvar. Salvar pede o título do lugar (ex.: \"Casa da mãe\") e se é Favorito, Casa ou Trabalho; nos Favoritos, o lápis muda o título.",
+    "Os endereços de cada cidade são baixados uma vez e ficam no celular: a busca funciona até sem internet."
   ],
   "versoes": [
+    {
+      "versao": "0.11.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Busca de endereço com TODOS os números: o cadastro de endereços do Censo 2022 (IBGE) com 12,8 milhões de números em 620 mil ruas do Estado de São Paulo. O número digitado aparece exato (\"número exato\") ou, se não estiver no cadastro, calculado entre os vizinhos do mesmo lado da rua (\"posição aproximada\"), com bairro, cidade e CEP.",
+        "Vale para tudo: \"Para onde?\" da navegação, rota, favoritos, Casa e Trabalho, e a busca e a aba Rota do mapa completo.",
+        "Entende o jeito de digitar: com ou sem acento, abreviações (R., Av., Dr., Prof., Jd., Pq.), número por extenso (\"25 de Março\" = \"Vinte e Cinco de Março\"), \"nº\", e a cidade no fim (\"Rua X, 120, Mogi das Cruzes\").",
+        "Cada resultado tem os botões Ir e Salvar. Salvar pede o título do lugar (ex.: \"Casa da mãe\") e se é Favorito, Casa ou Trabalho; nos Favoritos, o lápis muda o título.",
+        "Os endereços de cada cidade são baixados uma vez e ficam no celular: a busca funciona até sem internet."
+      ]
+    },
     {
       "versao": "0.10.13",
       "data": "28/10/2026",
@@ -103,16 +117,6 @@
         "Parado ou a pé, a seta segue a bússola do aparelho; num veículo parado (trem na estação, carro no semáforo) fica a direção em que você vinha, porque motor e metal desviam a bússola.",
         "A seta aparece sempre por cima dos prédios 3D, sem entrar nos quarteirões.",
         "Voltar ao aplicativo depois de usar outro não repete a abertura: em até 30 minutos ele volta na mesma tela, com as camadas e unidades que você ligou."
-      ]
-    },
-    {
-      "versao": "0.10.2",
-      "data": "27/10/2026",
-      "itens": [
-        "Cartão do local no lugar das pílulas: o endereço em destaque e, embaixo, a cidade e a área. Aparece quando a rua ou a área mudam e some sozinho; tocar abre a ficha do local onde você está.",
-        "O cartão e a ficha mostram batalhão, companhia, DP e bombeiros só quando essas áreas estão ligadas em Camadas: o aplicativo carrega o que você escolher.",
-        "Gestos no mapa 3D: pinça aproxima e afasta, dois dedos para cima ou para baixo deitam ou levantam o mapa (até o limite 3D ou 2D) e a câmera continua seguindo com o ajuste; girar ou arrastar soltam a câmera e \"Seguir\" retoma (tocar de novo volta ao zoom automático).",
-        "Navegação mais fluida: a câmera acompanha a posição quadro a quadro, sem os saltos a cada leitura do GPS."
       ]
     }
   ]
