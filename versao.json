@@ -1,19 +1,22 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.12.1",
-  "codigo": 49,
+  "versao": "0.12.2",
+  "codigo": 50,
   "data": "28/10/2026",
-  "tamanho": 196102833,
-  "sha256": "12494409e69f9036b46d1e2fae980f307922bc2b1fb31fa04c82690d5c6f113c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.1/Vrumbi-0.12.1.apk",
+  "tamanho": 196102709,
+  "sha256": "0a4e8f6aa9f101477d74e7540a4051883e16a5cbaaf3929b373b09a7f86c53cb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.12.2/Vrumbi-0.12.2.apk",
   "notas": [
-    "Ícone da posição na medida certa: com o mapa afastado (como na escolha da rota) o carro, a seta ou o modelo escolhido diminui junto com o mapa, em vez de cobrir quarteirões. Dirigindo, continua do mesmo tamanho de antes.",
-    "O destino agora aparece no mapa: o Vrumbi espera no fim da rota e comemora quando você chega.",
-    "Botão Tema na tela principal (ao lado de Som e Ajustes): um toque troca entre Automático (claro de dia, escuro à noite), Claro e Escuro. Quem tinha ficado preso no escuro volta ao automático.",
-    "Voltar do Android: agora fecha a janela aberta e volta uma tela (menu, Favoritos, Busca, Configurações, mapas offline e avisos). Na escolha da rota, voltar cancela. Antes ele saía do aplicativo.",
-    "Configurações > GPS e bússola: sinal do GPS ao vivo (precisão em metros, com nota), bússola com mostrador, \"Calibrar a bússola\" com o passo a passo do oito no ar, ajuste fino do norte e dicas para um sinal melhor."
+    "Dia, Noite ou Automático do mapa agora fica nos Ajustes rápidos (botão Ajustes da tela principal), logo no topo. Automático: claro de dia e escuro à noite, pelo nascer e pôr do sol. O botão Tema separado saiu da tela."
   ],
   "versoes": [
+    {
+      "versao": "0.12.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Dia, Noite ou Automático do mapa agora fica nos Ajustes rápidos (botão Ajustes da tela principal), logo no topo. Automático: claro de dia e escuro à noite, pelo nascer e pôr do sol. O botão Tema separado saiu da tela."
+      ]
+    },
     {
       "versao": "0.12.1",
       "data": "28/10/2026",
@@ -107,17 +110,6 @@
       "data": "27/10/2026",
       "itens": [
         "Segurança: o nome da tela do carro (informado pelo aparelho conectado) aparece nas Configurações só como texto."
-      ]
-    },
-    {
-      "versao": "0.10.7",
-      "data": "27/10/2026",
-      "itens": [
-        "Tela do carro: com o celular ligado a outra tela (cabo USB-C/HDMI ou espelhamento sem fio na central multimídia), o aplicativo abre nela a navegação 3D própria, deitada e sem botões: mapa, seta, rua, manobra, chegada e velocímetro. Os controles e a voz ficam no celular.",
-        "A rota escolhida no celular aparece na hora na tela do carro (a mesma, sem escolher de novo), e encerrar no celular encerra lá também.",
-        "Configurações > Navegação > Tela do carro: situação da tela, abrir ou fechar, e abrir sozinha ao conectar.",
-        "Placa de limite de velocidade fora dos números do velocímetro.",
-        "Botões Som e Ajustes sempre à vista, abaixo do menu: um toque liga ou desliga a voz (desligada fica vermelha, \"Mudo\"); Ajustes abre as opções rápidas (voz, radares, excesso de velocidade, tolerância, INMET, evitar na rota e ícone). Na rota, o Som fica acima do velocímetro."
       ]
     }
   ]
