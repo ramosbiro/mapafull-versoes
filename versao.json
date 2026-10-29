@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.14.1",
-  "codigo": 58,
+  "versao": "0.14.2",
+  "codigo": 59,
   "data": "28/10/2026",
-  "tamanho": 196228026,
-  "sha256": "3ae510948938e472c9227f21a61270d94efc59620feceadd29809616a5b97c3e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.14.1/Vrumbi-0.14.1.apk",
+  "tamanho": 196235214,
+  "sha256": "02b2f538b7c5299bee95bd5cd32505e23f4c691df688caf2883079e2cd26058d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.14.2/Vrumbi-0.14.2.apk",
   "notas": [
-    "Idioma também no mapa completo: painéis, camadas, busca, rota, medidas, alertas, análise criminal, impressão e ferramentas em inglês e espanhol (mais de 2.500 textos traduzidos)."
+    "Busca mais fácil: além da rua, agora há campos para Nº, Bairro e Cidade. Digite o CEP e o Vrumbi preenche rua, bairro e cidade sozinho. A mesma rua em bairros ou cidades diferentes aparece separada, e o Vrumbi avisa para você escolher a certa.",
+    "Errou o endereço? Na tela do local, troque o número ali mesmo ou toque em \"Corrigir busca\" para voltar à busca já preenchida. Na escolha da rota também há \"Corrigir destino\". E a lupa mostra a sua última busca.",
+    "Avisar com muito mais opções, em grupos e com rolagem: trânsito lento, faixa interditada, desvio, evento, reforma da via, óleo na pista, animal, árvore caída, falta de sinalização, via sem iluminação, chuva forte, neblina, fumaça, blitz ou operação, radar móvel e \"Outro\". Os que você mais usa aparecem primeiro.",
+    "Novo campo de detalhe no Avisar (ex.: \"faixa da direita, sentido centro\"): quem toca no aviso vê o que você escreveu."
   ],
   "versoes": [
+    {
+      "versao": "0.14.2",
+      "data": "28/10/2026",
+      "itens": [
+        "Busca mais fácil: além da rua, agora há campos para Nº, Bairro e Cidade. Digite o CEP e o Vrumbi preenche rua, bairro e cidade sozinho. A mesma rua em bairros ou cidades diferentes aparece separada, e o Vrumbi avisa para você escolher a certa.",
+        "Errou o endereço? Na tela do local, troque o número ali mesmo ou toque em \"Corrigir busca\" para voltar à busca já preenchida. Na escolha da rota também há \"Corrigir destino\". E a lupa mostra a sua última busca.",
+        "Avisar com muito mais opções, em grupos e com rolagem: trânsito lento, faixa interditada, desvio, evento, reforma da via, óleo na pista, animal, árvore caída, falta de sinalização, via sem iluminação, chuva forte, neblina, fumaça, blitz ou operação, radar móvel e \"Outro\". Os que você mais usa aparecem primeiro.",
+        "Novo campo de detalhe no Avisar (ex.: \"faixa da direita, sentido centro\"): quem toca no aviso vê o que você escreveu."
+      ],
+      "en": [
+        "Easier search: besides the street, there are now fields for No., Neighborhood and City. Type the ZIP code and Vrumbi fills in street, neighborhood and city. The same street in different neighborhoods or cities shows separately, and Vrumbi tells you to pick the right one.",
+        "Wrong address? On the place screen, change the number right there or tap \"Fix search\" to go back to the search already filled in. Route options also have \"Fix destination\". And the search shows your last search.",
+        "Report with many more options, in groups and scrollable: slow traffic, lane closed, detour, event, road resurfacing, oil on the road, animal, fallen tree, missing signs, unlit road, heavy rain, fog, smoke, checkpoint or operation, mobile speed camera and \"Other\". The ones you use most come first.",
+        "New detail field in Report (e.g. \"right lane, toward downtown\"): whoever taps the alert sees what you wrote."
+      ],
+      "es": [
+        "Búsqueda más fácil: además de la calle, ahora hay campos para Nº, Barrio y Ciudad. Escribe el código postal y Vrumbi completa calle, barrio y ciudad. La misma calle en barrios o ciudades diferentes aparece por separado, y Vrumbi te avisa para elegir la correcta.",
+        "¿Dirección equivocada? En la pantalla del lugar, cambia el número ahí mismo o toca \"Corregir búsqueda\" para volver a la búsqueda ya completada. Las opciones de ruta también tienen \"Corregir destino\". Y la lupa muestra tu última búsqueda.",
+        "Avisar con muchas más opciones, en grupos y con desplazamiento: tráfico lento, carril cerrado, desvío, evento, reparación de la vía, aceite en la vía, animal, árbol caído, falta de señalización, vía sin iluminación, lluvia fuerte, niebla, humo, retén u operativo, radar móvil y \"Otro\". Los que más usas aparecen primero.",
+        "Nuevo campo de detalle en Avisar (ej.: \"carril derecho, sentido centro\"): quien toca el aviso ve lo que escribiste."
+      ]
+    },
     {
       "versao": "0.14.1",
       "data": "28/10/2026",
@@ -123,15 +148,6 @@
         "O Vrumbi reage à sua viagem: \"Bora!\" ao iniciar a rota, cara de dúvida ao recalcular, festa com confete quando você chega e, em viagens longas, um lembrete de pausa a cada 2 horas de estrada.",
         "No menu e nas Configurações o Vrumbi está vivo: olha para os lados, pisca, dá piscadinha, sorri e ri. Ele também aparece nas atualizações e nos mapas offline.",
         "Seus favoritos, configurações e mapas baixados continuam como estavam, e os backups feitos com o nome antigo continuam valendo."
-      ]
-    },
-    {
-      "versao": "0.11.2",
-      "data": "28/10/2026",
-      "itens": [
-        "Curvas suaves: a seta e o mapa agora giram juntos, sem trancos. Antes, a cada posição do GPS (uma por segundo), a seta dava um \"puxão\" e o mapa girava em outro ritmo; agora o movimento é calculado a cada quadro da tela.",
-        "Com rota, a seta segue o desenho da própria rua e começa a virar um pouco antes da curva; sem rota, segue a direção e a taxa de giro do GPS.",
-        "Entre uma posição e outra do GPS a seta continua andando na sua velocidade, sem as paradinhas de antes. Ao tocar em Iniciar, o mapa gira até a direção da rota de forma suave."
       ]
     }
   ]
