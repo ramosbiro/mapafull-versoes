@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.5",
-  "codigo": 106,
+  "versao": "0.40.6",
+  "codigo": 107,
   "data": "29/10/2026",
-  "tamanho": 200719728,
-  "sha256": "830b1850d2e53588f00849edba6e1afaec0ff6ba9d3e3754d84493acafda3dd8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.5/Vrumbi-0.40.5.apk",
+  "tamanho": 200716916,
+  "sha256": "0ba85845dc6627f98abc5f7f8e7921720b8ff41fe5ec2c042b8b9f8f1ffe4bb1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.6/Vrumbi-0.40.6.apk",
   "notas": [
-    "Ícone de fumaça: volta a largura de antes; só as colunas ficaram mais baixas."
+    "Ícone de fumaça mais para cima no quadro, encostando no sol (ou na lua)."
   ],
   "versoes": [
+    {
+      "versao": "0.40.6",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça mais para cima no quadro, encostando no sol (ou na lua)."
+      ],
+      "en": [
+        "Smoke icon moved up in the frame, touching the sun (or moon)."
+      ],
+      "es": [
+        "Icono de humo más arriba en el cuadro, tocando el sol (o la luna)."
+      ]
+    },
     {
       "versao": "0.40.5",
       "data": "29/10/2026",
@@ -172,19 +185,6 @@
         "La lista \"En tu pantalla\" ya no muestra widgets que no llegaron a la pantalla; tocar el lápiz del widget en la pantalla de inicio abre su configuración.",
         "Vistas previas del widget con el cielo correcto: luna y nubes en las horas de la noche (antes salía sol a las 20 h).",
         "Los iconos de los botones Multimedia y Mensajes con el color del sistema, como los demás."
-      ]
-    },
-    {
-      "versao": "0.38.5",
-      "data": "29/10/2026",
-      "itens": [
-        "O botão Música virou Mídia, com o ícone de play: ele abre o player de música dos seus apps, vídeos do celular e YouTube."
-      ],
-      "en": [
-        "The Music button is now Media, with a play icon: it opens the player for music from your apps, phone videos and YouTube."
-      ],
-      "es": [
-        "El botón Música pasó a llamarse Multimedia, con el icono de reproducir: abre el reproductor de la música de tus apps, los videos del teléfono y YouTube."
       ]
     }
   ]
