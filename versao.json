@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.8",
-  "codigo": 98,
+  "versao": "0.38.9",
+  "codigo": 99,
   "data": "29/10/2026",
-  "tamanho": 199367332,
-  "sha256": "7acbcc06ecb8fc6d97659cf5e094d8d8d643dab731a2fa61a1133db9db6ad9aa",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.8/Vrumbi-0.38.8.apk",
+  "tamanho": 199588580,
+  "sha256": "179a3c1bc6d7ce48ff222352a868311d2f6c20af27d9bcf76273ccd96b94e4e0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.9/Vrumbi-0.38.9.apk",
   "notas": [
-    "Widget Clima e relógio com a nossa marca no alto: o ícone, \"Vrumbi\" no laranja da marca e o local (ex.: Vrumbi · Glicério)."
+    "Ícones do tempo realistas, com o desenho do Vrumbi: nuvens com volume e sombra, sol com brilho, lua com relevo, chuva, garoa, trovoada, granizo, neve e neblina. No widget, em Configurações do widget > Ícones do tempo > Tipo: Coloridos, Realistas ou Na cor do texto."
   ],
   "versoes": [
+    {
+      "versao": "0.38.9",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícones do tempo realistas, com o desenho do Vrumbi: nuvens com volume e sombra, sol com brilho, lua com relevo, chuva, garoa, trovoada, granizo, neve e neblina. No widget, em Configurações do widget > Ícones do tempo > Tipo: Coloridos, Realistas ou Na cor do texto."
+      ],
+      "en": [
+        "Realistic weather icons, drawn by Vrumbi: clouds with volume and shadow, a glowing sun, a moon with relief, rain, drizzle, thunderstorm, hail, snow and fog. In the widget, under Widget settings > Weather icons > Type: Colored, Realistic or In the text color."
+      ],
+      "es": [
+        "Iconos del tiempo realistas, con el diseño de Vrumbi: nubes con volumen y sombra, sol con brillo, luna con relieve, lluvia, llovizna, tormenta, granizo, nieve y niebla. En el widget, en Configuración del widget > Iconos del tiempo > Tipo: De colores, Realistas o Del color del texto."
+      ]
+    },
     {
       "versao": "0.38.8",
       "data": "29/10/2026",
@@ -202,31 +215,6 @@
         "Bandeja de mensajes: el botón Mensajes (con el número de no leídos) guarda las conversaciones que llegaron. Toca una para leer y responder; si la lees en el propio WhatsApp, sale del número sola.",
         "El aviso de mensaje nuevo ahora es discreto: una línea arriba durante unos segundos. Tocar abre la conversación; la X o deslizar hacia el lado la marca como vista. Se puede apagar en Configuración > Mensajes mientras conduces.",
         "Responde a tu manera: respuestas rápidas, escribir (con el auto detenido), Hablar (el micrófono escucha y lo pasa a texto, revisas y envías) y Audio (graba tu voz; al enviar, la app de la conversación se abre con el audio listo para elegir la conversación)."
-      ]
-    },
-    {
-      "versao": "0.36.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Player do seu jeito (botão de janelinha no alto do player): tamanhos prontos Pequeno, Médio e Grande, ou puxe por qualquer borda ou canto para o tamanho que quiser; o vídeo cresce junto.",
-        "Encaixar no canto: o player vira um quadrinho pequeno integrado à tela, com tocar/pausar e anterior/próxima ali mesmo. Ele escolhe sozinho um lugar livre no canto, sem cobrir os botões nem a manobra.",
-        "Arraste o player até a borda da tela e solte: ele encaixa (a borda acende avisando). Segure o encaixado meio segundo e ele se solta e volta a ser popup, já no seu dedo.",
-        "Tela dividida: o vídeo ocupa o alto (celular em pé) ou a esquerda (deitado) e o mapa fica com o resto, com todos os botões. Arraste a divisa para mudar o tamanho. Sem vídeo na tela (música, ou o carro andando), a divisão vira só uma faixa com os controles.",
-        "YouTube com botões próprios embaixo do vídeo: voltar e avançar 10 s, tocar/pausar e parar."
-      ],
-      "en": [
-        "Your player, your way (window button at the top of the player): ready sizes Small, Medium and Large, or pull any edge or corner to the size you want; the video grows with it.",
-        "Dock in a corner: the player becomes a small tile built into the screen, with play/pause and previous/next right there. It finds a free spot in the corner by itself, without covering the buttons or the next turn.",
-        "Drag the player to the edge of the screen and let go: it docks (the edge lights up to show it). Hold the docked one for half a second and it comes loose as a popup again, right under your finger.",
-        "Split screen: the video takes the top (phone upright) or the left (sideways) and the map gets the rest, with all its buttons. Drag the divider to change the size. With no video on screen (music, or the car moving), the split becomes just a strip with the controls.",
-        "YouTube with its own buttons under the video: back and forward 10 s, play/pause and stop."
-      ],
-      "es": [
-        "El reproductor a tu manera (botón de ventanita arriba del reproductor): tamaños listos Pequeño, Mediano y Grande, o tira de cualquier borde o esquina hasta el tamaño que quieras; el video crece con él.",
-        "Acoplar en una esquina: el reproductor se vuelve un cuadrito pequeño integrado a la pantalla, con reproducir/pausar y anterior/siguiente ahí mismo. Busca solo un lugar libre en la esquina, sin tapar los botones ni la maniobra.",
-        "Arrastra el reproductor hasta el borde de la pantalla y suéltalo: se acopla (el borde se ilumina avisando). Mantén el acoplado medio segundo y se suelta y vuelve a ser ventana, ya bajo tu dedo.",
-        "Pantalla dividida: el video ocupa la parte de arriba (celular de pie) o la izquierda (acostado) y el mapa queda con el resto, con todos sus botones. Arrastra la división para cambiar el tamaño. Sin video en pantalla (música, o el auto en marcha), la división queda solo como una franja con los controles.",
-        "YouTube con botones propios debajo del video: retroceder y avanzar 10 s, reproducir/pausar y detener."
       ]
     }
   ]
