@@ -1,17 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.24.0",
-  "codigo": 74,
+  "versao": "0.25.0",
+  "codigo": 75,
   "data": "29/10/2026",
-  "tamanho": 197490391,
-  "sha256": "a9e53d0d0bf68d39d126c68ae1e4aa60087c96d07477567f0b8247285dc1d14a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.24.0/Vrumbi-0.24.0.apk",
+  "tamanho": 197509779,
+  "sha256": "58f5511a63a336fa2574657f31c59d798a6da5e21d2ed9c5fe59f9b5508f5998",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.25.0/Vrumbi-0.25.0.apk",
   "notas": [
-    "Widgets na tela inicial do Android (toque longo na tela inicial > Widgets > Vrumbi): \"Para onde?\" abre a busca e, conforme o tamanho, tem também Casa, Trabalho e Meu carro, e no maior Ajuda, Avisar e Mapa.",
-    "Widget Navegação: durante a rota mostra a seta, a distância, a instrução e a chegada, sem abrir o app; sem rota, vira os atalhos.",
-    "Os widgets mudam de tamanho (é só esticar) e seguem o tema claro ou escuro do celular."
+    "Música: o botão Música na tela abre um mini player que controla a música de qualquer app (YouTube Music, Spotify, Deezer, rádio...): capa, música, artista, tocar/pausar, anterior, próxima, voltar e avançar 10 s, parar e a barra para posicionar a música.",
+    "O mini player é discreto e dá para arrastar para qualquer lugar da tela; ele fica onde você deixou. Com música tocando, o botão mostra as barrinhas. Na rota, abre pelo \"…\" da navegação.",
+    "Na primeira vez, o Vrumbi pede o Acesso às notificações (é por ele que o Android deixa controlar a música de outros apps). Nada tocando: aparecem os seus apps de música para abrir.",
+    "Quando o app de música recusa (ex.: o YouTube sem Premium não toca em segundo plano), o Vrumbi mostra o motivo e o botão para abrir o app."
   ],
   "versoes": [
+    {
+      "versao": "0.25.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Música: o botão Música na tela abre um mini player que controla a música de qualquer app (YouTube Music, Spotify, Deezer, rádio...): capa, música, artista, tocar/pausar, anterior, próxima, voltar e avançar 10 s, parar e a barra para posicionar a música.",
+        "O mini player é discreto e dá para arrastar para qualquer lugar da tela; ele fica onde você deixou. Com música tocando, o botão mostra as barrinhas. Na rota, abre pelo \"…\" da navegação.",
+        "Na primeira vez, o Vrumbi pede o Acesso às notificações (é por ele que o Android deixa controlar a música de outros apps). Nada tocando: aparecem os seus apps de música para abrir.",
+        "Quando o app de música recusa (ex.: o YouTube sem Premium não toca em segundo plano), o Vrumbi mostra o motivo e o botão para abrir o app."
+      ],
+      "en": [
+        "Music: the Music button on the screen opens a mini player that controls music from any app (YouTube Music, Spotify, Deezer, radio...): cover, song, artist, play/pause, previous, next, back and forward 10 s, stop and the bar to seek.",
+        "The mini player is discreet and can be dragged anywhere on the screen; it stays where you leave it. While music plays, the button shows little bars. On a route, open it from the navigation \"…\".",
+        "The first time, Vrumbi asks for Notification access (that is how Android lets an app control music from other apps). Nothing playing: your music apps show up to open.",
+        "When the music app refuses (e.g. YouTube without Premium does not play in the background), Vrumbi shows the reason and a button to open the app."
+      ],
+      "es": [
+        "Música: el botón Música en la pantalla abre un mini reproductor que controla la música de cualquier app (YouTube Music, Spotify, Deezer, radio...): portada, canción, artista, reproducir/pausar, anterior, siguiente, atrás y adelante 10 s, detener y la barra para posicionar la canción.",
+        "El mini reproductor es discreto y se puede arrastrar a cualquier lugar de la pantalla; queda donde lo dejes. Con música sonando, el botón muestra barritas. En la ruta, se abre desde el \"…\" de la navegación.",
+        "La primera vez, Vrumbi pide el Acceso a notificaciones (así Android deja controlar la música de otras apps). Si no suena nada: aparecen tus apps de música para abrir.",
+        "Cuando la app de música se niega (ej.: YouTube sin Premium no reproduce en segundo plano), Vrumbi muestra el motivo y el botón para abrir la app."
+      ]
+    },
     {
       "versao": "0.24.0",
       "data": "29/10/2026",
@@ -237,25 +260,6 @@
         "¡Vrumbi ahora es un autito! Los mismos ojos y la misma sonrisa, con retrovisores y ruedas. Cambiaron el ícono de la app, la apertura, los stickers y el personaje que explica las cosas.",
         "Se mueve con lo que dice: salta de alegría al actualizar, rebota en la suspensión, se inclina en la curva al recalcular y tiembla al arrancar.",
         "En el nombre, un mini autito es el punto de la i."
-      ]
-    },
-    {
-      "versao": "0.17.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Vrumbi em 18 idiomas: além de português, inglês e espanhol, agora francês, alemão, italiano, chinês, japonês, russo, coreano, turco, polonês, holandês, indonésio, vietnamita, ucraniano, hindi e árabe (da direita para a esquerda). A voz da navegação também fala no idioma escolhido.",
-        "Em Configurações → Idioma, escolha um deles ou deixe \"Padrão do sistema\", que segue o idioma do celular.",
-        "O app abre mais leve: cada idioma só é carregado quando é usado."
-      ],
-      "en": [
-        "Vrumbi in 18 languages: besides Portuguese, English and Spanish, now French, German, Italian, Chinese, Japanese, Russian, Korean, Turkish, Polish, Dutch, Indonesian, Vietnamese, Ukrainian, Hindi and Arabic (right to left). Navigation voice also speaks the chosen language.",
-        "In Settings → Language, pick one or keep \"System default\", which follows the phone language.",
-        "The app opens lighter: each language is only loaded when used."
-      ],
-      "es": [
-        "Vrumbi en 18 idiomas: además de portugués, inglés y español, ahora francés, alemán, italiano, chino, japonés, ruso, coreano, turco, polaco, neerlandés, indonesio, vietnamita, ucraniano, hindi y árabe (de derecha a izquierda). La voz de la navegación también habla en el idioma elegido.",
-        "En Configuración → Idioma, elige uno o deja \"Predeterminado del sistema\", que sigue el idioma del celular.",
-        "La app abre más ligera: cada idioma solo se carga cuando se usa."
       ]
     }
   ]
