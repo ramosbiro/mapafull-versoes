@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.13.2",
-  "codigo": 56,
+  "versao": "0.14.0",
+  "codigo": 57,
   "data": "28/10/2026",
-  "tamanho": 196118554,
-  "sha256": "6905fb16a18436a4b1e28410b72059687e0044d57f8ee32c3386f40aa5e2ca88",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.13.2/Vrumbi-0.13.2.apk",
+  "tamanho": 196140798,
+  "sha256": "f8231cef0486404a14a183ce2375ffd8f34e742318b6e05b975cd77c49643194",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.14.0/Vrumbi-0.14.0.apk",
   "notas": [
-    "O Vrumbi agora explica as coisas: onde antes havia um texto de explicação, é o personagem que fala, num balão (Ajustes rápidos, Favoritos, busca, Camadas, Avisar, Aparência, GPS e bússola, Tela do carro).",
-    "Interface e mapa: a explicação fixa saiu. Ao pôr um deles no Auto, o Vrumbi conta na hora como funciona (claro das 6h às 18h, escuro das 18h às 6h e nos túneis) e, se o outro estiver fixo, pergunta se você quer os dois no Auto."
+    "Novo: Idioma. Em Configurações > Idioma, escolha Português, English ou Español, ou \"Padrão do sistema\" (o idioma do celular). A tela de navegação muda inteira: menus, botões, avisos, alertas e também a voz e as instruções das manobras.",
+    "Nomes de ruas e lugares ficam como no mapa. O mapa completo ainda está sendo traduzido: algumas telas dele aparecem em português por enquanto."
   ],
   "versoes": [
+    {
+      "versao": "0.14.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Novo: Idioma. Em Configurações > Idioma, escolha Português, English ou Español, ou \"Padrão do sistema\" (o idioma do celular). A tela de navegação muda inteira: menus, botões, avisos, alertas e também a voz e as instruções das manobras.",
+        "Nomes de ruas e lugares ficam como no mapa. O mapa completo ainda está sendo traduzido: algumas telas dele aparecem em português por enquanto."
+      ],
+      "en": [
+        "New: Language. In Settings > Language, choose Português, English or Español, or \"System default\" (the phone's language). The whole navigation screen changes: menus, buttons, alerts, community alerts and also the voice and maneuver instructions.",
+        "Street and place names stay as they are on the map. The full map is still being translated: some of its screens show in Portuguese for now."
+      ],
+      "es": [
+        "Nuevo: Idioma. En Configuración > Idioma, elige Português, English o Español, o \"Predeterminado del sistema\" (el idioma del celular). Cambia toda la pantalla de navegación: menús, botones, avisos, alertas y también la voz y las instrucciones de las maniobras.",
+        "Los nombres de calles y lugares quedan como en el mapa. El mapa completo aún se está traduciendo: algunas de sus pantallas aparecen en portugués por ahora."
+      ]
+    },
     {
       "versao": "0.13.2",
       "data": "28/10/2026",
@@ -111,17 +127,6 @@
       "data": "28/10/2026",
       "itens": [
         "Configurações agora é sempre a última opção: no menu ☰ (depois de Novidades), no menu Ferramentas do mapa completo e nas opções da navegação (os atalhos Evitar na rota e Ícone da posição ficam no fim, abaixo de Encerrar a rota)."
-      ]
-    },
-    {
-      "versao": "0.11.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Busca de endereço com TODOS os números: o cadastro de endereços do Censo 2022 (IBGE) com 12,8 milhões de números em 620 mil ruas do Estado de São Paulo. O número digitado aparece exato (\"número exato\") ou, se não estiver no cadastro, calculado entre os vizinhos do mesmo lado da rua (\"posição aproximada\"), com bairro, cidade e CEP.",
-        "Vale para tudo: \"Para onde?\" da navegação, rota, favoritos, Casa e Trabalho, e a busca e a aba Rota do mapa completo.",
-        "Entende o jeito de digitar: com ou sem acento, abreviações (R., Av., Dr., Prof., Jd., Pq.), número por extenso (\"25 de Março\" = \"Vinte e Cinco de Março\"), \"nº\", e a cidade no fim (\"Rua X, 120, Mogi das Cruzes\").",
-        "Cada resultado tem os botões Ir e Salvar. Salvar pede o título do lugar (ex.: \"Casa da mãe\") e se é Favorito, Casa ou Trabalho; nos Favoritos, o lápis muda o título.",
-        "Os endereços de cada cidade são baixados uma vez e ficam no celular: a busca funciona até sem internet."
       ]
     }
   ]
