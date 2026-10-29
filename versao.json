@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.20.1",
-  "codigo": 70,
+  "versao": "0.21.0",
+  "codigo": 71,
   "data": "29/10/2026",
-  "tamanho": 197313115,
-  "sha256": "eb4f974e26b4083e2b86da68e3bbb9013fd8539bc91b596eb88cd30b31530ef9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.20.1/Vrumbi-0.20.1.apk",
+  "tamanho": 197324143,
+  "sha256": "76feb0d636789e4809f937581889b3b2c0ea5e2ed5b641fc2093f33e446644fd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.21.0/Vrumbi-0.21.0.apk",
   "notas": [
-    "Tela mais limpa: o botão Ajustes saiu da tela. No Menu, logo abaixo de Mapa completo, Unidades e Camadas, ficam os Ajustes rápidos (Radares, Limite, INMET e Comunidade, um toque liga ou desliga) e Mais ajustes, com todos os outros. O botão Som continua na tela.",
-    "Correção de segurança na escolha da voz."
+    "Avisos no relógio: antes de cada curva chega ao smartwatch um aviso curto com a seta e a distância (\"→ 200 m\") e a instrução, e de novo na hora da curva. Radares, alertas da comunidade e avisos do INMET também. No relógio há os botões Repetir e Mudo.",
+    "No celular esse aviso é silencioso (a voz já fala) e some sozinho. Liga e desliga em Menu > Ajustes rápidos > Relógio ou em Configurações > Navegação > Avisos da navegação.",
+    "Galaxy Watch e outros Wear OS: no app Galaxy Wearable, em Notificações, ative mostrar as notificações também com o celular em uso (o Vrumbi explica ao ligar a opção)."
   ],
   "versoes": [
+    {
+      "versao": "0.21.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Avisos no relógio: antes de cada curva chega ao smartwatch um aviso curto com a seta e a distância (\"→ 200 m\") e a instrução, e de novo na hora da curva. Radares, alertas da comunidade e avisos do INMET também. No relógio há os botões Repetir e Mudo.",
+        "No celular esse aviso é silencioso (a voz já fala) e some sozinho. Liga e desliga em Menu > Ajustes rápidos > Relógio ou em Configurações > Navegação > Avisos da navegação.",
+        "Galaxy Watch e outros Wear OS: no app Galaxy Wearable, em Notificações, ative mostrar as notificações também com o celular em uso (o Vrumbi explica ao ligar a opção)."
+      ],
+      "en": [
+        "Alerts on the watch: before each turn your smartwatch gets a short alert with the arrow and the distance (\"→ 200 m\") and the instruction, and again at the turn. Speed cameras, community alerts and weather alerts too. The watch has Repeat and Mute buttons.",
+        "On the phone this alert is silent (the voice already speaks) and goes away by itself. Turn it on or off in Menu > Quick settings > Watch or in Settings > Navigation > Navigation alerts.",
+        "Galaxy Watch and other Wear OS watches: in the Galaxy Wearable app, under Notifications, turn on showing notifications while the phone is in use too (Vrumbi explains when you turn the option on)."
+      ],
+      "es": [
+        "Avisos en el reloj: antes de cada giro llega al smartwatch un aviso corto con la flecha y la distancia (\"→ 200 m\") y la instrucción, y otra vez en el momento del giro. Radares, alertas de la comunidad y avisos del INMET también. En el reloj hay botones Repetir y Silencio.",
+        "En el celular este aviso es silencioso (la voz ya habla) y desaparece solo. Se activa o desactiva en Menú > Ajustes rápidos > Reloj o en Ajustes > Navegación > Avisos de la navegación.",
+        "Galaxy Watch y otros Wear OS: en la app Galaxy Wearable, en Notificaciones, activa mostrar las notificaciones también con el celular en uso (Vrumbi lo explica al activar la opción)."
+      ]
+    },
     {
       "versao": "0.20.1",
       "data": "29/10/2026",
@@ -242,28 +262,6 @@
         "Alerta de velocidad más justa: solo avisa después de unos segundos por encima del límite y repite cada 2 minutos.",
         "Continuar la ruta: si la app se cierra a mitad del camino, al abrirla Vrumbi pregunta si quieres continuar.",
         "Dónde estacioné: al llegar en coche, la posición queda guardada en Favoritos (\"Mi coche\"), y también puedes marcarla a mano."
-      ]
-    },
-    {
-      "versao": "0.14.2",
-      "data": "28/10/2026",
-      "itens": [
-        "Busca mais fácil: além da rua, agora há campos para Nº, Bairro e Cidade. Digite o CEP e o Vrumbi preenche rua, bairro e cidade sozinho. A mesma rua em bairros ou cidades diferentes aparece separada, e o Vrumbi avisa para você escolher a certa.",
-        "Errou o endereço? Na tela do local, troque o número ali mesmo ou toque em \"Corrigir busca\" para voltar à busca já preenchida. Na escolha da rota também há \"Corrigir destino\". E a lupa mostra a sua última busca.",
-        "Avisar com muito mais opções, em grupos e com rolagem: trânsito lento, faixa interditada, desvio, evento, reforma da via, óleo na pista, animal, árvore caída, falta de sinalização, via sem iluminação, chuva forte, neblina, fumaça, blitz ou operação, radar móvel e \"Outro\". Os que você mais usa aparecem primeiro.",
-        "Novo campo de detalhe no Avisar (ex.: \"faixa da direita, sentido centro\"): quem toca no aviso vê o que você escreveu."
-      ],
-      "en": [
-        "Easier search: besides the street, there are now fields for No., Neighborhood and City. Type the ZIP code and Vrumbi fills in street, neighborhood and city. The same street in different neighborhoods or cities shows separately, and Vrumbi tells you to pick the right one.",
-        "Wrong address? On the place screen, change the number right there or tap \"Fix search\" to go back to the search already filled in. Route options also have \"Fix destination\". And the search shows your last search.",
-        "Report with many more options, in groups and scrollable: slow traffic, lane closed, detour, event, road resurfacing, oil on the road, animal, fallen tree, missing signs, unlit road, heavy rain, fog, smoke, checkpoint or operation, mobile speed camera and \"Other\". The ones you use most come first.",
-        "New detail field in Report (e.g. \"right lane, toward downtown\"): whoever taps the alert sees what you wrote."
-      ],
-      "es": [
-        "Búsqueda más fácil: además de la calle, ahora hay campos para Nº, Barrio y Ciudad. Escribe el código postal y Vrumbi completa calle, barrio y ciudad. La misma calle en barrios o ciudades diferentes aparece por separado, y Vrumbi te avisa para elegir la correcta.",
-        "¿Dirección equivocada? En la pantalla del lugar, cambia el número ahí mismo o toca \"Corregir búsqueda\" para volver a la búsqueda ya completada. Las opciones de ruta también tienen \"Corregir destino\". Y la lupa muestra tu última búsqueda.",
-        "Avisar con muchas más opciones, en grupos y con desplazamiento: tráfico lento, carril cerrado, desvío, evento, reparación de la vía, aceite en la vía, animal, árbol caído, falta de señalización, vía sin iluminación, lluvia fuerte, niebla, humo, retén u operativo, radar móvil y \"Otro\". Los que más usas aparecen primero.",
-        "Nuevo campo de detalle en Avisar (ej.: \"carril derecho, sentido centro\"): quien toca el aviso ve lo que escribiste."
       ]
     }
   ]
