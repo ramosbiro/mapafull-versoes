@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.6",
-  "codigo": 107,
+  "versao": "0.40.7",
+  "codigo": 108,
   "data": "29/10/2026",
-  "tamanho": 200716916,
-  "sha256": "0ba85845dc6627f98abc5f7f8e7921720b8ff41fe5ec2c042b8b9f8f1ffe4bb1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.6/Vrumbi-0.40.6.apk",
+  "tamanho": 200714788,
+  "sha256": "9ea58f5be8df49dbb61bfb4aa588a0585e7ef29b145bdeb039f219856132732c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.7/Vrumbi-0.40.7.apk",
   "notas": [
-    "Ícone de fumaça mais para cima no quadro, encostando no sol (ou na lua)."
+    "Ícone de fumaça ainda mais para cima, passando na frente do sol (ou da lua)."
   ],
   "versoes": [
+    {
+      "versao": "0.40.7",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça ainda mais para cima, passando na frente do sol (ou da lua)."
+      ],
+      "en": [
+        "Smoke icon moved further up, passing in front of the sun (or moon)."
+      ],
+      "es": [
+        "Icono de humo aún más arriba, pasando delante del sol (o de la luna)."
+      ]
+    },
     {
       "versao": "0.40.6",
       "data": "29/10/2026",
@@ -163,28 +176,6 @@
       ],
       "es": [
         "Widget Clima y reloj: la máxima y la mínima salieron de la esquina de arriba y pasaron a la lista de la derecha, justo debajo de la condición del tiempo."
-      ]
-    },
-    {
-      "versao": "0.38.6",
-      "data": "29/10/2026",
-      "itens": [
-        "Widget: agora você configura antes e toca em \"Pôr na tela\" — ele entra na tela inicial já do jeito que você deixou, e o Vrumbi avisa quando está pronto. Na tela inicial, toque e segure o widget e arraste as bordas para mudar o tamanho: menor, ele mostra menos coisas.",
-        "A lista \"Na sua tela\" não mostra mais widgets que não chegaram à tela; tocar no lápis do widget na tela inicial abre a configuração dele.",
-        "Prévias do widget com o céu certo: lua e nuvens nas horas da noite (antes aparecia sol às 20 h).",
-        "Os ícones dos botões Mídia e Mensagens na cor do sistema, como os outros."
-      ],
-      "en": [
-        "Widget: you now set it up first and tap \"Add to screen\" — it lands on the home screen just the way you left it, and Vrumbi tells you when it is ready. On the home screen, touch and hold the widget and drag its edges to change the size: smaller, it shows less.",
-        "The \"On your screen\" list no longer shows widgets that never reached the screen; tapping the widget's pencil on the home screen opens its settings.",
-        "Widget previews with the right sky: moon and clouds at night hours (before it showed sun at 8 pm).",
-        "The Media and Messages button icons now use the system color, like the others."
-      ],
-      "es": [
-        "Widget: ahora lo configuras antes y tocas \"Poner en pantalla\" — entra en la pantalla de inicio como lo dejaste, y Vrumbi avisa cuando está listo. En la pantalla de inicio, mantén pulsado el widget y arrastra los bordes para cambiar el tamaño: más pequeño, muestra menos cosas.",
-        "La lista \"En tu pantalla\" ya no muestra widgets que no llegaron a la pantalla; tocar el lápiz del widget en la pantalla de inicio abre su configuración.",
-        "Vistas previas del widget con el cielo correcto: luna y nubes en las horas de la noche (antes salía sol a las 20 h).",
-        "Los iconos de los botones Multimedia y Mensajes con el color del sistema, como los demás."
       ]
     }
   ]
