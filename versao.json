@@ -1,19 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.2",
-  "codigo": 113,
+  "versao": "0.41.3",
+  "codigo": 114,
   "data": "29/10/2026",
-  "tamanho": 187986478,
-  "sha256": "ce84982d7d3e7f475f4438ca2523e27bbd1fa37d58f81d748d995306594de579",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.2/Vrumbi-0.41.2.apk",
+  "tamanho": 187991182,
+  "sha256": "1d378718e203a97418b3cf7469f5f5f6c0fa37b26f30234136cd45881e86e61f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.3/Vrumbi-0.41.3.apk",
   "notas": [
-    "Botões da tela inicial todos iguais: o menu, o Som/Mudo e o Avisar agora têm o mesmo card dos outros (fundo do tema, contorno fino, ícone na cor do sistema).",
-    "Os dados do mapa se atualizam sozinhos, sem precisar de versão nova: radares, escolas, saúde, áreas de risco e locais são refeitos toda semana e o app baixa só o que mudou. Sem internet, usa os que já vieram no app.",
-    "Os setores censitários agora são baixados só quando a camada pede (o app ficou menor).",
-    "Clima: no menu ☰, os ícones do tempo têm as mesmas três opções do widget (Coloridos, Realistas ou Na cor do texto), e os ícones do item \"Clima e tempo\" e do menu seguem a escolha (com Realistas, a Lua mostra a fase de hoje).",
-    "Widget: tocar no relógio agora abre os alarmes também nos celulares Samsung (se o celular não deixar, abre o app de Relógio)."
+    "Clima > Meus locais: dá para buscar qualquer cidade pelo nome e salvar nas abas do clima (até 5); a cidade salva também aparece como local do widget."
   ],
   "versoes": [
+    {
+      "versao": "0.41.3",
+      "data": "29/10/2026",
+      "itens": [
+        "Clima > Meus locais: dá para buscar qualquer cidade pelo nome e salvar nas abas do clima (até 5); a cidade salva também aparece como local do widget."
+      ],
+      "en": [
+        "Weather > My places: search any city by name and save it in the weather tabs (up to 5); the saved city also shows up as a widget location."
+      ],
+      "es": [
+        "Clima > Mis lugares: se puede buscar cualquier ciudad por el nombre y guardarla en las pestañas del clima (hasta 5); la ciudad guardada también aparece como lugar del widget."
+      ]
+    },
     {
       "versao": "0.41.2",
       "data": "29/10/2026",
@@ -176,19 +185,6 @@
       ],
       "es": [
         "Icono de humo ajustado: sin fuego, más pequeño y entero dentro del cuadro, con la columna de humo saliendo de un suelo quemado."
-      ]
-    },
-    {
-      "versao": "0.40.1",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça de queimadas redesenhado: uma coluna de fumaça saindo do fogo, que clareia e se desfaz enquanto sobe, com o sol (ou a lua) apagado atrás."
-      ],
-      "en": [
-        "Wildfire smoke icon redrawn: a column of smoke rising from the fire, getting lighter and fading as it climbs, with a dimmed sun (or moon) behind it."
-      ],
-      "es": [
-        "Icono de humo de incendios rediseñado: una columna de humo que sale del fuego, se aclara y se deshace al subir, con el sol (o la luna) apagado detrás."
       ]
     }
   ]
