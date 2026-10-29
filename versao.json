@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.8",
-  "codigo": 109,
+  "versao": "0.40.9",
+  "codigo": 110,
   "data": "29/10/2026",
-  "tamanho": 200712632,
-  "sha256": "4e082e0e52ab45b2053864575fc48c4828a92aa56793c04c5d814331f89fd6a6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.8/Vrumbi-0.40.8.apk",
+  "tamanho": 203120004,
+  "sha256": "750bd104af3fb14159b838b73518e0cb81f286a7df894e5bb68bfeabffaada39",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.9/Vrumbi-0.40.9.apk",
   "notas": [
-    "Ícone de fumaça mais alto no quadro, cobrindo parte do sol (ou da lua)."
+    "Sol e lua do mesmo tamanho em todos os ícones do tempo: a situação (fumaça, abafado, ar seco, poeira, geada) entra só como um detalhe pequeno.",
+    "A lua dos ícones de noite mostra a fase de verdade daquela hora: nova, crescente, quarto crescente, cheia, minguante... (no hemisfério norte, desenhada do jeito que se vê lá). No app e no widget."
   ],
   "versoes": [
+    {
+      "versao": "0.40.9",
+      "data": "29/10/2026",
+      "itens": [
+        "Sol e lua do mesmo tamanho em todos os ícones do tempo: a situação (fumaça, abafado, ar seco, poeira, geada) entra só como um detalhe pequeno.",
+        "A lua dos ícones de noite mostra a fase de verdade daquela hora: nova, crescente, quarto crescente, cheia, minguante... (no hemisfério norte, desenhada do jeito que se vê lá). No app e no widget."
+      ],
+      "en": [
+        "Sun and moon the same size in every weather icon: the situation (smoke, muggy, dry air, dust, frost) is just a small detail.",
+        "The moon in the night icons shows the real phase for that hour: new, waxing crescent, first quarter, full, waning... (in the northern hemisphere, drawn the way it is seen there). In the app and in the widget."
+      ],
+      "es": [
+        "Sol y luna del mismo tamaño en todos los iconos del tiempo: la situación (humo, bochorno, aire seco, polvo, helada) es solo un detalle pequeño.",
+        "La luna de los iconos de noche muestra la fase real de esa hora: nueva, creciente, cuarto creciente, llena, menguante... (en el hemisferio norte, dibujada como se ve allí). En la app y en el widget."
+      ]
+    },
     {
       "versao": "0.40.8",
       "data": "29/10/2026",
@@ -163,19 +180,6 @@
       ],
       "es": [
         "Iconos del tiempo realistas, con el diseño de Vrumbi: nubes con volumen y sombra, sol con brillo, luna con relieve, lluvia, llovizna, tormenta, granizo, nieve y niebla. En el widget, en Configuración del widget > Iconos del tiempo > Tipo: De colores, Realistas o Del color del texto."
-      ]
-    },
-    {
-      "versao": "0.38.8",
-      "data": "29/10/2026",
-      "itens": [
-        "Widget Clima e relógio com a nossa marca no alto: o ícone, \"Vrumbi\" no laranja da marca e o local (ex.: Vrumbi · Glicério)."
-      ],
-      "en": [
-        "Clock & weather widget with our brand at the top: the icon, \"Vrumbi\" in the brand orange and the place (e.g. Vrumbi · Glicério)."
-      ],
-      "es": [
-        "Widget Clima y reloj con nuestra marca arriba: el icono, \"Vrumbi\" en el naranja de la marca y el lugar (ej.: Vrumbi · Glicério)."
       ]
     }
   ]
