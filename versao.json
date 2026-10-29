@@ -1,18 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.23.0",
-  "codigo": 73,
+  "versao": "0.24.0",
+  "codigo": 74,
   "data": "29/10/2026",
-  "tamanho": 197464392,
-  "sha256": "47e158e202f2077cb1519cba4fc63c4222a0ac2507285bb820dc3328af113977",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.23.0/Vrumbi-0.23.0.apk",
+  "tamanho": 197490391,
+  "sha256": "a9e53d0d0bf68d39d126c68ae1e4aa60087c96d07477567f0b8247285dc1d14a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.24.0/Vrumbi-0.24.0.apk",
   "notas": [
-    "Transporte público: andando sobre uma linha de trem ou metrô (ou parando de ponto em ponto de ônibus), o Vrumbi pergunta \"Você está de transporte público?\" com Trem, Metrô, Ônibus ou \"Não, estou dirigindo\". A resposta troca o seu ícone pelo trem, metrô ou ônibus em 3D.",
-    "De transporte, radar e limite da via ficam de lado (não é você dirigindo) e a posição segue os trilhos. Chegou e saiu andando, o ícone volta sozinho ao de sempre.",
-    "Também dá para escolher no Menu > Ajustes rápidos > Transporte. \"Não, estou dirigindo\" faz o Vrumbi não perguntar por 2 horas.",
-    "Ícones novos de trem e metrô em Configurações > Ícone da posição."
+    "Widgets na tela inicial do Android (toque longo na tela inicial > Widgets > Vrumbi): \"Para onde?\" abre a busca e, conforme o tamanho, tem também Casa, Trabalho e Meu carro, e no maior Ajuda, Avisar e Mapa.",
+    "Widget Navegação: durante a rota mostra a seta, a distância, a instrução e a chegada, sem abrir o app; sem rota, vira os atalhos.",
+    "Os widgets mudam de tamanho (é só esticar) e seguem o tema claro ou escuro do celular."
   ],
   "versoes": [
+    {
+      "versao": "0.24.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Widgets na tela inicial do Android (toque longo na tela inicial > Widgets > Vrumbi): \"Para onde?\" abre a busca e, conforme o tamanho, tem também Casa, Trabalho e Meu carro, e no maior Ajuda, Avisar e Mapa.",
+        "Widget Navegação: durante a rota mostra a seta, a distância, a instrução e a chegada, sem abrir o app; sem rota, vira os atalhos.",
+        "Os widgets mudam de tamanho (é só esticar) e seguem o tema claro ou escuro do celular."
+      ],
+      "en": [
+        "Widgets on the Android home screen (long press the home screen > Widgets > Vrumbi): \"Where to?\" opens the search and, depending on the size, also has Home, Work and My car, and in the largest Help, Report and Map.",
+        "Navigation widget: during a route it shows the arrow, the distance, the instruction and the arrival, without opening the app; without a route, it turns into the shortcuts.",
+        "Widgets can be resized (just stretch them) and follow the phone light or dark theme."
+      ],
+      "es": [
+        "Widgets en la pantalla de inicio de Android (toque largo en la pantalla de inicio > Widgets > Vrumbi): \"¿A dónde?\" abre la búsqueda y, según el tamaño, también tiene Casa, Trabajo y Mi auto, y en el más grande Ayuda, Avisar y Mapa.",
+        "Widget Navegación: durante la ruta muestra la flecha, la distancia, la instrucción y la llegada, sin abrir la app; sin ruta, se vuelve los atajos.",
+        "Los widgets cambian de tamaño (solo estíralos) y siguen el tema claro u oscuro del celular."
+      ]
+    },
     {
       "versao": "0.23.0",
       "data": "29/10/2026",
@@ -238,22 +256,6 @@
         "Vrumbi en 18 idiomas: además de portugués, inglés y español, ahora francés, alemán, italiano, chino, japonés, ruso, coreano, turco, polaco, neerlandés, indonesio, vietnamita, ucraniano, hindi y árabe (de derecha a izquierda). La voz de la navegación también habla en el idioma elegido.",
         "En Configuración → Idioma, elige uno o deja \"Predeterminado del sistema\", que sigue el idioma del celular.",
         "La app abre más ligera: cada idioma solo se carga cuando se usa."
-      ]
-    },
-    {
-      "versao": "0.16.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Notificação da navegação nova: seta grande à esquerda, a distância e a instrução, a faixa a usar (\"Use as 2 faixas da direita\"), uma barra que enche até a curva, a manobra seguinte quando vem logo depois (\"Depois: vire à esquerda\") e o que vem pela frente: radar, alerta da comunidade ou a sua velocidade contra o limite.",
-        "Dentro do app, a faixa da manobra também ganhou seta maior, o texto da faixa, a manobra seguinte e a barra até a curva."
-      ],
-      "en": [
-        "New navigation notification: big arrow on the left, distance and instruction, the lane to use (\"Use the 2 right lanes\"), a bar that fills up to the turn, the next maneuver when it comes right after (\"Then: turn left\") and what is ahead: speed camera, community alert or your speed against the limit.",
-        "Inside the app, the maneuver banner also got a bigger arrow, the lane text, the next maneuver and the bar up to the turn."
-      ],
-      "es": [
-        "Nueva notificación de navegación: flecha grande a la izquierda, la distancia y la instrucción, el carril a usar (\"Usa los 2 carriles derechos\"), una barra que se llena hasta la curva, la siguiente maniobra cuando viene justo después (\"Después: gira a la izquierda\") y lo que viene adelante: radar, alerta de la comunidad o tu velocidad contra el límite.",
-        "Dentro de la app, la franja de la maniobra también ganó flecha más grande, el texto del carril, la siguiente maniobra y la barra hasta la curva."
       ]
     }
   ]
