@@ -1,20 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.19.0",
-  "codigo": 65,
+  "versao": "0.19.1",
+  "codigo": 66,
   "data": "29/10/2026",
-  "tamanho": 198360944,
-  "sha256": "d52323e07c8c21edc609613e9b8dc7032788a169ef7af8fcb1593ebf80894d1e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.0/Vrumbi-0.19.0.apk",
+  "tamanho": 197272603,
+  "sha256": "2a2b3a798236dad662b543d495fb02709abb229868264d3a8d167ac33325a3dd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.1/Vrumbi-0.19.1.apk",
   "notas": [
-    "Alertas e notícias: o aviso do INMET e da Defesa Civil agora chega ao vivo, do Brasil inteiro. Ao abrir o app, o Vrumbi avisa se há alerta onde você está. No menu, Alertas e notícias mostra os riscos e o que fazer, os avisos pelo caminho e no destino da rota e as notícias da cidade (trânsito, chuva e segurança primeiro).",
-    "Busca igual à de um app de mapa comum: um campo só. Cada rua tem o botão Adicionar número, que já deixa o campo pronto para o número daquela rua, bairro e cidade.",
-    "Casa, Trabalho e todos os favoritos ficam marcados no mapa, com ícone e nome. Tocar abre a ficha do lugar.",
-    "Meus lugares: cada lugar no seu cartão e a opção Editar meus lugares (título, endereço, tipo, ver no mapa, apagar).",
-    "Evitar na rota com mais opções: tipo de caminho (normal, só estradas e rodovias, trilhas e terra), rota mais curta, desviar das vias fechadas avisadas e rota de caminhão com altura, largura, comprimento, peso e carga perigosa. Moto ganhou rota própria.",
-    "Configurações em cartões, espaço entre os botões dos Ajustes rápidos e botão Favoritos do mesmo tamanho dos outros."
+    "Busca: depois de tocar em Adicionar número, a rua escolhida não repete o botão; é só digitar o número."
   ],
   "versoes": [
+    {
+      "versao": "0.19.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Busca: depois de tocar em Adicionar número, a rua escolhida não repete o botão; é só digitar o número."
+      ],
+      "en": [
+        "Search: after tapping Add number, the chosen street no longer repeats the button; just type the number."
+      ],
+      "es": [
+        "Búsqueda: después de tocar Añadir número, la calle elegida ya no repite el botón; solo escribe el número."
+      ]
+    },
     {
       "versao": "0.19.0",
       "data": "29/10/2026",
@@ -216,16 +224,6 @@
         "A faixa da manobra (\"Vire à esquerda...\") agora segue a interface: clara no tema claro, escura no escuro.",
         "Correção: quando o tema trocava no meio de uma rota (por exemplo, às 18h), a linha azul da rota sumia do mapa. Agora ela continua.",
         "No mapa completo, Dia/Noite/Automático das Camadas é a mesma escolha \"Mapa\" da Aparência."
-      ]
-    },
-    {
-      "versao": "0.13.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Novo: alertas da comunidade. O botão laranja Avisar (na tela principal e durante a rota) abre cartões prontos: acidente, trânsito parado, buraco, obra, objeto na pista, veículo parado, alagamento, via interditada e semáforo apagado. Um toque e pronto: o aviso vai para o ponto exato da via em que você está, no seu sentido da pista.",
-        "Os avisos aparecem no mapa para todo mundo que usa o Vrumbi, cada um com o seu ícone e cor. Toque no ícone para ver há quanto tempo foi marcado e responder \"Ainda está lá\" ou \"Não está mais\".",
-        "Dirigindo, o que estiver à frente no seu sentido aparece junto dos radares e a voz avisa (\"Atenção: buraco na via a 200 metros\"). Depois de passar, o Vrumbi pergunta se ainda está lá, com dois botões grandes que somem sozinhos.",
-        "Anônimo: não vai nome, telefone nem rota. Cada aviso some sozinho (trânsito em meia hora, buraco em alguns dias) e cada confirmação renova. Errou? Toque em Desfazer logo depois de enviar. Para não ver os alertas, desligue em Ajustes, \"Alertas da comunidade\"."
       ]
     }
   ]
