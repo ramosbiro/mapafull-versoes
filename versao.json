@@ -1,18 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.27.0",
-  "codigo": 77,
+  "versao": "0.28.0",
+  "codigo": 78,
   "data": "29/10/2026",
-  "tamanho": 199071692,
-  "sha256": "32174a85db79e618ea711d39323a65087ee886393e264cb3a9fbc0bc1eec117f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.27.0/Vrumbi-0.27.0.apk",
+  "tamanho": 199084980,
+  "sha256": "2ac6d2a80e2f1c7ba9db7da2f62f8c3ce842280702398fcef52c7b4ccf7b8732",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.28.0/Vrumbi-0.28.0.apk",
   "notas": [
-    "Clima e tempo (Menu): a temperatura agora, a sensação, umidade, vento, pressão, índice UV, chuva e o pôr do sol; hora a hora nas próximas 24 h e os próximos 7 dias, com a chance de chuva e a faixa entre a mínima e a máxima.",
-    "O Vrumbi comenta o tempo: guarda-chuva quando vai chover, protetor quando o sol está forte, cuidado com neblina, vento e trovoada.",
-    "Widgets de clima na tela inicial: \"Clima\" (agora, máxima e mínima e os próximos dias) e \"Clima e relógio\" (a hora grande com o tempo ao lado). Atualizam sozinhos a cada 30 minutos, mesmo com o app fechado.",
-    "Novo botão para pôr os widgets na tela inicial direto pelo app: o Android pergunta e encaixa onde houver espaço."
+    "Avisos de clima no celular, mesmo com o app fechado: \"Chuva chegando em ~30 min\" quando a chuva deve começar na próxima hora, avisos oficiais graves (INMET: perigo e grande perigo; Defesa Civil) para onde você está e, se quiser, o resumo da manhã com a mínima, a máxima e a chance de chuva.",
+    "Cada aviso liga e desliga em Configurações > Avisos de clima (ou na tela Clima e tempo). Tocar no aviso abre o Clima ou os Alertas."
   ],
   "versoes": [
+    {
+      "versao": "0.28.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Avisos de clima no celular, mesmo com o app fechado: \"Chuva chegando em ~30 min\" quando a chuva deve começar na próxima hora, avisos oficiais graves (INMET: perigo e grande perigo; Defesa Civil) para onde você está e, se quiser, o resumo da manhã com a mínima, a máxima e a chance de chuva.",
+        "Cada aviso liga e desliga em Configurações > Avisos de clima (ou na tela Clima e tempo). Tocar no aviso abre o Clima ou os Alertas."
+      ],
+      "en": [
+        "Weather alerts on the phone, even with the app closed: \"Rain in ~30 min\" when rain should start within the next hour, serious official alerts (danger and great danger; civil defense) where you are and, if you want, the morning summary with the low, the high and the chance of rain.",
+        "Each alert turns on and off in Settings > Weather alerts (or on the Weather screen). Tapping the alert opens Weather or Alerts."
+      ],
+      "es": [
+        "Avisos de clima en el celular, incluso con la app cerrada: \"Lluvia en ~30 min\" cuando la lluvia deba empezar en la próxima hora, avisos oficiales graves (peligro y gran peligro; Defensa Civil) donde estás y, si quieres, el resumen de la mañana con la mínima, la máxima y la probabilidad de lluvia.",
+        "Cada aviso se activa y desactiva en Ajustes > Avisos de clima (o en la pantalla Clima y tiempo). Tocar el aviso abre el Clima o las Alertas."
+      ]
+    },
     {
       "versao": "0.27.0",
       "data": "29/10/2026",
@@ -247,19 +261,6 @@
         "El aviso del INMET y de Defensa Civil en la pantalla ahora se cierra con la X o deslizándolo a un lado, y no vuelve mientras ese aviso valga.",
         "Para verlo de nuevo: el botón Alertas, debajo de Ajustes, aparece mientras haya un aviso donde estás, con el número de avisos y el color del más grave, y abre todos. También está en el menú, en Alertas y noticias.",
         "El aviso de apertura de Vrumbi aparece una sola vez por alerta."
-      ]
-    },
-    {
-      "versao": "0.19.1",
-      "data": "29/10/2026",
-      "itens": [
-        "Busca: depois de tocar em Adicionar número, a rua escolhida não repete o botão; é só digitar o número."
-      ],
-      "en": [
-        "Search: after tapping Add number, the chosen street no longer repeats the button; just type the number."
-      ],
-      "es": [
-        "Búsqueda: después de tocar Añadir número, la calle elegida ya no repite el botón; solo escribe el número."
       ]
     }
   ]
