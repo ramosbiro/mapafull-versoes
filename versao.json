@@ -1,17 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.17.0",
-  "codigo": 63,
+  "versao": "0.18.0",
+  "codigo": 64,
   "data": "29/10/2026",
-  "tamanho": 197238975,
-  "sha256": "538d091394237ac4b56554b6fdb6fcef97e16b95ef80ce68f2bf8e3dfd8fa71e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.17.0/Vrumbi-0.17.0.apk",
+  "tamanho": 197200151,
+  "sha256": "64dfcc4b2321375c0a5bbf5d5c5b23eb034dbc8b8a56aa800eaacbd8fdb63b80",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.18.0/Vrumbi-0.18.0.apk",
   "notas": [
-    "Vrumbi em 18 idiomas: além de português, inglês e espanhol, agora francês, alemão, italiano, chinês, japonês, russo, coreano, turco, polonês, holandês, indonésio, vietnamita, ucraniano, hindi e árabe (da direita para a esquerda). A voz da navegação também fala no idioma escolhido.",
-    "Em Configurações → Idioma, escolha um deles ou deixe \"Padrão do sistema\", que segue o idioma do celular.",
-    "O app abre mais leve: cada idioma só é carregado quando é usado."
+    "O Vrumbi agora é um carrinho! Mesmos olhos e o mesmo sorriso, com retrovisores e rodas. Mudou o ícone do app, a abertura, as figurinhas e o personagem que explica as coisas.",
+    "Ele se mexe junto com o que diz: pula de alegria quando atualiza, quica na suspensão, inclina na curva quando recalcula e treme no arranque.",
+    "No nome, um mini carrinho é o pingo do i."
   ],
   "versoes": [
+    {
+      "versao": "0.18.0",
+      "data": "29/10/2026",
+      "itens": [
+        "O Vrumbi agora é um carrinho! Mesmos olhos e o mesmo sorriso, com retrovisores e rodas. Mudou o ícone do app, a abertura, as figurinhas e o personagem que explica as coisas.",
+        "Ele se mexe junto com o que diz: pula de alegria quando atualiza, quica na suspensão, inclina na curva quando recalcula e treme no arranque.",
+        "No nome, um mini carrinho é o pingo do i."
+      ],
+      "en": [
+        "Vrumbi is now a little car! Same eyes and smile, with mirrors and wheels. The app icon, the opening, the stickers and the character that explains things all changed.",
+        "It moves along with what it says: jumps for joy when it updates, bounces on its suspension, leans into the curve when rerouting and shakes at take-off.",
+        "In the name, a mini car is the dot of the i."
+      ],
+      "es": [
+        "¡Vrumbi ahora es un autito! Los mismos ojos y la misma sonrisa, con retrovisores y ruedas. Cambiaron el ícono de la app, la apertura, los stickers y el personaje que explica las cosas.",
+        "Se mueve con lo que dice: salta de alegría al actualizar, rebota en la suspensión, se inclina en la curva al recalcular y tiembla al arrancar.",
+        "En el nombre, un mini autito es el punto de la i."
+      ]
+    },
     {
       "versao": "0.17.0",
       "data": "29/10/2026",
@@ -185,15 +204,6 @@
         "Barra de baixo mais limpa: Casa, Trabalho e Favoritos viraram um botão só, Favoritos. Ao tocar, aparecem primeiro os principais (Casa e Trabalho, em destaque) e depois todos os seus favoritos.",
         "O nome da rua não fica mais embaixo do carro: ele aparece na barra de baixo, entre Favoritos e a busca, sem atrapalhar a visão da via.",
         "Mais rua à frente: seguindo a sua posição, o ícone fica mais perto da parte de baixo da tela (antes ficava quase no meio), mostrando mais do que vem pela frente e menos do que já passou. O velocímetro fica logo acima da busca."
-      ]
-    },
-    {
-      "versao": "0.12.4",
-      "data": "28/10/2026",
-      "itens": [
-        "Ícone sempre em cima da via: o GPS do celular erra alguns metros (mais ainda parado ou entre prédios) e o ícone aparecia no meio do quarteirão. Agora ele encaixa na rua mais provável, em todas as vias: de carro, moto ou caminhão nas ruas, avenidas e estradas; a pé ou de bicicleta também em calçadões, ciclovias e caminhos (nunca em trilhos).",
-        "Andando, ele prefere a rua no sentido em que você vai e não pula para a paralela; parado, o ícone não fica \"passeando\". Longe de qualquer rua (praça, estacionamento grande), fica a posição do GPS.",
-        "Celular deitado: Som e Ajustes foram para a linha de cima, ao lado do menu; os botões da esquerda ficam acima de Casa, Trabalho e Favoritos, sem ficar embaixo do relógio, e o velocímetro não cobre mais nada."
       ]
     }
   ]
