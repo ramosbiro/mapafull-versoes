@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.3",
-  "codigo": 93,
+  "versao": "0.38.4",
+  "codigo": 94,
   "data": "29/10/2026",
-  "tamanho": 199350080,
-  "sha256": "d696f9d6dea4bb39e867e417e31ce6b2376d36d308bffb96ebc26cc0a2c9b2b0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.3/Vrumbi-0.38.3.apk",
+  "tamanho": 199356664,
+  "sha256": "3b0ad577ef0180536a4601e10663af3ae2a4a199bd67daf5fc9fdc49c88a4d17",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.4/Vrumbi-0.38.4.apk",
   "notas": [
-    "Todos os cards e botões com o mesmo contorno fino na cor de destaque (o Transporte desligado, o Mais ajustes e outros estavam quase sem borda); a opção de rota escolhida fica com 2 px."
+    "YouTube por dentro, sem link: no app do YouTube, toque em Compartilhar > Vrumbi e o vídeo toca no player do Vrumbi, com imagem. A aba YouTube tem \"Abrir o YouTube\" e a lista dos vídeos vistos aqui. Tocando pelo app do YouTube (aba Apps) vem só o som — o Android não deixa trazer o vídeo de outro app —, e o Vrumbi avisa o caminho.",
+    "O alto do player ficou no padrão: abas com contorno fino (a escolhida em destaque) e os botões de janela e fechar redondos na mesma linha.",
+    "Tamanho do ícone da posição: agora uma barra para arrastar com o dedo (de 50% a 200%), sem a tela piscar; trocar cor ou ícone também não pisca mais.",
+    "Botão Som no mudo: vermelho com contorno fino (sem a faixa grossa antiga). Avisos de radar, clima e comunidade e os cards das configurações também com o contorno fino."
   ],
   "versoes": [
+    {
+      "versao": "0.38.4",
+      "data": "29/10/2026",
+      "itens": [
+        "YouTube por dentro, sem link: no app do YouTube, toque em Compartilhar > Vrumbi e o vídeo toca no player do Vrumbi, com imagem. A aba YouTube tem \"Abrir o YouTube\" e a lista dos vídeos vistos aqui. Tocando pelo app do YouTube (aba Apps) vem só o som — o Android não deixa trazer o vídeo de outro app —, e o Vrumbi avisa o caminho.",
+        "O alto do player ficou no padrão: abas com contorno fino (a escolhida em destaque) e os botões de janela e fechar redondos na mesma linha.",
+        "Tamanho do ícone da posição: agora uma barra para arrastar com o dedo (de 50% a 200%), sem a tela piscar; trocar cor ou ícone também não pisca mais.",
+        "Botão Som no mudo: vermelho com contorno fino (sem a faixa grossa antiga). Avisos de radar, clima e comunidade e os cards das configurações também com o contorno fino."
+      ],
+      "en": [
+        "YouTube inside the app, no link: in the YouTube app, tap Share > Vrumbi and the video plays in the Vrumbi player, with picture. The YouTube tab has \"Open YouTube\" and the list of videos watched here. Playing through the YouTube app (Apps tab) brings only the sound — Android does not let another app's video come over — and Vrumbi shows the way.",
+        "The top of the player follows the standard: tabs with a thin outline (the chosen one highlighted) and the round window and close buttons on the same row.",
+        "Position icon size: now a bar you drag with your finger (50% to 200%), with no screen flashing; changing color or icon no longer flashes either.",
+        "Sound button when muted: red with a thin outline (no old thick bar). Radar, weather and community notices and the settings cards also got the thin outline."
+      ],
+      "es": [
+        "YouTube por dentro, sin enlace: en la app de YouTube, toca Compartir > Vrumbi y el video se reproduce en el reproductor de Vrumbi, con imagen. La pestaña YouTube tiene \"Abrir YouTube\" y la lista de los videos vistos aquí. Desde la app de YouTube (pestaña Apps) llega solo el sonido — Android no deja traer el video de otra app — y Vrumbi indica el camino.",
+        "La parte de arriba del reproductor quedó en el estándar: pestañas con contorno fino (la elegida destacada) y los botones redondos de ventana y cerrar en la misma fila.",
+        "Tamaño del icono de posición: ahora una barra para arrastrar con el dedo (del 50% al 200%), sin que la pantalla parpadee; cambiar color o icono tampoco parpadea.",
+        "Botón de sonido en silencio: rojo con contorno fino (sin la franja gruesa antigua). Avisos de radar, clima y comunidad y las tarjetas de configuración también con contorno fino."
+      ]
+    },
     {
       "versao": "0.38.3",
       "data": "29/10/2026",
@@ -223,19 +248,6 @@
         "Aspecto renovado: en lugar de la franja gruesa abajo y al lado de las tarjetas, un contorno fino y suave en el color de destaque (el naranja Vrumbi de fábrica; al cambiar el color en Ajustes > Apariencia, los contornos cambian también). En la pantalla de inicio, el Menú, Ajustes, Ajustes rápidos y el mapa completo.",
         "Lo que está seleccionado o en uso tiene el contorno un poco más grueso (sin que el botón cambie de tamaño).",
         "Modo conductor: si falla el cifrado de un tramo, el video ya no se borra; se cifra en la próxima grabación."
-      ]
-    },
-    {
-      "versao": "0.31.1",
-      "data": "29/10/2026",
-      "itens": [
-        "Modo motorista mais seguro: a cópia do vídeo exportado como prova é apagada sozinha (ao abrir o app, antes da próxima exportação e 15 minutos depois); se a criptografia de um trecho falhar, o vídeo aberto é apagado; e qualquer vídeo aberto que tenha sobrado é criptografado ao começar a gravar."
-      ],
-      "en": [
-        "Safer driver mode: the copy of a video exported as evidence is deleted by itself (when the app opens, before the next export and 15 minutes later); if encrypting a clip fails, the open video is deleted; and any open video left over is encrypted when recording starts."
-      ],
-      "es": [
-        "Modo conductor más seguro: la copia del video exportado como prueba se borra sola (al abrir la app, antes de la próxima exportación y 15 minutos después); si falla el cifrado de un tramo, el video abierto se borra; y cualquier video abierto que haya quedado se cifra al empezar a grabar."
       ]
     }
   ]
