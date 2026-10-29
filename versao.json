@@ -1,15 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.1",
-  "codigo": 112,
+  "versao": "0.41.2",
+  "codigo": 113,
   "data": "29/10/2026",
-  "tamanho": 204336208,
-  "sha256": "3aabe0ee458e2cb2c18c79d182dfb72b029eb95aed84b3bac1446c2dfb8a3dbf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.1/Vrumbi-0.41.1.apk",
+  "tamanho": 187986478,
+  "sha256": "ce84982d7d3e7f475f4438ca2523e27bbd1fa37d58f81d748d995306594de579",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.2/Vrumbi-0.41.2.apk",
   "notas": [
-    "Fumaça, poeira e geada no mesmo jeito das nuvens novas: fumaça em rolos fofos subindo na frente do sol (ou da lua), poeira como um véu macio atravessando e geada como chão gelado, com capim branco e brilhos."
+    "Botões da tela inicial todos iguais: o menu, o Som/Mudo e o Avisar agora têm o mesmo card dos outros (fundo do tema, contorno fino, ícone na cor do sistema).",
+    "Os dados do mapa se atualizam sozinhos, sem precisar de versão nova: radares, escolas, saúde, áreas de risco e locais são refeitos toda semana e o app baixa só o que mudou. Sem internet, usa os que já vieram no app.",
+    "Os setores censitários agora são baixados só quando a camada pede (o app ficou menor).",
+    "Clima: no menu ☰, os ícones do tempo têm as mesmas três opções do widget (Coloridos, Realistas ou Na cor do texto), e os ícones do item \"Clima e tempo\" e do menu seguem a escolha (com Realistas, a Lua mostra a fase de hoje).",
+    "Widget: tocar no relógio agora abre os alarmes também nos celulares Samsung (se o celular não deixar, abre o app de Relógio)."
   ],
   "versoes": [
+    {
+      "versao": "0.41.2",
+      "data": "29/10/2026",
+      "itens": [
+        "Botões da tela inicial todos iguais: o menu, o Som/Mudo e o Avisar agora têm o mesmo card dos outros (fundo do tema, contorno fino, ícone na cor do sistema).",
+        "Os dados do mapa se atualizam sozinhos, sem precisar de versão nova: radares, escolas, saúde, áreas de risco e locais são refeitos toda semana e o app baixa só o que mudou. Sem internet, usa os que já vieram no app.",
+        "Os setores censitários agora são baixados só quando a camada pede (o app ficou menor).",
+        "Clima: no menu ☰, os ícones do tempo têm as mesmas três opções do widget (Coloridos, Realistas ou Na cor do texto), e os ícones do item \"Clima e tempo\" e do menu seguem a escolha (com Realistas, a Lua mostra a fase de hoje).",
+        "Widget: tocar no relógio agora abre os alarmes também nos celulares Samsung (se o celular não deixar, abre o app de Relógio)."
+      ],
+      "en": [
+        "All home screen buttons look the same: the menu, Sound/Mute and Report now use the same card as the others (theme background, thin outline, icon in the system color).",
+        "Map data now updates by itself, no new version needed: speed cameras, schools, health, risk areas and places are rebuilt every week and the app downloads only what changed. Offline, it uses the data that came with the app.",
+        "Census tracts are now downloaded only when the layer asks for them (the app got smaller).",
+        "Weather: in the ☰ menu, weather icons have the same three options as the widget (Colorful, Realistic or Text color), and the icons of the \"Weather\" item and of the menu follow the choice (with Realistic, the Moon shows today's phase).",
+        "Widget: tapping the clock now opens the alarms on Samsung phones too (if the phone does not allow it, it opens the Clock app)."
+      ],
+      "es": [
+        "Botones de la pantalla inicial todos iguales: el menú, Sonido/Silencio y Avisar ahora tienen la misma tarjeta que los demás (fondo del tema, contorno fino, icono en el color del sistema).",
+        "Los datos del mapa se actualizan solos, sin necesitar una versión nueva: radares, escuelas, salud, áreas de riesgo y lugares se rehacen cada semana y la app descarga solo lo que cambió. Sin internet, usa los que ya vinieron en la app.",
+        "Los sectores censales ahora se descargan solo cuando la capa los pide (la app quedó más liviana).",
+        "Clima: en el menú ☰, los iconos del tiempo tienen las mismas tres opciones del widget (De colores, Realistas o Del color del texto), y los iconos del ítem \"Clima y tiempo\" y del menú siguen la elección (con Realistas, la Luna muestra la fase de hoy).",
+        "Widget: tocar el reloj ahora abre las alarmas también en los celulares Samsung (si el celular no lo permite, abre la app Reloj)."
+      ]
+    },
     {
       "versao": "0.41.1",
       "data": "29/10/2026",
@@ -160,25 +189,6 @@
       ],
       "es": [
         "Icono de humo de incendios rediseñado: una columna de humo que sale del fuego, se aclara y se deshace al subir, con el sol (o la luna) apagado detrás."
-      ]
-    },
-    {
-      "versao": "0.40.0",
-      "data": "29/10/2026",
-      "itens": [
-        "O tempo de verdade, além do código da previsão: o Vrumbi agora reconhece fumaça de queimadas e poeira (pela qualidade do ar), ar muito seco, sol forte (UV alto), neblina pela visibilidade, tempestade severa (pela energia de tempestade), ventania com chuva, geada, frio intenso, tempo abafado, arco-íris depois da chuva e o nascer e o pôr do sol.",
-        "51 ícones realistas, com versão de dia e de noite onde aparece o sol ou a lua (nada de sol às 20 h). O texto da condição muda junto (ex.: \"Fumaça de queimadas\", \"Ar muito seco\"), no app e no widget.",
-        "O Vrumbi avisa o que fazer: com fumaça, fechar os vidros e ligar o ar em recirculação; com ventania, reduzir a velocidade; com risco de tempestade, não parar embaixo de árvores e placas; com ar seco, beber água."
-      ],
-      "en": [
-        "The real weather, beyond the forecast code: Vrumbi now recognizes wildfire smoke and dust (from air quality), very dry air, strong sun (high UV), fog from visibility, severe storms (from storm energy), gales with rain, frost, intense cold, muggy weather, a rainbow after the rain and sunrise and sunset.",
-        "51 realistic icons, with day and night versions wherever the sun or moon appears (no sun at 8 pm). The condition text changes too (e.g. \"Wildfire smoke\", \"Very dry air\"), in the app and in the widget.",
-        "Vrumbi tells you what to do: with smoke, close the windows and recirculate the air; with gales, slow down; with storm risk, do not stop under trees and signs; with dry air, drink water."
-      ],
-      "es": [
-        "El tiempo de verdad, más allá del código del pronóstico: Vrumbi ahora reconoce humo de incendios y polvo (por la calidad del aire), aire muy seco, sol fuerte (UV alto), niebla por la visibilidad, tormenta severa (por la energía de tormenta), vendaval con lluvia, helada, frío intenso, tiempo bochornoso, arcoíris después de la lluvia y la salida y la puesta del sol.",
-        "51 iconos realistas, con versión de día y de noche donde aparece el sol o la luna (nada de sol a las 20 h). El texto de la condición cambia junto (ej.: \"Humo de incendios\", \"Aire muy seco\"), en la app y en el widget.",
-        "Vrumbi avisa qué hacer: con humo, cerrar las ventanillas y poner el aire en recirculación; con vendaval, reducir la velocidad; con riesgo de tormenta, no detenerse bajo árboles y carteles; con aire seco, beber agua."
       ]
     }
   ]
