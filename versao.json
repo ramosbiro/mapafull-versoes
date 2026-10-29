@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.0",
-  "codigo": 111,
+  "versao": "0.41.1",
+  "codigo": 112,
   "data": "29/10/2026",
-  "tamanho": 204017212,
-  "sha256": "746d6cea4e888ba328e8847bc6ffd15a2b0dab92becdd0e342d89664d78db1e8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.0/Vrumbi-0.41.0.apk",
+  "tamanho": 204336208,
+  "sha256": "3aabe0ee458e2cb2c18c79d182dfb72b029eb95aed84b3bac1446c2dfb8a3dbf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.1/Vrumbi-0.41.1.apk",
   "notas": [
-    "Nuvens novas nos ícones do tempo: com cara de foto, fofas, com volume, topo branco e base cinza, e a borda macia.",
-    "Chuva e garoa em fios finos e brilhantes (mais fios quanto mais forte a chuva).",
-    "Sol e lua maiores (continuam do mesmo tamanho em todos os ícones) e ícones maiores na fileira de horas do widget, com menos espaço entre a hora, o ícone e a temperatura."
+    "Fumaça, poeira e geada no mesmo jeito das nuvens novas: fumaça em rolos fofos subindo na frente do sol (ou da lua), poeira como um véu macio atravessando e geada como chão gelado, com capim branco e brilhos."
   ],
   "versoes": [
+    {
+      "versao": "0.41.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Fumaça, poeira e geada no mesmo jeito das nuvens novas: fumaça em rolos fofos subindo na frente do sol (ou da lua), poeira como um véu macio atravessando e geada como chão gelado, com capim branco e brilhos."
+      ],
+      "en": [
+        "Smoke, dust and frost in the same style as the new clouds: fluffy smoke billows rising in front of the sun (or moon), dust as a soft veil drifting across and frost as icy ground with white grass and sparkles."
+      ],
+      "es": [
+        "Humo, polvo y helada con el mismo estilo de las nubes nuevas: humo en rollos esponjosos subiendo delante del sol (o de la luna), polvo como un velo suave que cruza y helada como suelo helado, con pasto blanco y brillos."
+      ]
+    },
     {
       "versao": "0.41.0",
       "data": "29/10/2026",
@@ -168,25 +179,6 @@
         "El tiempo de verdad, más allá del código del pronóstico: Vrumbi ahora reconoce humo de incendios y polvo (por la calidad del aire), aire muy seco, sol fuerte (UV alto), niebla por la visibilidad, tormenta severa (por la energía de tormenta), vendaval con lluvia, helada, frío intenso, tiempo bochornoso, arcoíris después de la lluvia y la salida y la puesta del sol.",
         "51 iconos realistas, con versión de día y de noche donde aparece el sol o la luna (nada de sol a las 20 h). El texto de la condición cambia junto (ej.: \"Humo de incendios\", \"Aire muy seco\"), en la app y en el widget.",
         "Vrumbi avisa qué hacer: con humo, cerrar las ventanillas y poner el aire en recirculación; con vendaval, reducir la velocidad; con riesgo de tormenta, no detenerse bajo árboles y carteles; con aire seco, beber agua."
-      ]
-    },
-    {
-      "versao": "0.39.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícones do tempo realistas refeitos, mais reais: nuvens com borda fofa, volume e sombra, sol e lua com brilho justo (fica bonito também no fundo transparente) e lua com relevo.",
-        "Agora são 33 ícones, um para cada tipo de tempo: garoa, chuva e neve fraca, normal e forte; chuva e garoa congelante; pancadas de dia (com sol) e de noite (com lua); trovoada com e sem granizo; neblina e nevoeiro com geada; nublado de dia e de noite; e ainda vento forte e calor forte.",
-        "A tela Clima também usa os ícones realistas (no menu ☰ dá para trocar para os coloridos)."
-      ],
-      "en": [
-        "Realistic weather icons remade, more lifelike: clouds with soft edges, volume and shadow, sun and moon with a tight glow (looks good on a transparent background too) and a moon with relief.",
-        "There are now 33 icons, one for each kind of weather: light, moderate and heavy drizzle, rain and snow; freezing rain and drizzle; showers by day (with sun) and by night (with moon); thunderstorm with and without hail; fog and freezing fog; cloudy by day and by night; plus strong wind and strong heat.",
-        "The Weather screen also uses the realistic icons (you can switch to the colored ones in the ☰ menu)."
-      ],
-      "es": [
-        "Iconos del tiempo realistas rehechos, más reales: nubes con borde esponjoso, volumen y sombra, sol y luna con un brillo justo (también se ven bien con fondo transparente) y luna con relieve.",
-        "Ahora son 33 iconos, uno para cada tipo de tiempo: llovizna, lluvia y nieve débil, moderada y fuerte; lluvia y llovizna helada; chubascos de día (con sol) y de noche (con luna); tormenta con y sin granizo; niebla y niebla helada; nublado de día y de noche; y además viento fuerte y calor fuerte.",
-        "La pantalla Clima también usa los iconos realistas (en el menú ☰ se puede cambiar a los de colores)."
       ]
     }
   ]
