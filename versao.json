@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.9",
-  "codigo": 110,
+  "versao": "0.41.0",
+  "codigo": 111,
   "data": "29/10/2026",
-  "tamanho": 203120004,
-  "sha256": "750bd104af3fb14159b838b73518e0cb81f286a7df894e5bb68bfeabffaada39",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.9/Vrumbi-0.40.9.apk",
+  "tamanho": 204017212,
+  "sha256": "746d6cea4e888ba328e8847bc6ffd15a2b0dab92becdd0e342d89664d78db1e8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.0/Vrumbi-0.41.0.apk",
   "notas": [
-    "Sol e lua do mesmo tamanho em todos os ícones do tempo: a situação (fumaça, abafado, ar seco, poeira, geada) entra só como um detalhe pequeno.",
-    "A lua dos ícones de noite mostra a fase de verdade daquela hora: nova, crescente, quarto crescente, cheia, minguante... (no hemisfério norte, desenhada do jeito que se vê lá). No app e no widget."
+    "Nuvens novas nos ícones do tempo: com cara de foto, fofas, com volume, topo branco e base cinza, e a borda macia.",
+    "Chuva e garoa em fios finos e brilhantes (mais fios quanto mais forte a chuva).",
+    "Sol e lua maiores (continuam do mesmo tamanho em todos os ícones) e ícones maiores na fileira de horas do widget, com menos espaço entre a hora, o ícone e a temperatura."
   ],
   "versoes": [
+    {
+      "versao": "0.41.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Nuvens novas nos ícones do tempo: com cara de foto, fofas, com volume, topo branco e base cinza, e a borda macia.",
+        "Chuva e garoa em fios finos e brilhantes (mais fios quanto mais forte a chuva).",
+        "Sol e lua maiores (continuam do mesmo tamanho em todos os ícones) e ícones maiores na fileira de horas do widget, com menos espaço entre a hora, o ícone e a temperatura."
+      ],
+      "en": [
+        "New clouds in the weather icons: photo-like, fluffy, with volume, a white top, a grey base and soft edges.",
+        "Rain and drizzle as thin shiny streaks (more streaks the heavier the rain).",
+        "Bigger sun and moon (still the same size in every icon) and bigger icons in the widget hourly row, with less space between the hour, the icon and the temperature."
+      ],
+      "es": [
+        "Nubes nuevas en los iconos del tiempo: con aspecto de foto, esponjosas, con volumen, parte de arriba blanca, base gris y borde suave.",
+        "Lluvia y llovizna en hilos finos y brillantes (más hilos cuanto más fuerte la lluvia).",
+        "Sol y luna más grandes (siguen del mismo tamaño en todos los iconos) e iconos más grandes en la fila de horas del widget, con menos espacio entre la hora, el icono y la temperatura."
+      ]
+    },
     {
       "versao": "0.40.9",
       "data": "29/10/2026",
@@ -167,19 +187,6 @@
         "Iconos del tiempo realistas rehechos, más reales: nubes con borde esponjoso, volumen y sombra, sol y luna con un brillo justo (también se ven bien con fondo transparente) y luna con relieve.",
         "Ahora son 33 iconos, uno para cada tipo de tiempo: llovizna, lluvia y nieve débil, moderada y fuerte; lluvia y llovizna helada; chubascos de día (con sol) y de noche (con luna); tormenta con y sin granizo; niebla y niebla helada; nublado de día y de noche; y además viento fuerte y calor fuerte.",
         "La pantalla Clima también usa los iconos realistas (en el menú ☰ se puede cambiar a los de colores)."
-      ]
-    },
-    {
-      "versao": "0.38.9",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícones do tempo realistas, com o desenho do Vrumbi: nuvens com volume e sombra, sol com brilho, lua com relevo, chuva, garoa, trovoada, granizo, neve e neblina. No widget, em Configurações do widget > Ícones do tempo > Tipo: Coloridos, Realistas ou Na cor do texto."
-      ],
-      "en": [
-        "Realistic weather icons, drawn by Vrumbi: clouds with volume and shadow, a glowing sun, a moon with relief, rain, drizzle, thunderstorm, hail, snow and fog. In the widget, under Widget settings > Weather icons > Type: Colored, Realistic or In the text color."
-      ],
-      "es": [
-        "Iconos del tiempo realistas, con el diseño de Vrumbi: nubes con volumen y sombra, sol con brillo, luna con relieve, lluvia, llovizna, tormenta, granizo, nieve y niebla. En el widget, en Configuración del widget > Iconos del tiempo > Tipo: De colores, Realistas o Del color del texto."
       ]
     }
   ]
