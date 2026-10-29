@@ -1,21 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.19.3",
-  "codigo": 68,
+  "versao": "0.20.0",
+  "codigo": 69,
   "data": "29/10/2026",
-  "tamanho": 197281931,
-  "sha256": "127afa670a793216f4d65afca07cad2f2fa557969f303ba3bbd4123948940dee",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.3/Vrumbi-0.19.3.apk",
+  "tamanho": 197311387,
+  "sha256": "e12ecf3130079d31dd50db5599f2f4e64760fab575146bccf4c6c50a7c22a885",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.20.0/Vrumbi-0.20.0.apk",
   "notas": [
-    "Seguir corrigido: tocar em Seguir sempre volta a centralizar o carro, e ao voltar de outro app ele continua seguindo, com o botão marcado.",
-    "O carro fica mais perto da parte de baixo da tela, para mostrar mais do que vem pela frente (de pé e deitado).",
-    "O nome da rua fica na tela: não some mais sozinho. Fecha no X ou arrastando para o lado e volta quando a rua muda.",
-    "Radares só da sua via: o aviso vale para o radar que está na rua em que você está (ou na rota), no seu sentido. Não avisa mais o da rua do lado, o da rua que cruza nem o da outra pista. A distância é a do caminho.",
-    "Avisos da comunidade chegam mais rápido (dirigindo, a cada 15 s) e de mais longe (até 3 km, conforme a velocidade). Um aviso novo no seu caminho é falado na hora, e o pino pisca por alguns minutos.",
-    "Avisar: Buraco na via, Objeto na pista, Acidente e Trânsito parado aparecem primeiro.",
-    "Mapa completo, Unidades e Camadas saíram da tela inicial e ficam no topo do menu, em destaque."
+    "Escolha a voz da navegação: em Configurações > Navegação > Voz da navegação, até 5 vozes femininas e 5 masculinas no idioma do app, com os sotaques que o seu celular tem (no português, Brasil e Portugal) e variações de tom. Toque no play para ouvir antes de escolher. Também dá para deixar a fala mais calma ou mais rápida.",
+    "Mais vozes e sotaques: atalho para baixar as vozes no Android e usar sem internet.",
+    "Quando o Vrumbi fala, a música de outros aplicativos abaixa e volta sozinha.",
+    "Alertas sem repetição: avisos do mesmo assunto (tempestade amarela e laranja, acumulado de chuva, Defesa Civil) viram um aviso só, com o mais grave e os outros assuntos em uma linha. Fechou ou tocou em Ok, não volta; só aparece de novo se surgir um assunto novo ou se piorar."
   ],
   "versoes": [
+    {
+      "versao": "0.20.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Escolha a voz da navegação: em Configurações > Navegação > Voz da navegação, até 5 vozes femininas e 5 masculinas no idioma do app, com os sotaques que o seu celular tem (no português, Brasil e Portugal) e variações de tom. Toque no play para ouvir antes de escolher. Também dá para deixar a fala mais calma ou mais rápida.",
+        "Mais vozes e sotaques: atalho para baixar as vozes no Android e usar sem internet.",
+        "Quando o Vrumbi fala, a música de outros aplicativos abaixa e volta sozinha.",
+        "Alertas sem repetição: avisos do mesmo assunto (tempestade amarela e laranja, acumulado de chuva, Defesa Civil) viram um aviso só, com o mais grave e os outros assuntos em uma linha. Fechou ou tocou em Ok, não volta; só aparece de novo se surgir um assunto novo ou se piorar."
+      ],
+      "en": [
+        "Choose the navigation voice: in Settings > Navigation > Navigation voice, up to 5 female and 5 male voices in the app language, with the accents your phone has (in English, United States, United Kingdom, Australia, India...) and tone variations. Tap play to listen before choosing. You can also make the speech calmer or faster.",
+        "More voices and accents: shortcut to download voices on Android and use them offline.",
+        "When Vrumbi speaks, music from other apps lowers and comes back by itself.",
+        "Alerts without repetition: alerts about the same subject (yellow and orange storm, rain accumulation, civil defense) become a single alert, with the most serious one and the other subjects in one line. Once closed or Ok, it does not come back; it only shows again if a new subject appears or it gets worse."
+      ],
+      "es": [
+        "Elige la voz de la navegación: en Ajustes > Navegación > Voz de la navegación, hasta 5 voces femeninas y 5 masculinas en el idioma de la app, con los acentos que tiene tu celular (en español, España y Estados Unidos) y variaciones de tono. Toca play para escuchar antes de elegir. También puedes hacer el habla más calmada o más rápida.",
+        "Más voces y acentos: atajo para descargar las voces en Android y usarlas sin internet.",
+        "Cuando Vrumbi habla, la música de otras apps baja y vuelve sola.",
+        "Alertas sin repetición: los avisos del mismo tema (tormenta amarilla y naranja, lluvia acumulada, Defensa Civil) se vuelven un solo aviso, con el más grave y los demás temas en una línea. Cerrado o con Ok, no vuelve; solo aparece de nuevo si surge un tema nuevo o empeora."
+      ]
+    },
     {
       "versao": "0.19.3",
       "data": "29/10/2026",
@@ -244,22 +263,6 @@
       ],
       "es": [
         "Idioma también en el mapa completo: paneles, capas, búsqueda, ruta, medidas, alertas, análisis criminal, impresión y herramientas en inglés y español (más de 2.500 textos traducidos)."
-      ]
-    },
-    {
-      "versao": "0.14.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Novo: Idioma. Em Configurações > Idioma, escolha Português, English ou Español, ou \"Padrão do sistema\" (o idioma do celular). A tela de navegação muda inteira: menus, botões, avisos, alertas e também a voz e as instruções das manobras.",
-        "Nomes de ruas e lugares ficam como no mapa. O mapa completo ainda está sendo traduzido: algumas telas dele aparecem em português por enquanto."
-      ],
-      "en": [
-        "New: Language. In Settings > Language, choose Português, English or Español, or \"System default\" (the phone's language). The whole navigation screen changes: menus, buttons, alerts, community alerts and also the voice and maneuver instructions.",
-        "Street and place names stay as they are on the map. The full map is still being translated: some of its screens show in Portuguese for now."
-      ],
-      "es": [
-        "Nuevo: Idioma. En Configuración > Idioma, elige Português, English o Español, o \"Predeterminado del sistema\" (el idioma del celular). Cambia toda la pantalla de navegación: menús, botones, avisos, alertas y también la voz y las instrucciones de las maniobras.",
-        "Los nombres de calles y lugares quedan como en el mapa. El mapa completo aún se está traduciendo: algunas de sus pantallas aparecen en portugués por ahora."
       ]
     }
   ]
