@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.16.0",
-  "codigo": 61,
+  "versao": "0.16.1",
+  "codigo": 62,
   "data": "28/10/2026",
-  "tamanho": 197339215,
-  "sha256": "d5ee4fed006ad93096662ac37ccedf14d017e1a1d3caf811282866df07688d29",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.16.0/Vrumbi-0.16.0.apk",
+  "tamanho": 196264562,
+  "sha256": "9439fa55b9064df4ad1abbee23eaeaf3a47d9b2729c2197a4559caace2e600fd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.16.1/Vrumbi-0.16.1.apk",
   "notas": [
-    "Navegação em segundo plano: durante a rota, uma notificação fixa mostra a próxima manobra com a seta (também na barra de status), a distância, a rua e a chegada, com o botão Encerrar. Funciona com a tela apagada ou com outro app na frente: o GPS e a voz continuam guiando.",
-    "Na primeira rota, o Android pode pedir a permissão de notificações: permita para ver a navegação fixa.",
-    "O aviso de atualização agora aparece inteiro no idioma escolhido."
+    "Notificação da navegação nova: seta grande à esquerda, a distância e a instrução, a faixa a usar (\"Use as 2 faixas da direita\"), uma barra que enche até a curva, a manobra seguinte quando vem logo depois (\"Depois: vire à esquerda\") e o que vem pela frente: radar, alerta da comunidade ou a sua velocidade contra o limite.",
+    "Dentro do app, a faixa da manobra também ganhou seta maior, o texto da faixa, a manobra seguinte e a barra até a curva."
   ],
   "versoes": [
+    {
+      "versao": "0.16.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Notificação da navegação nova: seta grande à esquerda, a distância e a instrução, a faixa a usar (\"Use as 2 faixas da direita\"), uma barra que enche até a curva, a manobra seguinte quando vem logo depois (\"Depois: vire à esquerda\") e o que vem pela frente: radar, alerta da comunidade ou a sua velocidade contra o limite.",
+        "Dentro do app, a faixa da manobra também ganhou seta maior, o texto da faixa, a manobra seguinte e a barra até a curva."
+      ],
+      "en": [
+        "New navigation notification: big arrow on the left, distance and instruction, the lane to use (\"Use the 2 right lanes\"), a bar that fills up to the turn, the next maneuver when it comes right after (\"Then: turn left\") and what is ahead: speed camera, community alert or your speed against the limit.",
+        "Inside the app, the maneuver banner also got a bigger arrow, the lane text, the next maneuver and the bar up to the turn."
+      ],
+      "es": [
+        "Nueva notificación de navegación: flecha grande a la izquierda, la distancia y la instrucción, el carril a usar (\"Usa los 2 carriles derechos\"), una barra que se llena hasta la curva, la siguiente maniobra cuando viene justo después (\"Después: gira a la izquierda\") y lo que viene adelante: radar, alerta de la comunidad o tu velocidad contra el límite.",
+        "Dentro de la app, la franja de la maniobra también ganó flecha más grande, el texto del carril, la siguiente maniobra y la barra hasta la curva."
+      ]
+    },
     {
       "versao": "0.16.0",
       "data": "28/10/2026",
@@ -167,13 +182,6 @@
       "itens": [
         "A animação de abertura aparece sempre que você abre o aplicativo fechado. Ela só não repete quando o próprio Android tirou o app da memória em segundo plano e você volta para ele (aí ele continua de onde estava), e ao trocar entre a navegação e o mapa completo.",
         "Abertura mais lisa, sem travadas: o mapa só começa a carregar depois da animação (enquanto isso os dois Vrumbis seguem na tela), e o fundo e o brilho agora são animados pela placa de vídeo do celular."
-      ]
-    },
-    {
-      "versao": "0.12.2",
-      "data": "28/10/2026",
-      "itens": [
-        "Dia, Noite ou Automático do mapa agora fica nos Ajustes rápidos (botão Ajustes da tela principal), logo no topo. Automático: claro de dia e escuro à noite, pelo nascer e pôr do sol. O botão Tema separado saiu da tela."
       ]
     }
   ]
