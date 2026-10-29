@@ -1,16 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.37.1",
-  "codigo": 89,
+  "versao": "0.38.0",
+  "codigo": 90,
   "data": "29/10/2026",
-  "tamanho": 199300855,
-  "sha256": "2f1417b5bc204251da31cb92575684cc0d6bb22f119760862f50a0a68ffdb8fb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.37.1/Vrumbi-0.37.1.apk",
+  "tamanho": 200674959,
+  "sha256": "17e4789ca6cb50259d1e439201ae4af37099ea75b50c7f9d4064bd04808f5481",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.0/Vrumbi-0.38.0.apk",
   "notas": [
-    "Mapa completo: o Dash (painel analítico) voltou a abrir. Ele abre em tela cheia por cima do mapa; \"Voltar ao mapa\" fecha.",
-    "O app não leva mais o nome nem a marca do site de origem: textos, impressão, camadas e dados ficaram só com o Vrumbi. As suas configurações continuam todas (passaram sozinhas para o nome novo)."
+    "Widget Clima e relógio no esquema que você mandou: o local com o ícone do Vrumbi, a data, o relógio grande, a umidade, o ícone e a temperatura, a condição, a sensação, a pressão, o vento, a máxima e a mínima, e embaixo as próximas horas (ou os próximos dias).",
+    "Tocar no relógio do widget abre o alarme do celular; na data, o calendário; no resto, o clima do Vrumbi direto na hora em hora.",
+    "Configurações de cada widget (abrem sozinhas ao pôr o widget na tela, e em Configurações > Widgets na tela inicial): cor do fundo com as cores do app ou qualquer outra, barra de opacidade (de fábrica, transparente), cor do texto, tipo e tamanho dos ícones, tamanho e formato do relógio, hora em hora ou por dia, quantos itens, os dados mostrados e o local. A prévia mostra como fica.",
+    "Tela de clima nova, com o menu ☰: Agora, Tempo de hora em hora (temperatura, condição, chuva em mm, umidade, vento com direção, pressão e índice UV, com gráfico), 5 dias, 10 dias, Fases da Lua e Meus locais (abas com os seus lugares salvos).",
+    "Fases da Lua: a lua do dia desenhada, a fase, a iluminação, a idade, a hora em que nasce e se põe, os próximos 5 dias e as datas da próxima lua nova, crescente, cheia e minguante — calculado no aparelho, sem internet."
   ],
   "versoes": [
+    {
+      "versao": "0.38.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Widget Clima e relógio no esquema que você mandou: o local com o ícone do Vrumbi, a data, o relógio grande, a umidade, o ícone e a temperatura, a condição, a sensação, a pressão, o vento, a máxima e a mínima, e embaixo as próximas horas (ou os próximos dias).",
+        "Tocar no relógio do widget abre o alarme do celular; na data, o calendário; no resto, o clima do Vrumbi direto na hora em hora.",
+        "Configurações de cada widget (abrem sozinhas ao pôr o widget na tela, e em Configurações > Widgets na tela inicial): cor do fundo com as cores do app ou qualquer outra, barra de opacidade (de fábrica, transparente), cor do texto, tipo e tamanho dos ícones, tamanho e formato do relógio, hora em hora ou por dia, quantos itens, os dados mostrados e o local. A prévia mostra como fica.",
+        "Tela de clima nova, com o menu ☰: Agora, Tempo de hora em hora (temperatura, condição, chuva em mm, umidade, vento com direção, pressão e índice UV, com gráfico), 5 dias, 10 dias, Fases da Lua e Meus locais (abas com os seus lugares salvos).",
+        "Fases da Lua: a lua do dia desenhada, a fase, a iluminação, a idade, a hora em que nasce e se põe, os próximos 5 dias e as datas da próxima lua nova, crescente, cheia e minguante — calculado no aparelho, sem internet."
+      ],
+      "en": [
+        "Clock & weather widget in the layout you sent: the place with the Vrumbi icon, date, big clock, humidity, icon and temperature, condition, feels like, pressure, wind, high and low, and the next hours (or days) below.",
+        "Tap the widget clock to open the phone alarm; the date opens the calendar; anywhere else opens Vrumbi weather straight on the hour by hour.",
+        "Settings for each widget (they open by themselves when you place the widget, and in Settings > Home screen widgets): background color from the app colors or any other, opacity bar (transparent by default), text color, icon type and size, clock size and format, hour by hour or by day, how many items, the data shown and the place. The preview shows how it looks.",
+        "New weather screen with the ☰ menu: Now, Hour-by-hour weather (temperature, condition, rain in mm, humidity, wind with direction, pressure and UV index, with a chart), 5 days, 10 days, Moon phases and My places (tabs with your saved places).",
+        "Moon phases: today's moon drawn, the phase, illumination, age, moonrise and moonset, the next 5 days and the dates of the next new, first quarter, full and last quarter moon — calculated on the device, no internet needed."
+      ],
+      "es": [
+        "Widget Clima y reloj en el esquema que enviaste: el lugar con el icono de Vrumbi, la fecha, el reloj grande, la humedad, el icono y la temperatura, la condición, la sensación, la presión, el viento, la máxima y la mínima, y abajo las próximas horas (o días).",
+        "Tocar el reloj del widget abre la alarma del teléfono; la fecha, el calendario; el resto, el clima de Vrumbi directo en hora por hora.",
+        "Configuración de cada widget (se abre sola al poner el widget en la pantalla, y en Configuración > Widgets en la pantalla de inicio): color de fondo con los colores de la app o cualquier otro, barra de opacidad (de fábrica, transparente), color del texto, tipo y tamaño de los iconos, tamaño y formato del reloj, hora por hora o por día, cuántos elementos, los datos mostrados y el lugar. La vista previa muestra cómo queda.",
+        "Nueva pantalla de clima con el menú ☰: Ahora, Tiempo hora por hora (temperatura, condición, lluvia en mm, humedad, viento con dirección, presión e índice UV, con gráfico), 5 días, 10 días, Fases de la Luna y Mis lugares (pestañas con tus lugares guardados).",
+        "Fases de la Luna: la luna del día dibujada, la fase, la iluminación, la edad, la salida y la puesta, los próximos 5 días y las fechas de la próxima luna nueva, creciente, llena y menguante — calculado en el dispositivo, sin internet."
+      ]
+    },
     {
       "versao": "0.37.1",
       "data": "29/10/2026",
@@ -218,22 +246,6 @@
       "es": [
         "Grabación del viaje con las dos cámaras a la vez: en Ajustes > Grabación del viaje > Cámara, \"Las dos\" graba la carretera a pantalla completa y el interior del auto en un recuadro en la esquina, en un solo video.",
         "Solo en los celulares que graban las dos cámaras juntas (Vrumbi lo revisa y muestra la opción apagada en los demás). Si el celular se niega en el momento, la grabación sigue solo con la carretera y Vrumbi avisa."
-      ]
-    },
-    {
-      "versao": "0.28.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Avisos de clima no celular, mesmo com o app fechado: \"Chuva chegando em ~30 min\" quando a chuva deve começar na próxima hora, avisos oficiais graves (INMET: perigo e grande perigo; Defesa Civil) para onde você está e, se quiser, o resumo da manhã com a mínima, a máxima e a chance de chuva.",
-        "Cada aviso liga e desliga em Configurações > Avisos de clima (ou na tela Clima e tempo). Tocar no aviso abre o Clima ou os Alertas."
-      ],
-      "en": [
-        "Weather alerts on the phone, even with the app closed: \"Rain in ~30 min\" when rain should start within the next hour, serious official alerts (danger and great danger; civil defense) where you are and, if you want, the morning summary with the low, the high and the chance of rain.",
-        "Each alert turns on and off in Settings > Weather alerts (or on the Weather screen). Tapping the alert opens Weather or Alerts."
-      ],
-      "es": [
-        "Avisos de clima en el celular, incluso con la app cerrada: \"Lluvia en ~30 min\" cuando la lluvia deba empezar en la próxima hora, avisos oficiales graves (peligro y gran peligro; Defensa Civil) donde estás y, si quieres, el resumen de la mañana con la mínima, la máxima y la probabilidad de lluvia.",
-        "Cada aviso se activa y desactiva en Ajustes > Avisos de clima (o en la pantalla Clima y tiempo). Tocar el aviso abre el Clima o las Alertas."
       ]
     }
   ]
