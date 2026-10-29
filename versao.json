@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.28.0",
-  "codigo": 78,
+  "versao": "0.29.0",
+  "codigo": 79,
   "data": "29/10/2026",
-  "tamanho": 199084980,
-  "sha256": "2ac6d2a80e2f1c7ba9db7da2f62f8c3ce842280702398fcef52c7b4ccf7b8732",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.28.0/Vrumbi-0.28.0.apk",
+  "tamanho": 199255746,
+  "sha256": "301088c9bb60d0ae4f6c7b1cf12408812ac03fff78d245394da6197b8874f076",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.29.0/Vrumbi-0.29.0.apk",
   "notas": [
-    "Avisos de clima no celular, mesmo com o app fechado: \"Chuva chegando em ~30 min\" quando a chuva deve começar na próxima hora, avisos oficiais graves (INMET: perigo e grande perigo; Defesa Civil) para onde você está e, se quiser, o resumo da manhã com a mínima, a máxima e a chance de chuva.",
-    "Cada aviso liga e desliga em Configurações > Avisos de clima (ou na tela Clima e tempo). Tocar no aviso abre o Clima ou os Alertas."
+    "Gravação da viagem com as duas câmeras ao mesmo tempo: em Configurações > Gravação da viagem > Câmera, \"As duas\" grava a estrada em tela cheia e o interior do carro num quadro no canto, num vídeo só.",
+    "Só nos celulares que gravam as duas câmeras juntas (o Vrumbi confere e mostra a opção apagada nos outros). Se o aparelho recusar na hora, a gravação continua só com a estrada e o Vrumbi avisa."
   ],
   "versoes": [
+    {
+      "versao": "0.29.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Gravação da viagem com as duas câmeras ao mesmo tempo: em Configurações > Gravação da viagem > Câmera, \"As duas\" grava a estrada em tela cheia e o interior do carro num quadro no canto, num vídeo só.",
+        "Só nos celulares que gravam as duas câmeras juntas (o Vrumbi confere e mostra a opção apagada nos outros). Se o aparelho recusar na hora, a gravação continua só com a estrada e o Vrumbi avisa."
+      ],
+      "en": [
+        "Trip recording with both cameras at once: in Settings > Trip recording > Camera, \"Both\" records the road full screen and the inside of the car in a small frame in the corner, in a single video.",
+        "Only on phones that can record both cameras together (Vrumbi checks and shows the option greyed out on the others). If the phone refuses at the moment, recording continues with just the road and Vrumbi tells you."
+      ],
+      "es": [
+        "Grabación del viaje con las dos cámaras a la vez: en Ajustes > Grabación del viaje > Cámara, \"Las dos\" graba la carretera a pantalla completa y el interior del auto en un recuadro en la esquina, en un solo video.",
+        "Solo en los celulares que graban las dos cámaras juntas (Vrumbi lo revisa y muestra la opción apagada en los demás). Si el celular se niega en el momento, la grabación sigue solo con la carretera y Vrumbi avisa."
+      ]
+    },
     {
       "versao": "0.28.0",
       "data": "29/10/2026",
@@ -242,25 +258,6 @@
         "Los avisos de la comunidad llegan más rápido (manejando, cada 15 s) y desde más lejos (hasta 3 km, según la velocidad). Un aviso nuevo en tu camino se dice en el momento, y su pin parpadea unos minutos.",
         "Avisar: Bache en la vía, Objeto en la vía, Accidente y Tráfico detenido aparecen primero.",
         "Mapa completo, Unidades y Capas salieron de la pantalla inicial y están arriba en el menú, destacados."
-      ]
-    },
-    {
-      "versao": "0.19.2",
-      "data": "29/10/2026",
-      "itens": [
-        "O aviso do INMET e da Defesa Civil na tela agora fecha no X ou arrastando para o lado, e não volta enquanto aquele aviso valer.",
-        "Para ver de novo: o botão Alertas, embaixo de Ajustes, aparece enquanto houver aviso valendo onde você está, com o número de avisos e a cor do mais grave, e abre todos eles. Também está no menu, em Alertas e notícias.",
-        "O aviso de abertura do Vrumbi aparece uma vez só para cada alerta."
-      ],
-      "en": [
-        "The INMET and civil defense alert on the screen now closes with the X or by swiping it aside, and stays away while that alert is valid.",
-        "To see it again: the Alerts button, below Options, shows up while there is an alert where you are, with the number of alerts and the color of the most serious one, and opens all of them. It is also in the menu, under Alerts and news.",
-        "Vrumbi's opening alert shows only once per alert."
-      ],
-      "es": [
-        "El aviso del INMET y de Defensa Civil en la pantalla ahora se cierra con la X o deslizándolo a un lado, y no vuelve mientras ese aviso valga.",
-        "Para verlo de nuevo: el botón Alertas, debajo de Ajustes, aparece mientras haya un aviso donde estás, con el número de avisos y el color del más grave, y abre todos. También está en el menú, en Alertas y noticias.",
-        "El aviso de apertura de Vrumbi aparece una sola vez por alerta."
       ]
     }
   ]
