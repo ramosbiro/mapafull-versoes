@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.2",
-  "codigo": 92,
+  "versao": "0.38.3",
+  "codigo": 93,
   "data": "29/10/2026",
-  "tamanho": 199349188,
-  "sha256": "d6e475d79f6491323778e94bf8ed9a10206d925f381e1d84d3e919444a5b6e39",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.2/Vrumbi-0.38.2.apk",
+  "tamanho": 199350080,
+  "sha256": "d696f9d6dea4bb39e867e417e31ce6b2376d36d308bffb96ebc26cc0a2c9b2b0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.3/Vrumbi-0.38.3.apk",
   "notas": [
-    "Todos os popups agora saem do mesmo jeito: com o X ou arrastando o dedo para o lado. Vale para as perguntas e avisos do Vrumbi no alto, o aviso de radar e o de alerta da comunidade na rota, a pergunta \"ainda está lá?\", os balões e cartões de alertas, a caixa de mensagens e o aviso ao passageiro.",
-    "Um popup do Vrumbi por vez: o \"Continuar a rota?\" espera se já houver outro aviso na tela."
+    "Todos os cards e botões com o mesmo contorno fino na cor de destaque (o Transporte desligado, o Mais ajustes e outros estavam quase sem borda); a opção de rota escolhida fica com 2 px."
   ],
   "versoes": [
+    {
+      "versao": "0.38.3",
+      "data": "29/10/2026",
+      "itens": [
+        "Todos os cards e botões com o mesmo contorno fino na cor de destaque (o Transporte desligado, o Mais ajustes e outros estavam quase sem borda); a opção de rota escolhida fica com 2 px."
+      ],
+      "en": [
+        "All cards and buttons now share the same thin outline in the accent color (Transport turned off, More settings and others had almost no border); the chosen route option has a 2 px outline."
+      ],
+      "es": [
+        "Todas las tarjetas y botones con el mismo contorno fino en el color de acento (Transporte apagado, Más ajustes y otros casi no tenían borde); la opción de ruta elegida queda con 2 px."
+      ]
+    },
     {
       "versao": "0.38.2",
       "data": "29/10/2026",
@@ -224,28 +236,6 @@
       ],
       "es": [
         "Modo conductor más seguro: la copia del video exportado como prueba se borra sola (al abrir la app, antes de la próxima exportación y 15 minutos después); si falla el cifrado de un tramo, el video abierto se borra; y cualquier video abierto que haya quedado se cifra al empezar a grabar."
-      ]
-    },
-    {
-      "versao": "0.31.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Modo motorista de aplicativo (Configurações > Gravação da viagem): cada trecho gravado fica criptografado no celular, com uma chave guardada no chip de segurança do Android. Nenhum outro app abre os vídeos.",
-        "Para usar como prova: Minhas gravações > Exportar como prova pede a senha ou a biometria do celular e só então tira uma cópia para compartilhar.",
-        "Aviso ao passageiro: uma tela com letras grandes dizendo que a viagem é gravada e que as imagens ficam protegidas (LGPD), para mostrar a quem entra no carro.",
-        "Mensagens enquanto dirige (Configurações > Mensagens enquanto dirige): mensagens do WhatsApp, Telegram, SMS, Signal e Messenger aparecem num cartão; dirigindo, o Vrumbi lê em voz alta. Responder só com respostas prontas, sem digitar: \"Estou dirigindo, respondo depois\", \"Estou dirigindo, chego às…\" (com a hora de chegada da rota), \"Já estou chegando\", \"Ok, falamos depois\". Nenhuma mensagem é guardada."
-      ],
-      "en": [
-        "Ride-hailing driver mode (Settings > Trip recording): each recorded clip is encrypted on the phone, with a key kept in Android's security chip. No other app can open the videos.",
-        "To use as evidence: My recordings > Export as evidence asks for the phone password or biometrics and only then makes a copy to share.",
-        "Passenger notice: a screen with large letters saying the trip is recorded and the images are protected, to show whoever gets in the car.",
-        "Messages while driving (Settings > Messages while driving): messages from WhatsApp, Telegram, SMS, Signal and Messenger show up in a card; while driving, Vrumbi reads them aloud. Reply only with ready-made replies, no typing: \"I am driving, I will reply later\", \"I am driving, I will get there at…\" (with the route arrival time), \"I am almost there\", \"Ok, talk later\". No message is kept."
-      ],
-      "es": [
-        "Modo conductor de aplicación (Ajustes > Grabación del viaje): cada tramo grabado queda cifrado en el celular, con una clave guardada en el chip de seguridad de Android. Ninguna otra app abre los videos.",
-        "Para usarlo como prueba: Mis grabaciones > Exportar como prueba pide la contraseña o la biometría del celular y solo entonces saca una copia para compartir.",
-        "Aviso al pasajero: una pantalla con letras grandes que dice que el viaje se graba y que las imágenes quedan protegidas, para mostrar a quien sube al auto.",
-        "Mensajes mientras manejas (Ajustes > Mensajes mientras manejas): los mensajes de WhatsApp, Telegram, SMS, Signal y Messenger aparecen en una tarjeta; manejando, Vrumbi los lee en voz alta. Responder solo con respuestas listas, sin escribir: \"Estoy manejando, respondo después\", \"Estoy manejando, llego a las…\" (con la hora de llegada de la ruta), \"Ya estoy llegando\", \"Ok, hablamos después\". No se guarda ningún mensaje."
       ]
     }
   ]
