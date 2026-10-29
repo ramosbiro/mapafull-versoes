@@ -1,21 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.15.0",
-  "codigo": 60,
+  "versao": "0.16.0",
+  "codigo": 61,
   "data": "28/10/2026",
-  "tamanho": 196240174,
-  "sha256": "86d1a45b876f0880f17660d83da84b2351df78b6b084507d50b2d2da9d9291d0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.15.0/Vrumbi-0.15.0.apk",
+  "tamanho": 197339215,
+  "sha256": "d5ee4fed006ad93096662ac37ccedf14d017e1a1d3caf811282866df07688d29",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.16.0/Vrumbi-0.16.0.apk",
   "notas": [
-    "Orientação de faixas: chegando a um cruzamento, a faixa da manobra mostra as faixas da via e acende as que servem para o seu caminho (onde o mapa tem essa informação).",
-    "Zoom automático na manobra: perto de uma curva o mapa aproxima e mostra o cruzamento, depois volta sozinho.",
-    "Voz mais esperta: avisa mais cedo quanto mais rápido você estiver (em rodovia, a 1 km e a 400 m); toque na faixa da manobra para repetir a instrução; e em Ajustes há \"Só o essencial\", que fala menos.",
-    "Chegada: o Vrumbi diz de que lado da rua fica o destino (\"O destino fica à sua direita\").",
-    "Alerta de velocidade mais justo: só avisa depois de alguns segundos acima do limite e repete a cada 2 minutos, sem ficar falando.",
-    "Continuar a rota: se o app fechar no meio do caminho, ao abrir o Vrumbi pergunta se você quer continuar.",
-    "Onde estacionei: ao chegar de carro, a posição fica guardada em Favoritos (\"Meu carro\"), e dá para marcar à mão também."
+    "Navegação em segundo plano: durante a rota, uma notificação fixa mostra a próxima manobra com a seta (também na barra de status), a distância, a rua e a chegada, com o botão Encerrar. Funciona com a tela apagada ou com outro app na frente: o GPS e a voz continuam guiando.",
+    "Na primeira rota, o Android pode pedir a permissão de notificações: permita para ver a navegação fixa.",
+    "O aviso de atualização agora aparece inteiro no idioma escolhido."
   ],
   "versoes": [
+    {
+      "versao": "0.16.0",
+      "data": "28/10/2026",
+      "itens": [
+        "Navegação em segundo plano: durante a rota, uma notificação fixa mostra a próxima manobra com a seta (também na barra de status), a distância, a rua e a chegada, com o botão Encerrar. Funciona com a tela apagada ou com outro app na frente: o GPS e a voz continuam guiando.",
+        "Na primeira rota, o Android pode pedir a permissão de notificações: permita para ver a navegação fixa.",
+        "O aviso de atualização agora aparece inteiro no idioma escolhido."
+      ],
+      "en": [
+        "Background navigation: during a route, a pinned notification shows the next maneuver with the arrow (also in the status bar), the distance, the street and the arrival time, with an End button. It works with the screen off or another app in front: GPS and voice keep guiding.",
+        "On the first route, Android may ask for notification permission: allow it to see the pinned navigation.",
+        "The update notice now shows entirely in the chosen language."
+      ],
+      "es": [
+        "Navegación en segundo plano: durante la ruta, una notificación fija muestra la próxima maniobra con la flecha (también en la barra de estado), la distancia, la calle y la llegada, con el botón Terminar. Funciona con la pantalla apagada o con otra app delante: el GPS y la voz siguen guiando.",
+        "En la primera ruta, Android puede pedir el permiso de notificaciones: permítelo para ver la navegación fija.",
+        "El aviso de actualización ahora aparece completo en el idioma elegido."
+      ]
+    },
     {
       "versao": "0.15.0",
       "data": "28/10/2026",
@@ -159,17 +174,6 @@
       "data": "28/10/2026",
       "itens": [
         "Dia, Noite ou Automático do mapa agora fica nos Ajustes rápidos (botão Ajustes da tela principal), logo no topo. Automático: claro de dia e escuro à noite, pelo nascer e pôr do sol. O botão Tema separado saiu da tela."
-      ]
-    },
-    {
-      "versao": "0.12.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Ícone da posição na medida certa: com o mapa afastado (como na escolha da rota) o carro, a seta ou o modelo escolhido diminui junto com o mapa, em vez de cobrir quarteirões. Dirigindo, continua do mesmo tamanho de antes.",
-        "O destino agora aparece no mapa: o Vrumbi espera no fim da rota e comemora quando você chega.",
-        "Botão Tema na tela principal (ao lado de Som e Ajustes): um toque troca entre Automático (claro de dia, escuro à noite), Claro e Escuro. Quem tinha ficado preso no escuro volta ao automático.",
-        "Voltar do Android: agora fecha a janela aberta e volta uma tela (menu, Favoritos, Busca, Configurações, mapas offline e avisos). Na escolha da rota, voltar cancela. Antes ele saía do aplicativo.",
-        "Configurações > GPS e bússola: sinal do GPS ao vivo (precisão em metros, com nota), bússola com mostrador, \"Calibrar a bússola\" com o passo a passo do oito no ar, ajuste fino do norte e dicas para um sinal melhor."
       ]
     }
   ]
