@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.2",
-  "codigo": 103,
+  "versao": "0.40.3",
+  "codigo": 104,
   "data": "29/10/2026",
-  "tamanho": 200718156,
-  "sha256": "78623f3f488ff176f8a9fcd81e730a690979befc267f060c80e9ae70494d0afb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.2/Vrumbi-0.40.2.apk",
+  "tamanho": 200721504,
+  "sha256": "289b597cd199b7cd1707420895f568be7f8a1a81306cfc07fa20d718e626102f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.3/Vrumbi-0.40.3.apk",
   "notas": [
-    "Ícone de fumaça ajustado: sem o fogo, menor e inteiro dentro do quadro, com a coluna de fumaça saindo de um chão queimado."
+    "Ícone de fumaça: sem chão; a base agora é a própria fumaça, arredondada e inteira dentro do quadro."
   ],
   "versoes": [
+    {
+      "versao": "0.40.3",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça: sem chão; a base agora é a própria fumaça, arredondada e inteira dentro do quadro."
+      ],
+      "en": [
+        "Smoke icon: no ground; the base is now the smoke itself, rounded and fully inside the frame."
+      ],
+      "es": [
+        "Icono de humo: sin suelo; la base ahora es el propio humo, redondeada y entera dentro del cuadro."
+      ]
+    },
     {
       "versao": "0.40.2",
       "data": "29/10/2026",
@@ -181,22 +194,6 @@
       ],
       "es": [
         "Todas las tarjetas y botones con el mismo contorno fino en el color de acento (Transporte apagado, Más ajustes y otros casi no tenían borde); la opción de ruta elegida queda con 2 px."
-      ]
-    },
-    {
-      "versao": "0.38.2",
-      "data": "29/10/2026",
-      "itens": [
-        "Todos os popups agora saem do mesmo jeito: com o X ou arrastando o dedo para o lado. Vale para as perguntas e avisos do Vrumbi no alto, o aviso de radar e o de alerta da comunidade na rota, a pergunta \"ainda está lá?\", os balões e cartões de alertas, a caixa de mensagens e o aviso ao passageiro.",
-        "Um popup do Vrumbi por vez: o \"Continuar a rota?\" espera se já houver outro aviso na tela."
-      ],
-      "en": [
-        "All popups now close the same way: with the X or by swiping sideways. This covers the Vrumbi questions and notices at the top, the radar and community alert notices on the route, the \"is it still there?\" question, the alert balloons and cards, the messages inbox and the passenger notice.",
-        "One Vrumbi popup at a time: \"Continue the route?\" waits if another notice is already on the screen."
-      ],
-      "es": [
-        "Todas las ventanas emergentes ahora se cierran igual: con la X o deslizando el dedo hacia el lado. Vale para las preguntas y avisos de Vrumbi arriba, el aviso de radar y el de alerta de la comunidad en la ruta, la pregunta \"¿sigue ahí?\", los globos y tarjetas de alertas, la bandeja de mensajes y el aviso al pasajero.",
-        "Una ventana de Vrumbi a la vez: \"¿Continuar la ruta?\" espera si ya hay otro aviso en la pantalla."
       ]
     }
   ]
