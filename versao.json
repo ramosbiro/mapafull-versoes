@@ -1,18 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.20.0",
-  "codigo": 69,
+  "versao": "0.20.1",
+  "codigo": 70,
   "data": "29/10/2026",
-  "tamanho": 197311387,
-  "sha256": "e12ecf3130079d31dd50db5599f2f4e64760fab575146bccf4c6c50a7c22a885",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.20.0/Vrumbi-0.20.0.apk",
+  "tamanho": 197313115,
+  "sha256": "eb4f974e26b4083e2b86da68e3bbb9013fd8539bc91b596eb88cd30b31530ef9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.20.1/Vrumbi-0.20.1.apk",
   "notas": [
-    "Escolha a voz da navegação: em Configurações > Navegação > Voz da navegação, até 5 vozes femininas e 5 masculinas no idioma do app, com os sotaques que o seu celular tem (no português, Brasil e Portugal) e variações de tom. Toque no play para ouvir antes de escolher. Também dá para deixar a fala mais calma ou mais rápida.",
-    "Mais vozes e sotaques: atalho para baixar as vozes no Android e usar sem internet.",
-    "Quando o Vrumbi fala, a música de outros aplicativos abaixa e volta sozinha.",
-    "Alertas sem repetição: avisos do mesmo assunto (tempestade amarela e laranja, acumulado de chuva, Defesa Civil) viram um aviso só, com o mais grave e os outros assuntos em uma linha. Fechou ou tocou em Ok, não volta; só aparece de novo se surgir um assunto novo ou se piorar."
+    "Tela mais limpa: o botão Ajustes saiu da tela. No Menu, logo abaixo de Mapa completo, Unidades e Camadas, ficam os Ajustes rápidos (Radares, Limite, INMET e Comunidade, um toque liga ou desliga) e Mais ajustes, com todos os outros. O botão Som continua na tela.",
+    "Correção de segurança na escolha da voz."
   ],
   "versoes": [
+    {
+      "versao": "0.20.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Tela mais limpa: o botão Ajustes saiu da tela. No Menu, logo abaixo de Mapa completo, Unidades e Camadas, ficam os Ajustes rápidos (Radares, Limite, INMET e Comunidade, um toque liga ou desliga) e Mais ajustes, com todos os outros. O botão Som continua na tela.",
+        "Correção de segurança na escolha da voz."
+      ],
+      "en": [
+        "Cleaner screen: the Options button left the screen. In the Menu, right below Full map, Units and Layers, there are the Quick settings (Speed cameras, Limit, INMET and Community, one tap turns them on or off) and More settings, with all the others. The Sound button stays on the screen.",
+        "Security fix in the voice choice."
+      ],
+      "es": [
+        "Pantalla más limpia: el botón Ajustes salió de la pantalla. En el Menú, justo debajo de Mapa completo, Unidades y Capas, están los Ajustes rápidos (Radares, Límite, INMET y Comunidad, un toque los enciende o apaga) y Más ajustes, con todos los demás. El botón Sonido sigue en la pantalla.",
+        "Corrección de seguridad en la elección de la voz."
+      ]
+    },
     {
       "versao": "0.20.0",
       "data": "29/10/2026",
@@ -250,19 +264,6 @@
         "¿Dirección equivocada? En la pantalla del lugar, cambia el número ahí mismo o toca \"Corregir búsqueda\" para volver a la búsqueda ya completada. Las opciones de ruta también tienen \"Corregir destino\". Y la lupa muestra tu última búsqueda.",
         "Avisar con muchas más opciones, en grupos y con desplazamiento: tráfico lento, carril cerrado, desvío, evento, reparación de la vía, aceite en la vía, animal, árbol caído, falta de señalización, vía sin iluminación, lluvia fuerte, niebla, humo, retén u operativo, radar móvil y \"Otro\". Los que más usas aparecen primero.",
         "Nuevo campo de detalle en Avisar (ej.: \"carril derecho, sentido centro\"): quien toca el aviso ve lo que escribiste."
-      ]
-    },
-    {
-      "versao": "0.14.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Idioma também no mapa completo: painéis, camadas, busca, rota, medidas, alertas, análise criminal, impressão e ferramentas em inglês e espanhol (mais de 2.500 textos traduzidos)."
-      ],
-      "en": [
-        "Language also in the full map: panels, layers, search, route, measurements, alerts, crime analysis, printing and tools in English and Spanish (more than 2,500 texts translated)."
-      ],
-      "es": [
-        "Idioma también en el mapa completo: paneles, capas, búsqueda, ruta, medidas, alertas, análisis criminal, impresión y herramientas en inglés y español (más de 2.500 textos traducidos)."
       ]
     }
   ]
