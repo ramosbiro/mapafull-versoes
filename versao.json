@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.9",
-  "codigo": 99,
+  "versao": "0.39.0",
+  "codigo": 100,
   "data": "29/10/2026",
-  "tamanho": 199588580,
-  "sha256": "179a3c1bc6d7ce48ff222352a868311d2f6c20af27d9bcf76273ccd96b94e4e0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.9/Vrumbi-0.38.9.apk",
+  "tamanho": 200198984,
+  "sha256": "13bc2dc2bdc11a58145f746b7d8517e19a8fe0ad05ded5ba22b8c9b65f920a2d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.39.0/Vrumbi-0.39.0.apk",
   "notas": [
-    "Ícones do tempo realistas, com o desenho do Vrumbi: nuvens com volume e sombra, sol com brilho, lua com relevo, chuva, garoa, trovoada, granizo, neve e neblina. No widget, em Configurações do widget > Ícones do tempo > Tipo: Coloridos, Realistas ou Na cor do texto."
+    "Ícones do tempo realistas refeitos, mais reais: nuvens com borda fofa, volume e sombra, sol e lua com brilho justo (fica bonito também no fundo transparente) e lua com relevo.",
+    "Agora são 33 ícones, um para cada tipo de tempo: garoa, chuva e neve fraca, normal e forte; chuva e garoa congelante; pancadas de dia (com sol) e de noite (com lua); trovoada com e sem granizo; neblina e nevoeiro com geada; nublado de dia e de noite; e ainda vento forte e calor forte.",
+    "A tela Clima também usa os ícones realistas (no menu ☰ dá para trocar para os coloridos)."
   ],
   "versoes": [
+    {
+      "versao": "0.39.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícones do tempo realistas refeitos, mais reais: nuvens com borda fofa, volume e sombra, sol e lua com brilho justo (fica bonito também no fundo transparente) e lua com relevo.",
+        "Agora são 33 ícones, um para cada tipo de tempo: garoa, chuva e neve fraca, normal e forte; chuva e garoa congelante; pancadas de dia (com sol) e de noite (com lua); trovoada com e sem granizo; neblina e nevoeiro com geada; nublado de dia e de noite; e ainda vento forte e calor forte.",
+        "A tela Clima também usa os ícones realistas (no menu ☰ dá para trocar para os coloridos)."
+      ],
+      "en": [
+        "Realistic weather icons remade, more lifelike: clouds with soft edges, volume and shadow, sun and moon with a tight glow (looks good on a transparent background too) and a moon with relief.",
+        "There are now 33 icons, one for each kind of weather: light, moderate and heavy drizzle, rain and snow; freezing rain and drizzle; showers by day (with sun) and by night (with moon); thunderstorm with and without hail; fog and freezing fog; cloudy by day and by night; plus strong wind and strong heat.",
+        "The Weather screen also uses the realistic icons (you can switch to the colored ones in the ☰ menu)."
+      ],
+      "es": [
+        "Iconos del tiempo realistas rehechos, más reales: nubes con borde esponjoso, volumen y sombra, sol y luna con un brillo justo (también se ven bien con fondo transparente) y luna con relieve.",
+        "Ahora son 33 iconos, uno para cada tipo de tiempo: llovizna, lluvia y nieve débil, moderada y fuerte; lluvia y llovizna helada; chubascos de día (con sol) y de noche (con luna); tormenta con y sin granizo; niebla y niebla helada; nublado de día y de noche; y además viento fuerte y calor fuerte.",
+        "La pantalla Clima también usa los iconos realistas (en el menú ☰ se puede cambiar a los de colores)."
+      ]
+    },
     {
       "versao": "0.38.9",
       "data": "29/10/2026",
@@ -193,28 +214,6 @@
       "es": [
         "Mapa completo: el Dash (panel analítico) vuelve a abrir. Se abre en pantalla completa sobre el mapa; \"Volver al mapa\" lo cierra.",
         "La app ya no lleva el nombre ni la marca del sitio de origen: textos, impresión, capas y datos muestran solo Vrumbi. Todas tus configuraciones se mantienen (pasaron solas al nombre nuevo)."
-      ]
-    },
-    {
-      "versao": "0.37.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Mensagens sem repetir: cada mensagem aparece uma vez só. A que você já viu e fechou não volta mais (antes, quando chegava mensagem em outra conversa, as antigas reapareciam).",
-        "Caixa de mensagens: o botão Mensagens (com o número de não lidas) guarda as conversas que chegaram. Toque numa para ler e responder; lida no próprio WhatsApp, ela sai do número sozinha.",
-        "O aviso de mensagem nova ficou discreto: uma linha no alto por alguns segundos. Tocar abre a conversa; X ou arrastar para o lado marca como vista. Dá para desligar em Configurações > Mensagens enquanto dirige.",
-        "Responder do seu jeito: respostas prontas, digitar (com o carro parado), Falar (o microfone escuta e vira texto, você confere e envia) e Áudio (grava a sua voz; ao enviar, o app da conversa abre com o áudio pronto para escolher a conversa)."
-      ],
-      "en": [
-        "Messages without repeats: each message shows up only once. One you have already seen and closed does not come back (before, when a message arrived in another chat, the old ones popped up again).",
-        "Messages inbox: the Messages button (with the unread count) keeps the chats that arrived. Tap one to read and reply; read it in WhatsApp itself and it leaves the count on its own.",
-        "The new message alert is now discreet: a single line at the top for a few seconds. Tap to open the chat; the X or swiping sideways marks it as seen. It can be turned off in Settings > Messages while driving.",
-        "Reply your way: quick replies, typing (with the car stopped), Speak (the microphone listens and turns it into text, you check and send) and Audio (records your voice; when you send, the chat app opens with the audio ready to pick the chat)."
-      ],
-      "es": [
-        "Mensajes sin repetirse: cada mensaje aparece una sola vez. El que ya viste y cerraste no vuelve (antes, cuando llegaba un mensaje en otra conversación, los antiguos reaparecían).",
-        "Bandeja de mensajes: el botón Mensajes (con el número de no leídos) guarda las conversaciones que llegaron. Toca una para leer y responder; si la lees en el propio WhatsApp, sale del número sola.",
-        "El aviso de mensaje nuevo ahora es discreto: una línea arriba durante unos segundos. Tocar abre la conversación; la X o deslizar hacia el lado la marca como vista. Se puede apagar en Configuración > Mensajes mientras conduces.",
-        "Responde a tu manera: respuestas rápidas, escribir (con el auto detenido), Hablar (el micrófono escucha y lo pasa a texto, revisas y envías) y Audio (graba tu voz; al enviar, la app de la conversación se abre con el audio listo para elegir la conversación)."
       ]
     }
   ]
