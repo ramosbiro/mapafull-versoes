@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.5",
-  "codigo": 95,
+  "versao": "0.38.6",
+  "codigo": 96,
   "data": "29/10/2026",
-  "tamanho": 199357996,
-  "sha256": "2cfbe7ed6b9441daaf55a859e83949e4c420a9b7952c52fb0ea9a0b647566bcf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.5/Vrumbi-0.38.5.apk",
+  "tamanho": 199366804,
+  "sha256": "09ebf818e9abd2d30b27e3d1dc223ef71506e815bdba5efe09ed011957cdd478",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.6/Vrumbi-0.38.6.apk",
   "notas": [
-    "O botão Música virou Mídia, com o ícone de play: ele abre o player de música dos seus apps, vídeos do celular e YouTube."
+    "Widget: agora você configura antes e toca em \"Pôr na tela\" — ele entra na tela inicial já do jeito que você deixou, e o Vrumbi avisa quando está pronto. Na tela inicial, toque e segure o widget e arraste as bordas para mudar o tamanho: menor, ele mostra menos coisas.",
+    "A lista \"Na sua tela\" não mostra mais widgets que não chegaram à tela; tocar no lápis do widget na tela inicial abre a configuração dele.",
+    "Prévias do widget com o céu certo: lua e nuvens nas horas da noite (antes aparecia sol às 20 h).",
+    "Os ícones dos botões Mídia e Mensagens na cor do sistema, como os outros."
   ],
   "versoes": [
+    {
+      "versao": "0.38.6",
+      "data": "29/10/2026",
+      "itens": [
+        "Widget: agora você configura antes e toca em \"Pôr na tela\" — ele entra na tela inicial já do jeito que você deixou, e o Vrumbi avisa quando está pronto. Na tela inicial, toque e segure o widget e arraste as bordas para mudar o tamanho: menor, ele mostra menos coisas.",
+        "A lista \"Na sua tela\" não mostra mais widgets que não chegaram à tela; tocar no lápis do widget na tela inicial abre a configuração dele.",
+        "Prévias do widget com o céu certo: lua e nuvens nas horas da noite (antes aparecia sol às 20 h).",
+        "Os ícones dos botões Mídia e Mensagens na cor do sistema, como os outros."
+      ],
+      "en": [
+        "Widget: you now set it up first and tap \"Add to screen\" — it lands on the home screen just the way you left it, and Vrumbi tells you when it is ready. On the home screen, touch and hold the widget and drag its edges to change the size: smaller, it shows less.",
+        "The \"On your screen\" list no longer shows widgets that never reached the screen; tapping the widget's pencil on the home screen opens its settings.",
+        "Widget previews with the right sky: moon and clouds at night hours (before it showed sun at 8 pm).",
+        "The Media and Messages button icons now use the system color, like the others."
+      ],
+      "es": [
+        "Widget: ahora lo configuras antes y tocas \"Poner en pantalla\" — entra en la pantalla de inicio como lo dejaste, y Vrumbi avisa cuando está listo. En la pantalla de inicio, mantén pulsado el widget y arrastra los bordes para cambiar el tamaño: más pequeño, muestra menos cosas.",
+        "La lista \"En tu pantalla\" ya no muestra widgets que no llegaron a la pantalla; tocar el lápiz del widget en la pantalla de inicio abre su configuración.",
+        "Vistas previas del widget con el cielo correcto: luna y nubes en las horas de la noche (antes salía sol a las 20 h).",
+        "Los iconos de los botones Multimedia y Mensajes con el color del sistema, como los demás."
+      ]
+    },
     {
       "versao": "0.38.5",
       "data": "29/10/2026",
@@ -223,22 +248,6 @@
         "YouTube: pega el enlace del video y se reproduce dentro del reproductor. Por seguridad, video en pantalla solo con el auto detenido: en marcha, los videos del celular quedan solo con sonido y YouTube se pausa. Si el dueño del video no permite reproducirlo fuera de YouTube, Vrumbi ofrece abrirlo en la app de YouTube.",
         "Uno a la vez: reproducir YouTube pausa el archivo, y el archivo pausa YouTube.",
         "Llamadas con botones grandes: solo aparecen las de la app de teléfono y de apps de llamadas conocidas."
-      ]
-    },
-    {
-      "versao": "0.33.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Chamadas enquanto dirige (Configurações > Mensagens enquanto dirige > Chamadas com botões grandes): quando o celular toca, a tela da navegação mostra quem está ligando e dois botões grandes, Atender (verde) e Recusar (vermelho), ao alcance do polegar. O Vrumbi fala \"Ligação de…\". O cartão some sozinho quando a ligação é atendida, recusada ou acaba.",
-        "Modo motorista: o vídeo protegido numa batida é criptografado mesmo se mudar de pasta no meio, e o que não deu para criptografar é tentado de novo ao abrir o app."
-      ],
-      "en": [
-        "Calls while driving (Settings > Messages while driving > Calls with big buttons): when the phone rings, the navigation screen shows who is calling and two big buttons, Answer (green) and Decline (red), within thumb reach. Vrumbi says \"Call from…\". The card goes away by itself when the call is answered, declined or ends.",
-        "Driver mode: a video protected in a crash is encrypted even if it changes folder midway, and what could not be encrypted is retried when the app opens."
-      ],
-      "es": [
-        "Llamadas mientras manejas (Ajustes > Mensajes mientras manejas > Llamadas con botones grandes): cuando suena el celular, la pantalla de navegación muestra quién llama y dos botones grandes, Contestar (verde) y Rechazar (rojo), al alcance del pulgar. Vrumbi dice \"Llamada de…\". La tarjeta desaparece sola cuando la llamada se contesta, se rechaza o termina.",
-        "Modo conductor: el video protegido en un choque se cifra aunque cambie de carpeta en medio, y lo que no se pudo cifrar se reintenta al abrir la app."
       ]
     }
   ]
