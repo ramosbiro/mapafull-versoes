@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.31.0",
-  "codigo": 81,
+  "versao": "0.31.1",
+  "codigo": 82,
   "data": "29/10/2026",
-  "tamanho": 199307403,
-  "sha256": "1458fdd46101792d3a8e42c47c4326e5fdff907ff46315b1d385dcd85387cbeb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.31.0/Vrumbi-0.31.0.apk",
+  "tamanho": 199307759,
+  "sha256": "016227c6e66e39ee20bb2cc02900b8f69c2e7668ee5d21ee568382e6b3546374",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.31.1/Vrumbi-0.31.1.apk",
   "notas": [
-    "Modo motorista de aplicativo (Configurações > Gravação da viagem): cada trecho gravado fica criptografado no celular, com uma chave guardada no chip de segurança do Android. Nenhum outro app abre os vídeos.",
-    "Para usar como prova: Minhas gravações > Exportar como prova pede a senha ou a biometria do celular e só então tira uma cópia para compartilhar.",
-    "Aviso ao passageiro: uma tela com letras grandes dizendo que a viagem é gravada e que as imagens ficam protegidas (LGPD), para mostrar a quem entra no carro.",
-    "Mensagens enquanto dirige (Configurações > Mensagens enquanto dirige): mensagens do WhatsApp, Telegram, SMS, Signal e Messenger aparecem num cartão; dirigindo, o Vrumbi lê em voz alta. Responder só com respostas prontas, sem digitar: \"Estou dirigindo, respondo depois\", \"Estou dirigindo, chego às…\" (com a hora de chegada da rota), \"Já estou chegando\", \"Ok, falamos depois\". Nenhuma mensagem é guardada."
+    "Modo motorista mais seguro: a cópia do vídeo exportado como prova é apagada sozinha (ao abrir o app, antes da próxima exportação e 15 minutos depois); se a criptografia de um trecho falhar, o vídeo aberto é apagado; e qualquer vídeo aberto que tenha sobrado é criptografado ao começar a gravar."
   ],
   "versoes": [
+    {
+      "versao": "0.31.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Modo motorista mais seguro: a cópia do vídeo exportado como prova é apagada sozinha (ao abrir o app, antes da próxima exportação e 15 minutos depois); se a criptografia de um trecho falhar, o vídeo aberto é apagado; e qualquer vídeo aberto que tenha sobrado é criptografado ao começar a gravar."
+      ],
+      "en": [
+        "Safer driver mode: the copy of a video exported as evidence is deleted by itself (when the app opens, before the next export and 15 minutes later); if encrypting a clip fails, the open video is deleted; and any open video left over is encrypted when recording starts."
+      ],
+      "es": [
+        "Modo conductor más seguro: la copia del video exportado como prueba se borra sola (al abrir la app, antes de la próxima exportación y 15 minutos después); si falla el cifrado de un tramo, el video abierto se borra; y cualquier video abierto que haya quedado se cifra al empezar a grabar."
+      ]
+    },
     {
       "versao": "0.31.0",
       "data": "29/10/2026",
@@ -229,22 +239,6 @@
         "Avisos en el reloj: antes de cada giro llega al smartwatch un aviso corto con la flecha y la distancia (\"→ 200 m\") y la instrucción, y otra vez en el momento del giro. Radares, alertas de la comunidad y avisos del INMET también. En el reloj hay botones Repetir y Silencio.",
         "En el celular este aviso es silencioso (la voz ya habla) y desaparece solo. Se activa o desactiva en Menú > Ajustes rápidos > Reloj o en Ajustes > Navegación > Avisos de la navegación.",
         "Galaxy Watch y otros Wear OS: en la app Galaxy Wearable, en Notificaciones, activa mostrar las notificaciones también con el celular en uso (Vrumbi lo explica al activar la opción)."
-      ]
-    },
-    {
-      "versao": "0.20.1",
-      "data": "29/10/2026",
-      "itens": [
-        "Tela mais limpa: o botão Ajustes saiu da tela. No Menu, logo abaixo de Mapa completo, Unidades e Camadas, ficam os Ajustes rápidos (Radares, Limite, INMET e Comunidade, um toque liga ou desliga) e Mais ajustes, com todos os outros. O botão Som continua na tela.",
-        "Correção de segurança na escolha da voz."
-      ],
-      "en": [
-        "Cleaner screen: the Options button left the screen. In the Menu, right below Full map, Units and Layers, there are the Quick settings (Speed cameras, Limit, INMET and Community, one tap turns them on or off) and More settings, with all the others. The Sound button stays on the screen.",
-        "Security fix in the voice choice."
-      ],
-      "es": [
-        "Pantalla más limpia: el botón Ajustes salió de la pantalla. En el Menú, justo debajo de Mapa completo, Unidades y Capas, están los Ajustes rápidos (Radares, Límite, INMET y Comunidad, un toque los enciende o apaga) y Más ajustes, con todos los demás. El botón Sonido sigue en la pantalla.",
-        "Corrección de seguridad en la elección de la voz."
       ]
     }
   ]
