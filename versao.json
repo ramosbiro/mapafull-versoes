@@ -1,17 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.22.0",
-  "codigo": 72,
+  "versao": "0.23.0",
+  "codigo": 73,
   "data": "29/10/2026",
-  "tamanho": 197349443,
-  "sha256": "5ce77a0616a08cc7f6556bd7b5747347786be7c06161316002d1bac5b95cd289",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.22.0/Vrumbi-0.22.0.apk",
+  "tamanho": 197464392,
+  "sha256": "47e158e202f2077cb1519cba4fc63c4222a0ac2507285bb820dc3328af113977",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.23.0/Vrumbi-0.23.0.apk",
   "notas": [
-    "Permissões do Vrumbi (Configurações): tudo o que o app usa do celular, com verde (liberado) ou vermelho (falta), o Vrumbi explicando para que serve e o botão Liberar, que pede ao Android ou abre a tela certa: localização precisa, GPS ligado, notificações, bateria sem restrição e instalar as atualizações.",
-    "Se faltar algo essencial, o Vrumbi avisa no topo do Menu.",
-    "Na Samsung, o Vrumbi lembra de tirar o app de \"Apps em suspensão\"."
+    "Transporte público: andando sobre uma linha de trem ou metrô (ou parando de ponto em ponto de ônibus), o Vrumbi pergunta \"Você está de transporte público?\" com Trem, Metrô, Ônibus ou \"Não, estou dirigindo\". A resposta troca o seu ícone pelo trem, metrô ou ônibus em 3D.",
+    "De transporte, radar e limite da via ficam de lado (não é você dirigindo) e a posição segue os trilhos. Chegou e saiu andando, o ícone volta sozinho ao de sempre.",
+    "Também dá para escolher no Menu > Ajustes rápidos > Transporte. \"Não, estou dirigindo\" faz o Vrumbi não perguntar por 2 horas.",
+    "Ícones novos de trem e metrô em Configurações > Ícone da posição."
   ],
   "versoes": [
+    {
+      "versao": "0.23.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Transporte público: andando sobre uma linha de trem ou metrô (ou parando de ponto em ponto de ônibus), o Vrumbi pergunta \"Você está de transporte público?\" com Trem, Metrô, Ônibus ou \"Não, estou dirigindo\". A resposta troca o seu ícone pelo trem, metrô ou ônibus em 3D.",
+        "De transporte, radar e limite da via ficam de lado (não é você dirigindo) e a posição segue os trilhos. Chegou e saiu andando, o ícone volta sozinho ao de sempre.",
+        "Também dá para escolher no Menu > Ajustes rápidos > Transporte. \"Não, estou dirigindo\" faz o Vrumbi não perguntar por 2 horas.",
+        "Ícones novos de trem e metrô em Configurações > Ícone da posição."
+      ],
+      "en": [
+        "Public transport: riding along a train or subway line (or stopping from bus stop to bus stop), Vrumbi asks \"Are you on public transport?\" with Train, Subway, Bus or \"No, I am driving\". The answer changes your icon to a 3D train, subway or bus.",
+        "On public transport, speed cameras and speed limits are set aside (you are not driving) and the position follows the rails. When you arrive and walk away, the icon goes back to your usual one.",
+        "You can also choose it in Menu > Quick settings > Transit. \"No, I am driving\" keeps Vrumbi from asking for 2 hours.",
+        "New train and subway icons in Settings > Position icon."
+      ],
+      "es": [
+        "Transporte público: andando sobre una línea de tren o metro (o parando de parada en parada de autobús), Vrumbi pregunta \"¿Vas en transporte público?\" con Tren, Metro, Autobús o \"No, estoy manejando\". La respuesta cambia tu ícono por el tren, metro o autobús en 3D.",
+        "En transporte, radares y límites quedan de lado (no estás manejando) y la posición sigue los rieles. Al llegar y salir caminando, el ícono vuelve solo al de siempre.",
+        "También se puede elegir en Menú > Ajustes rápidos > Transporte. \"No, estoy manejando\" hace que Vrumbi no pregunte por 2 horas.",
+        "Íconos nuevos de tren y metro en Ajustes > Ícono de la posición."
+      ]
+    },
     {
       "versao": "0.22.0",
       "data": "29/10/2026",
@@ -231,25 +254,6 @@
       "es": [
         "Nueva notificación de navegación: flecha grande a la izquierda, la distancia y la instrucción, el carril a usar (\"Usa los 2 carriles derechos\"), una barra que se llena hasta la curva, la siguiente maniobra cuando viene justo después (\"Después: gira a la izquierda\") y lo que viene adelante: radar, alerta de la comunidad o tu velocidad contra el límite.",
         "Dentro de la app, la franja de la maniobra también ganó flecha más grande, el texto del carril, la siguiente maniobra y la barra hasta la curva."
-      ]
-    },
-    {
-      "versao": "0.16.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Navegação em segundo plano: durante a rota, uma notificação fixa mostra a próxima manobra com a seta (também na barra de status), a distância, a rua e a chegada, com o botão Encerrar. Funciona com a tela apagada ou com outro app na frente: o GPS e a voz continuam guiando.",
-        "Na primeira rota, o Android pode pedir a permissão de notificações: permita para ver a navegação fixa.",
-        "O aviso de atualização agora aparece inteiro no idioma escolhido."
-      ],
-      "en": [
-        "Background navigation: during a route, a pinned notification shows the next maneuver with the arrow (also in the status bar), the distance, the street and the arrival time, with an End button. It works with the screen off or another app in front: GPS and voice keep guiding.",
-        "On the first route, Android may ask for notification permission: allow it to see the pinned navigation.",
-        "The update notice now shows entirely in the chosen language."
-      ],
-      "es": [
-        "Navegación en segundo plano: durante la ruta, una notificación fija muestra la próxima maniobra con la flecha (también en la barra de estado), la distancia, la calle y la llegada, con el botón Terminar. Funciona con la pantalla apagada o con otra app delante: el GPS y la voz siguen guiando.",
-        "En la primera ruta, Android puede pedir el permiso de notificaciones: permítelo para ver la navegación fija.",
-        "El aviso de actualización ahora aparece completo en el idioma elegido."
       ]
     }
   ]
