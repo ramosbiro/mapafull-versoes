@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.4",
-  "codigo": 105,
+  "versao": "0.40.5",
+  "codigo": 106,
   "data": "29/10/2026",
-  "tamanho": 200713504,
-  "sha256": "14715e52a431353983def0c80353809156b2c087f9075d867e20862e40b52258",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.4/Vrumbi-0.40.4.apk",
+  "tamanho": 200719728,
+  "sha256": "830b1850d2e53588f00849edba6e1afaec0ff6ba9d3e3754d84493acafda3dd8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.5/Vrumbi-0.40.5.apk",
   "notas": [
-    "Ícone de fumaça: colunas mais finas e mais baixas."
+    "Ícone de fumaça: volta a largura de antes; só as colunas ficaram mais baixas."
   ],
   "versoes": [
+    {
+      "versao": "0.40.5",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça: volta a largura de antes; só as colunas ficaram mais baixas."
+      ],
+      "en": [
+        "Smoke icon: back to the previous width; only the columns are shorter."
+      ],
+      "es": [
+        "Icono de humo: vuelve el ancho de antes; solo las columnas quedaron más bajas."
+      ]
+    },
     {
       "versao": "0.40.4",
       "data": "29/10/2026",
@@ -172,28 +185,6 @@
       ],
       "es": [
         "El botón Música pasó a llamarse Multimedia, con el icono de reproducir: abre el reproductor de la música de tus apps, los videos del teléfono y YouTube."
-      ]
-    },
-    {
-      "versao": "0.38.4",
-      "data": "29/10/2026",
-      "itens": [
-        "YouTube por dentro, sem link: no app do YouTube, toque em Compartilhar > Vrumbi e o vídeo toca no player do Vrumbi, com imagem. A aba YouTube tem \"Abrir o YouTube\" e a lista dos vídeos vistos aqui. Tocando pelo app do YouTube (aba Apps) vem só o som — o Android não deixa trazer o vídeo de outro app —, e o Vrumbi avisa o caminho.",
-        "O alto do player ficou no padrão: abas com contorno fino (a escolhida em destaque) e os botões de janela e fechar redondos na mesma linha.",
-        "Tamanho do ícone da posição: agora uma barra para arrastar com o dedo (de 50% a 200%), sem a tela piscar; trocar cor ou ícone também não pisca mais.",
-        "Botão Som no mudo: vermelho com contorno fino (sem a faixa grossa antiga). Avisos de radar, clima e comunidade e os cards das configurações também com o contorno fino."
-      ],
-      "en": [
-        "YouTube inside the app, no link: in the YouTube app, tap Share > Vrumbi and the video plays in the Vrumbi player, with picture. The YouTube tab has \"Open YouTube\" and the list of videos watched here. Playing through the YouTube app (Apps tab) brings only the sound — Android does not let another app's video come over — and Vrumbi shows the way.",
-        "The top of the player follows the standard: tabs with a thin outline (the chosen one highlighted) and the round window and close buttons on the same row.",
-        "Position icon size: now a bar you drag with your finger (50% to 200%), with no screen flashing; changing color or icon no longer flashes either.",
-        "Sound button when muted: red with a thin outline (no old thick bar). Radar, weather and community notices and the settings cards also got the thin outline."
-      ],
-      "es": [
-        "YouTube por dentro, sin enlace: en la app de YouTube, toca Compartir > Vrumbi y el video se reproduce en el reproductor de Vrumbi, con imagen. La pestaña YouTube tiene \"Abrir YouTube\" y la lista de los videos vistos aquí. Desde la app de YouTube (pestaña Apps) llega solo el sonido — Android no deja traer el video de otra app — y Vrumbi indica el camino.",
-        "La parte de arriba del reproductor quedó en el estándar: pestañas con contorno fino (la elegida destacada) y los botones redondos de ventana y cerrar en la misma fila.",
-        "Tamaño del icono de posición: ahora una barra para arrastrar con el dedo (del 50% al 200%), sin que la pantalla parpadee; cambiar color o icono tampoco parpadea.",
-        "Botón de sonido en silencio: rojo con contorno fino (sin la franja gruesa antigua). Avisos de radar, clima y comunidad y las tarjetas de configuración también con contorno fino."
       ]
     }
   ]
