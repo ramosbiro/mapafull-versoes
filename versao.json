@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.1",
-  "codigo": 102,
+  "versao": "0.40.2",
+  "codigo": 103,
   "data": "29/10/2026",
-  "tamanho": 200735812,
-  "sha256": "829ba05617360b5238479c041f4187b6d024becce8f787c5ac545abab228f4c4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.1/Vrumbi-0.40.1.apk",
+  "tamanho": 200718156,
+  "sha256": "78623f3f488ff176f8a9fcd81e730a690979befc267f060c80e9ae70494d0afb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.2/Vrumbi-0.40.2.apk",
   "notas": [
-    "Ícone de fumaça de queimadas redesenhado: uma coluna de fumaça saindo do fogo, que clareia e se desfaz enquanto sobe, com o sol (ou a lua) apagado atrás."
+    "Ícone de fumaça ajustado: sem o fogo, menor e inteiro dentro do quadro, com a coluna de fumaça saindo de um chão queimado."
   ],
   "versoes": [
+    {
+      "versao": "0.40.2",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça ajustado: sem o fogo, menor e inteiro dentro do quadro, com a coluna de fumaça saindo de um chão queimado."
+      ],
+      "en": [
+        "Smoke icon adjusted: no fire, smaller and fully inside the frame, with the column of smoke rising from scorched ground."
+      ],
+      "es": [
+        "Icono de humo ajustado: sin fuego, más pequeño y entero dentro del cuadro, con la columna de humo saliendo de un suelo quemado."
+      ]
+    },
     {
       "versao": "0.40.1",
       "data": "29/10/2026",
@@ -184,25 +197,6 @@
       "es": [
         "Todas las ventanas emergentes ahora se cierran igual: con la X o deslizando el dedo hacia el lado. Vale para las preguntas y avisos de Vrumbi arriba, el aviso de radar y el de alerta de la comunidad en la ruta, la pregunta \"¿sigue ahí?\", los globos y tarjetas de alertas, la bandeja de mensajes y el aviso al pasajero.",
         "Una ventana de Vrumbi a la vez: \"¿Continuar la ruta?\" espera si ya hay otro aviso en la pantalla."
-      ]
-    },
-    {
-      "versao": "0.38.1",
-      "data": "29/10/2026",
-      "itens": [
-        "A voz não fica mais repetindo \"Recalculando\" quando você começa a rota dentro de um prédio ou estacionamento: enquanto você vai até a via, o Vrumbi espera; parado, nunca recalcula; e entre um recálculo e outro é preciso andar 50 m (a voz fala no máximo uma vez por minuto).",
-        "A faixa das setas da navegação voltou a caber na tela (passava um pouco da borda direita).",
-        "O botão Alertas ficou no mesmo padrão dos outros botões (sem o amarelo), só com o número de alertas em vermelho."
-      ],
-      "en": [
-        "The voice no longer keeps repeating \"Recalculating\" when you start a route inside a building or parking lot: while you head to the road, Vrumbi waits; when stopped, it never recalculates; and between recalculations you need to move 50 m (the voice speaks at most once a minute).",
-        "The navigation arrows banner fits the screen again (it went slightly past the right edge).",
-        "The Alerts button now follows the same style as the other buttons (no yellow), with just the number of alerts in red."
-      ],
-      "es": [
-        "La voz ya no repite \"Recalculando\" cuando empiezas la ruta dentro de un edificio o estacionamiento: mientras vas hasta la vía, Vrumbi espera; detenido, nunca recalcula; y entre un recálculo y otro hay que avanzar 50 m (la voz habla como máximo una vez por minuto).",
-        "La franja de las flechas de la navegación vuelve a caber en la pantalla (pasaba un poco del borde derecho).",
-        "El botón Alertas quedó con el mismo estilo de los demás botones (sin el amarillo), solo con el número de alertas en rojo."
       ]
     }
   ]
