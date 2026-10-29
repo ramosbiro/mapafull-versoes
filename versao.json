@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.29.0",
-  "codigo": 79,
+  "versao": "0.30.0",
+  "codigo": 80,
   "data": "29/10/2026",
-  "tamanho": 199255746,
-  "sha256": "301088c9bb60d0ae4f6c7b1cf12408812ac03fff78d245394da6197b8874f076",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.29.0/Vrumbi-0.29.0.apk",
+  "tamanho": 199275895,
+  "sha256": "7b6001ee19669dffe8c6c6d1ab037159f3e98dc2aa2bd227bc70ff6c84b4af46",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.30.0/Vrumbi-0.30.0.apk",
   "notas": [
-    "Gravação da viagem com as duas câmeras ao mesmo tempo: em Configurações > Gravação da viagem > Câmera, \"As duas\" grava a estrada em tela cheia e o interior do carro num quadro no canto, num vídeo só.",
-    "Só nos celulares que gravam as duas câmeras juntas (o Vrumbi confere e mostra a opção apagada nos outros). Se o aparelho recusar na hora, a gravação continua só com a estrada e o Vrumbi avisa."
+    "Carimbo na gravação da viagem: data, hora e velocidade gravadas em cada quadro do vídeo (embaixo à esquerda), como nas câmeras de painel, e a marca Vrumbi no canto de cima. Fica em pé com o celular em pé ou deitado.",
+    "Opcional: as coordenadas (latitude e longitude) no carimbo, úteis como prova. Liga e desliga em Configurações > Gravação da viagem."
   ],
   "versoes": [
+    {
+      "versao": "0.30.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Carimbo na gravação da viagem: data, hora e velocidade gravadas em cada quadro do vídeo (embaixo à esquerda), como nas câmeras de painel, e a marca Vrumbi no canto de cima. Fica em pé com o celular em pé ou deitado.",
+        "Opcional: as coordenadas (latitude e longitude) no carimbo, úteis como prova. Liga e desliga em Configurações > Gravação da viagem."
+      ],
+      "en": [
+        "Stamp on trip recordings: date, time and speed recorded on every frame of the video (bottom left), like dashcams, and the Vrumbi mark in the top corner. It stays upright with the phone upright or sideways.",
+        "Optional: the coordinates (latitude and longitude) in the stamp, useful as evidence. Turn it on and off in Settings > Trip recording."
+      ],
+      "es": [
+        "Sello en la grabación del viaje: fecha, hora y velocidad grabadas en cada cuadro del video (abajo a la izquierda), como en las cámaras de tablero, y la marca Vrumbi en la esquina de arriba. Queda derecho con el celular vertical u horizontal.",
+        "Opcional: las coordenadas (latitud y longitud) en el sello, útiles como prueba. Se activa y desactiva en Ajustes > Grabación del viaje."
+      ]
+    },
     {
       "versao": "0.29.0",
       "data": "29/10/2026",
@@ -227,37 +243,6 @@
         "Más voces y acentos: atajo para descargar las voces en Android y usarlas sin internet.",
         "Cuando Vrumbi habla, la música de otras apps baja y vuelve sola.",
         "Alertas sin repetición: los avisos del mismo tema (tormenta amarilla y naranja, lluvia acumulada, Defensa Civil) se vuelven un solo aviso, con el más grave y los demás temas en una línea. Cerrado o con Ok, no vuelve; solo aparece de nuevo si surge un tema nuevo o empeora."
-      ]
-    },
-    {
-      "versao": "0.19.3",
-      "data": "29/10/2026",
-      "itens": [
-        "Seguir corrigido: tocar em Seguir sempre volta a centralizar o carro, e ao voltar de outro app ele continua seguindo, com o botão marcado.",
-        "O carro fica mais perto da parte de baixo da tela, para mostrar mais do que vem pela frente (de pé e deitado).",
-        "O nome da rua fica na tela: não some mais sozinho. Fecha no X ou arrastando para o lado e volta quando a rua muda.",
-        "Radares só da sua via: o aviso vale para o radar que está na rua em que você está (ou na rota), no seu sentido. Não avisa mais o da rua do lado, o da rua que cruza nem o da outra pista. A distância é a do caminho.",
-        "Avisos da comunidade chegam mais rápido (dirigindo, a cada 15 s) e de mais longe (até 3 km, conforme a velocidade). Um aviso novo no seu caminho é falado na hora, e o pino pisca por alguns minutos.",
-        "Avisar: Buraco na via, Objeto na pista, Acidente e Trânsito parado aparecem primeiro.",
-        "Mapa completo, Unidades e Camadas saíram da tela inicial e ficam no topo do menu, em destaque."
-      ],
-      "en": [
-        "Follow fixed: tapping Follow always centers the car again, and when you come back from another app it keeps following, with the button on.",
-        "The car sits closer to the bottom of the screen, to show more of what is ahead (portrait and landscape).",
-        "The street name stays on the screen: it no longer disappears by itself. Close it with the X or by swiping it aside; it comes back when the street changes.",
-        "Speed cameras only on your road: the alert is for the camera on the street you are on (or on the route), in your direction. No more alerts for the street beside you, the cross street or the other carriageway. The distance is along the way.",
-        "Community alerts arrive faster (every 15 s while driving) and from farther away (up to 3 km, depending on speed). A new alert on your way is spoken right away, and its pin blinks for a few minutes.",
-        "Report: Pothole on the road, Object on the road, Accident and Traffic jam come first.",
-        "Full map, Units and Layers left the home screen and are at the top of the menu, highlighted."
-      ],
-      "es": [
-        "Seguir corregido: tocar Seguir siempre vuelve a centrar el auto, y al volver de otra app sigue siguiendo, con el botón marcado.",
-        "El auto queda más cerca de la parte de abajo de la pantalla, para mostrar más de lo que viene adelante (vertical y horizontal).",
-        "El nombre de la calle queda en la pantalla: ya no desaparece solo. Se cierra con la X o deslizándolo a un lado y vuelve cuando cambia la calle.",
-        "Radares solo de tu vía: el aviso vale para el radar que está en la calle en la que estás (o en la ruta), en tu sentido. Ya no avisa el de la calle de al lado, el de la calle que cruza ni el de la otra calzada. La distancia es la del camino.",
-        "Los avisos de la comunidad llegan más rápido (manejando, cada 15 s) y desde más lejos (hasta 3 km, según la velocidad). Un aviso nuevo en tu camino se dice en el momento, y su pin parpadea unos minutos.",
-        "Avisar: Bache en la vía, Objeto en la vía, Accidente y Tráfico detenido aparecen primero.",
-        "Mapa completo, Unidades y Capas salieron de la pantalla inicial y están arriba en el menú, destacados."
       ]
     }
   ]
