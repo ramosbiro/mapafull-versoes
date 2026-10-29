@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.14.0",
-  "codigo": 57,
+  "versao": "0.14.1",
+  "codigo": 58,
   "data": "28/10/2026",
-  "tamanho": 196140798,
-  "sha256": "f8231cef0486404a14a183ce2375ffd8f34e742318b6e05b975cd77c49643194",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.14.0/Vrumbi-0.14.0.apk",
+  "tamanho": 196228026,
+  "sha256": "3ae510948938e472c9227f21a61270d94efc59620feceadd29809616a5b97c3e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.14.1/Vrumbi-0.14.1.apk",
   "notas": [
-    "Novo: Idioma. Em Configurações > Idioma, escolha Português, English ou Español, ou \"Padrão do sistema\" (o idioma do celular). A tela de navegação muda inteira: menus, botões, avisos, alertas e também a voz e as instruções das manobras.",
-    "Nomes de ruas e lugares ficam como no mapa. O mapa completo ainda está sendo traduzido: algumas telas dele aparecem em português por enquanto."
+    "Idioma também no mapa completo: painéis, camadas, busca, rota, medidas, alertas, análise criminal, impressão e ferramentas em inglês e espanhol (mais de 2.500 textos traduzidos)."
   ],
   "versoes": [
+    {
+      "versao": "0.14.1",
+      "data": "28/10/2026",
+      "itens": [
+        "Idioma também no mapa completo: painéis, camadas, busca, rota, medidas, alertas, análise criminal, impressão e ferramentas em inglês e espanhol (mais de 2.500 textos traduzidos)."
+      ],
+      "en": [
+        "Language also in the full map: panels, layers, search, route, measurements, alerts, crime analysis, printing and tools in English and Spanish (more than 2,500 texts translated)."
+      ],
+      "es": [
+        "Idioma también en el mapa completo: paneles, capas, búsqueda, ruta, medidas, alertas, análisis criminal, impresión y herramientas en inglés y español (más de 2.500 textos traducidos)."
+      ]
+    },
     {
       "versao": "0.14.0",
       "data": "28/10/2026",
@@ -120,13 +132,6 @@
         "Curvas suaves: a seta e o mapa agora giram juntos, sem trancos. Antes, a cada posição do GPS (uma por segundo), a seta dava um \"puxão\" e o mapa girava em outro ritmo; agora o movimento é calculado a cada quadro da tela.",
         "Com rota, a seta segue o desenho da própria rua e começa a virar um pouco antes da curva; sem rota, segue a direção e a taxa de giro do GPS.",
         "Entre uma posição e outra do GPS a seta continua andando na sua velocidade, sem as paradinhas de antes. Ao tocar em Iniciar, o mapa gira até a direção da rota de forma suave."
-      ]
-    },
-    {
-      "versao": "0.11.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Configurações agora é sempre a última opção: no menu ☰ (depois de Novidades), no menu Ferramentas do mapa completo e nas opções da navegação (os atalhos Evitar na rota e Ícone da posição ficam no fim, abaixo de Encerrar a rota)."
       ]
     }
   ]
