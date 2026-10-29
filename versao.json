@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.7",
-  "codigo": 97,
+  "versao": "0.38.8",
+  "codigo": 98,
   "data": "29/10/2026",
-  "tamanho": 199367032,
-  "sha256": "b0fbb7a4c55689826ae84b11920f6392b1081d7c843e056ef1137a5e8550edfb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.7/Vrumbi-0.38.7.apk",
+  "tamanho": 199367332,
+  "sha256": "7acbcc06ecb8fc6d97659cf5e094d8d8d643dab731a2fa61a1133db9db6ad9aa",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.8/Vrumbi-0.38.8.apk",
   "notas": [
-    "Widget Clima e relógio: a máxima e a mínima saíram do canto de cima e entraram na lista da direita, logo abaixo da condição do tempo."
+    "Widget Clima e relógio com a nossa marca no alto: o ícone, \"Vrumbi\" no laranja da marca e o local (ex.: Vrumbi · Glicério)."
   ],
   "versoes": [
+    {
+      "versao": "0.38.8",
+      "data": "29/10/2026",
+      "itens": [
+        "Widget Clima e relógio com a nossa marca no alto: o ícone, \"Vrumbi\" no laranja da marca e o local (ex.: Vrumbi · Glicério)."
+      ],
+      "en": [
+        "Clock & weather widget with our brand at the top: the icon, \"Vrumbi\" in the brand orange and the place (e.g. Vrumbi · Glicério)."
+      ],
+      "es": [
+        "Widget Clima y reloj con nuestra marca arriba: el icono, \"Vrumbi\" en el naranja de la marca y el lugar (ej.: Vrumbi · Glicério)."
+      ]
+    },
     {
       "versao": "0.38.7",
       "data": "29/10/2026",
@@ -214,25 +227,6 @@
         "Arrastra el reproductor hasta el borde de la pantalla y suéltalo: se acopla (el borde se ilumina avisando). Mantén el acoplado medio segundo y se suelta y vuelve a ser ventana, ya bajo tu dedo.",
         "Pantalla dividida: el video ocupa la parte de arriba (celular de pie) o la izquierda (acostado) y el mapa queda con el resto, con todos sus botones. Arrastra la división para cambiar el tamaño. Sin video en pantalla (música, o el auto en marcha), la división queda solo como una franja con los controles.",
         "YouTube con botones propios debajo del video: retroceder y avanzar 10 s, reproducir/pausar y detener."
-      ]
-    },
-    {
-      "versao": "0.35.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Chamadas: um aviso só. De fábrica fica o aviso do próprio Android (Atender/Recusar) e o Vrumbi fala quem está ligando. O aviso do Android não pode ser escondido por outro app, por isso o cartão do Vrumbi agora é opcional: Configurações > Mensagens enquanto dirige > Cartão do Vrumbi também.",
-        "O cartão de chamada do Vrumbi ficou sutil: uma linha só embaixo, longe do aviso do Android, com X para fechar ou arrastando para o lado. Com o celular deitado, ele vai para o canto de baixo, ao lado dos botões, e a rua sai da frente enquanto toca.",
-        "O cartão de mensagem também fecha arrastando para o lado e, com o celular deitado, fica no canto da direita."
-      ],
-      "en": [
-        "Calls: just one notification. By default, Android's own call notification stays (Answer/Decline) and Vrumbi says who is calling. Another app cannot hide Android's notification, so the Vrumbi card is now optional: Settings > Messages while driving > Vrumbi card too.",
-        "The Vrumbi call card is now subtle: a single line at the bottom, away from the Android notification, closed with the X or by swiping sideways. With the phone sideways, it goes to the bottom corner next to the buttons, and the street name moves out of the way while it rings.",
-        "The message card also closes by swiping sideways and, with the phone sideways, sits in the right corner."
-      ],
-      "es": [
-        "Llamadas: un solo aviso. De fábrica queda el aviso propio de Android (Contestar/Rechazar) y Vrumbi dice quién llama. Otra app no puede ocultar el aviso de Android, por eso la tarjeta de Vrumbi ahora es opcional: Ajustes > Mensajes mientras manejas > Tarjeta de Vrumbi también.",
-        "La tarjeta de llamada de Vrumbi es ahora sutil: una sola línea abajo, lejos del aviso de Android, con X para cerrar o deslizando hacia el lado. Con el celular acostado, va a la esquina de abajo junto a los botones y la calle se aparta mientras suena.",
-        "La tarjeta de mensaje también se cierra deslizando hacia el lado y, con el celular acostado, queda en la esquina derecha."
       ]
     }
   ]
