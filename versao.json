@@ -1,18 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.37.0",
-  "codigo": 88,
+  "versao": "0.37.1",
+  "codigo": 89,
   "data": "29/10/2026",
-  "tamanho": 200712180,
-  "sha256": "934e017d5adc0ae917b44b833d852317ea7aa20e24ce51da14bb91a12a3d139e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.37.0/Vrumbi-0.37.0.apk",
+  "tamanho": 199300855,
+  "sha256": "2f1417b5bc204251da31cb92575684cc0d6bb22f119760862f50a0a68ffdb8fb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.37.1/Vrumbi-0.37.1.apk",
   "notas": [
-    "Mensagens sem repetir: cada mensagem aparece uma vez só. A que você já viu e fechou não volta mais (antes, quando chegava mensagem em outra conversa, as antigas reapareciam).",
-    "Caixa de mensagens: o botão Mensagens (com o número de não lidas) guarda as conversas que chegaram. Toque numa para ler e responder; lida no próprio WhatsApp, ela sai do número sozinha.",
-    "O aviso de mensagem nova ficou discreto: uma linha no alto por alguns segundos. Tocar abre a conversa; X ou arrastar para o lado marca como vista. Dá para desligar em Configurações > Mensagens enquanto dirige.",
-    "Responder do seu jeito: respostas prontas, digitar (com o carro parado), Falar (o microfone escuta e vira texto, você confere e envia) e Áudio (grava a sua voz; ao enviar, o app da conversa abre com o áudio pronto para escolher a conversa)."
+    "Mapa completo: o Dash (painel analítico) voltou a abrir. Ele abre em tela cheia por cima do mapa; \"Voltar ao mapa\" fecha.",
+    "O app não leva mais o nome nem a marca do site de origem: textos, impressão, camadas e dados ficaram só com o Vrumbi. As suas configurações continuam todas (passaram sozinhas para o nome novo)."
   ],
   "versoes": [
+    {
+      "versao": "0.37.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Mapa completo: o Dash (painel analítico) voltou a abrir. Ele abre em tela cheia por cima do mapa; \"Voltar ao mapa\" fecha.",
+        "O app não leva mais o nome nem a marca do site de origem: textos, impressão, camadas e dados ficaram só com o Vrumbi. As suas configurações continuam todas (passaram sozinhas para o nome novo)."
+      ],
+      "en": [
+        "Full map: the Dash (analytics panel) opens again. It opens full screen over the map; \"Back to the map\" closes it.",
+        "The app no longer carries the name or brand of the original site: texts, printing, layers and data now show only Vrumbi. All your settings are kept (moved to the new name automatically)."
+      ],
+      "es": [
+        "Mapa completo: el Dash (panel analítico) vuelve a abrir. Se abre en pantalla completa sobre el mapa; \"Volver al mapa\" lo cierra.",
+        "La app ya no lleva el nombre ni la marca del sitio de origen: textos, impresión, capas y datos muestran solo Vrumbi. Todas tus configuraciones se mantienen (pasaron solas al nombre nuevo)."
+      ]
+    },
     {
       "versao": "0.37.0",
       "data": "29/10/2026",
@@ -220,28 +234,6 @@
       "es": [
         "Avisos de clima en el celular, incluso con la app cerrada: \"Lluvia en ~30 min\" cuando la lluvia deba empezar en la próxima hora, avisos oficiales graves (peligro y gran peligro; Defensa Civil) donde estás y, si quieres, el resumen de la mañana con la mínima, la máxima y la probabilidad de lluvia.",
         "Cada aviso se activa y desactiva en Ajustes > Avisos de clima (o en la pantalla Clima y tiempo). Tocar el aviso abre el Clima o las Alertas."
-      ]
-    },
-    {
-      "versao": "0.27.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Clima e tempo (Menu): a temperatura agora, a sensação, umidade, vento, pressão, índice UV, chuva e o pôr do sol; hora a hora nas próximas 24 h e os próximos 7 dias, com a chance de chuva e a faixa entre a mínima e a máxima.",
-        "O Vrumbi comenta o tempo: guarda-chuva quando vai chover, protetor quando o sol está forte, cuidado com neblina, vento e trovoada.",
-        "Widgets de clima na tela inicial: \"Clima\" (agora, máxima e mínima e os próximos dias) e \"Clima e relógio\" (a hora grande com o tempo ao lado). Atualizam sozinhos a cada 30 minutos, mesmo com o app fechado.",
-        "Novo botão para pôr os widgets na tela inicial direto pelo app: o Android pergunta e encaixa onde houver espaço."
-      ],
-      "en": [
-        "Weather (Menu): the temperature now, feels like, humidity, wind, pressure, UV index, rain and sunset; hour by hour for the next 24 h and the next 7 days, with the chance of rain and the range between low and high.",
-        "Vrumbi comments on the weather: umbrella when it is going to rain, sunscreen when the sun is strong, care with fog, wind and thunderstorms.",
-        "Weather widgets on the home screen: \"Weather\" (now, high and low and the next days) and \"Weather and clock\" (a big clock with the weather beside it). They update by themselves every 30 minutes, even with the app closed.",
-        "New button to put the widgets on the home screen right from the app: Android asks and places them where there is room."
-      ],
-      "es": [
-        "Clima y tiempo (Menú): la temperatura ahora, la sensación, humedad, viento, presión, índice UV, lluvia y la puesta del sol; hora a hora en las próximas 24 h y los próximos 7 días, con la probabilidad de lluvia y la franja entre la mínima y la máxima.",
-        "Vrumbi comenta el tiempo: paraguas cuando va a llover, protector cuando el sol está fuerte, cuidado con niebla, viento y tormenta.",
-        "Widgets de clima en la pantalla de inicio: \"Clima\" (ahora, máxima y mínima y los próximos días) y \"Clima y reloj\" (la hora grande con el tiempo al lado). Se actualizan solos cada 30 minutos, incluso con la app cerrada.",
-        "Nuevo botón para poner los widgets en la pantalla de inicio desde la app: Android pregunta y los coloca donde haya espacio."
       ]
     }
   ]
