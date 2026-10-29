@@ -1,16 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.30.0",
-  "codigo": 80,
+  "versao": "0.31.0",
+  "codigo": 81,
   "data": "29/10/2026",
-  "tamanho": 199275895,
-  "sha256": "7b6001ee19669dffe8c6c6d1ab037159f3e98dc2aa2bd227bc70ff6c84b4af46",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.30.0/Vrumbi-0.30.0.apk",
+  "tamanho": 199307403,
+  "sha256": "1458fdd46101792d3a8e42c47c4326e5fdff907ff46315b1d385dcd85387cbeb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.31.0/Vrumbi-0.31.0.apk",
   "notas": [
-    "Carimbo na gravação da viagem: data, hora e velocidade gravadas em cada quadro do vídeo (embaixo à esquerda), como nas câmeras de painel, e a marca Vrumbi no canto de cima. Fica em pé com o celular em pé ou deitado.",
-    "Opcional: as coordenadas (latitude e longitude) no carimbo, úteis como prova. Liga e desliga em Configurações > Gravação da viagem."
+    "Modo motorista de aplicativo (Configurações > Gravação da viagem): cada trecho gravado fica criptografado no celular, com uma chave guardada no chip de segurança do Android. Nenhum outro app abre os vídeos.",
+    "Para usar como prova: Minhas gravações > Exportar como prova pede a senha ou a biometria do celular e só então tira uma cópia para compartilhar.",
+    "Aviso ao passageiro: uma tela com letras grandes dizendo que a viagem é gravada e que as imagens ficam protegidas (LGPD), para mostrar a quem entra no carro.",
+    "Mensagens enquanto dirige (Configurações > Mensagens enquanto dirige): mensagens do WhatsApp, Telegram, SMS, Signal e Messenger aparecem num cartão; dirigindo, o Vrumbi lê em voz alta. Responder só com respostas prontas, sem digitar: \"Estou dirigindo, respondo depois\", \"Estou dirigindo, chego às…\" (com a hora de chegada da rota), \"Já estou chegando\", \"Ok, falamos depois\". Nenhuma mensagem é guardada."
   ],
   "versoes": [
+    {
+      "versao": "0.31.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Modo motorista de aplicativo (Configurações > Gravação da viagem): cada trecho gravado fica criptografado no celular, com uma chave guardada no chip de segurança do Android. Nenhum outro app abre os vídeos.",
+        "Para usar como prova: Minhas gravações > Exportar como prova pede a senha ou a biometria do celular e só então tira uma cópia para compartilhar.",
+        "Aviso ao passageiro: uma tela com letras grandes dizendo que a viagem é gravada e que as imagens ficam protegidas (LGPD), para mostrar a quem entra no carro.",
+        "Mensagens enquanto dirige (Configurações > Mensagens enquanto dirige): mensagens do WhatsApp, Telegram, SMS, Signal e Messenger aparecem num cartão; dirigindo, o Vrumbi lê em voz alta. Responder só com respostas prontas, sem digitar: \"Estou dirigindo, respondo depois\", \"Estou dirigindo, chego às…\" (com a hora de chegada da rota), \"Já estou chegando\", \"Ok, falamos depois\". Nenhuma mensagem é guardada."
+      ],
+      "en": [
+        "Ride-hailing driver mode (Settings > Trip recording): each recorded clip is encrypted on the phone, with a key kept in Android's security chip. No other app can open the videos.",
+        "To use as evidence: My recordings > Export as evidence asks for the phone password or biometrics and only then makes a copy to share.",
+        "Passenger notice: a screen with large letters saying the trip is recorded and the images are protected, to show whoever gets in the car.",
+        "Messages while driving (Settings > Messages while driving): messages from WhatsApp, Telegram, SMS, Signal and Messenger show up in a card; while driving, Vrumbi reads them aloud. Reply only with ready-made replies, no typing: \"I am driving, I will reply later\", \"I am driving, I will get there at…\" (with the route arrival time), \"I am almost there\", \"Ok, talk later\". No message is kept."
+      ],
+      "es": [
+        "Modo conductor de aplicación (Ajustes > Grabación del viaje): cada tramo grabado queda cifrado en el celular, con una clave guardada en el chip de seguridad de Android. Ninguna otra app abre los videos.",
+        "Para usarlo como prueba: Mis grabaciones > Exportar como prueba pide la contraseña o la biometría del celular y solo entonces saca una copia para compartir.",
+        "Aviso al pasajero: una pantalla con letras grandes que dice que el viaje se graba y que las imágenes quedan protegidas, para mostrar a quien sube al auto.",
+        "Mensajes mientras manejas (Ajustes > Mensajes mientras manejas): los mensajes de WhatsApp, Telegram, SMS, Signal y Messenger aparecen en una tarjeta; manejando, Vrumbi los lee en voz alta. Responder solo con respuestas listas, sin escribir: \"Estoy manejando, respondo después\", \"Estoy manejando, llego a las…\" (con la hora de llegada de la ruta), \"Ya estoy llegando\", \"Ok, hablamos después\". No se guarda ningún mensaje."
+      ]
+    },
     {
       "versao": "0.30.0",
       "data": "29/10/2026",
@@ -221,28 +245,6 @@
       "es": [
         "Pantalla más limpia: el botón Ajustes salió de la pantalla. En el Menú, justo debajo de Mapa completo, Unidades y Capas, están los Ajustes rápidos (Radares, Límite, INMET y Comunidad, un toque los enciende o apaga) y Más ajustes, con todos los demás. El botón Sonido sigue en la pantalla.",
         "Corrección de seguridad en la elección de la voz."
-      ]
-    },
-    {
-      "versao": "0.20.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Escolha a voz da navegação: em Configurações > Navegação > Voz da navegação, até 5 vozes femininas e 5 masculinas no idioma do app, com os sotaques que o seu celular tem (no português, Brasil e Portugal) e variações de tom. Toque no play para ouvir antes de escolher. Também dá para deixar a fala mais calma ou mais rápida.",
-        "Mais vozes e sotaques: atalho para baixar as vozes no Android e usar sem internet.",
-        "Quando o Vrumbi fala, a música de outros aplicativos abaixa e volta sozinha.",
-        "Alertas sem repetição: avisos do mesmo assunto (tempestade amarela e laranja, acumulado de chuva, Defesa Civil) viram um aviso só, com o mais grave e os outros assuntos em uma linha. Fechou ou tocou em Ok, não volta; só aparece de novo se surgir um assunto novo ou se piorar."
-      ],
-      "en": [
-        "Choose the navigation voice: in Settings > Navigation > Navigation voice, up to 5 female and 5 male voices in the app language, with the accents your phone has (in English, United States, United Kingdom, Australia, India...) and tone variations. Tap play to listen before choosing. You can also make the speech calmer or faster.",
-        "More voices and accents: shortcut to download voices on Android and use them offline.",
-        "When Vrumbi speaks, music from other apps lowers and comes back by itself.",
-        "Alerts without repetition: alerts about the same subject (yellow and orange storm, rain accumulation, civil defense) become a single alert, with the most serious one and the other subjects in one line. Once closed or Ok, it does not come back; it only shows again if a new subject appears or it gets worse."
-      ],
-      "es": [
-        "Elige la voz de la navegación: en Ajustes > Navegación > Voz de la navegación, hasta 5 voces femeninas y 5 masculinas en el idioma de la app, con los acentos que tiene tu celular (en español, España y Estados Unidos) y variaciones de tono. Toca play para escuchar antes de elegir. También puedes hacer el habla más calmada o más rápida.",
-        "Más voces y acentos: atajo para descargar las voces en Android y usarlas sin internet.",
-        "Cuando Vrumbi habla, la música de otras apps baja y vuelve sola.",
-        "Alertas sin repetición: los avisos del mismo tema (tormenta amarilla y naranja, lluvia acumulada, Defensa Civil) se vuelven un solo aviso, con el más grave y los demás temas en una línea. Cerrado o con Ok, no vuelve; solo aparece de nuevo si surge un tema nuevo o empeora."
       ]
     }
   ]
