@@ -1,17 +1,52 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.19.2",
-  "codigo": 67,
+  "versao": "0.19.3",
+  "codigo": 68,
   "data": "29/10/2026",
-  "tamanho": 197274227,
-  "sha256": "a0e9f691cf603ff68168875bb17b40e834d8bc413f56e439d305185fa215794e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.2/Vrumbi-0.19.2.apk",
+  "tamanho": 197281931,
+  "sha256": "127afa670a793216f4d65afca07cad2f2fa557969f303ba3bbd4123948940dee",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.3/Vrumbi-0.19.3.apk",
   "notas": [
-    "O aviso do INMET e da Defesa Civil na tela agora fecha no X ou arrastando para o lado, e não volta enquanto aquele aviso valer.",
-    "Para ver de novo: o botão Alertas, embaixo de Ajustes, aparece enquanto houver aviso valendo onde você está, com o número de avisos e a cor do mais grave, e abre todos eles. Também está no menu, em Alertas e notícias.",
-    "O aviso de abertura do Vrumbi aparece uma vez só para cada alerta."
+    "Seguir corrigido: tocar em Seguir sempre volta a centralizar o carro, e ao voltar de outro app ele continua seguindo, com o botão marcado.",
+    "O carro fica mais perto da parte de baixo da tela, para mostrar mais do que vem pela frente (de pé e deitado).",
+    "O nome da rua fica na tela: não some mais sozinho. Fecha no X ou arrastando para o lado e volta quando a rua muda.",
+    "Radares só da sua via: o aviso vale para o radar que está na rua em que você está (ou na rota), no seu sentido. Não avisa mais o da rua do lado, o da rua que cruza nem o da outra pista. A distância é a do caminho.",
+    "Avisos da comunidade chegam mais rápido (dirigindo, a cada 15 s) e de mais longe (até 3 km, conforme a velocidade). Um aviso novo no seu caminho é falado na hora, e o pino pisca por alguns minutos.",
+    "Avisar: Buraco na via, Objeto na pista, Acidente e Trânsito parado aparecem primeiro.",
+    "Mapa completo, Unidades e Camadas saíram da tela inicial e ficam no topo do menu, em destaque."
   ],
   "versoes": [
+    {
+      "versao": "0.19.3",
+      "data": "29/10/2026",
+      "itens": [
+        "Seguir corrigido: tocar em Seguir sempre volta a centralizar o carro, e ao voltar de outro app ele continua seguindo, com o botão marcado.",
+        "O carro fica mais perto da parte de baixo da tela, para mostrar mais do que vem pela frente (de pé e deitado).",
+        "O nome da rua fica na tela: não some mais sozinho. Fecha no X ou arrastando para o lado e volta quando a rua muda.",
+        "Radares só da sua via: o aviso vale para o radar que está na rua em que você está (ou na rota), no seu sentido. Não avisa mais o da rua do lado, o da rua que cruza nem o da outra pista. A distância é a do caminho.",
+        "Avisos da comunidade chegam mais rápido (dirigindo, a cada 15 s) e de mais longe (até 3 km, conforme a velocidade). Um aviso novo no seu caminho é falado na hora, e o pino pisca por alguns minutos.",
+        "Avisar: Buraco na via, Objeto na pista, Acidente e Trânsito parado aparecem primeiro.",
+        "Mapa completo, Unidades e Camadas saíram da tela inicial e ficam no topo do menu, em destaque."
+      ],
+      "en": [
+        "Follow fixed: tapping Follow always centers the car again, and when you come back from another app it keeps following, with the button on.",
+        "The car sits closer to the bottom of the screen, to show more of what is ahead (portrait and landscape).",
+        "The street name stays on the screen: it no longer disappears by itself. Close it with the X or by swiping it aside; it comes back when the street changes.",
+        "Speed cameras only on your road: the alert is for the camera on the street you are on (or on the route), in your direction. No more alerts for the street beside you, the cross street or the other carriageway. The distance is along the way.",
+        "Community alerts arrive faster (every 15 s while driving) and from farther away (up to 3 km, depending on speed). A new alert on your way is spoken right away, and its pin blinks for a few minutes.",
+        "Report: Pothole on the road, Object on the road, Accident and Traffic jam come first.",
+        "Full map, Units and Layers left the home screen and are at the top of the menu, highlighted."
+      ],
+      "es": [
+        "Seguir corregido: tocar Seguir siempre vuelve a centrar el auto, y al volver de otra app sigue siguiendo, con el botón marcado.",
+        "El auto queda más cerca de la parte de abajo de la pantalla, para mostrar más de lo que viene adelante (vertical y horizontal).",
+        "El nombre de la calle queda en la pantalla: ya no desaparece solo. Se cierra con la X o deslizándolo a un lado y vuelve cuando cambia la calle.",
+        "Radares solo de tu vía: el aviso vale para el radar que está en la calle en la que estás (o en la ruta), en tu sentido. Ya no avisa el de la calle de al lado, el de la calle que cruza ni el de la otra calzada. La distancia es la del camino.",
+        "Los avisos de la comunidad llegan más rápido (manejando, cada 15 s) y desde más lejos (hasta 3 km, según la velocidad). Un aviso nuevo en tu camino se dice en el momento, y su pin parpadea unos minutos.",
+        "Avisar: Bache en la vía, Objeto en la vía, Accidente y Tráfico detenido aparecen primero.",
+        "Mapa completo, Unidades y Capas salieron de la pantalla inicial y están arriba en el menú, destacados."
+      ]
+    },
     {
       "versao": "0.19.2",
       "data": "29/10/2026",
@@ -225,14 +260,6 @@
       "es": [
         "Nuevo: Idioma. En Configuración > Idioma, elige Português, English o Español, o \"Predeterminado del sistema\" (el idioma del celular). Cambia toda la pantalla de navegación: menús, botones, avisos, alertas y también la voz y las instrucciones de las maniobras.",
         "Los nombres de calles y lugares quedan como en el mapa. El mapa completo aún se está traduciendo: algunas de sus pantallas aparecen en portugués por ahora."
-      ]
-    },
-    {
-      "versao": "0.13.2",
-      "data": "28/10/2026",
-      "itens": [
-        "O Vrumbi agora explica as coisas: onde antes havia um texto de explicação, é o personagem que fala, num balão (Ajustes rápidos, Favoritos, busca, Camadas, Avisar, Aparência, GPS e bússola, Tela do carro).",
-        "Interface e mapa: a explicação fixa saiu. Ao pôr um deles no Auto, o Vrumbi conta na hora como funciona (claro das 6h às 18h, escuro das 18h às 6h e nos túneis) e, se o outro estiver fixo, pergunta se você quer os dois no Auto."
       ]
     }
   ]
