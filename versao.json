@@ -1,17 +1,48 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.18.0",
-  "codigo": 64,
+  "versao": "0.19.0",
+  "codigo": 65,
   "data": "29/10/2026",
-  "tamanho": 197200151,
-  "sha256": "64dfcc4b2321375c0a5bbf5d5c5b23eb034dbc8b8a56aa800eaacbd8fdb63b80",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.18.0/Vrumbi-0.18.0.apk",
+  "tamanho": 198360944,
+  "sha256": "d52323e07c8c21edc609613e9b8dc7032788a169ef7af8fcb1593ebf80894d1e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.0/Vrumbi-0.19.0.apk",
   "notas": [
-    "O Vrumbi agora é um carrinho! Mesmos olhos e o mesmo sorriso, com retrovisores e rodas. Mudou o ícone do app, a abertura, as figurinhas e o personagem que explica as coisas.",
-    "Ele se mexe junto com o que diz: pula de alegria quando atualiza, quica na suspensão, inclina na curva quando recalcula e treme no arranque.",
-    "No nome, um mini carrinho é o pingo do i."
+    "Alertas e notícias: o aviso do INMET e da Defesa Civil agora chega ao vivo, do Brasil inteiro. Ao abrir o app, o Vrumbi avisa se há alerta onde você está. No menu, Alertas e notícias mostra os riscos e o que fazer, os avisos pelo caminho e no destino da rota e as notícias da cidade (trânsito, chuva e segurança primeiro).",
+    "Busca igual à de um app de mapa comum: um campo só. Cada rua tem o botão Adicionar número, que já deixa o campo pronto para o número daquela rua, bairro e cidade.",
+    "Casa, Trabalho e todos os favoritos ficam marcados no mapa, com ícone e nome. Tocar abre a ficha do lugar.",
+    "Meus lugares: cada lugar no seu cartão e a opção Editar meus lugares (título, endereço, tipo, ver no mapa, apagar).",
+    "Evitar na rota com mais opções: tipo de caminho (normal, só estradas e rodovias, trilhas e terra), rota mais curta, desviar das vias fechadas avisadas e rota de caminhão com altura, largura, comprimento, peso e carga perigosa. Moto ganhou rota própria.",
+    "Configurações em cartões, espaço entre os botões dos Ajustes rápidos e botão Favoritos do mesmo tamanho dos outros."
   ],
   "versoes": [
+    {
+      "versao": "0.19.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Alertas e notícias: o aviso do INMET e da Defesa Civil agora chega ao vivo, do Brasil inteiro. Ao abrir o app, o Vrumbi avisa se há alerta onde você está. No menu, Alertas e notícias mostra os riscos e o que fazer, os avisos pelo caminho e no destino da rota e as notícias da cidade (trânsito, chuva e segurança primeiro).",
+        "Busca igual à de um app de mapa comum: um campo só. Cada rua tem o botão Adicionar número, que já deixa o campo pronto para o número daquela rua, bairro e cidade.",
+        "Casa, Trabalho e todos os favoritos ficam marcados no mapa, com ícone e nome. Tocar abre a ficha do lugar.",
+        "Meus lugares: cada lugar no seu cartão e a opção Editar meus lugares (título, endereço, tipo, ver no mapa, apagar).",
+        "Evitar na rota com mais opções: tipo de caminho (normal, só estradas e rodovias, trilhas e terra), rota mais curta, desviar das vias fechadas avisadas e rota de caminhão com altura, largura, comprimento, peso e carga perigosa. Moto ganhou rota própria.",
+        "Configurações em cartões, espaço entre os botões dos Ajustes rápidos e botão Favoritos do mesmo tamanho dos outros."
+      ],
+      "en": [
+        "Alerts and news: INMET and civil defense alerts now arrive live, for all of Brazil. When the app opens, Vrumbi tells you if there is an alert where you are. In the menu, Alerts and news shows the risks and what to do, the alerts along your route and at the destination, and local news (traffic, rain and safety first).",
+        "Search like a regular map app: a single field. Each street has an Add number button that gets the field ready for the number on that street, neighborhood and city.",
+        "Home, Work and every favorite are marked on the map, with icon and name. Tap to open the place card.",
+        "My places: each place in its own card and the Edit my places option (title, address, type, see on map, delete).",
+        "Avoid on route has more options: type of road (normal, only roads and highways, trails and dirt roads), shortest route, going around reported closures, and a truck route with height, width, length, weight and hazardous cargo. Motorcycles got their own route.",
+        "Settings in cards, spacing between the Quick settings buttons, and the Favorites button the same size as the others."
+      ],
+      "es": [
+        "Alertas y noticias: los avisos del INMET y de Defensa Civil ahora llegan en vivo, de todo Brasil. Al abrir la app, Vrumbi avisa si hay una alerta donde estás. En el menú, Alertas y noticias muestra los riesgos y qué hacer, los avisos en el camino y en el destino de la ruta y las noticias de la ciudad (tránsito, lluvia y seguridad primero).",
+        "Búsqueda como la de una app de mapas común: un solo campo. Cada calle tiene el botón Añadir número, que deja el campo listo para el número de esa calle, barrio y ciudad.",
+        "Casa, Trabajo y todos los favoritos quedan marcados en el mapa, con ícono y nombre. Al tocar se abre la ficha del lugar.",
+        "Mis lugares: cada lugar en su tarjeta y la opción Editar mis lugares (título, dirección, tipo, ver en el mapa, borrar).",
+        "Evitar en la ruta con más opciones: tipo de camino (normal, solo carreteras y autopistas, senderos y tierra), ruta más corta, esquivar vías cerradas avisadas y ruta de camión con altura, ancho, longitud, peso y carga peligrosa. La moto tiene ruta propia.",
+        "Configuración en tarjetas, espacio entre los botones de Ajustes rápidos y el botón Favoritos del mismo tamaño que los demás."
+      ]
+    },
     {
       "versao": "0.18.0",
       "data": "29/10/2026",
@@ -195,15 +226,6 @@
         "Os avisos aparecem no mapa para todo mundo que usa o Vrumbi, cada um com o seu ícone e cor. Toque no ícone para ver há quanto tempo foi marcado e responder \"Ainda está lá\" ou \"Não está mais\".",
         "Dirigindo, o que estiver à frente no seu sentido aparece junto dos radares e a voz avisa (\"Atenção: buraco na via a 200 metros\"). Depois de passar, o Vrumbi pergunta se ainda está lá, com dois botões grandes que somem sozinhos.",
         "Anônimo: não vai nome, telefone nem rota. Cada aviso some sozinho (trânsito em meia hora, buraco em alguns dias) e cada confirmação renova. Errou? Toque em Desfazer logo depois de enviar. Para não ver os alertas, desligue em Ajustes, \"Alertas da comunidade\"."
-      ]
-    },
-    {
-      "versao": "0.12.5",
-      "data": "28/10/2026",
-      "itens": [
-        "Barra de baixo mais limpa: Casa, Trabalho e Favoritos viraram um botão só, Favoritos. Ao tocar, aparecem primeiro os principais (Casa e Trabalho, em destaque) e depois todos os seus favoritos.",
-        "O nome da rua não fica mais embaixo do carro: ele aparece na barra de baixo, entre Favoritos e a busca, sem atrapalhar a visão da via.",
-        "Mais rua à frente: seguindo a sua posição, o ícone fica mais perto da parte de baixo da tela (antes ficava quase no meio), mostrando mais do que vem pela frente e menos do que já passou. O velocímetro fica logo acima da busca."
       ]
     }
   ]
