@@ -1,16 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.33.0",
-  "codigo": 84,
+  "versao": "0.34.0",
+  "codigo": 85,
   "data": "29/10/2026",
-  "tamanho": 199314539,
-  "sha256": "d75da9282840ebb3de60d1c07c9a801bfe00b92e09d59e812fca0ea6c332a1cd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.33.0/Vrumbi-0.33.0.apk",
+  "tamanho": 199327199,
+  "sha256": "f0b4b20d1b8fd50ad49ac3e7ca83182eaf59ebb598221313b92c4067134aa712",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.34.0/Vrumbi-0.34.0.apk",
   "notas": [
-    "Chamadas enquanto dirige (Configurações > Mensagens enquanto dirige > Chamadas com botões grandes): quando o celular toca, a tela da navegação mostra quem está ligando e dois botões grandes, Atender (verde) e Recusar (vermelho), ao alcance do polegar. O Vrumbi fala \"Ligação de…\". O cartão some sozinho quando a ligação é atendida, recusada ou acaba.",
-    "Modo motorista: o vídeo protegido numa batida é criptografado mesmo se mudar de pasta no meio, e o que não deu para criptografar é tentado de novo ao abrir o app."
+    "Mini player com três abas: Apps (o que toca no seu app de música), Arquivos e YouTube. Toque em Música para abrir; arraste para qualquer canto da tela.",
+    "Arquivos: escolha músicas e vídeos do celular, monte uma fila e use tocar/pausar, parar, voltar e avançar 10 s, anterior/próxima e a barra para ir a qualquer ponto. Cada arquivo continua de onde parou. Fechando o player, o som continua; o botão Música traz o player de volta.",
+    "YouTube: cole o link do vídeo e ele toca dentro do player. Por segurança, vídeo na tela só com o carro parado: andando, o vídeo do celular vira só som e o YouTube pausa. Se o dono do vídeo não deixar tocar fora do YouTube, o Vrumbi oferece abrir no app do YouTube.",
+    "Um de cada vez: dar play no YouTube pausa o arquivo, e o arquivo pausa o YouTube.",
+    "Chamadas com botões grandes: só aparecem as do app de telefone do celular e de apps de chamada conhecidos."
   ],
   "versoes": [
+    {
+      "versao": "0.34.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Mini player com três abas: Apps (o que toca no seu app de música), Arquivos e YouTube. Toque em Música para abrir; arraste para qualquer canto da tela.",
+        "Arquivos: escolha músicas e vídeos do celular, monte uma fila e use tocar/pausar, parar, voltar e avançar 10 s, anterior/próxima e a barra para ir a qualquer ponto. Cada arquivo continua de onde parou. Fechando o player, o som continua; o botão Música traz o player de volta.",
+        "YouTube: cole o link do vídeo e ele toca dentro do player. Por segurança, vídeo na tela só com o carro parado: andando, o vídeo do celular vira só som e o YouTube pausa. Se o dono do vídeo não deixar tocar fora do YouTube, o Vrumbi oferece abrir no app do YouTube.",
+        "Um de cada vez: dar play no YouTube pausa o arquivo, e o arquivo pausa o YouTube.",
+        "Chamadas com botões grandes: só aparecem as do app de telefone do celular e de apps de chamada conhecidos."
+      ],
+      "en": [
+        "Mini player with three tabs: Apps (what plays in your music app), Files and YouTube. Tap Music to open it; drag it to any corner of the screen.",
+        "Files: pick music and videos from your phone, build a queue and use play/pause, stop, back and forward 10 s, previous/next and the bar to jump anywhere. Each file resumes where it stopped. Closing the player keeps the sound; the Music button brings the player back.",
+        "YouTube: paste the video link and it plays inside the player. For safety, video on screen only with the car stopped: while driving, phone videos become sound only and YouTube pauses. If the video owner does not allow playing outside YouTube, Vrumbi offers to open it in the YouTube app.",
+        "One at a time: playing YouTube pauses the file, and the file pauses YouTube.",
+        "Calls with big buttons: only calls from the phone app and known calling apps appear."
+      ],
+      "es": [
+        "Mini reproductor con tres pestañas: Apps (lo que suena en tu app de música), Archivos y YouTube. Toca Música para abrirlo; arrástralo a cualquier esquina de la pantalla.",
+        "Archivos: elige música y videos del celular, arma una lista y usa reproducir/pausar, detener, retroceder y avanzar 10 s, anterior/siguiente y la barra para ir a cualquier punto. Cada archivo sigue desde donde quedó. Al cerrar el reproductor, el sonido sigue; el botón Música lo trae de vuelta.",
+        "YouTube: pega el enlace del video y se reproduce dentro del reproductor. Por seguridad, video en pantalla solo con el auto detenido: en marcha, los videos del celular quedan solo con sonido y YouTube se pausa. Si el dueño del video no permite reproducirlo fuera de YouTube, Vrumbi ofrece abrirlo en la app de YouTube.",
+        "Uno a la vez: reproducir YouTube pausa el archivo, y el archivo pausa YouTube.",
+        "Llamadas con botones grandes: solo aparecen las de la app de teléfono y de apps de llamadas conocidas."
+      ]
+    },
     {
       "versao": "0.33.0",
       "data": "29/10/2026",
@@ -215,28 +243,6 @@
         "Widgets en la pantalla de inicio de Android (toque largo en la pantalla de inicio > Widgets > Vrumbi): \"¿A dónde?\" abre la búsqueda y, según el tamaño, también tiene Casa, Trabajo y Mi auto, y en el más grande Ayuda, Avisar y Mapa.",
         "Widget Navegación: durante la ruta muestra la flecha, la distancia, la instrucción y la llegada, sin abrir la app; sin ruta, se vuelve los atajos.",
         "Los widgets cambian de tamaño (solo estíralos) y siguen el tema claro u oscuro del celular."
-      ]
-    },
-    {
-      "versao": "0.23.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Transporte público: andando sobre uma linha de trem ou metrô (ou parando de ponto em ponto de ônibus), o Vrumbi pergunta \"Você está de transporte público?\" com Trem, Metrô, Ônibus ou \"Não, estou dirigindo\". A resposta troca o seu ícone pelo trem, metrô ou ônibus em 3D.",
-        "De transporte, radar e limite da via ficam de lado (não é você dirigindo) e a posição segue os trilhos. Chegou e saiu andando, o ícone volta sozinho ao de sempre.",
-        "Também dá para escolher no Menu > Ajustes rápidos > Transporte. \"Não, estou dirigindo\" faz o Vrumbi não perguntar por 2 horas.",
-        "Ícones novos de trem e metrô em Configurações > Ícone da posição."
-      ],
-      "en": [
-        "Public transport: riding along a train or subway line (or stopping from bus stop to bus stop), Vrumbi asks \"Are you on public transport?\" with Train, Subway, Bus or \"No, I am driving\". The answer changes your icon to a 3D train, subway or bus.",
-        "On public transport, speed cameras and speed limits are set aside (you are not driving) and the position follows the rails. When you arrive and walk away, the icon goes back to your usual one.",
-        "You can also choose it in Menu > Quick settings > Transit. \"No, I am driving\" keeps Vrumbi from asking for 2 hours.",
-        "New train and subway icons in Settings > Position icon."
-      ],
-      "es": [
-        "Transporte público: andando sobre una línea de tren o metro (o parando de parada en parada de autobús), Vrumbi pregunta \"¿Vas en transporte público?\" con Tren, Metro, Autobús o \"No, estoy manejando\". La respuesta cambia tu ícono por el tren, metro o autobús en 3D.",
-        "En transporte, radares y límites quedan de lado (no estás manejando) y la posición sigue los rieles. Al llegar y salir caminando, el ícono vuelve solo al de siempre.",
-        "También se puede elegir en Menú > Ajustes rápidos > Transporte. \"No, estoy manejando\" hace que Vrumbi no pregunte por 2 horas.",
-        "Íconos nuevos de tren y metro en Ajustes > Ícono de la posición."
       ]
     }
   ]
