@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.16.1",
-  "codigo": 62,
-  "data": "28/10/2026",
-  "tamanho": 196264562,
-  "sha256": "9439fa55b9064df4ad1abbee23eaeaf3a47d9b2729c2197a4559caace2e600fd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.16.1/Vrumbi-0.16.1.apk",
+  "versao": "0.17.0",
+  "codigo": 63,
+  "data": "29/10/2026",
+  "tamanho": 197238975,
+  "sha256": "538d091394237ac4b56554b6fdb6fcef97e16b95ef80ce68f2bf8e3dfd8fa71e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.17.0/Vrumbi-0.17.0.apk",
   "notas": [
-    "Notificação da navegação nova: seta grande à esquerda, a distância e a instrução, a faixa a usar (\"Use as 2 faixas da direita\"), uma barra que enche até a curva, a manobra seguinte quando vem logo depois (\"Depois: vire à esquerda\") e o que vem pela frente: radar, alerta da comunidade ou a sua velocidade contra o limite.",
-    "Dentro do app, a faixa da manobra também ganhou seta maior, o texto da faixa, a manobra seguinte e a barra até a curva."
+    "Vrumbi em 18 idiomas: além de português, inglês e espanhol, agora francês, alemão, italiano, chinês, japonês, russo, coreano, turco, polonês, holandês, indonésio, vietnamita, ucraniano, hindi e árabe (da direita para a esquerda). A voz da navegação também fala no idioma escolhido.",
+    "Em Configurações → Idioma, escolha um deles ou deixe \"Padrão do sistema\", que segue o idioma do celular.",
+    "O app abre mais leve: cada idioma só é carregado quando é usado."
   ],
   "versoes": [
+    {
+      "versao": "0.17.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Vrumbi em 18 idiomas: além de português, inglês e espanhol, agora francês, alemão, italiano, chinês, japonês, russo, coreano, turco, polonês, holandês, indonésio, vietnamita, ucraniano, hindi e árabe (da direita para a esquerda). A voz da navegação também fala no idioma escolhido.",
+        "Em Configurações → Idioma, escolha um deles ou deixe \"Padrão do sistema\", que segue o idioma do celular.",
+        "O app abre mais leve: cada idioma só é carregado quando é usado."
+      ],
+      "en": [
+        "Vrumbi in 18 languages: besides Portuguese, English and Spanish, now French, German, Italian, Chinese, Japanese, Russian, Korean, Turkish, Polish, Dutch, Indonesian, Vietnamese, Ukrainian, Hindi and Arabic (right to left). Navigation voice also speaks the chosen language.",
+        "In Settings → Language, pick one or keep \"System default\", which follows the phone language.",
+        "The app opens lighter: each language is only loaded when used."
+      ],
+      "es": [
+        "Vrumbi en 18 idiomas: además de portugués, inglés y español, ahora francés, alemán, italiano, chino, japonés, ruso, coreano, turco, polaco, neerlandés, indonesio, vietnamita, ucraniano, hindi y árabe (de derecha a izquierda). La voz de la navegación también habla en el idioma elegido.",
+        "En Configuración → Idioma, elige uno o deja \"Predeterminado del sistema\", que sigue el idioma del celular.",
+        "La app abre más ligera: cada idioma solo se carga cuando se usa."
+      ]
+    },
     {
       "versao": "0.16.1",
       "data": "28/10/2026",
@@ -174,14 +194,6 @@
         "Ícone sempre em cima da via: o GPS do celular erra alguns metros (mais ainda parado ou entre prédios) e o ícone aparecia no meio do quarteirão. Agora ele encaixa na rua mais provável, em todas as vias: de carro, moto ou caminhão nas ruas, avenidas e estradas; a pé ou de bicicleta também em calçadões, ciclovias e caminhos (nunca em trilhos).",
         "Andando, ele prefere a rua no sentido em que você vai e não pula para a paralela; parado, o ícone não fica \"passeando\". Longe de qualquer rua (praça, estacionamento grande), fica a posição do GPS.",
         "Celular deitado: Som e Ajustes foram para a linha de cima, ao lado do menu; os botões da esquerda ficam acima de Casa, Trabalho e Favoritos, sem ficar embaixo do relógio, e o velocímetro não cobre mais nada."
-      ]
-    },
-    {
-      "versao": "0.12.3",
-      "data": "28/10/2026",
-      "itens": [
-        "A animação de abertura aparece sempre que você abre o aplicativo fechado. Ela só não repete quando o próprio Android tirou o app da memória em segundo plano e você volta para ele (aí ele continua de onde estava), e ao trocar entre a navegação e o mapa completo.",
-        "Abertura mais lisa, sem travadas: o mapa só começa a carregar depois da animação (enquanto isso os dois Vrumbis seguem na tela), e o fundo e o brilho agora são animados pela placa de vídeo do celular."
       ]
     }
   ]
