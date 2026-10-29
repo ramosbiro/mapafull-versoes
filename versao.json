@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.0",
-  "codigo": 101,
+  "versao": "0.40.1",
+  "codigo": 102,
   "data": "29/10/2026",
-  "tamanho": 200708512,
-  "sha256": "4910562da485c676c138eee986d1441ad75cb9b5236ce8cd2b1e1679b18de38d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.0/Vrumbi-0.40.0.apk",
+  "tamanho": 200735812,
+  "sha256": "829ba05617360b5238479c041f4187b6d024becce8f787c5ac545abab228f4c4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.1/Vrumbi-0.40.1.apk",
   "notas": [
-    "O tempo de verdade, além do código da previsão: o Vrumbi agora reconhece fumaça de queimadas e poeira (pela qualidade do ar), ar muito seco, sol forte (UV alto), neblina pela visibilidade, tempestade severa (pela energia de tempestade), ventania com chuva, geada, frio intenso, tempo abafado, arco-íris depois da chuva e o nascer e o pôr do sol.",
-    "51 ícones realistas, com versão de dia e de noite onde aparece o sol ou a lua (nada de sol às 20 h). O texto da condição muda junto (ex.: \"Fumaça de queimadas\", \"Ar muito seco\"), no app e no widget.",
-    "O Vrumbi avisa o que fazer: com fumaça, fechar os vidros e ligar o ar em recirculação; com ventania, reduzir a velocidade; com risco de tempestade, não parar embaixo de árvores e placas; com ar seco, beber água."
+    "Ícone de fumaça de queimadas redesenhado: uma coluna de fumaça saindo do fogo, que clareia e se desfaz enquanto sobe, com o sol (ou a lua) apagado atrás."
   ],
   "versoes": [
+    {
+      "versao": "0.40.1",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça de queimadas redesenhado: uma coluna de fumaça saindo do fogo, que clareia e se desfaz enquanto sobe, com o sol (ou a lua) apagado atrás."
+      ],
+      "en": [
+        "Wildfire smoke icon redrawn: a column of smoke rising from the fire, getting lighter and fading as it climbs, with a dimmed sun (or moon) behind it."
+      ],
+      "es": [
+        "Icono de humo de incendios rediseñado: una columna de humo que sale del fuego, se aclara y se deshace al subir, con el sol (o la luna) apagado detrás."
+      ]
+    },
     {
       "versao": "0.40.0",
       "data": "29/10/2026",
@@ -192,31 +203,6 @@
         "La voz ya no repite \"Recalculando\" cuando empiezas la ruta dentro de un edificio o estacionamiento: mientras vas hasta la vía, Vrumbi espera; detenido, nunca recalcula; y entre un recálculo y otro hay que avanzar 50 m (la voz habla como máximo una vez por minuto).",
         "La franja de las flechas de la navegación vuelve a caber en la pantalla (pasaba un poco del borde derecho).",
         "El botón Alertas quedó con el mismo estilo de los demás botones (sin el amarillo), solo con el número de alertas en rojo."
-      ]
-    },
-    {
-      "versao": "0.38.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Widget Clima e relógio no esquema que você mandou: o local com o ícone do Vrumbi, a data, o relógio grande, a umidade, o ícone e a temperatura, a condição, a sensação, a pressão, o vento, a máxima e a mínima, e embaixo as próximas horas (ou os próximos dias).",
-        "Tocar no relógio do widget abre o alarme do celular; na data, o calendário; no resto, o clima do Vrumbi direto na hora em hora.",
-        "Configurações de cada widget (abrem sozinhas ao pôr o widget na tela, e em Configurações > Widgets na tela inicial): cor do fundo com as cores do app ou qualquer outra, barra de opacidade (de fábrica, transparente), cor do texto, tipo e tamanho dos ícones, tamanho e formato do relógio, hora em hora ou por dia, quantos itens, os dados mostrados e o local. A prévia mostra como fica.",
-        "Tela de clima nova, com o menu ☰: Agora, Tempo de hora em hora (temperatura, condição, chuva em mm, umidade, vento com direção, pressão e índice UV, com gráfico), 5 dias, 10 dias, Fases da Lua e Meus locais (abas com os seus lugares salvos).",
-        "Fases da Lua: a lua do dia desenhada, a fase, a iluminação, a idade, a hora em que nasce e se põe, os próximos 5 dias e as datas da próxima lua nova, crescente, cheia e minguante — calculado no aparelho, sem internet."
-      ],
-      "en": [
-        "Clock & weather widget in the layout you sent: the place with the Vrumbi icon, date, big clock, humidity, icon and temperature, condition, feels like, pressure, wind, high and low, and the next hours (or days) below.",
-        "Tap the widget clock to open the phone alarm; the date opens the calendar; anywhere else opens Vrumbi weather straight on the hour by hour.",
-        "Settings for each widget (they open by themselves when you place the widget, and in Settings > Home screen widgets): background color from the app colors or any other, opacity bar (transparent by default), text color, icon type and size, clock size and format, hour by hour or by day, how many items, the data shown and the place. The preview shows how it looks.",
-        "New weather screen with the ☰ menu: Now, Hour-by-hour weather (temperature, condition, rain in mm, humidity, wind with direction, pressure and UV index, with a chart), 5 days, 10 days, Moon phases and My places (tabs with your saved places).",
-        "Moon phases: today's moon drawn, the phase, illumination, age, moonrise and moonset, the next 5 days and the dates of the next new, first quarter, full and last quarter moon — calculated on the device, no internet needed."
-      ],
-      "es": [
-        "Widget Clima y reloj en el esquema que enviaste: el lugar con el icono de Vrumbi, la fecha, el reloj grande, la humedad, el icono y la temperatura, la condición, la sensación, la presión, el viento, la máxima y la mínima, y abajo las próximas horas (o días).",
-        "Tocar el reloj del widget abre la alarma del teléfono; la fecha, el calendario; el resto, el clima de Vrumbi directo en hora por hora.",
-        "Configuración de cada widget (se abre sola al poner el widget en la pantalla, y en Configuración > Widgets en la pantalla de inicio): color de fondo con los colores de la app o cualquier otro, barra de opacidad (de fábrica, transparente), color del texto, tipo y tamaño de los iconos, tamaño y formato del reloj, hora por hora o por día, cuántos elementos, los datos mostrados y el lugar. La vista previa muestra cómo queda.",
-        "Nueva pantalla de clima con el menú ☰: Ahora, Tiempo hora por hora (temperatura, condición, lluvia en mm, humedad, viento con dirección, presión e índice UV, con gráfico), 5 días, 10 días, Fases de la Luna y Mis lugares (pestañas con tus lugares guardados).",
-        "Fases de la Luna: la luna del día dibujada, la fase, la iluminación, la edad, la salida y la puesta, los próximos 5 días y las fechas de la próxima luna nueva, creciente, llena y menguante — calculado en el dispositivo, sin internet."
       ]
     }
   ]
