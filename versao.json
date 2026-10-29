@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.1",
-  "codigo": 91,
+  "versao": "0.38.2",
+  "codigo": 92,
   "data": "29/10/2026",
-  "tamanho": 199348028,
-  "sha256": "b33e649bfdc1f31580f4da2085b5aea9b5a17769ca5fad012c0414afbe8b6f58",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.1/Vrumbi-0.38.1.apk",
+  "tamanho": 199349188,
+  "sha256": "d6e475d79f6491323778e94bf8ed9a10206d925f381e1d84d3e919444a5b6e39",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.2/Vrumbi-0.38.2.apk",
   "notas": [
-    "A voz não fica mais repetindo \"Recalculando\" quando você começa a rota dentro de um prédio ou estacionamento: enquanto você vai até a via, o Vrumbi espera; parado, nunca recalcula; e entre um recálculo e outro é preciso andar 50 m (a voz fala no máximo uma vez por minuto).",
-    "A faixa das setas da navegação voltou a caber na tela (passava um pouco da borda direita).",
-    "O botão Alertas ficou no mesmo padrão dos outros botões (sem o amarelo), só com o número de alertas em vermelho."
+    "Todos os popups agora saem do mesmo jeito: com o X ou arrastando o dedo para o lado. Vale para as perguntas e avisos do Vrumbi no alto, o aviso de radar e o de alerta da comunidade na rota, a pergunta \"ainda está lá?\", os balões e cartões de alertas, a caixa de mensagens e o aviso ao passageiro.",
+    "Um popup do Vrumbi por vez: o \"Continuar a rota?\" espera se já houver outro aviso na tela."
   ],
   "versoes": [
+    {
+      "versao": "0.38.2",
+      "data": "29/10/2026",
+      "itens": [
+        "Todos os popups agora saem do mesmo jeito: com o X ou arrastando o dedo para o lado. Vale para as perguntas e avisos do Vrumbi no alto, o aviso de radar e o de alerta da comunidade na rota, a pergunta \"ainda está lá?\", os balões e cartões de alertas, a caixa de mensagens e o aviso ao passageiro.",
+        "Um popup do Vrumbi por vez: o \"Continuar a rota?\" espera se já houver outro aviso na tela."
+      ],
+      "en": [
+        "All popups now close the same way: with the X or by swiping sideways. This covers the Vrumbi questions and notices at the top, the radar and community alert notices on the route, the \"is it still there?\" question, the alert balloons and cards, the messages inbox and the passenger notice.",
+        "One Vrumbi popup at a time: \"Continue the route?\" waits if another notice is already on the screen."
+      ],
+      "es": [
+        "Todas las ventanas emergentes ahora se cierran igual: con la X o deslizando el dedo hacia el lado. Vale para las preguntas y avisos de Vrumbi arriba, el aviso de radar y el de alerta de la comunidad en la ruta, la pregunta \"¿sigue ahí?\", los globos y tarjetas de alertas, la bandeja de mensajes y el aviso al pasajero.",
+        "Una ventana de Vrumbi a la vez: \"¿Continuar la ruta?\" espera si ya hay otro aviso en la pantalla."
+      ]
+    },
     {
       "versao": "0.38.1",
       "data": "29/10/2026",
@@ -231,22 +246,6 @@
         "Para usarlo como prueba: Mis grabaciones > Exportar como prueba pide la contraseña o la biometría del celular y solo entonces saca una copia para compartir.",
         "Aviso al pasajero: una pantalla con letras grandes que dice que el viaje se graba y que las imágenes quedan protegidas, para mostrar a quien sube al auto.",
         "Mensajes mientras manejas (Ajustes > Mensajes mientras manejas): los mensajes de WhatsApp, Telegram, SMS, Signal y Messenger aparecen en una tarjeta; manejando, Vrumbi los lee en voz alta. Responder solo con respuestas listas, sin escribir: \"Estoy manejando, respondo después\", \"Estoy manejando, llego a las…\" (con la hora de llegada de la ruta), \"Ya estoy llegando\", \"Ok, hablamos después\". No se guarda ningún mensaje."
-      ]
-    },
-    {
-      "versao": "0.30.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Carimbo na gravação da viagem: data, hora e velocidade gravadas em cada quadro do vídeo (embaixo à esquerda), como nas câmeras de painel, e a marca Vrumbi no canto de cima. Fica em pé com o celular em pé ou deitado.",
-        "Opcional: as coordenadas (latitude e longitude) no carimbo, úteis como prova. Liga e desliga em Configurações > Gravação da viagem."
-      ],
-      "en": [
-        "Stamp on trip recordings: date, time and speed recorded on every frame of the video (bottom left), like dashcams, and the Vrumbi mark in the top corner. It stays upright with the phone upright or sideways.",
-        "Optional: the coordinates (latitude and longitude) in the stamp, useful as evidence. Turn it on and off in Settings > Trip recording."
-      ],
-      "es": [
-        "Sello en la grabación del viaje: fecha, hora y velocidad grabadas en cada cuadro del video (abajo a la izquierda), como en las cámaras de tablero, y la marca Vrumbi en la esquina de arriba. Queda derecho con el celular vertical u horizontal.",
-        "Opcional: las coordenadas (latitud y longitud) en el sello, útiles como prueba. Se activa y desactiva en Ajustes > Grabación del viaje."
       ]
     }
   ]
