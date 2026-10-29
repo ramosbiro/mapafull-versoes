@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.32.0",
-  "codigo": 83,
+  "versao": "0.33.0",
+  "codigo": 84,
   "data": "29/10/2026",
-  "tamanho": 199309475,
-  "sha256": "92a05a07767e0a17e9f412cddc49bac705fa1cccbe8c6faba209e2f9f12d86f2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.32.0/Vrumbi-0.32.0.apk",
+  "tamanho": 199314539,
+  "sha256": "d75da9282840ebb3de60d1c07c9a801bfe00b92e09d59e812fca0ea6c332a1cd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.33.0/Vrumbi-0.33.0.apk",
   "notas": [
-    "Visual repaginado: no lugar da faixa grossa embaixo e do lado dos cards, um contorno fino e suave na cor de destaque (de fábrica, o laranja Vrumbi; trocando a cor em Configurações > Aparência, os contornos mudam junto). Vale na tela inicial, no Menu, nas Configurações, nos Ajustes e no mapa completo.",
-    "O que está selecionado ou em uso fica com o contorno um pouco mais grosso (sem o botão mudar de tamanho).",
-    "Modo motorista: se a criptografia de um trecho falhar, o vídeo não é mais apagado; ele é criptografado na próxima gravação."
+    "Chamadas enquanto dirige (Configurações > Mensagens enquanto dirige > Chamadas com botões grandes): quando o celular toca, a tela da navegação mostra quem está ligando e dois botões grandes, Atender (verde) e Recusar (vermelho), ao alcance do polegar. O Vrumbi fala \"Ligação de…\". O cartão some sozinho quando a ligação é atendida, recusada ou acaba.",
+    "Modo motorista: o vídeo protegido numa batida é criptografado mesmo se mudar de pasta no meio, e o que não deu para criptografar é tentado de novo ao abrir o app."
   ],
   "versoes": [
+    {
+      "versao": "0.33.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Chamadas enquanto dirige (Configurações > Mensagens enquanto dirige > Chamadas com botões grandes): quando o celular toca, a tela da navegação mostra quem está ligando e dois botões grandes, Atender (verde) e Recusar (vermelho), ao alcance do polegar. O Vrumbi fala \"Ligação de…\". O cartão some sozinho quando a ligação é atendida, recusada ou acaba.",
+        "Modo motorista: o vídeo protegido numa batida é criptografado mesmo se mudar de pasta no meio, e o que não deu para criptografar é tentado de novo ao abrir o app."
+      ],
+      "en": [
+        "Calls while driving (Settings > Messages while driving > Calls with big buttons): when the phone rings, the navigation screen shows who is calling and two big buttons, Answer (green) and Decline (red), within thumb reach. Vrumbi says \"Call from…\". The card goes away by itself when the call is answered, declined or ends.",
+        "Driver mode: a video protected in a crash is encrypted even if it changes folder midway, and what could not be encrypted is retried when the app opens."
+      ],
+      "es": [
+        "Llamadas mientras manejas (Ajustes > Mensajes mientras manejas > Llamadas con botones grandes): cuando suena el celular, la pantalla de navegación muestra quién llama y dos botones grandes, Contestar (verde) y Rechazar (rojo), al alcance del pulgar. Vrumbi dice \"Llamada de…\". La tarjeta desaparece sola cuando la llamada se contesta, se rechaza o termina.",
+        "Modo conductor: el video protegido en un choque se cifra aunque cambie de carpeta en medio, y lo que no se pudo cifrar se reintenta al abrir la app."
+      ]
+    },
     {
       "versao": "0.32.0",
       "data": "29/10/2026",
@@ -222,25 +237,6 @@
         "En transporte, radares y límites quedan de lado (no estás manejando) y la posición sigue los rieles. Al llegar y salir caminando, el ícono vuelve solo al de siempre.",
         "También se puede elegir en Menú > Ajustes rápidos > Transporte. \"No, estoy manejando\" hace que Vrumbi no pregunte por 2 horas.",
         "Íconos nuevos de tren y metro en Ajustes > Ícono de la posición."
-      ]
-    },
-    {
-      "versao": "0.22.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Permissões do Vrumbi (Configurações): tudo o que o app usa do celular, com verde (liberado) ou vermelho (falta), o Vrumbi explicando para que serve e o botão Liberar, que pede ao Android ou abre a tela certa: localização precisa, GPS ligado, notificações, bateria sem restrição e instalar as atualizações.",
-        "Se faltar algo essencial, o Vrumbi avisa no topo do Menu.",
-        "Na Samsung, o Vrumbi lembra de tirar o app de \"Apps em suspensão\"."
-      ],
-      "en": [
-        "Vrumbi permissions (Settings): everything the app uses on the phone, green (allowed) or red (missing), Vrumbi explaining what it is for and the Allow button, which asks Android or opens the right screen: precise location, GPS on, notifications, unrestricted battery and installing updates.",
-        "If something essential is missing, Vrumbi warns at the top of the Menu.",
-        "On Samsung, Vrumbi reminds you to take the app out of \"Sleeping apps\"."
-      ],
-      "es": [
-        "Permisos de Vrumbi (Ajustes): todo lo que la app usa del celular, en verde (permitido) o rojo (falta), Vrumbi explicando para qué sirve y el botón Permitir, que pide a Android o abre la pantalla correcta: ubicación precisa, GPS activado, notificaciones, batería sin restricción e instalar las actualizaciones.",
-        "Si falta algo esencial, Vrumbi avisa arriba en el Menú.",
-        "En Samsung, Vrumbi recuerda sacar la app de \"Aplicaciones en suspensión\"."
       ]
     }
   ]
