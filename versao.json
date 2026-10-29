@@ -1,19 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.0",
-  "codigo": 90,
+  "versao": "0.38.1",
+  "codigo": 91,
   "data": "29/10/2026",
-  "tamanho": 200674959,
-  "sha256": "17e4789ca6cb50259d1e439201ae4af37099ea75b50c7f9d4064bd04808f5481",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.0/Vrumbi-0.38.0.apk",
+  "tamanho": 199348028,
+  "sha256": "b33e649bfdc1f31580f4da2085b5aea9b5a17769ca5fad012c0414afbe8b6f58",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.1/Vrumbi-0.38.1.apk",
   "notas": [
-    "Widget Clima e relógio no esquema que você mandou: o local com o ícone do Vrumbi, a data, o relógio grande, a umidade, o ícone e a temperatura, a condição, a sensação, a pressão, o vento, a máxima e a mínima, e embaixo as próximas horas (ou os próximos dias).",
-    "Tocar no relógio do widget abre o alarme do celular; na data, o calendário; no resto, o clima do Vrumbi direto na hora em hora.",
-    "Configurações de cada widget (abrem sozinhas ao pôr o widget na tela, e em Configurações > Widgets na tela inicial): cor do fundo com as cores do app ou qualquer outra, barra de opacidade (de fábrica, transparente), cor do texto, tipo e tamanho dos ícones, tamanho e formato do relógio, hora em hora ou por dia, quantos itens, os dados mostrados e o local. A prévia mostra como fica.",
-    "Tela de clima nova, com o menu ☰: Agora, Tempo de hora em hora (temperatura, condição, chuva em mm, umidade, vento com direção, pressão e índice UV, com gráfico), 5 dias, 10 dias, Fases da Lua e Meus locais (abas com os seus lugares salvos).",
-    "Fases da Lua: a lua do dia desenhada, a fase, a iluminação, a idade, a hora em que nasce e se põe, os próximos 5 dias e as datas da próxima lua nova, crescente, cheia e minguante — calculado no aparelho, sem internet."
+    "A voz não fica mais repetindo \"Recalculando\" quando você começa a rota dentro de um prédio ou estacionamento: enquanto você vai até a via, o Vrumbi espera; parado, nunca recalcula; e entre um recálculo e outro é preciso andar 50 m (a voz fala no máximo uma vez por minuto).",
+    "A faixa das setas da navegação voltou a caber na tela (passava um pouco da borda direita).",
+    "O botão Alertas ficou no mesmo padrão dos outros botões (sem o amarelo), só com o número de alertas em vermelho."
   ],
   "versoes": [
+    {
+      "versao": "0.38.1",
+      "data": "29/10/2026",
+      "itens": [
+        "A voz não fica mais repetindo \"Recalculando\" quando você começa a rota dentro de um prédio ou estacionamento: enquanto você vai até a via, o Vrumbi espera; parado, nunca recalcula; e entre um recálculo e outro é preciso andar 50 m (a voz fala no máximo uma vez por minuto).",
+        "A faixa das setas da navegação voltou a caber na tela (passava um pouco da borda direita).",
+        "O botão Alertas ficou no mesmo padrão dos outros botões (sem o amarelo), só com o número de alertas em vermelho."
+      ],
+      "en": [
+        "The voice no longer keeps repeating \"Recalculating\" when you start a route inside a building or parking lot: while you head to the road, Vrumbi waits; when stopped, it never recalculates; and between recalculations you need to move 50 m (the voice speaks at most once a minute).",
+        "The navigation arrows banner fits the screen again (it went slightly past the right edge).",
+        "The Alerts button now follows the same style as the other buttons (no yellow), with just the number of alerts in red."
+      ],
+      "es": [
+        "La voz ya no repite \"Recalculando\" cuando empiezas la ruta dentro de un edificio o estacionamiento: mientras vas hasta la vía, Vrumbi espera; detenido, nunca recalcula; y entre un recálculo y otro hay que avanzar 50 m (la voz habla como máximo una vez por minuto).",
+        "La franja de las flechas de la navegación vuelve a caber en la pantalla (pasaba un poco del borde derecho).",
+        "El botón Alertas quedó con el mismo estilo de los demás botones (sin el amarillo), solo con el número de alertas en rojo."
+      ]
+    },
     {
       "versao": "0.38.0",
       "data": "29/10/2026",
@@ -230,22 +247,6 @@
       "es": [
         "Sello en la grabación del viaje: fecha, hora y velocidad grabadas en cada cuadro del video (abajo a la izquierda), como en las cámaras de tablero, y la marca Vrumbi en la esquina de arriba. Queda derecho con el celular vertical u horizontal.",
         "Opcional: las coordenadas (latitud y longitud) en el sello, útiles como prueba. Se activa y desactiva en Ajustes > Grabación del viaje."
-      ]
-    },
-    {
-      "versao": "0.29.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Gravação da viagem com as duas câmeras ao mesmo tempo: em Configurações > Gravação da viagem > Câmera, \"As duas\" grava a estrada em tela cheia e o interior do carro num quadro no canto, num vídeo só.",
-        "Só nos celulares que gravam as duas câmeras juntas (o Vrumbi confere e mostra a opção apagada nos outros). Se o aparelho recusar na hora, a gravação continua só com a estrada e o Vrumbi avisa."
-      ],
-      "en": [
-        "Trip recording with both cameras at once: in Settings > Trip recording > Camera, \"Both\" records the road full screen and the inside of the car in a small frame in the corner, in a single video.",
-        "Only on phones that can record both cameras together (Vrumbi checks and shows the option greyed out on the others). If the phone refuses at the moment, recording continues with just the road and Vrumbi tells you."
-      ],
-      "es": [
-        "Grabación del viaje con las dos cámaras a la vez: en Ajustes > Grabación del viaje > Cámara, \"Las dos\" graba la carretera a pantalla completa y el interior del auto en un recuadro en la esquina, en un solo video.",
-        "Solo en los celulares que graban las dos cámaras juntas (Vrumbi lo revisa y muestra la opción apagada en los demás). Si el celular se niega en el momento, la grabación sigue solo con la carretera y Vrumbi avisa."
       ]
     }
   ]
