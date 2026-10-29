@@ -1,19 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.36.0",
-  "codigo": 87,
+  "versao": "0.37.0",
+  "codigo": 88,
   "data": "29/10/2026",
-  "tamanho": 199343458,
-  "sha256": "bfc7055f704d9199fef9714c74f83329180a997645ee7ded24530db904eab76d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.36.0/Vrumbi-0.36.0.apk",
+  "tamanho": 200712180,
+  "sha256": "934e017d5adc0ae917b44b833d852317ea7aa20e24ce51da14bb91a12a3d139e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.37.0/Vrumbi-0.37.0.apk",
   "notas": [
-    "Player do seu jeito (botão de janelinha no alto do player): tamanhos prontos Pequeno, Médio e Grande, ou puxe por qualquer borda ou canto para o tamanho que quiser; o vídeo cresce junto.",
-    "Encaixar no canto: o player vira um quadrinho pequeno integrado à tela, com tocar/pausar e anterior/próxima ali mesmo. Ele escolhe sozinho um lugar livre no canto, sem cobrir os botões nem a manobra.",
-    "Arraste o player até a borda da tela e solte: ele encaixa (a borda acende avisando). Segure o encaixado meio segundo e ele se solta e volta a ser popup, já no seu dedo.",
-    "Tela dividida: o vídeo ocupa o alto (celular em pé) ou a esquerda (deitado) e o mapa fica com o resto, com todos os botões. Arraste a divisa para mudar o tamanho. Sem vídeo na tela (música, ou o carro andando), a divisão vira só uma faixa com os controles.",
-    "YouTube com botões próprios embaixo do vídeo: voltar e avançar 10 s, tocar/pausar e parar."
+    "Mensagens sem repetir: cada mensagem aparece uma vez só. A que você já viu e fechou não volta mais (antes, quando chegava mensagem em outra conversa, as antigas reapareciam).",
+    "Caixa de mensagens: o botão Mensagens (com o número de não lidas) guarda as conversas que chegaram. Toque numa para ler e responder; lida no próprio WhatsApp, ela sai do número sozinha.",
+    "O aviso de mensagem nova ficou discreto: uma linha no alto por alguns segundos. Tocar abre a conversa; X ou arrastar para o lado marca como vista. Dá para desligar em Configurações > Mensagens enquanto dirige.",
+    "Responder do seu jeito: respostas prontas, digitar (com o carro parado), Falar (o microfone escuta e vira texto, você confere e envia) e Áudio (grava a sua voz; ao enviar, o app da conversa abre com o áudio pronto para escolher a conversa)."
   ],
   "versoes": [
+    {
+      "versao": "0.37.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Mensagens sem repetir: cada mensagem aparece uma vez só. A que você já viu e fechou não volta mais (antes, quando chegava mensagem em outra conversa, as antigas reapareciam).",
+        "Caixa de mensagens: o botão Mensagens (com o número de não lidas) guarda as conversas que chegaram. Toque numa para ler e responder; lida no próprio WhatsApp, ela sai do número sozinha.",
+        "O aviso de mensagem nova ficou discreto: uma linha no alto por alguns segundos. Tocar abre a conversa; X ou arrastar para o lado marca como vista. Dá para desligar em Configurações > Mensagens enquanto dirige.",
+        "Responder do seu jeito: respostas prontas, digitar (com o carro parado), Falar (o microfone escuta e vira texto, você confere e envia) e Áudio (grava a sua voz; ao enviar, o app da conversa abre com o áudio pronto para escolher a conversa)."
+      ],
+      "en": [
+        "Messages without repeats: each message shows up only once. One you have already seen and closed does not come back (before, when a message arrived in another chat, the old ones popped up again).",
+        "Messages inbox: the Messages button (with the unread count) keeps the chats that arrived. Tap one to read and reply; read it in WhatsApp itself and it leaves the count on its own.",
+        "The new message alert is now discreet: a single line at the top for a few seconds. Tap to open the chat; the X or swiping sideways marks it as seen. It can be turned off in Settings > Messages while driving.",
+        "Reply your way: quick replies, typing (with the car stopped), Speak (the microphone listens and turns it into text, you check and send) and Audio (records your voice; when you send, the chat app opens with the audio ready to pick the chat)."
+      ],
+      "es": [
+        "Mensajes sin repetirse: cada mensaje aparece una sola vez. El que ya viste y cerraste no vuelve (antes, cuando llegaba un mensaje en otra conversación, los antiguos reaparecían).",
+        "Bandeja de mensajes: el botón Mensajes (con el número de no leídos) guarda las conversaciones que llegaron. Toca una para leer y responder; si la lees en el propio WhatsApp, sale del número sola.",
+        "El aviso de mensaje nuevo ahora es discreto: una línea arriba durante unos segundos. Tocar abre la conversación; la X o deslizar hacia el lado la marca como vista. Se puede apagar en Configuración > Mensajes mientras conduces.",
+        "Responde a tu manera: respuestas rápidas, escribir (con el auto detenido), Hablar (el micrófono escucha y lo pasa a texto, revisas y envías) y Audio (graba tu voz; al enviar, la app de la conversación se abre con el audio listo para elegir la conversación)."
+      ]
+    },
     {
       "versao": "0.36.0",
       "data": "29/10/2026",
@@ -221,31 +242,6 @@
         "Vrumbi comenta el tiempo: paraguas cuando va a llover, protector cuando el sol está fuerte, cuidado con niebla, viento y tormenta.",
         "Widgets de clima en la pantalla de inicio: \"Clima\" (ahora, máxima y mínima y los próximos días) y \"Clima y reloj\" (la hora grande con el tiempo al lado). Se actualizan solos cada 30 minutos, incluso con la app cerrada.",
         "Nuevo botón para poner los widgets en la pantalla de inicio desde la app: Android pregunta y los coloca donde haya espacio."
-      ]
-    },
-    {
-      "versao": "0.26.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Gravação da viagem: o Vrumbi grava como uma câmera de painel. Botão Gravar na tela (fica vermelho com o tempo); grava também com a tela apagada e com outro app na frente.",
-        "Câmera traseira (a estrada) ou frontal (o interior do carro), resolução HD, Full HD ou 4K, trechos de 1, 3 ou 5 minutos em ciclo (os mais antigos dão lugar aos novos) e espaço máximo de 2 a 16 GB.",
-        "Numa batida, o sensor do celular protege o trecho (não é apagado); \"Salvar agora\" faz o mesmo à mão, pela tela ou pela notificação.",
-        "Áudio desligado por padrão; ligando o áudio ou a câmera do interior, o Vrumbi lembra de avisar os passageiros. Celular quente demais: a gravação para sozinha.",
-        "Minhas gravações: abrir, compartilhar, salvar na galeria e apagar. Opção de começar a gravar sozinho com a rota."
-      ],
-      "en": [
-        "Trip recording: Vrumbi records like a dashcam. Record button on the screen (it turns red with the time); it also records with the screen off and with another app in front.",
-        "Rear camera (the road) or front camera (inside the car), HD, Full HD or 4K resolution, loop clips of 1, 3 or 5 minutes (the oldest make room for new ones) and maximum storage from 2 to 16 GB.",
-        "In a crash, the phone sensor protects the clip (it is not deleted); \"Save now\" does the same by hand, on the screen or in the notification.",
-        "Audio is off by default; turning on audio or the inside camera, Vrumbi reminds you to tell your passengers. Phone too hot: recording stops by itself.",
-        "My recordings: open, share, save to gallery and delete. Option to start recording automatically with the route."
-      ],
-      "es": [
-        "Grabación del viaje: Vrumbi graba como una cámara de tablero. Botón Grabar en la pantalla (se pone rojo con el tiempo); graba también con la pantalla apagada y con otra app delante.",
-        "Cámara trasera (la carretera) o frontal (el interior del auto), resolución HD, Full HD o 4K, tramos de 1, 3 o 5 minutos en ciclo (los más antiguos dejan lugar a los nuevos) y espacio máximo de 2 a 16 GB.",
-        "En un choque, el sensor del celular protege el tramo (no se borra); \"Guardar ahora\" hace lo mismo a mano, en la pantalla o en la notificación.",
-        "Audio apagado por defecto; al activar el audio o la cámara del interior, Vrumbi recuerda avisar a los pasajeros. Celular demasiado caliente: la grabación se detiene sola.",
-        "Mis grabaciones: abrir, compartir, guardar en la galería y borrar. Opción de empezar a grabar solo con la ruta."
       ]
     }
   ]
