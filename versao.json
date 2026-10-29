@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.3",
-  "codigo": 104,
+  "versao": "0.40.4",
+  "codigo": 105,
   "data": "29/10/2026",
-  "tamanho": 200721504,
-  "sha256": "289b597cd199b7cd1707420895f568be7f8a1a81306cfc07fa20d718e626102f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.3/Vrumbi-0.40.3.apk",
+  "tamanho": 200713504,
+  "sha256": "14715e52a431353983def0c80353809156b2c087f9075d867e20862e40b52258",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.4/Vrumbi-0.40.4.apk",
   "notas": [
-    "Ícone de fumaça: sem chão; a base agora é a própria fumaça, arredondada e inteira dentro do quadro."
+    "Ícone de fumaça: colunas mais finas e mais baixas."
   ],
   "versoes": [
+    {
+      "versao": "0.40.4",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça: colunas mais finas e mais baixas."
+      ],
+      "en": [
+        "Smoke icon: thinner, shorter columns."
+      ],
+      "es": [
+        "Icono de humo: columnas más finas y más bajas."
+      ]
+    },
     {
       "versao": "0.40.3",
       "data": "29/10/2026",
@@ -181,19 +194,6 @@
         "La parte de arriba del reproductor quedó en el estándar: pestañas con contorno fino (la elegida destacada) y los botones redondos de ventana y cerrar en la misma fila.",
         "Tamaño del icono de posición: ahora una barra para arrastrar con el dedo (del 50% al 200%), sin que la pantalla parpadee; cambiar color o icono tampoco parpadea.",
         "Botón de sonido en silencio: rojo con contorno fino (sin la franja gruesa antigua). Avisos de radar, clima y comunidad y las tarjetas de configuración también con contorno fino."
-      ]
-    },
-    {
-      "versao": "0.38.3",
-      "data": "29/10/2026",
-      "itens": [
-        "Todos os cards e botões com o mesmo contorno fino na cor de destaque (o Transporte desligado, o Mais ajustes e outros estavam quase sem borda); a opção de rota escolhida fica com 2 px."
-      ],
-      "en": [
-        "All cards and buttons now share the same thin outline in the accent color (Transport turned off, More settings and others had almost no border); the chosen route option has a 2 px outline."
-      ],
-      "es": [
-        "Todas las tarjetas y botones con el mismo contorno fino en el color de acento (Transporte apagado, Más ajustes y otros casi no tenían borde); la opción de ruta elegida queda con 2 px."
       ]
     }
   ]
