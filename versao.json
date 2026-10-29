@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.19.1",
-  "codigo": 66,
+  "versao": "0.19.2",
+  "codigo": 67,
   "data": "29/10/2026",
-  "tamanho": 197272603,
-  "sha256": "2a2b3a798236dad662b543d495fb02709abb229868264d3a8d167ac33325a3dd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.1/Vrumbi-0.19.1.apk",
+  "tamanho": 197274227,
+  "sha256": "a0e9f691cf603ff68168875bb17b40e834d8bc413f56e439d305185fa215794e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.19.2/Vrumbi-0.19.2.apk",
   "notas": [
-    "Busca: depois de tocar em Adicionar número, a rua escolhida não repete o botão; é só digitar o número."
+    "O aviso do INMET e da Defesa Civil na tela agora fecha no X ou arrastando para o lado, e não volta enquanto aquele aviso valer.",
+    "Para ver de novo: o botão Alertas, embaixo de Ajustes, aparece enquanto houver aviso valendo onde você está, com o número de avisos e a cor do mais grave, e abre todos eles. Também está no menu, em Alertas e notícias.",
+    "O aviso de abertura do Vrumbi aparece uma vez só para cada alerta."
   ],
   "versoes": [
+    {
+      "versao": "0.19.2",
+      "data": "29/10/2026",
+      "itens": [
+        "O aviso do INMET e da Defesa Civil na tela agora fecha no X ou arrastando para o lado, e não volta enquanto aquele aviso valer.",
+        "Para ver de novo: o botão Alertas, embaixo de Ajustes, aparece enquanto houver aviso valendo onde você está, com o número de avisos e a cor do mais grave, e abre todos eles. Também está no menu, em Alertas e notícias.",
+        "O aviso de abertura do Vrumbi aparece uma vez só para cada alerta."
+      ],
+      "en": [
+        "The INMET and civil defense alert on the screen now closes with the X or by swiping it aside, and stays away while that alert is valid.",
+        "To see it again: the Alerts button, below Options, shows up while there is an alert where you are, with the number of alerts and the color of the most serious one, and opens all of them. It is also in the menu, under Alerts and news.",
+        "Vrumbi's opening alert shows only once per alert."
+      ],
+      "es": [
+        "El aviso del INMET y de Defensa Civil en la pantalla ahora se cierra con la X o deslizándolo a un lado, y no vuelve mientras ese aviso valga.",
+        "Para verlo de nuevo: el botón Alertas, debajo de Ajustes, aparece mientras haya un aviso donde estás, con el número de avisos y el color del más grave, y abre todos. También está en el menú, en Alertas y noticias.",
+        "El aviso de apertura de Vrumbi aparece una sola vez por alerta."
+      ]
+    },
     {
       "versao": "0.19.1",
       "data": "29/10/2026",
@@ -212,18 +233,6 @@
       "itens": [
         "O Vrumbi agora explica as coisas: onde antes havia um texto de explicação, é o personagem que fala, num balão (Ajustes rápidos, Favoritos, busca, Camadas, Avisar, Aparência, GPS e bússola, Tela do carro).",
         "Interface e mapa: a explicação fixa saiu. Ao pôr um deles no Auto, o Vrumbi conta na hora como funciona (claro das 6h às 18h, escuro das 18h às 6h e nos túneis) e, se o outro estiver fixo, pergunta se você quer os dois no Auto."
-      ]
-    },
-    {
-      "versao": "0.13.1",
-      "data": "28/10/2026",
-      "itens": [
-        "Interface e mapa agora têm escolhas separadas, cada um com Auto, Claro (Dia) ou Escuro (Noite): tudo claro, tudo escuro ou, por exemplo, a interface escura com o mapa no automático. Uma não muda a outra; só com as duas no Auto elas mudam juntas. Fica em Ajustes rápidos e em Configurações > Aparência, com a explicação na tela.",
-        "Ao pôr uma delas no Auto com a outra fixa, o Vrumbi pergunta se você quer a outra no Auto também (\"Sim, os dois no Auto\" ou \"Não\").",
-        "Automático por horário: claro das 6h às 18h e escuro das 18h às 6h. E dentro de túneis o que estiver no Auto escurece na hora, voltando ao sair (passar POR CIMA de um túnel não conta).",
-        "A faixa da manobra (\"Vire à esquerda...\") agora segue a interface: clara no tema claro, escura no escuro.",
-        "Correção: quando o tema trocava no meio de uma rota (por exemplo, às 18h), a linha azul da rota sumia do mapa. Agora ela continua.",
-        "No mapa completo, Dia/Noite/Automático das Camadas é a mesma escolha \"Mapa\" da Aparência."
       ]
     }
   ]
