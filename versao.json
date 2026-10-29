@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.4",
-  "codigo": 94,
+  "versao": "0.38.5",
+  "codigo": 95,
   "data": "29/10/2026",
-  "tamanho": 199356664,
-  "sha256": "3b0ad577ef0180536a4601e10663af3ae2a4a199bd67daf5fc9fdc49c88a4d17",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.4/Vrumbi-0.38.4.apk",
+  "tamanho": 199357996,
+  "sha256": "2cfbe7ed6b9441daaf55a859e83949e4c420a9b7952c52fb0ea9a0b647566bcf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.5/Vrumbi-0.38.5.apk",
   "notas": [
-    "YouTube por dentro, sem link: no app do YouTube, toque em Compartilhar > Vrumbi e o vídeo toca no player do Vrumbi, com imagem. A aba YouTube tem \"Abrir o YouTube\" e a lista dos vídeos vistos aqui. Tocando pelo app do YouTube (aba Apps) vem só o som — o Android não deixa trazer o vídeo de outro app —, e o Vrumbi avisa o caminho.",
-    "O alto do player ficou no padrão: abas com contorno fino (a escolhida em destaque) e os botões de janela e fechar redondos na mesma linha.",
-    "Tamanho do ícone da posição: agora uma barra para arrastar com o dedo (de 50% a 200%), sem a tela piscar; trocar cor ou ícone também não pisca mais.",
-    "Botão Som no mudo: vermelho com contorno fino (sem a faixa grossa antiga). Avisos de radar, clima e comunidade e os cards das configurações também com o contorno fino."
+    "O botão Música virou Mídia, com o ícone de play: ele abre o player de música dos seus apps, vídeos do celular e YouTube."
   ],
   "versoes": [
+    {
+      "versao": "0.38.5",
+      "data": "29/10/2026",
+      "itens": [
+        "O botão Música virou Mídia, com o ícone de play: ele abre o player de música dos seus apps, vídeos do celular e YouTube."
+      ],
+      "en": [
+        "The Music button is now Media, with a play icon: it opens the player for music from your apps, phone videos and YouTube."
+      ],
+      "es": [
+        "El botón Música pasó a llamarse Multimedia, con el icono de reproducir: abre el reproductor de la música de tus apps, los videos del teléfono y YouTube."
+      ]
+    },
     {
       "versao": "0.38.4",
       "data": "29/10/2026",
@@ -229,25 +239,6 @@
       "es": [
         "Llamadas mientras manejas (Ajustes > Mensajes mientras manejas > Llamadas con botones grandes): cuando suena el celular, la pantalla de navegación muestra quién llama y dos botones grandes, Contestar (verde) y Rechazar (rojo), al alcance del pulgar. Vrumbi dice \"Llamada de…\". La tarjeta desaparece sola cuando la llamada se contesta, se rechaza o termina.",
         "Modo conductor: el video protegido en un choque se cifra aunque cambie de carpeta en medio, y lo que no se pudo cifrar se reintenta al abrir la app."
-      ]
-    },
-    {
-      "versao": "0.32.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Visual repaginado: no lugar da faixa grossa embaixo e do lado dos cards, um contorno fino e suave na cor de destaque (de fábrica, o laranja Vrumbi; trocando a cor em Configurações > Aparência, os contornos mudam junto). Vale na tela inicial, no Menu, nas Configurações, nos Ajustes e no mapa completo.",
-        "O que está selecionado ou em uso fica com o contorno um pouco mais grosso (sem o botão mudar de tamanho).",
-        "Modo motorista: se a criptografia de um trecho falhar, o vídeo não é mais apagado; ele é criptografado na próxima gravação."
-      ],
-      "en": [
-        "Refreshed look: instead of the thick stripe under and beside the cards, a thin, soft outline in the accent color (Vrumbi orange by default; changing the color in Settings > Appearance changes the outlines too). On the home screen, Menu, Settings, Quick settings and the full map.",
-        "What is selected or in use gets a slightly thicker outline (without the button changing size).",
-        "Driver mode: if encrypting a clip fails, the video is no longer deleted; it is encrypted on the next recording."
-      ],
-      "es": [
-        "Aspecto renovado: en lugar de la franja gruesa abajo y al lado de las tarjetas, un contorno fino y suave en el color de destaque (el naranja Vrumbi de fábrica; al cambiar el color en Ajustes > Apariencia, los contornos cambian también). En la pantalla de inicio, el Menú, Ajustes, Ajustes rápidos y el mapa completo.",
-        "Lo que está seleccionado o en uso tiene el contorno un poco más grueso (sin que el botón cambie de tamaño).",
-        "Modo conductor: si falla el cifrado de un tramo, el video ya no se borra; se cifra en la próxima grabación."
       ]
     }
   ]
