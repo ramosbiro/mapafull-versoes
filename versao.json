@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.38.6",
-  "codigo": 96,
+  "versao": "0.38.7",
+  "codigo": 97,
   "data": "29/10/2026",
-  "tamanho": 199366804,
-  "sha256": "09ebf818e9abd2d30b27e3d1dc223ef71506e815bdba5efe09ed011957cdd478",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.6/Vrumbi-0.38.6.apk",
+  "tamanho": 199367032,
+  "sha256": "b0fbb7a4c55689826ae84b11920f6392b1081d7c843e056ef1137a5e8550edfb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.38.7/Vrumbi-0.38.7.apk",
   "notas": [
-    "Widget: agora você configura antes e toca em \"Pôr na tela\" — ele entra na tela inicial já do jeito que você deixou, e o Vrumbi avisa quando está pronto. Na tela inicial, toque e segure o widget e arraste as bordas para mudar o tamanho: menor, ele mostra menos coisas.",
-    "A lista \"Na sua tela\" não mostra mais widgets que não chegaram à tela; tocar no lápis do widget na tela inicial abre a configuração dele.",
-    "Prévias do widget com o céu certo: lua e nuvens nas horas da noite (antes aparecia sol às 20 h).",
-    "Os ícones dos botões Mídia e Mensagens na cor do sistema, como os outros."
+    "Widget Clima e relógio: a máxima e a mínima saíram do canto de cima e entraram na lista da direita, logo abaixo da condição do tempo."
   ],
   "versoes": [
+    {
+      "versao": "0.38.7",
+      "data": "29/10/2026",
+      "itens": [
+        "Widget Clima e relógio: a máxima e a mínima saíram do canto de cima e entraram na lista da direita, logo abaixo da condição do tempo."
+      ],
+      "en": [
+        "Clock & weather widget: the high and low moved from the top corner into the list on the right, right under the weather condition."
+      ],
+      "es": [
+        "Widget Clima y reloj: la máxima y la mínima salieron de la esquina de arriba y pasaron a la lista de la derecha, justo debajo de la condición del tiempo."
+      ]
+    },
     {
       "versao": "0.38.6",
       "data": "29/10/2026",
@@ -223,31 +233,6 @@
         "Llamadas: un solo aviso. De fábrica queda el aviso propio de Android (Contestar/Rechazar) y Vrumbi dice quién llama. Otra app no puede ocultar el aviso de Android, por eso la tarjeta de Vrumbi ahora es opcional: Ajustes > Mensajes mientras manejas > Tarjeta de Vrumbi también.",
         "La tarjeta de llamada de Vrumbi es ahora sutil: una sola línea abajo, lejos del aviso de Android, con X para cerrar o deslizando hacia el lado. Con el celular acostado, va a la esquina de abajo junto a los botones y la calle se aparta mientras suena.",
         "La tarjeta de mensaje también se cierra deslizando hacia el lado y, con el celular acostado, queda en la esquina derecha."
-      ]
-    },
-    {
-      "versao": "0.34.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Mini player com três abas: Apps (o que toca no seu app de música), Arquivos e YouTube. Toque em Música para abrir; arraste para qualquer canto da tela.",
-        "Arquivos: escolha músicas e vídeos do celular, monte uma fila e use tocar/pausar, parar, voltar e avançar 10 s, anterior/próxima e a barra para ir a qualquer ponto. Cada arquivo continua de onde parou. Fechando o player, o som continua; o botão Música traz o player de volta.",
-        "YouTube: cole o link do vídeo e ele toca dentro do player. Por segurança, vídeo na tela só com o carro parado: andando, o vídeo do celular vira só som e o YouTube pausa. Se o dono do vídeo não deixar tocar fora do YouTube, o Vrumbi oferece abrir no app do YouTube.",
-        "Um de cada vez: dar play no YouTube pausa o arquivo, e o arquivo pausa o YouTube.",
-        "Chamadas com botões grandes: só aparecem as do app de telefone do celular e de apps de chamada conhecidos."
-      ],
-      "en": [
-        "Mini player with three tabs: Apps (what plays in your music app), Files and YouTube. Tap Music to open it; drag it to any corner of the screen.",
-        "Files: pick music and videos from your phone, build a queue and use play/pause, stop, back and forward 10 s, previous/next and the bar to jump anywhere. Each file resumes where it stopped. Closing the player keeps the sound; the Music button brings the player back.",
-        "YouTube: paste the video link and it plays inside the player. For safety, video on screen only with the car stopped: while driving, phone videos become sound only and YouTube pauses. If the video owner does not allow playing outside YouTube, Vrumbi offers to open it in the YouTube app.",
-        "One at a time: playing YouTube pauses the file, and the file pauses YouTube.",
-        "Calls with big buttons: only calls from the phone app and known calling apps appear."
-      ],
-      "es": [
-        "Mini reproductor con tres pestañas: Apps (lo que suena en tu app de música), Archivos y YouTube. Toca Música para abrirlo; arrástralo a cualquier esquina de la pantalla.",
-        "Archivos: elige música y videos del celular, arma una lista y usa reproducir/pausar, detener, retroceder y avanzar 10 s, anterior/siguiente y la barra para ir a cualquier punto. Cada archivo sigue desde donde quedó. Al cerrar el reproductor, el sonido sigue; el botón Música lo trae de vuelta.",
-        "YouTube: pega el enlace del video y se reproduce dentro del reproductor. Por seguridad, video en pantalla solo con el auto detenido: en marcha, los videos del celular quedan solo con sonido y YouTube se pausa. Si el dueño del video no permite reproducirlo fuera de YouTube, Vrumbi ofrece abrirlo en la app de YouTube.",
-        "Uno a la vez: reproducir YouTube pausa el archivo, y el archivo pausa YouTube.",
-        "Llamadas con botones grandes: solo aparecen las de la app de teléfono y de apps de llamadas conocidas."
       ]
     }
   ]
