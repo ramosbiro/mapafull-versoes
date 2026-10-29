@@ -1,18 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.25.0",
-  "codigo": 75,
+  "versao": "0.26.0",
+  "codigo": 76,
   "data": "29/10/2026",
-  "tamanho": 197509779,
-  "sha256": "58f5511a63a336fa2574657f31c59d798a6da5e21d2ed9c5fe59f9b5508f5998",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.25.0/Vrumbi-0.25.0.apk",
+  "tamanho": 198590668,
+  "sha256": "2fc11e1318d1815756876ab2e1e5a3777b094fb282d1349738ab80ad8466fc26",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.26.0/Vrumbi-0.26.0.apk",
   "notas": [
-    "Música: o botão Música na tela abre um mini player que controla a música de qualquer app (YouTube Music, Spotify, Deezer, rádio...): capa, música, artista, tocar/pausar, anterior, próxima, voltar e avançar 10 s, parar e a barra para posicionar a música.",
-    "O mini player é discreto e dá para arrastar para qualquer lugar da tela; ele fica onde você deixou. Com música tocando, o botão mostra as barrinhas. Na rota, abre pelo \"…\" da navegação.",
-    "Na primeira vez, o Vrumbi pede o Acesso às notificações (é por ele que o Android deixa controlar a música de outros apps). Nada tocando: aparecem os seus apps de música para abrir.",
-    "Quando o app de música recusa (ex.: o YouTube sem Premium não toca em segundo plano), o Vrumbi mostra o motivo e o botão para abrir o app."
+    "Gravação da viagem: o Vrumbi grava como uma câmera de painel. Botão Gravar na tela (fica vermelho com o tempo); grava também com a tela apagada e com outro app na frente.",
+    "Câmera traseira (a estrada) ou frontal (o interior do carro), resolução HD, Full HD ou 4K, trechos de 1, 3 ou 5 minutos em ciclo (os mais antigos dão lugar aos novos) e espaço máximo de 2 a 16 GB.",
+    "Numa batida, o sensor do celular protege o trecho (não é apagado); \"Salvar agora\" faz o mesmo à mão, pela tela ou pela notificação.",
+    "Áudio desligado por padrão; ligando o áudio ou a câmera do interior, o Vrumbi lembra de avisar os passageiros. Celular quente demais: a gravação para sozinha.",
+    "Minhas gravações: abrir, compartilhar, salvar na galeria e apagar. Opção de começar a gravar sozinho com a rota."
   ],
   "versoes": [
+    {
+      "versao": "0.26.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Gravação da viagem: o Vrumbi grava como uma câmera de painel. Botão Gravar na tela (fica vermelho com o tempo); grava também com a tela apagada e com outro app na frente.",
+        "Câmera traseira (a estrada) ou frontal (o interior do carro), resolução HD, Full HD ou 4K, trechos de 1, 3 ou 5 minutos em ciclo (os mais antigos dão lugar aos novos) e espaço máximo de 2 a 16 GB.",
+        "Numa batida, o sensor do celular protege o trecho (não é apagado); \"Salvar agora\" faz o mesmo à mão, pela tela ou pela notificação.",
+        "Áudio desligado por padrão; ligando o áudio ou a câmera do interior, o Vrumbi lembra de avisar os passageiros. Celular quente demais: a gravação para sozinha.",
+        "Minhas gravações: abrir, compartilhar, salvar na galeria e apagar. Opção de começar a gravar sozinho com a rota."
+      ],
+      "en": [
+        "Trip recording: Vrumbi records like a dashcam. Record button on the screen (it turns red with the time); it also records with the screen off and with another app in front.",
+        "Rear camera (the road) or front camera (inside the car), HD, Full HD or 4K resolution, loop clips of 1, 3 or 5 minutes (the oldest make room for new ones) and maximum storage from 2 to 16 GB.",
+        "In a crash, the phone sensor protects the clip (it is not deleted); \"Save now\" does the same by hand, on the screen or in the notification.",
+        "Audio is off by default; turning on audio or the inside camera, Vrumbi reminds you to tell your passengers. Phone too hot: recording stops by itself.",
+        "My recordings: open, share, save to gallery and delete. Option to start recording automatically with the route."
+      ],
+      "es": [
+        "Grabación del viaje: Vrumbi graba como una cámara de tablero. Botón Grabar en la pantalla (se pone rojo con el tiempo); graba también con la pantalla apagada y con otra app delante.",
+        "Cámara trasera (la carretera) o frontal (el interior del auto), resolución HD, Full HD o 4K, tramos de 1, 3 o 5 minutos en ciclo (los más antiguos dejan lugar a los nuevos) y espacio máximo de 2 a 16 GB.",
+        "En un choque, el sensor del celular protege el tramo (no se borra); \"Guardar ahora\" hace lo mismo a mano, en la pantalla o en la notificación.",
+        "Audio apagado por defecto; al activar el audio o la cámara del interior, Vrumbi recuerda avisar a los pasajeros. Celular demasiado caliente: la grabación se detiene sola.",
+        "Mis grabaciones: abrir, compartir, guardar en la galería y borrar. Opción de empezar a grabar solo con la ruta."
+      ]
+    },
     {
       "versao": "0.25.0",
       "data": "29/10/2026",
@@ -241,25 +267,6 @@
         "Mis lugares: cada lugar en su tarjeta y la opción Editar mis lugares (título, dirección, tipo, ver en el mapa, borrar).",
         "Evitar en la ruta con más opciones: tipo de camino (normal, solo carreteras y autopistas, senderos y tierra), ruta más corta, esquivar vías cerradas avisadas y ruta de camión con altura, ancho, longitud, peso y carga peligrosa. La moto tiene ruta propia.",
         "Configuración en tarjetas, espacio entre los botones de Ajustes rápidos y el botón Favoritos del mismo tamaño que los demás."
-      ]
-    },
-    {
-      "versao": "0.18.0",
-      "data": "29/10/2026",
-      "itens": [
-        "O Vrumbi agora é um carrinho! Mesmos olhos e o mesmo sorriso, com retrovisores e rodas. Mudou o ícone do app, a abertura, as figurinhas e o personagem que explica as coisas.",
-        "Ele se mexe junto com o que diz: pula de alegria quando atualiza, quica na suspensão, inclina na curva quando recalcula e treme no arranque.",
-        "No nome, um mini carrinho é o pingo do i."
-      ],
-      "en": [
-        "Vrumbi is now a little car! Same eyes and smile, with mirrors and wheels. The app icon, the opening, the stickers and the character that explains things all changed.",
-        "It moves along with what it says: jumps for joy when it updates, bounces on its suspension, leans into the curve when rerouting and shakes at take-off.",
-        "In the name, a mini car is the dot of the i."
-      ],
-      "es": [
-        "¡Vrumbi ahora es un autito! Los mismos ojos y la misma sonrisa, con retrovisores y ruedas. Cambiaron el ícono de la app, la apertura, los stickers y el personaje que explica las cosas.",
-        "Se mueve con lo que dice: salta de alegría al actualizar, rebota en la suspensión, se inclina en la curva al recalcular y tiembla al arrancar.",
-        "En el nombre, un mini autito es el punto de la i."
       ]
     }
   ]
