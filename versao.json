@@ -1,17 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.21.0",
-  "codigo": 71,
+  "versao": "0.22.0",
+  "codigo": 72,
   "data": "29/10/2026",
-  "tamanho": 197324143,
-  "sha256": "76feb0d636789e4809f937581889b3b2c0ea5e2ed5b641fc2093f33e446644fd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.21.0/Vrumbi-0.21.0.apk",
+  "tamanho": 197349443,
+  "sha256": "5ce77a0616a08cc7f6556bd7b5747347786be7c06161316002d1bac5b95cd289",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.22.0/Vrumbi-0.22.0.apk",
   "notas": [
-    "Avisos no relógio: antes de cada curva chega ao smartwatch um aviso curto com a seta e a distância (\"→ 200 m\") e a instrução, e de novo na hora da curva. Radares, alertas da comunidade e avisos do INMET também. No relógio há os botões Repetir e Mudo.",
-    "No celular esse aviso é silencioso (a voz já fala) e some sozinho. Liga e desliga em Menu > Ajustes rápidos > Relógio ou em Configurações > Navegação > Avisos da navegação.",
-    "Galaxy Watch e outros Wear OS: no app Galaxy Wearable, em Notificações, ative mostrar as notificações também com o celular em uso (o Vrumbi explica ao ligar a opção)."
+    "Permissões do Vrumbi (Configurações): tudo o que o app usa do celular, com verde (liberado) ou vermelho (falta), o Vrumbi explicando para que serve e o botão Liberar, que pede ao Android ou abre a tela certa: localização precisa, GPS ligado, notificações, bateria sem restrição e instalar as atualizações.",
+    "Se faltar algo essencial, o Vrumbi avisa no topo do Menu.",
+    "Na Samsung, o Vrumbi lembra de tirar o app de \"Apps em suspensão\"."
   ],
   "versoes": [
+    {
+      "versao": "0.22.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Permissões do Vrumbi (Configurações): tudo o que o app usa do celular, com verde (liberado) ou vermelho (falta), o Vrumbi explicando para que serve e o botão Liberar, que pede ao Android ou abre a tela certa: localização precisa, GPS ligado, notificações, bateria sem restrição e instalar as atualizações.",
+        "Se faltar algo essencial, o Vrumbi avisa no topo do Menu.",
+        "Na Samsung, o Vrumbi lembra de tirar o app de \"Apps em suspensão\"."
+      ],
+      "en": [
+        "Vrumbi permissions (Settings): everything the app uses on the phone, green (allowed) or red (missing), Vrumbi explaining what it is for and the Allow button, which asks Android or opens the right screen: precise location, GPS on, notifications, unrestricted battery and installing updates.",
+        "If something essential is missing, Vrumbi warns at the top of the Menu.",
+        "On Samsung, Vrumbi reminds you to take the app out of \"Sleeping apps\"."
+      ],
+      "es": [
+        "Permisos de Vrumbi (Ajustes): todo lo que la app usa del celular, en verde (permitido) o rojo (falta), Vrumbi explicando para qué sirve y el botón Permitir, que pide a Android o abre la pantalla correcta: ubicación precisa, GPS activado, notificaciones, batería sin restricción e instalar las actualizaciones.",
+        "Si falta algo esencial, Vrumbi avisa arriba en el Menú.",
+        "En Samsung, Vrumbi recuerda sacar la app de \"Aplicaciones en suspensión\"."
+      ]
+    },
     {
       "versao": "0.21.0",
       "data": "29/10/2026",
@@ -231,37 +250,6 @@
         "Navegación en segundo plano: durante la ruta, una notificación fija muestra la próxima maniobra con la flecha (también en la barra de estado), la distancia, la calle y la llegada, con el botón Terminar. Funciona con la pantalla apagada o con otra app delante: el GPS y la voz siguen guiando.",
         "En la primera ruta, Android puede pedir el permiso de notificaciones: permítelo para ver la navegación fija.",
         "El aviso de actualización ahora aparece completo en el idioma elegido."
-      ]
-    },
-    {
-      "versao": "0.15.0",
-      "data": "28/10/2026",
-      "itens": [
-        "Orientação de faixas: chegando a um cruzamento, a faixa da manobra mostra as faixas da via e acende as que servem para o seu caminho (onde o mapa tem essa informação).",
-        "Zoom automático na manobra: perto de uma curva o mapa aproxima e mostra o cruzamento, depois volta sozinho.",
-        "Voz mais esperta: avisa mais cedo quanto mais rápido você estiver (em rodovia, a 1 km e a 400 m); toque na faixa da manobra para repetir a instrução; e em Ajustes há \"Só o essencial\", que fala menos.",
-        "Chegada: o Vrumbi diz de que lado da rua fica o destino (\"O destino fica à sua direita\").",
-        "Alerta de velocidade mais justo: só avisa depois de alguns segundos acima do limite e repete a cada 2 minutos, sem ficar falando.",
-        "Continuar a rota: se o app fechar no meio do caminho, ao abrir o Vrumbi pergunta se você quer continuar.",
-        "Onde estacionei: ao chegar de carro, a posição fica guardada em Favoritos (\"Meu carro\"), e dá para marcar à mão também."
-      ],
-      "en": [
-        "Lane guidance: approaching an intersection, the maneuver banner shows the road lanes and highlights the ones for your route (where the map has this data).",
-        "Automatic zoom at maneuvers: near a turn the map zooms in to show the intersection, then goes back by itself.",
-        "Smarter voice: it warns earlier the faster you go (on highways, at 1 km and 400 m); tap the maneuver banner to repeat the instruction; and in Options there is \"Essentials only\", which talks less.",
-        "Arrival: Vrumbi tells you which side of the street the destination is on (\"Your destination is on your right\").",
-        "Fairer speed alert: it only warns after a few seconds over the limit and repeats every 2 minutes.",
-        "Continue the route: if the app closes mid-trip, when you open it Vrumbi asks if you want to continue.",
-        "Where I parked: when you arrive by car, the position is saved in Favorites (\"My car\"), and you can mark it by hand too."
-      ],
-      "es": [
-        "Guía de carriles: al acercarte a un cruce, la franja de la maniobra muestra los carriles de la vía y resalta los que sirven para tu ruta (donde el mapa tiene ese dato).",
-        "Zoom automático en la maniobra: cerca de una curva el mapa se acerca y muestra el cruce, y luego vuelve solo.",
-        "Voz más inteligente: avisa antes cuanto más rápido vas (en carretera, a 1 km y a 400 m); toca la franja de la maniobra para repetir la instrucción; y en Ajustes está \"Solo lo esencial\", que habla menos.",
-        "Llegada: Vrumbi dice de qué lado de la calle está el destino (\"El destino está a tu derecha\").",
-        "Alerta de velocidad más justa: solo avisa después de unos segundos por encima del límite y repite cada 2 minutos.",
-        "Continuar la ruta: si la app se cierra a mitad del camino, al abrirla Vrumbi pregunta si quieres continuar.",
-        "Dónde estacioné: al llegar en coche, la posición queda guardada en Favoritos (\"Mi coche\"), y también puedes marcarla a mano."
       ]
     }
   ]
