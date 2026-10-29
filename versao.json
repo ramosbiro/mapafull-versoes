@@ -1,17 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.35.0",
-  "codigo": 86,
+  "versao": "0.36.0",
+  "codigo": 87,
   "data": "29/10/2026",
-  "tamanho": 199335602,
-  "sha256": "96dcf6e5c92cdcb22f91f8a8f284f48837a6732fc3b48c977dbb5c23f7e7365e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.35.0/Vrumbi-0.35.0.apk",
+  "tamanho": 199343458,
+  "sha256": "bfc7055f704d9199fef9714c74f83329180a997645ee7ded24530db904eab76d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.36.0/Vrumbi-0.36.0.apk",
   "notas": [
-    "Chamadas: um aviso só. De fábrica fica o aviso do próprio Android (Atender/Recusar) e o Vrumbi fala quem está ligando. O aviso do Android não pode ser escondido por outro app, por isso o cartão do Vrumbi agora é opcional: Configurações > Mensagens enquanto dirige > Cartão do Vrumbi também.",
-    "O cartão de chamada do Vrumbi ficou sutil: uma linha só embaixo, longe do aviso do Android, com X para fechar ou arrastando para o lado. Com o celular deitado, ele vai para o canto de baixo, ao lado dos botões, e a rua sai da frente enquanto toca.",
-    "O cartão de mensagem também fecha arrastando para o lado e, com o celular deitado, fica no canto da direita."
+    "Player do seu jeito (botão de janelinha no alto do player): tamanhos prontos Pequeno, Médio e Grande, ou puxe por qualquer borda ou canto para o tamanho que quiser; o vídeo cresce junto.",
+    "Encaixar no canto: o player vira um quadrinho pequeno integrado à tela, com tocar/pausar e anterior/próxima ali mesmo. Ele escolhe sozinho um lugar livre no canto, sem cobrir os botões nem a manobra.",
+    "Arraste o player até a borda da tela e solte: ele encaixa (a borda acende avisando). Segure o encaixado meio segundo e ele se solta e volta a ser popup, já no seu dedo.",
+    "Tela dividida: o vídeo ocupa o alto (celular em pé) ou a esquerda (deitado) e o mapa fica com o resto, com todos os botões. Arraste a divisa para mudar o tamanho. Sem vídeo na tela (música, ou o carro andando), a divisão vira só uma faixa com os controles.",
+    "YouTube com botões próprios embaixo do vídeo: voltar e avançar 10 s, tocar/pausar e parar."
   ],
   "versoes": [
+    {
+      "versao": "0.36.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Player do seu jeito (botão de janelinha no alto do player): tamanhos prontos Pequeno, Médio e Grande, ou puxe por qualquer borda ou canto para o tamanho que quiser; o vídeo cresce junto.",
+        "Encaixar no canto: o player vira um quadrinho pequeno integrado à tela, com tocar/pausar e anterior/próxima ali mesmo. Ele escolhe sozinho um lugar livre no canto, sem cobrir os botões nem a manobra.",
+        "Arraste o player até a borda da tela e solte: ele encaixa (a borda acende avisando). Segure o encaixado meio segundo e ele se solta e volta a ser popup, já no seu dedo.",
+        "Tela dividida: o vídeo ocupa o alto (celular em pé) ou a esquerda (deitado) e o mapa fica com o resto, com todos os botões. Arraste a divisa para mudar o tamanho. Sem vídeo na tela (música, ou o carro andando), a divisão vira só uma faixa com os controles.",
+        "YouTube com botões próprios embaixo do vídeo: voltar e avançar 10 s, tocar/pausar e parar."
+      ],
+      "en": [
+        "Your player, your way (window button at the top of the player): ready sizes Small, Medium and Large, or pull any edge or corner to the size you want; the video grows with it.",
+        "Dock in a corner: the player becomes a small tile built into the screen, with play/pause and previous/next right there. It finds a free spot in the corner by itself, without covering the buttons or the next turn.",
+        "Drag the player to the edge of the screen and let go: it docks (the edge lights up to show it). Hold the docked one for half a second and it comes loose as a popup again, right under your finger.",
+        "Split screen: the video takes the top (phone upright) or the left (sideways) and the map gets the rest, with all its buttons. Drag the divider to change the size. With no video on screen (music, or the car moving), the split becomes just a strip with the controls.",
+        "YouTube with its own buttons under the video: back and forward 10 s, play/pause and stop."
+      ],
+      "es": [
+        "El reproductor a tu manera (botón de ventanita arriba del reproductor): tamaños listos Pequeño, Mediano y Grande, o tira de cualquier borde o esquina hasta el tamaño que quieras; el video crece con él.",
+        "Acoplar en una esquina: el reproductor se vuelve un cuadrito pequeño integrado a la pantalla, con reproducir/pausar y anterior/siguiente ahí mismo. Busca solo un lugar libre en la esquina, sin tapar los botones ni la maniobra.",
+        "Arrastra el reproductor hasta el borde de la pantalla y suéltalo: se acopla (el borde se ilumina avisando). Mantén el acoplado medio segundo y se suelta y vuelve a ser ventana, ya bajo tu dedo.",
+        "Pantalla dividida: el video ocupa la parte de arriba (celular de pie) o la izquierda (acostado) y el mapa queda con el resto, con todos sus botones. Arrastra la división para cambiar el tamaño. Sin video en pantalla (música, o el auto en marcha), la división queda solo como una franja con los controles.",
+        "YouTube con botones propios debajo del video: retroceder y avanzar 10 s, reproducir/pausar y detener."
+      ]
+    },
     {
       "versao": "0.35.0",
       "data": "29/10/2026",
@@ -219,28 +246,6 @@
         "En un choque, el sensor del celular protege el tramo (no se borra); \"Guardar ahora\" hace lo mismo a mano, en la pantalla o en la notificación.",
         "Audio apagado por defecto; al activar el audio o la cámara del interior, Vrumbi recuerda avisar a los pasajeros. Celular demasiado caliente: la grabación se detiene sola.",
         "Mis grabaciones: abrir, compartir, guardar en la galería y borrar. Opción de empezar a grabar solo con la ruta."
-      ]
-    },
-    {
-      "versao": "0.25.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Música: o botão Música na tela abre um mini player que controla a música de qualquer app (YouTube Music, Spotify, Deezer, rádio...): capa, música, artista, tocar/pausar, anterior, próxima, voltar e avançar 10 s, parar e a barra para posicionar a música.",
-        "O mini player é discreto e dá para arrastar para qualquer lugar da tela; ele fica onde você deixou. Com música tocando, o botão mostra as barrinhas. Na rota, abre pelo \"…\" da navegação.",
-        "Na primeira vez, o Vrumbi pede o Acesso às notificações (é por ele que o Android deixa controlar a música de outros apps). Nada tocando: aparecem os seus apps de música para abrir.",
-        "Quando o app de música recusa (ex.: o YouTube sem Premium não toca em segundo plano), o Vrumbi mostra o motivo e o botão para abrir o app."
-      ],
-      "en": [
-        "Music: the Music button on the screen opens a mini player that controls music from any app (YouTube Music, Spotify, Deezer, radio...): cover, song, artist, play/pause, previous, next, back and forward 10 s, stop and the bar to seek.",
-        "The mini player is discreet and can be dragged anywhere on the screen; it stays where you leave it. While music plays, the button shows little bars. On a route, open it from the navigation \"…\".",
-        "The first time, Vrumbi asks for Notification access (that is how Android lets an app control music from other apps). Nothing playing: your music apps show up to open.",
-        "When the music app refuses (e.g. YouTube without Premium does not play in the background), Vrumbi shows the reason and a button to open the app."
-      ],
-      "es": [
-        "Música: el botón Música en la pantalla abre un mini reproductor que controla la música de cualquier app (YouTube Music, Spotify, Deezer, radio...): portada, canción, artista, reproducir/pausar, anterior, siguiente, atrás y adelante 10 s, detener y la barra para posicionar la canción.",
-        "El mini reproductor es discreto y se puede arrastrar a cualquier lugar de la pantalla; queda donde lo dejes. Con música sonando, el botón muestra barritas. En la ruta, se abre desde el \"…\" de la navegación.",
-        "La primera vez, Vrumbi pide el Acceso a notificaciones (así Android deja controlar la música de otras apps). Si no suena nada: aparecen tus apps de música para abrir.",
-        "Cuando la app de música se niega (ej.: YouTube sin Premium no reproduce en segundo plano), Vrumbi muestra el motivo y el botón para abrir la app."
       ]
     }
   ]
