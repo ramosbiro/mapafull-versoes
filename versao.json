@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.40.7",
-  "codigo": 108,
+  "versao": "0.40.8",
+  "codigo": 109,
   "data": "29/10/2026",
-  "tamanho": 200714788,
-  "sha256": "9ea58f5be8df49dbb61bfb4aa588a0585e7ef29b145bdeb039f219856132732c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.7/Vrumbi-0.40.7.apk",
+  "tamanho": 200712632,
+  "sha256": "4e082e0e52ab45b2053864575fc48c4828a92aa56793c04c5d814331f89fd6a6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.40.8/Vrumbi-0.40.8.apk",
   "notas": [
-    "Ícone de fumaça ainda mais para cima, passando na frente do sol (ou da lua)."
+    "Ícone de fumaça mais alto no quadro, cobrindo parte do sol (ou da lua)."
   ],
   "versoes": [
+    {
+      "versao": "0.40.8",
+      "data": "29/10/2026",
+      "itens": [
+        "Ícone de fumaça mais alto no quadro, cobrindo parte do sol (ou da lua)."
+      ],
+      "en": [
+        "Smoke icon higher in the frame, covering part of the sun (or moon)."
+      ],
+      "es": [
+        "Icono de humo más alto en el cuadro, cubriendo parte del sol (o de la luna)."
+      ]
+    },
     {
       "versao": "0.40.7",
       "data": "29/10/2026",
@@ -163,19 +176,6 @@
       ],
       "es": [
         "Widget Clima y reloj con nuestra marca arriba: el icono, \"Vrumbi\" en el naranja de la marca y el lugar (ej.: Vrumbi · Glicério)."
-      ]
-    },
-    {
-      "versao": "0.38.7",
-      "data": "29/10/2026",
-      "itens": [
-        "Widget Clima e relógio: a máxima e a mínima saíram do canto de cima e entraram na lista da direita, logo abaixo da condição do tempo."
-      ],
-      "en": [
-        "Clock & weather widget: the high and low moved from the top corner into the list on the right, right under the weather condition."
-      ],
-      "es": [
-        "Widget Clima y reloj: la máxima y la mínima salieron de la esquina de arriba y pasaron a la lista de la derecha, justo debajo de la condición del tiempo."
       ]
     }
   ]
