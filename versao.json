@@ -1,19 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.34.0",
-  "codigo": 85,
+  "versao": "0.35.0",
+  "codigo": 86,
   "data": "29/10/2026",
-  "tamanho": 199327199,
-  "sha256": "f0b4b20d1b8fd50ad49ac3e7ca83182eaf59ebb598221313b92c4067134aa712",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.34.0/Vrumbi-0.34.0.apk",
+  "tamanho": 199335602,
+  "sha256": "96dcf6e5c92cdcb22f91f8a8f284f48837a6732fc3b48c977dbb5c23f7e7365e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.35.0/Vrumbi-0.35.0.apk",
   "notas": [
-    "Mini player com três abas: Apps (o que toca no seu app de música), Arquivos e YouTube. Toque em Música para abrir; arraste para qualquer canto da tela.",
-    "Arquivos: escolha músicas e vídeos do celular, monte uma fila e use tocar/pausar, parar, voltar e avançar 10 s, anterior/próxima e a barra para ir a qualquer ponto. Cada arquivo continua de onde parou. Fechando o player, o som continua; o botão Música traz o player de volta.",
-    "YouTube: cole o link do vídeo e ele toca dentro do player. Por segurança, vídeo na tela só com o carro parado: andando, o vídeo do celular vira só som e o YouTube pausa. Se o dono do vídeo não deixar tocar fora do YouTube, o Vrumbi oferece abrir no app do YouTube.",
-    "Um de cada vez: dar play no YouTube pausa o arquivo, e o arquivo pausa o YouTube.",
-    "Chamadas com botões grandes: só aparecem as do app de telefone do celular e de apps de chamada conhecidos."
+    "Chamadas: um aviso só. De fábrica fica o aviso do próprio Android (Atender/Recusar) e o Vrumbi fala quem está ligando. O aviso do Android não pode ser escondido por outro app, por isso o cartão do Vrumbi agora é opcional: Configurações > Mensagens enquanto dirige > Cartão do Vrumbi também.",
+    "O cartão de chamada do Vrumbi ficou sutil: uma linha só embaixo, longe do aviso do Android, com X para fechar ou arrastando para o lado. Com o celular deitado, ele vai para o canto de baixo, ao lado dos botões, e a rua sai da frente enquanto toca.",
+    "O cartão de mensagem também fecha arrastando para o lado e, com o celular deitado, fica no canto da direita."
   ],
   "versoes": [
+    {
+      "versao": "0.35.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Chamadas: um aviso só. De fábrica fica o aviso do próprio Android (Atender/Recusar) e o Vrumbi fala quem está ligando. O aviso do Android não pode ser escondido por outro app, por isso o cartão do Vrumbi agora é opcional: Configurações > Mensagens enquanto dirige > Cartão do Vrumbi também.",
+        "O cartão de chamada do Vrumbi ficou sutil: uma linha só embaixo, longe do aviso do Android, com X para fechar ou arrastando para o lado. Com o celular deitado, ele vai para o canto de baixo, ao lado dos botões, e a rua sai da frente enquanto toca.",
+        "O cartão de mensagem também fecha arrastando para o lado e, com o celular deitado, fica no canto da direita."
+      ],
+      "en": [
+        "Calls: just one notification. By default, Android's own call notification stays (Answer/Decline) and Vrumbi says who is calling. Another app cannot hide Android's notification, so the Vrumbi card is now optional: Settings > Messages while driving > Vrumbi card too.",
+        "The Vrumbi call card is now subtle: a single line at the bottom, away from the Android notification, closed with the X or by swiping sideways. With the phone sideways, it goes to the bottom corner next to the buttons, and the street name moves out of the way while it rings.",
+        "The message card also closes by swiping sideways and, with the phone sideways, sits in the right corner."
+      ],
+      "es": [
+        "Llamadas: un solo aviso. De fábrica queda el aviso propio de Android (Contestar/Rechazar) y Vrumbi dice quién llama. Otra app no puede ocultar el aviso de Android, por eso la tarjeta de Vrumbi ahora es opcional: Ajustes > Mensajes mientras manejas > Tarjeta de Vrumbi también.",
+        "La tarjeta de llamada de Vrumbi es ahora sutil: una sola línea abajo, lejos del aviso de Android, con X para cerrar o deslizando hacia el lado. Con el celular acostado, va a la esquina de abajo junto a los botones y la calle se aparta mientras suena.",
+        "La tarjeta de mensaje también se cierra deslizando hacia el lado y, con el celular acostado, queda en la esquina derecha."
+      ]
+    },
     {
       "versao": "0.34.0",
       "data": "29/10/2026",
@@ -224,25 +241,6 @@
         "El mini reproductor es discreto y se puede arrastrar a cualquier lugar de la pantalla; queda donde lo dejes. Con música sonando, el botón muestra barritas. En la ruta, se abre desde el \"…\" de la navegación.",
         "La primera vez, Vrumbi pide el Acceso a notificaciones (así Android deja controlar la música de otras apps). Si no suena nada: aparecen tus apps de música para abrir.",
         "Cuando la app de música se niega (ej.: YouTube sin Premium no reproduce en segundo plano), Vrumbi muestra el motivo y el botón para abrir la app."
-      ]
-    },
-    {
-      "versao": "0.24.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Widgets na tela inicial do Android (toque longo na tela inicial > Widgets > Vrumbi): \"Para onde?\" abre a busca e, conforme o tamanho, tem também Casa, Trabalho e Meu carro, e no maior Ajuda, Avisar e Mapa.",
-        "Widget Navegação: durante a rota mostra a seta, a distância, a instrução e a chegada, sem abrir o app; sem rota, vira os atalhos.",
-        "Os widgets mudam de tamanho (é só esticar) e seguem o tema claro ou escuro do celular."
-      ],
-      "en": [
-        "Widgets on the Android home screen (long press the home screen > Widgets > Vrumbi): \"Where to?\" opens the search and, depending on the size, also has Home, Work and My car, and in the largest Help, Report and Map.",
-        "Navigation widget: during a route it shows the arrow, the distance, the instruction and the arrival, without opening the app; without a route, it turns into the shortcuts.",
-        "Widgets can be resized (just stretch them) and follow the phone light or dark theme."
-      ],
-      "es": [
-        "Widgets en la pantalla de inicio de Android (toque largo en la pantalla de inicio > Widgets > Vrumbi): \"¿A dónde?\" abre la búsqueda y, según el tamaño, también tiene Casa, Trabajo y Mi auto, y en el más grande Ayuda, Avisar y Mapa.",
-        "Widget Navegación: durante la ruta muestra la flecha, la distancia, la instrucción y la llegada, sin abrir la app; sin ruta, se vuelve los atajos.",
-        "Los widgets cambian de tamaño (solo estíralos) y siguen el tema claro u oscuro del celular."
       ]
     }
   ]
