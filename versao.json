@@ -1,19 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.26.0",
-  "codigo": 76,
+  "versao": "0.27.0",
+  "codigo": 77,
   "data": "29/10/2026",
-  "tamanho": 198590668,
-  "sha256": "2fc11e1318d1815756876ab2e1e5a3777b094fb282d1349738ab80ad8466fc26",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.26.0/Vrumbi-0.26.0.apk",
+  "tamanho": 199071692,
+  "sha256": "32174a85db79e618ea711d39323a65087ee886393e264cb3a9fbc0bc1eec117f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.27.0/Vrumbi-0.27.0.apk",
   "notas": [
-    "Gravação da viagem: o Vrumbi grava como uma câmera de painel. Botão Gravar na tela (fica vermelho com o tempo); grava também com a tela apagada e com outro app na frente.",
-    "Câmera traseira (a estrada) ou frontal (o interior do carro), resolução HD, Full HD ou 4K, trechos de 1, 3 ou 5 minutos em ciclo (os mais antigos dão lugar aos novos) e espaço máximo de 2 a 16 GB.",
-    "Numa batida, o sensor do celular protege o trecho (não é apagado); \"Salvar agora\" faz o mesmo à mão, pela tela ou pela notificação.",
-    "Áudio desligado por padrão; ligando o áudio ou a câmera do interior, o Vrumbi lembra de avisar os passageiros. Celular quente demais: a gravação para sozinha.",
-    "Minhas gravações: abrir, compartilhar, salvar na galeria e apagar. Opção de começar a gravar sozinho com a rota."
+    "Clima e tempo (Menu): a temperatura agora, a sensação, umidade, vento, pressão, índice UV, chuva e o pôr do sol; hora a hora nas próximas 24 h e os próximos 7 dias, com a chance de chuva e a faixa entre a mínima e a máxima.",
+    "O Vrumbi comenta o tempo: guarda-chuva quando vai chover, protetor quando o sol está forte, cuidado com neblina, vento e trovoada.",
+    "Widgets de clima na tela inicial: \"Clima\" (agora, máxima e mínima e os próximos dias) e \"Clima e relógio\" (a hora grande com o tempo ao lado). Atualizam sozinhos a cada 30 minutos, mesmo com o app fechado.",
+    "Novo botão para pôr os widgets na tela inicial direto pelo app: o Android pergunta e encaixa onde houver espaço."
   ],
   "versoes": [
+    {
+      "versao": "0.27.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Clima e tempo (Menu): a temperatura agora, a sensação, umidade, vento, pressão, índice UV, chuva e o pôr do sol; hora a hora nas próximas 24 h e os próximos 7 dias, com a chance de chuva e a faixa entre a mínima e a máxima.",
+        "O Vrumbi comenta o tempo: guarda-chuva quando vai chover, protetor quando o sol está forte, cuidado com neblina, vento e trovoada.",
+        "Widgets de clima na tela inicial: \"Clima\" (agora, máxima e mínima e os próximos dias) e \"Clima e relógio\" (a hora grande com o tempo ao lado). Atualizam sozinhos a cada 30 minutos, mesmo com o app fechado.",
+        "Novo botão para pôr os widgets na tela inicial direto pelo app: o Android pergunta e encaixa onde houver espaço."
+      ],
+      "en": [
+        "Weather (Menu): the temperature now, feels like, humidity, wind, pressure, UV index, rain and sunset; hour by hour for the next 24 h and the next 7 days, with the chance of rain and the range between low and high.",
+        "Vrumbi comments on the weather: umbrella when it is going to rain, sunscreen when the sun is strong, care with fog, wind and thunderstorms.",
+        "Weather widgets on the home screen: \"Weather\" (now, high and low and the next days) and \"Weather and clock\" (a big clock with the weather beside it). They update by themselves every 30 minutes, even with the app closed.",
+        "New button to put the widgets on the home screen right from the app: Android asks and places them where there is room."
+      ],
+      "es": [
+        "Clima y tiempo (Menú): la temperatura ahora, la sensación, humedad, viento, presión, índice UV, lluvia y la puesta del sol; hora a hora en las próximas 24 h y los próximos 7 días, con la probabilidad de lluvia y la franja entre la mínima y la máxima.",
+        "Vrumbi comenta el tiempo: paraguas cuando va a llover, protector cuando el sol está fuerte, cuidado con niebla, viento y tormenta.",
+        "Widgets de clima en la pantalla de inicio: \"Clima\" (ahora, máxima y mínima y los próximos días) y \"Clima y reloj\" (la hora grande con el tiempo al lado). Se actualizan solos cada 30 minutos, incluso con la app cerrada.",
+        "Nuevo botón para poner los widgets en la pantalla de inicio desde la app: Android pregunta y los coloca donde haya espacio."
+      ]
+    },
     {
       "versao": "0.26.0",
       "data": "29/10/2026",
@@ -239,34 +260,6 @@
       ],
       "es": [
         "Búsqueda: después de tocar Añadir número, la calle elegida ya no repite el botón; solo escribe el número."
-      ]
-    },
-    {
-      "versao": "0.19.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Alertas e notícias: o aviso do INMET e da Defesa Civil agora chega ao vivo, do Brasil inteiro. Ao abrir o app, o Vrumbi avisa se há alerta onde você está. No menu, Alertas e notícias mostra os riscos e o que fazer, os avisos pelo caminho e no destino da rota e as notícias da cidade (trânsito, chuva e segurança primeiro).",
-        "Busca igual à de um app de mapa comum: um campo só. Cada rua tem o botão Adicionar número, que já deixa o campo pronto para o número daquela rua, bairro e cidade.",
-        "Casa, Trabalho e todos os favoritos ficam marcados no mapa, com ícone e nome. Tocar abre a ficha do lugar.",
-        "Meus lugares: cada lugar no seu cartão e a opção Editar meus lugares (título, endereço, tipo, ver no mapa, apagar).",
-        "Evitar na rota com mais opções: tipo de caminho (normal, só estradas e rodovias, trilhas e terra), rota mais curta, desviar das vias fechadas avisadas e rota de caminhão com altura, largura, comprimento, peso e carga perigosa. Moto ganhou rota própria.",
-        "Configurações em cartões, espaço entre os botões dos Ajustes rápidos e botão Favoritos do mesmo tamanho dos outros."
-      ],
-      "en": [
-        "Alerts and news: INMET and civil defense alerts now arrive live, for all of Brazil. When the app opens, Vrumbi tells you if there is an alert where you are. In the menu, Alerts and news shows the risks and what to do, the alerts along your route and at the destination, and local news (traffic, rain and safety first).",
-        "Search like a regular map app: a single field. Each street has an Add number button that gets the field ready for the number on that street, neighborhood and city.",
-        "Home, Work and every favorite are marked on the map, with icon and name. Tap to open the place card.",
-        "My places: each place in its own card and the Edit my places option (title, address, type, see on map, delete).",
-        "Avoid on route has more options: type of road (normal, only roads and highways, trails and dirt roads), shortest route, going around reported closures, and a truck route with height, width, length, weight and hazardous cargo. Motorcycles got their own route.",
-        "Settings in cards, spacing between the Quick settings buttons, and the Favorites button the same size as the others."
-      ],
-      "es": [
-        "Alertas y noticias: los avisos del INMET y de Defensa Civil ahora llegan en vivo, de todo Brasil. Al abrir la app, Vrumbi avisa si hay una alerta donde estás. En el menú, Alertas y noticias muestra los riesgos y qué hacer, los avisos en el camino y en el destino de la ruta y las noticias de la ciudad (tránsito, lluvia y seguridad primero).",
-        "Búsqueda como la de una app de mapas común: un solo campo. Cada calle tiene el botón Añadir número, que deja el campo listo para el número de esa calle, barrio y ciudad.",
-        "Casa, Trabajo y todos los favoritos quedan marcados en el mapa, con ícono y nombre. Al tocar se abre la ficha del lugar.",
-        "Mis lugares: cada lugar en su tarjeta y la opción Editar mis lugares (título, dirección, tipo, ver en el mapa, borrar).",
-        "Evitar en la ruta con más opciones: tipo de camino (normal, solo carreteras y autopistas, senderos y tierra), ruta más corta, esquivar vías cerradas avisadas y ruta de camión con altura, ancho, longitud, peso y carga peligrosa. La moto tiene ruta propia.",
-        "Configuración en tarjetas, espacio entre los botones de Ajustes rápidos y el botón Favoritos del mismo tamaño que los demás."
       ]
     }
   ]
