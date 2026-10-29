@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.31.1",
-  "codigo": 82,
+  "versao": "0.32.0",
+  "codigo": 83,
   "data": "29/10/2026",
-  "tamanho": 199307759,
-  "sha256": "016227c6e66e39ee20bb2cc02900b8f69c2e7668ee5d21ee568382e6b3546374",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.31.1/Vrumbi-0.31.1.apk",
+  "tamanho": 199309475,
+  "sha256": "92a05a07767e0a17e9f412cddc49bac705fa1cccbe8c6faba209e2f9f12d86f2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.32.0/Vrumbi-0.32.0.apk",
   "notas": [
-    "Modo motorista mais seguro: a cópia do vídeo exportado como prova é apagada sozinha (ao abrir o app, antes da próxima exportação e 15 minutos depois); se a criptografia de um trecho falhar, o vídeo aberto é apagado; e qualquer vídeo aberto que tenha sobrado é criptografado ao começar a gravar."
+    "Visual repaginado: no lugar da faixa grossa embaixo e do lado dos cards, um contorno fino e suave na cor de destaque (de fábrica, o laranja Vrumbi; trocando a cor em Configurações > Aparência, os contornos mudam junto). Vale na tela inicial, no Menu, nas Configurações, nos Ajustes e no mapa completo.",
+    "O que está selecionado ou em uso fica com o contorno um pouco mais grosso (sem o botão mudar de tamanho).",
+    "Modo motorista: se a criptografia de um trecho falhar, o vídeo não é mais apagado; ele é criptografado na próxima gravação."
   ],
   "versoes": [
+    {
+      "versao": "0.32.0",
+      "data": "29/10/2026",
+      "itens": [
+        "Visual repaginado: no lugar da faixa grossa embaixo e do lado dos cards, um contorno fino e suave na cor de destaque (de fábrica, o laranja Vrumbi; trocando a cor em Configurações > Aparência, os contornos mudam junto). Vale na tela inicial, no Menu, nas Configurações, nos Ajustes e no mapa completo.",
+        "O que está selecionado ou em uso fica com o contorno um pouco mais grosso (sem o botão mudar de tamanho).",
+        "Modo motorista: se a criptografia de um trecho falhar, o vídeo não é mais apagado; ele é criptografado na próxima gravação."
+      ],
+      "en": [
+        "Refreshed look: instead of the thick stripe under and beside the cards, a thin, soft outline in the accent color (Vrumbi orange by default; changing the color in Settings > Appearance changes the outlines too). On the home screen, Menu, Settings, Quick settings and the full map.",
+        "What is selected or in use gets a slightly thicker outline (without the button changing size).",
+        "Driver mode: if encrypting a clip fails, the video is no longer deleted; it is encrypted on the next recording."
+      ],
+      "es": [
+        "Aspecto renovado: en lugar de la franja gruesa abajo y al lado de las tarjetas, un contorno fino y suave en el color de destaque (el naranja Vrumbi de fábrica; al cambiar el color en Ajustes > Apariencia, los contornos cambian también). En la pantalla de inicio, el Menú, Ajustes, Ajustes rápidos y el mapa completo.",
+        "Lo que está seleccionado o en uso tiene el contorno un poco más grueso (sin que el botón cambie de tamaño).",
+        "Modo conductor: si falla el cifrado de un tramo, el video ya no se borra; se cifra en la próxima grabación."
+      ]
+    },
     {
       "versao": "0.31.1",
       "data": "29/10/2026",
@@ -220,25 +241,6 @@
         "Permisos de Vrumbi (Ajustes): todo lo que la app usa del celular, en verde (permitido) o rojo (falta), Vrumbi explicando para qué sirve y el botón Permitir, que pide a Android o abre la pantalla correcta: ubicación precisa, GPS activado, notificaciones, batería sin restricción e instalar las actualizaciones.",
         "Si falta algo esencial, Vrumbi avisa arriba en el Menú.",
         "En Samsung, Vrumbi recuerda sacar la app de \"Aplicaciones en suspensión\"."
-      ]
-    },
-    {
-      "versao": "0.21.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Avisos no relógio: antes de cada curva chega ao smartwatch um aviso curto com a seta e a distância (\"→ 200 m\") e a instrução, e de novo na hora da curva. Radares, alertas da comunidade e avisos do INMET também. No relógio há os botões Repetir e Mudo.",
-        "No celular esse aviso é silencioso (a voz já fala) e some sozinho. Liga e desliga em Menu > Ajustes rápidos > Relógio ou em Configurações > Navegação > Avisos da navegação.",
-        "Galaxy Watch e outros Wear OS: no app Galaxy Wearable, em Notificações, ative mostrar as notificações também com o celular em uso (o Vrumbi explica ao ligar a opção)."
-      ],
-      "en": [
-        "Alerts on the watch: before each turn your smartwatch gets a short alert with the arrow and the distance (\"→ 200 m\") and the instruction, and again at the turn. Speed cameras, community alerts and weather alerts too. The watch has Repeat and Mute buttons.",
-        "On the phone this alert is silent (the voice already speaks) and goes away by itself. Turn it on or off in Menu > Quick settings > Watch or in Settings > Navigation > Navigation alerts.",
-        "Galaxy Watch and other Wear OS watches: in the Galaxy Wearable app, under Notifications, turn on showing notifications while the phone is in use too (Vrumbi explains when you turn the option on)."
-      ],
-      "es": [
-        "Avisos en el reloj: antes de cada giro llega al smartwatch un aviso corto con la flecha y la distancia (\"→ 200 m\") y la instrucción, y otra vez en el momento del giro. Radares, alertas de la comunidad y avisos del INMET también. En el reloj hay botones Repetir y Silencio.",
-        "En el celular este aviso es silencioso (la voz ya habla) y desaparece solo. Se activa o desactiva en Menú > Ajustes rápidos > Reloj o en Ajustes > Navegación > Avisos de la navegación.",
-        "Galaxy Watch y otros Wear OS: en la app Galaxy Wearable, en Notificaciones, activa mostrar las notificaciones también con el celular en uso (Vrumbi lo explica al activar la opción)."
       ]
     }
   ]
