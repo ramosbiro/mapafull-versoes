@@ -1,20 +1,48 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.0",
-  "codigo": 121,
+  "versao": "0.43.1",
+  "codigo": 122,
   "data": "30/10/2026",
-  "tamanho": 188686058,
-  "sha256": "383dd423ae73d4a2e5319fa2cc11c2e41fcc661c977b6580c2ab97d3377c75ed",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.0/Vrumbi-0.43.0.apk",
+  "tamanho": 189352093,
+  "sha256": "7f58dd329a2cf5506c98706ded79bf384666cfd235cabbed55ec9b68a9c23f7f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.1/Vrumbi-0.43.1.apk",
   "notas": [
-    "O botão Som virou Voz (com microfone): ele sempre ligou e desligou só a voz da navegação, agora com o nome certo.",
-    "O botão Alertas saiu da tela (repetia o Alertas e notícias do Menu): o número de alertas novos aparece no botão ☰ e, dentro do Menu, no card Alertas e notícias, que também diz quantos avisos valem aqui agora.",
-    "Navegação por gestos, como no Android: dentro do Menu, arrastar para o lado VOLTA uma tela (Clima → Menu, seção das Configurações → lista → Menu); no Menu, fecha. O botão voltar do celular faz o mesmo. Puxar para baixo com a lista no topo continua fechando.",
-    "Voltar do celular sem sair do app por engano: dentro das janelas ele volta uma tela por vez (antes, em alguns lugares, saía do aplicativo) e, no mapa, o primeiro voltar só avisa — sair é no segundo.",
-    "Menu: todos os cards com o mesmo contorno (o Ajustes rápidos tinha uma borda diferente).",
-    "Clima e tempo: na primeira aba, arrastar para a direita abre o menu ☰ do Clima; com ele aberto, para a esquerda volta ao local e para a direita volta ao Menu."
+    "O botão ☰ desceu: agora fica embaixo, à direita, logo acima do Avisar e do velocímetro — tudo ao alcance do polegar, e o alto do mapa fica livre.",
+    "A Voz saiu da tela e virou um card no topo do Menu (ao lado do nome Vrumbi): abriu o ☰, já liga ou desliga. Continua também nos Ajustes rápidos e no toque no velocímetro.",
+    "Menu: os cards Mapa completo, Unidades e Camadas ficaram um pouco menores e mais discretos.",
+    "Cards nunca mais grudados: em todas as janelas (Gravar, Favoritos e as outras) cada card fica separado do anterior, no mesmo espaço.",
+    "Configurações sem repetição: cada ajuste que tinha par fora delas foi morar junto dele. Escolher a voz, Cor de destaque e Avisos de clima estão nos Ajustes rápidos; Ajustes da gravação, no Gravar; os ajustes das Mensagens, na engrenagem da caixa de Mensagens; Meus lugares e backup, nos Favoritos. Nas Configurações ficou o resto: Navegação (veículo, ícone da posição, evitar na rota, tela do carro, GPS), Idioma e widgets, e Sistema.",
+    "Celular deitado: os botões ficam numa fileira só, embaixo (Buscar, Seguir, Mídia, Gravar à esquerda; ☰, Avisar e velocímetro à direita), rentes às bordas e longe do furo da câmera; o \"i\" do mapa alinhado com eles."
   ],
   "versoes": [
+    {
+      "versao": "0.43.1",
+      "data": "30/10/2026",
+      "itens": [
+        "O botão ☰ desceu: agora fica embaixo, à direita, logo acima do Avisar e do velocímetro — tudo ao alcance do polegar, e o alto do mapa fica livre.",
+        "A Voz saiu da tela e virou um card no topo do Menu (ao lado do nome Vrumbi): abriu o ☰, já liga ou desliga. Continua também nos Ajustes rápidos e no toque no velocímetro.",
+        "Menu: os cards Mapa completo, Unidades e Camadas ficaram um pouco menores e mais discretos.",
+        "Cards nunca mais grudados: em todas as janelas (Gravar, Favoritos e as outras) cada card fica separado do anterior, no mesmo espaço.",
+        "Configurações sem repetição: cada ajuste que tinha par fora delas foi morar junto dele. Escolher a voz, Cor de destaque e Avisos de clima estão nos Ajustes rápidos; Ajustes da gravação, no Gravar; os ajustes das Mensagens, na engrenagem da caixa de Mensagens; Meus lugares e backup, nos Favoritos. Nas Configurações ficou o resto: Navegação (veículo, ícone da posição, evitar na rota, tela do carro, GPS), Idioma e widgets, e Sistema.",
+        "Celular deitado: os botões ficam numa fileira só, embaixo (Buscar, Seguir, Mídia, Gravar à esquerda; ☰, Avisar e velocímetro à direita), rentes às bordas e longe do furo da câmera; o \"i\" do mapa alinhado com eles."
+      ],
+      "en": [
+        "The ☰ button moved down: it now sits at the bottom right, just above Report and the speedometer — all within thumb reach, and the top of the map stays clear.",
+        "Voice left the screen and became the switch at the top of the Menu (next to the Vrumbi name): open ☰ and turn it on or off right away. It is also in Quick settings and by tapping the speedometer.",
+        "Menu: the Full map, Units and Layers cards are a bit smaller and more discreet.",
+        "Cards no longer stuck together: in every window (Record, Favorites and the others) each card keeps the same gap from the one before.",
+        "Settings without repeats: every setting that had a counterpart outside now lives next to it. Choose the voice, Accent color and Weather alerts are in Quick settings; Recording settings, in Record; Message settings, behind the gear in the Messages box; My places and backup, in Favorites. Settings keep the rest: Navigation (vehicle, position icon, avoid on route, car screen, GPS), Language and widgets, and System.",
+        "Phone in landscape: the buttons sit in a single row at the bottom (Search, Follow, Media, Record on the left; ☰, Report and speedometer on the right), close to the edges and away from the camera hole; the map \"i\" aligned with them."
+      ],
+      "es": [
+        "El botón ☰ bajó: ahora está abajo a la derecha, justo encima de Avisar y del velocímetro — todo al alcance del pulgar, y la parte de arriba del mapa queda libre.",
+        "La Voz salió de la pantalla y pasó a ser el interruptor de arriba del Menú (junto al nombre Vrumbi): abre ☰ y la activas o desactivas enseguida. También está en Ajustes rápidos y al tocar el velocímetro.",
+        "Menú: las tarjetas Mapa completo, Unidades y Capas quedaron un poco más pequeñas y discretas.",
+        "Tarjetas nunca más pegadas: en todas las ventanas (Grabar, Favoritos y las demás) cada tarjeta queda separada de la anterior, con el mismo espacio.",
+        "Configuración sin repeticiones: cada ajuste que tenía su par afuera pasó a estar junto a él. Elegir la voz, Color de acento y Avisos de clima están en Ajustes rápidos; los ajustes de grabación, en Grabar; los de Mensajes, en el engranaje de la caja de Mensajes; Mis lugares y copia, en Favoritos. En la Configuración quedó el resto: Navegación (vehículo, icono de la posición, evitar en la ruta, pantalla del auto, GPS), Idioma y widgets, y Sistema.",
+        "Celular horizontal: los botones quedan en una sola fila abajo (Buscar, Seguir, Medios, Grabar a la izquierda; ☰, Avisar y velocímetro a la derecha), junto a los bordes y lejos del orificio de la cámara; la \"i\" del mapa alineada con ellos."
+      ]
+    },
     {
       "versao": "0.43.0",
       "data": "30/10/2026",
@@ -207,22 +235,6 @@
         "Nubes nuevas en los iconos del tiempo: con aspecto de foto, esponjosas, con volumen, parte de arriba blanca, base gris y borde suave.",
         "Lluvia y llovizna en hilos finos y brillantes (más hilos cuanto más fuerte la lluvia).",
         "Sol y luna más grandes (siguen del mismo tamaño en todos los iconos) e iconos más grandes en la fila de horas del widget, con menos espacio entre la hora, el icono y la temperatura."
-      ]
-    },
-    {
-      "versao": "0.40.9",
-      "data": "29/10/2026",
-      "itens": [
-        "Sol e lua do mesmo tamanho em todos os ícones do tempo: a situação (fumaça, abafado, ar seco, poeira, geada) entra só como um detalhe pequeno.",
-        "A lua dos ícones de noite mostra a fase de verdade daquela hora: nova, crescente, quarto crescente, cheia, minguante... (no hemisfério norte, desenhada do jeito que se vê lá). No app e no widget."
-      ],
-      "en": [
-        "Sun and moon the same size in every weather icon: the situation (smoke, muggy, dry air, dust, frost) is just a small detail.",
-        "The moon in the night icons shows the real phase for that hour: new, waxing crescent, first quarter, full, waning... (in the northern hemisphere, drawn the way it is seen there). In the app and in the widget."
-      ],
-      "es": [
-        "Sol y luna del mismo tamaño en todos los iconos del tiempo: la situación (humo, bochorno, aire seco, polvo, helada) es solo un detalle pequeño.",
-        "La luna de los iconos de noche muestra la fase real de esa hora: nueva, creciente, cuarto creciente, llena, menguante... (en el hemisferio norte, dibujada como se ve allí). En la app y en el widget."
       ]
     }
   ]
