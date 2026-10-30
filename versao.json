@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.44.3",
-  "codigo": 134,
+  "versao": "0.45.0",
+  "codigo": 135,
   "data": "30/10/2026",
-  "tamanho": 191931455,
-  "sha256": "dbee2c7f8a85c67de50b58a292da615495f68960bea000564f8a8fc25f95c83e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.3/Vrumbi-0.44.3.apk",
+  "tamanho": 191960018,
+  "sha256": "30fa10cc99f18b869b87df58df372896c7d42d2b8823eb6c7ee0fe58243a602e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.0/Vrumbi-0.45.0.apk",
   "notas": [
-    "Gravação com as duas câmeras ao mesmo tempo também nos celulares que não avisam que conseguem: em Gravação da viagem, escolha \"As duas\" e eu testo o seu celular em 2 segundos. Dando certo, gravo a estrada e o interior juntos, em dois vídeos.",
-    "Se o celular não aguentar as duas em Full HD, tento em HD; só se ele recusar mesmo eu gravo a estrada e explico o motivo."
+    "Mapas offline de outros países: toda a América do Sul — Argentina, Uruguai, Paraguai, Chile, Bolívia, Peru, Colômbia, Equador, Venezuela, Guiana e Suriname — em Mapas offline > Adicionar, cada país num download só. Nas fronteiras os mapas se completam.",
+    "Grupos de favoritos: crie grupos (Clientes, Viagem, Postos...), escolha o grupo ao salvar ou pela pasta de cada favorito, filtre pela fileira de grupos e renomeie ou apague um grupo sem perder os favoritos. Na busca, os favoritos aparecem separados por grupo.",
+    "Ligar por voz: em Mensagens, toque em \"Ligar para alguém\" e fale o nome; eu acho nos seus contatos e mostro os números em botões grandes. Os contatos não saem do celular."
   ],
   "versoes": [
+    {
+      "versao": "0.45.0",
+      "data": "30/10/2026",
+      "itens": [
+        "Mapas offline de outros países: toda a América do Sul — Argentina, Uruguai, Paraguai, Chile, Bolívia, Peru, Colômbia, Equador, Venezuela, Guiana e Suriname — em Mapas offline > Adicionar, cada país num download só. Nas fronteiras os mapas se completam.",
+        "Grupos de favoritos: crie grupos (Clientes, Viagem, Postos...), escolha o grupo ao salvar ou pela pasta de cada favorito, filtre pela fileira de grupos e renomeie ou apague um grupo sem perder os favoritos. Na busca, os favoritos aparecem separados por grupo.",
+        "Ligar por voz: em Mensagens, toque em \"Ligar para alguém\" e fale o nome; eu acho nos seus contatos e mostro os números em botões grandes. Os contatos não saem do celular."
+      ],
+      "en": [
+        "Offline maps of other countries: all of South America — Argentina, Uruguay, Paraguay, Chile, Bolivia, Peru, Colombia, Ecuador, Venezuela, Guyana and Suriname — in Offline maps > Add, each country in a single download. At the borders the maps complete each other.",
+        "Favorite groups: create groups (Clients, Trip, Gas stations...), choose the group when saving or via each favorite's folder, filter with the row of groups and rename or delete a group without losing favorites. In search, favorites appear split by group.",
+        "Call by voice: in Messages, tap \"Call someone\" and say the name; I find it in your contacts and show the numbers in big buttons. Contacts never leave the phone."
+      ],
+      "es": [
+        "Mapas sin conexión de otros países: toda América del Sur — Argentina, Uruguay, Paraguay, Chile, Bolivia, Perú, Colombia, Ecuador, Venezuela, Guyana y Surinam — en Mapas sin conexión > Agregar, cada país en una sola descarga. En las fronteras los mapas se completan.",
+        "Grupos de favoritos: cree grupos (Clientes, Viaje, Gasolineras...), elija el grupo al guardar o con la carpeta de cada favorito, filtre con la fila de grupos y renombre o borre un grupo sin perder los favoritos. En la búsqueda, los favoritos aparecen separados por grupo.",
+        "Llamar por voz: en Mensajes, toque \"Llamar a alguien\" y diga el nombre; lo busco en sus contactos y muestro los números en botones grandes. Los contactos no salen del celular."
+      ]
+    },
     {
       "versao": "0.44.3",
       "data": "30/10/2026",
@@ -203,22 +223,6 @@
       ],
       "es": [
         "Reproductor estirado (más alto): vuelve a arrastrarse desde cualquier punto y a cambiar de tamaño por los bordes. En ese modo cortaba la mitad exterior de las asas de los bordes y bloqueaba el arrastre cuando el contenido se desplazaba."
-      ]
-    },
-    {
-      "versao": "0.43.2",
-      "data": "30/10/2026",
-      "itens": [
-        "Player no tamanho máximo não passa mais da tela (o X ficava cortado), puxar a borda para mudar o tamanho não dá mais um pulinho no começo, e o popup fica um pouco afastado das laterais: ali é a faixa do gesto de voltar do Android, que roubava o toque (e às vezes saía do app) quando se puxava a borda do player.",
-        "Player, menu de posição: os botões de Encaixar na borda voltaram a mostrar o traço laranja de cima ou de baixo (de lado, com o celular deitado), para saber para onde o player vai."
-      ],
-      "en": [
-        "The player at its largest no longer goes past the screen (the X was cut off), dragging an edge to resize no longer jumps at the start, and the popup stays a little away from the sides: that is the Android back-gesture strip, which stole the touch (and sometimes left the app) when dragging the player edge.",
-        "Player, position menu: the Dock to edge buttons show the orange bar at the top or bottom again (on the sides, with the phone in landscape), so you know where the player goes."
-      ],
-      "es": [
-        "El reproductor en su tamaño máximo ya no se sale de la pantalla (la X quedaba cortada), tirar del borde para cambiar el tamaño ya no da un saltito al comienzo, y la ventana queda un poco apartada de los lados: ahí está la franja del gesto atrás de Android, que robaba el toque (y a veces salía de la app) al tirar del borde.",
-        "Reproductor, menú de posición: los botones de Encajar en el borde vuelven a mostrar la barra naranja arriba o abajo (a los lados, con el celular horizontal), para saber adónde va el reproductor."
       ]
     }
   ]
