@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.44.2",
-  "codigo": 133,
+  "versao": "0.44.3",
+  "codigo": 134,
   "data": "30/10/2026",
-  "tamanho": 191258593,
-  "sha256": "2cf2ae813dbcf1553156b6d1408efa6056dae82647558afc78f10063a68962bd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.2/Vrumbi-0.44.2.apk",
+  "tamanho": 191931455,
+  "sha256": "dbee2c7f8a85c67de50b58a292da615495f68960bea000564f8a8fc25f95c83e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.3/Vrumbi-0.44.3.apk",
   "notas": [
-    "O player pequeno do canto agora anda pela tela: arraste e ele descola; solte e ele gruda como ímã na lateral, na altura onde você deixou. Arrastado até uma borda, vira a tela dividida.",
-    "Os controles da música nunca somem: em cima ou embaixo, a faixa só vira o player inteiro quando cabe tudo; antes disso fica com a música, a barra e os botões."
+    "Gravação com as duas câmeras ao mesmo tempo também nos celulares que não avisam que conseguem: em Gravação da viagem, escolha \"As duas\" e eu testo o seu celular em 2 segundos. Dando certo, gravo a estrada e o interior juntos, em dois vídeos.",
+    "Se o celular não aguentar as duas em Full HD, tento em HD; só se ele recusar mesmo eu gravo a estrada e explico o motivo."
   ],
   "versoes": [
+    {
+      "versao": "0.44.3",
+      "data": "30/10/2026",
+      "itens": [
+        "Gravação com as duas câmeras ao mesmo tempo também nos celulares que não avisam que conseguem: em Gravação da viagem, escolha \"As duas\" e eu testo o seu celular em 2 segundos. Dando certo, gravo a estrada e o interior juntos, em dois vídeos.",
+        "Se o celular não aguentar as duas em Full HD, tento em HD; só se ele recusar mesmo eu gravo a estrada e explico o motivo."
+      ],
+      "en": [
+        "Recording with both cameras at once also on phones that do not say they can: in Trip recording, choose \"Both\" and I test your phone in 2 seconds. If it works, I record the road and the interior together, in two videos.",
+        "If the phone cannot handle both in Full HD, I try HD; only if it really refuses do I record the road and explain why."
+      ],
+      "es": [
+        "Grabación con las dos cámaras a la vez también en los celulares que no avisan que pueden: en Grabación del viaje, elija \"Las dos\" y pruebo su celular en 2 segundos. Si funciona, grabo la carretera y el interior juntos, en dos videos.",
+        "Si el celular no aguanta las dos en Full HD, pruebo en HD; solo si lo rechaza de verdad grabo la carretera y explico el motivo."
+      ]
+    },
     {
       "versao": "0.44.2",
       "data": "30/10/2026",
@@ -203,34 +219,6 @@
       "es": [
         "El reproductor en su tamaño máximo ya no se sale de la pantalla (la X quedaba cortada), tirar del borde para cambiar el tamaño ya no da un saltito al comienzo, y la ventana queda un poco apartada de los lados: ahí está la franja del gesto atrás de Android, que robaba el toque (y a veces salía de la app) al tirar del borde.",
         "Reproductor, menú de posición: los botones de Encajar en el borde vuelven a mostrar la barra naranja arriba o abajo (a los lados, con el celular horizontal), para saber adónde va el reproductor."
-      ]
-    },
-    {
-      "versao": "0.43.1",
-      "data": "30/10/2026",
-      "itens": [
-        "O botão ☰ desceu: agora fica embaixo, à direita, logo acima do Avisar e do velocímetro — tudo ao alcance do polegar, e o alto do mapa fica livre.",
-        "A Voz saiu da tela e virou um card no topo do Menu (ao lado do nome Vrumbi): abriu o ☰, já liga ou desliga. Continua também nos Ajustes rápidos e no toque no velocímetro.",
-        "Menu: os cards Mapa completo, Unidades e Camadas ficaram um pouco menores e mais discretos.",
-        "Cards nunca mais grudados: em todas as janelas (Gravar, Favoritos e as outras) cada card fica separado do anterior, no mesmo espaço.",
-        "Configurações sem repetição: cada ajuste que tinha par fora delas foi morar junto dele. Escolher a voz, Cor de destaque e Avisos de clima estão nos Ajustes rápidos; Ajustes da gravação, no Gravar; os ajustes das Mensagens, na engrenagem da caixa de Mensagens; Meus lugares e backup, nos Favoritos. Nas Configurações ficou o resto: Navegação (veículo, ícone da posição, evitar na rota, tela do carro, GPS), Idioma e widgets, e Sistema.",
-        "Celular deitado: os botões ficam numa fileira só, embaixo (Buscar, Seguir, Mídia, Gravar à esquerda; ☰, Avisar e velocímetro à direita), rentes às bordas e longe do furo da câmera; o \"i\" do mapa alinhado com eles."
-      ],
-      "en": [
-        "The ☰ button moved down: it now sits at the bottom right, just above Report and the speedometer — all within thumb reach, and the top of the map stays clear.",
-        "Voice left the screen and became the switch at the top of the Menu (next to the Vrumbi name): open ☰ and turn it on or off right away. It is also in Quick settings and by tapping the speedometer.",
-        "Menu: the Full map, Units and Layers cards are a bit smaller and more discreet.",
-        "Cards no longer stuck together: in every window (Record, Favorites and the others) each card keeps the same gap from the one before.",
-        "Settings without repeats: every setting that had a counterpart outside now lives next to it. Choose the voice, Accent color and Weather alerts are in Quick settings; Recording settings, in Record; Message settings, behind the gear in the Messages box; My places and backup, in Favorites. Settings keep the rest: Navigation (vehicle, position icon, avoid on route, car screen, GPS), Language and widgets, and System.",
-        "Phone in landscape: the buttons sit in a single row at the bottom (Search, Follow, Media, Record on the left; ☰, Report and speedometer on the right), close to the edges and away from the camera hole; the map \"i\" aligned with them."
-      ],
-      "es": [
-        "El botón ☰ bajó: ahora está abajo a la derecha, justo encima de Avisar y del velocímetro — todo al alcance del pulgar, y la parte de arriba del mapa queda libre.",
-        "La Voz salió de la pantalla y pasó a ser el interruptor de arriba del Menú (junto al nombre Vrumbi): abre ☰ y la activas o desactivas enseguida. También está en Ajustes rápidos y al tocar el velocímetro.",
-        "Menú: las tarjetas Mapa completo, Unidades y Capas quedaron un poco más pequeñas y discretas.",
-        "Tarjetas nunca más pegadas: en todas las ventanas (Grabar, Favoritos y las demás) cada tarjeta queda separada de la anterior, con el mismo espacio.",
-        "Configuración sin repeticiones: cada ajuste que tenía su par afuera pasó a estar junto a él. Elegir la voz, Color de acento y Avisos de clima están en Ajustes rápidos; los ajustes de grabación, en Grabar; los de Mensajes, en el engranaje de la caja de Mensajes; Mis lugares y copia, en Favoritos. En la Configuración quedó el resto: Navegación (vehículo, icono de la posición, evitar en la ruta, pantalla del auto, GPS), Idioma y widgets, y Sistema.",
-        "Celular horizontal: los botones quedan en una sola fila abajo (Buscar, Seguir, Medios, Grabar a la izquierda; ☰, Avisar y velocímetro a la derecha), junto a los bordes y lejos del orificio de la cámara; la \"i\" del mapa alineada con ellos."
       ]
     }
   ]
