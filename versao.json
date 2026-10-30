@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.8",
-  "codigo": 129,
+  "versao": "0.43.9",
+  "codigo": 130,
   "data": "30/10/2026",
-  "tamanho": 188704445,
-  "sha256": "2a772ecd1155c917181ecb417eb966acd14f5140f714b05c62f780c3b28a3077",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.8/Vrumbi-0.43.8.apk",
+  "tamanho": 188705802,
+  "sha256": "0c6bafeefbf0dee712aae9b333e599b0e79c2105af929a9a5050092ebb4e10ae",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.9/Vrumbi-0.43.9.apk",
   "notas": [
-    "Hora, bateria e sinal no alto da tela agora sempre legíveis: os ícones ficam escuros sobre o mapa claro e claros sobre o mapa escuro (e acompanham o menu e as Configurações quando estão abertos).",
-    "Player encaixado no canto: agora cola de verdade no canto (antes descia para baixo do \"i\" do mapa) e ficou bem pequeno, com a barra de tempo da música e os botões voltar, tocar, avançar e parar.",
-    "Player de mídia estreito: a aba YouTube não some mais atrás dos botões redondos — as três abas cabem sempre."
+    "Player de mídia mais simples: saíram as abas Apps, Arquivos e YouTube. Tudo fica na grade dos players — tocar no YouTube já liga o vídeo com imagem aqui no Vrumbi, e o novo quadrado Arquivos abre direto as pastas do celular para escolher música ou vídeo. Para voltar à grade, \"‹ Players\" no alto."
   ],
   "versoes": [
+    {
+      "versao": "0.43.9",
+      "data": "30/10/2026",
+      "itens": [
+        "Player de mídia mais simples: saíram as abas Apps, Arquivos e YouTube. Tudo fica na grade dos players — tocar no YouTube já liga o vídeo com imagem aqui no Vrumbi, e o novo quadrado Arquivos abre direto as pastas do celular para escolher música ou vídeo. Para voltar à grade, \"‹ Players\" no alto."
+      ],
+      "en": [
+        "Simpler media player: the Apps, Files and YouTube tabs are gone. Everything sits in the players grid — tapping YouTube turns on video with picture right here in Vrumbi, and the new Files tile opens the phone folders to pick a song or video. To go back to the grid, \"‹ Players\" at the top."
+      ],
+      "es": [
+        "Reproductor más simple: salieron las pestañas Apps, Archivos y YouTube. Todo queda en la cuadrícula de reproductores — tocar YouTube ya activa el video con imagen aquí en Vrumbi, y el nuevo cuadro Archivos abre directo las carpetas del celular para elegir música o video. Para volver a la cuadrícula, \"‹ Reproductores\" arriba."
+      ]
+    },
     {
       "versao": "0.43.8",
       "data": "30/10/2026",
@@ -225,19 +236,6 @@
         "Velocímetro en la esquina inferior derecha, a la altura de Buscar, con Avisar justo encima.",
         "Widget del clima: en el pronóstico por hora, la temperatura ahora tiene un espacio debajo del icono (ya no queda pegada).",
         "Reproductor: arrastre la ventana desde cualquier punto, incluso sobre los botones; los bordes para cambiar el tamaño ahora tienen el ancho de un dedo; y solo se pega al borde de la pantalla cuando el dedo llega allí."
-      ]
-    },
-    {
-      "versao": "0.41.7",
-      "data": "30/10/2026",
-      "itens": [
-        "Janelas que sobem de baixo (Avisar, menu, Ajustes rápidos, Configurações, Clima…): com a lista no topo, puxe para baixo e ela desce e fecha, como a gaveta de aplicativos do Android. Arrastar para o lado continua fechando."
-      ],
-      "en": [
-        "Panels that slide up from the bottom (Report, menu, Quick settings, Settings, Weather…): with the list at the top, pull down and it slides away and closes, like the Android app drawer. Swiping sideways still closes it."
-      ],
-      "es": [
-        "Paneles que suben desde abajo (Avisar, menú, Ajustes rápidos, Configuración, Clima…): con la lista arriba del todo, tire hacia abajo y el panel baja y se cierra, como el cajón de aplicaciones de Android. Deslizar hacia el lado sigue cerrándolo."
       ]
     }
   ]
