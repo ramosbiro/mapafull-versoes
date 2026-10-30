@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.7",
-  "codigo": 128,
+  "versao": "0.43.8",
+  "codigo": 129,
   "data": "30/10/2026",
-  "tamanho": 188031282,
-  "sha256": "cffcfe33529a746ca08c15077abc676ae8e5117ac096ecc2a8c6d3a38e6aed09",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.7/Vrumbi-0.43.7.apk",
+  "tamanho": 188704445,
+  "sha256": "2a772ecd1155c917181ecb417eb966acd14f5140f714b05c62f780c3b28a3077",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.8/Vrumbi-0.43.8.apk",
   "notas": [
-    "Girar o celular muito mais rápido: o mapa parado ficava se redesenhando sem parar (os nomes das ruas esmaecendo e reaparecendo), e o giro esperava na fila — por isso a tela ficava dividida por segundos. Agora o mapa descansa quando está parado, e ele desenha menos pixels nas telas de altíssima resolução. O app também fica mais leve e gasta menos bateria."
+    "Hora, bateria e sinal no alto da tela agora sempre legíveis: os ícones ficam escuros sobre o mapa claro e claros sobre o mapa escuro (e acompanham o menu e as Configurações quando estão abertos).",
+    "Player encaixado no canto: agora cola de verdade no canto (antes descia para baixo do \"i\" do mapa) e ficou bem pequeno, com a barra de tempo da música e os botões voltar, tocar, avançar e parar.",
+    "Player de mídia estreito: a aba YouTube não some mais atrás dos botões redondos — as três abas cabem sempre."
   ],
   "versoes": [
+    {
+      "versao": "0.43.8",
+      "data": "30/10/2026",
+      "itens": [
+        "Hora, bateria e sinal no alto da tela agora sempre legíveis: os ícones ficam escuros sobre o mapa claro e claros sobre o mapa escuro (e acompanham o menu e as Configurações quando estão abertos).",
+        "Player encaixado no canto: agora cola de verdade no canto (antes descia para baixo do \"i\" do mapa) e ficou bem pequeno, com a barra de tempo da música e os botões voltar, tocar, avançar e parar.",
+        "Player de mídia estreito: a aba YouTube não some mais atrás dos botões redondos — as três abas cabem sempre."
+      ],
+      "en": [
+        "Time, battery and signal at the top are always readable now: the icons turn dark over the light map and light over the dark map (and follow the Menu and Settings when they are open).",
+        "Player docked in a corner: it now truly sticks to the corner (it used to drop below the map \"i\") and is much smaller, with the song timeline and the back, play, forward and stop buttons.",
+        "Narrow media player: the YouTube tab no longer hides behind the round buttons — the three tabs always fit."
+      ],
+      "es": [
+        "Hora, batería y señal arriba de la pantalla siempre legibles: los íconos quedan oscuros sobre el mapa claro y claros sobre el mapa oscuro (y acompañan el Menú y la Configuración cuando están abiertos).",
+        "Reproductor encajado en la esquina: ahora se pega de verdad a la esquina (antes bajaba debajo de la \"i\" del mapa) y quedó bien pequeño, con la barra de tiempo de la canción y los botones atrás, reproducir, adelante y detener.",
+        "Reproductor estrecho: la pestaña YouTube ya no desaparece detrás de los botones redondos — las tres pestañas siempre caben."
+      ]
+    },
     {
       "versao": "0.43.7",
       "data": "30/10/2026",
@@ -217,19 +238,6 @@
       ],
       "es": [
         "Paneles que suben desde abajo (Avisar, menú, Ajustes rápidos, Configuración, Clima…): con la lista arriba del todo, tire hacia abajo y el panel baja y se cierra, como el cajón de aplicaciones de Android. Deslizar hacia el lado sigue cerrándolo."
-      ]
-    },
-    {
-      "versao": "0.41.6",
-      "data": "30/10/2026",
-      "itens": [
-        "Clima e tempo: deslize o dedo para a esquerda ou para a direita em qualquer lugar da tela para trocar de local (as abas de cima)."
-      ],
-      "en": [
-        "Weather: swipe left or right anywhere on the screen to switch between places (the tabs at the top)."
-      ],
-      "es": [
-        "Clima: deslice el dedo a la izquierda o a la derecha en cualquier parte de la pantalla para cambiar de lugar (las pestañas de arriba)."
       ]
     }
   ]
