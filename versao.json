@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.4",
-  "codigo": 115,
+  "versao": "0.41.5",
+  "codigo": 116,
   "data": "30/10/2026",
-  "tamanho": 188665062,
-  "sha256": "365c9da7226785c47f1170c808340a1b613fbc343b75ba25e186574ec950545e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.4/Vrumbi-0.41.4.apk",
+  "tamanho": 188669923,
+  "sha256": "8e639cd9e212e8bd5541a7a318b0c87b741cfcc36fe7fc834829c54543e36f80",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.5/Vrumbi-0.41.5.apk",
   "notas": [
-    "Player na borda: arraste o player até a borda de cima ou de baixo e, com música, ele vira uma barrinha com tocar/pausar, voltar, avançar e a barra da música. O mapa, os botões e os avisos passam a ocupar o resto da tela, sem ficar por baixo dele. Segure o player meio segundo para soltar de novo.",
-    "Com vídeo, vira tela dividida: com o celular em pé, o vídeo fica em cima ou embaixo; deitado, à esquerda ou à direita. O app ajusta o lado sozinho ao girar o celular. Arraste a divisa para aumentar ou diminuir o vídeo.",
-    "Botão Alertas: o número some depois que você vê o alerta (abrindo Alertas ou fechando o aviso); o ícone agora fica na cor do sistema, como os outros botões.",
-    "O botão Avisar ganhou ícone próprio (megafone), diferente do Alertas."
+    "Favoritos dentro do Buscar: a lupa foi para a esquerda, no lugar do botão Favoritos. Ao abrir a busca, quatro cards em destaque: Casa e Trabalho já traçam a rota, Favoritos mostra todos os seus lugares salvos logo abaixo e Proximidades abre a ajuda por perto."
   ],
   "versoes": [
+    {
+      "versao": "0.41.5",
+      "data": "30/10/2026",
+      "itens": [
+        "Favoritos dentro do Buscar: a lupa foi para a esquerda, no lugar do botão Favoritos. Ao abrir a busca, quatro cards em destaque: Casa e Trabalho já traçam a rota, Favoritos mostra todos os seus lugares salvos logo abaixo e Proximidades abre a ajuda por perto."
+      ],
+      "en": [
+        "Favorites inside Search: the magnifier moved to the left, where the Favorites button was. When you open search, four highlighted cards: Home and Work start the route right away, Favorites lists all your saved places just below and Nearby opens help nearby."
+      ],
+      "es": [
+        "Favoritos dentro de Buscar: la lupa pasó a la izquierda, en lugar del botón Favoritos. Al abrir la búsqueda, cuatro tarjetas destacadas: Casa y Trabajo trazan la ruta enseguida, Favoritos muestra todos sus lugares guardados abajo y Cercanías abre la ayuda cerca."
+      ]
+    },
     {
       "versao": "0.41.4",
       "data": "30/10/2026",
@@ -184,19 +194,6 @@
       ],
       "es": [
         "Icono de humo: columnas más finas y más bajas."
-      ]
-    },
-    {
-      "versao": "0.40.3",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça: sem chão; a base agora é a própria fumaça, arredondada e inteira dentro do quadro."
-      ],
-      "en": [
-        "Smoke icon: no ground; the base is now the smoke itself, rounded and fully inside the frame."
-      ],
-      "es": [
-        "Icono de humo: sin suelo; la base ahora es el propio humo, redondeada y entera dentro del cuadro."
       ]
     }
   ]
