@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.44.1",
-  "codigo": 132,
+  "versao": "0.44.2",
+  "codigo": 133,
   "data": "30/10/2026",
-  "tamanho": 192593355,
-  "sha256": "24dc25c8fe1e29860529dd318983613b0303a9690b9c7d4c25cb9d6d37eb9761",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.1/Vrumbi-0.44.1.apk",
+  "tamanho": 191258593,
+  "sha256": "2cf2ae813dbcf1553156b6d1408efa6056dae82647558afc78f10063a68962bd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.2/Vrumbi-0.44.2.apk",
   "notas": [
-    "Tela dividida nos quatro lados: o player gruda em cima, embaixo, à esquerda ou à direita, em pé ou deitado — música e vídeo.",
-    "O player se molda ao espaço: puxe a divisa e ele muda de forma. Na lateral estreita fica em pé, só com os botões um em cima do outro e a barra da música em pé; mais largo, mostra capa, nome e listas; em cima ou embaixo, baixo é a faixa dos controles e alto é o player inteiro.",
-    "Corrigido: arrastar a barra da música pulava de volta ao começo — agora vai para o ponto escolhido, também no YouTube Music, Spotify e outros apps, e tocar numa música da fila do app pula para ela."
+    "O player pequeno do canto agora anda pela tela: arraste e ele descola; solte e ele gruda como ímã na lateral, na altura onde você deixou. Arrastado até uma borda, vira a tela dividida.",
+    "Os controles da música nunca somem: em cima ou embaixo, a faixa só vira o player inteiro quando cabe tudo; antes disso fica com a música, a barra e os botões."
   ],
   "versoes": [
+    {
+      "versao": "0.44.2",
+      "data": "30/10/2026",
+      "itens": [
+        "O player pequeno do canto agora anda pela tela: arraste e ele descola; solte e ele gruda como ímã na lateral, na altura onde você deixou. Arrastado até uma borda, vira a tela dividida.",
+        "Os controles da música nunca somem: em cima ou embaixo, a faixa só vira o player inteiro quando cabe tudo; antes disso fica com a música, a barra e os botões."
+      ],
+      "en": [
+        "The small corner player now moves around the screen: drag it to unstick it; let go and it snaps like a magnet to the nearest side, at the height you left it. Dragged to an edge, it becomes the split screen.",
+        "The music controls never disappear: at the top or bottom, the strip only becomes the full player when everything fits; before that it shows the song, the bar and the buttons."
+      ],
+      "es": [
+        "El reproductor pequeño de la esquina ahora se mueve por la pantalla: arrástrelo y se despega; suéltelo y se pega como un imán al lateral más cercano, a la altura donde lo dejó. Arrastrado hasta un borde, se vuelve pantalla dividida.",
+        "Los controles de la música nunca desaparecen: arriba o abajo, la franja solo se vuelve el reproductor completo cuando cabe todo; antes muestra la canción, la barra y los botones."
+      ]
+    },
     {
       "versao": "0.44.1",
       "data": "30/10/2026",
@@ -216,34 +231,6 @@
         "Tarjetas nunca más pegadas: en todas las ventanas (Grabar, Favoritos y las demás) cada tarjeta queda separada de la anterior, con el mismo espacio.",
         "Configuración sin repeticiones: cada ajuste que tenía su par afuera pasó a estar junto a él. Elegir la voz, Color de acento y Avisos de clima están en Ajustes rápidos; los ajustes de grabación, en Grabar; los de Mensajes, en el engranaje de la caja de Mensajes; Mis lugares y copia, en Favoritos. En la Configuración quedó el resto: Navegación (vehículo, icono de la posición, evitar en la ruta, pantalla del auto, GPS), Idioma y widgets, y Sistema.",
         "Celular horizontal: los botones quedan en una sola fila abajo (Buscar, Seguir, Medios, Grabar a la izquierda; ☰, Avisar y velocímetro a la derecha), junto a los bordes y lejos del orificio de la cámara; la \"i\" del mapa alineada con ellos."
-      ]
-    },
-    {
-      "versao": "0.43.0",
-      "data": "30/10/2026",
-      "itens": [
-        "O botão Som virou Voz (com microfone): ele sempre ligou e desligou só a voz da navegação, agora com o nome certo.",
-        "O botão Alertas saiu da tela (repetia o Alertas e notícias do Menu): o número de alertas novos aparece no botão ☰ e, dentro do Menu, no card Alertas e notícias, que também diz quantos avisos valem aqui agora.",
-        "Navegação por gestos, como no Android: dentro do Menu, arrastar para o lado VOLTA uma tela (Clima → Menu, seção das Configurações → lista → Menu); no Menu, fecha. O botão voltar do celular faz o mesmo. Puxar para baixo com a lista no topo continua fechando.",
-        "Voltar do celular sem sair do app por engano: dentro das janelas ele volta uma tela por vez (antes, em alguns lugares, saía do aplicativo) e, no mapa, o primeiro voltar só avisa — sair é no segundo.",
-        "Menu: todos os cards com o mesmo contorno (o Ajustes rápidos tinha uma borda diferente).",
-        "Clima e tempo: na primeira aba, arrastar para a direita abre o menu ☰ do Clima; com ele aberto, para a esquerda volta ao local e para a direita volta ao Menu."
-      ],
-      "en": [
-        "The Sound button is now Voice (with a microphone): it always turned only the navigation voice on and off, now with the right name.",
-        "The Alerts button left the screen (it repeated Alerts and news in the Menu): the number of new alerts shows on the ☰ button and, inside the Menu, on the Alerts and news card, which also says how many alerts are in effect here.",
-        "Gesture navigation, like Android: inside the Menu, swiping sideways goes BACK one screen (Weather → Menu, a Settings section → list → Menu); in the Menu, it closes. The phone back button does the same. Pulling down with the list at the top still closes.",
-        "Phone back button without leaving the app by mistake: inside windows it goes back one screen at a time (before, in some places, it left the app) and, on the map, the first back only warns — the second one exits.",
-        "Menu: every card now has the same outline (Quick settings had a different border).",
-        "Weather: on the first tab, swiping right opens the Weather ☰ menu; with it open, swipe left to go back to the place and right to go back to the Menu."
-      ],
-      "es": [
-        "El botón Sonido ahora es Voz (con micrófono): siempre activó y desactivó solo la voz de la navegación, ahora con el nombre correcto.",
-        "El botón Avisos salió de la pantalla (repetía Avisos y noticias del Menú): el número de avisos nuevos aparece en el botón ☰ y, dentro del Menú, en la tarjeta Avisos y noticias, que también dice cuántos avisos rigen aquí ahora.",
-        "Navegación con gestos, como en Android: dentro del Menú, deslizar hacia el lado VUELVE una pantalla (Clima → Menú, sección de Configuración → lista → Menú); en el Menú, cierra. El botón atrás del celular hace lo mismo. Tirar hacia abajo con la lista arriba sigue cerrando.",
-        "Botón atrás del celular sin salir de la app por error: dentro de las ventanas vuelve una pantalla a la vez (antes, en algunos lugares, salía de la aplicación) y, en el mapa, el primer atrás solo avisa — salir es con el segundo.",
-        "Menú: todas las tarjetas con el mismo contorno (Ajustes rápidos tenía un borde distinto).",
-        "Clima: en la primera pestaña, deslizar a la derecha abre el menú ☰ del Clima; con él abierto, a la izquierda vuelve al lugar y a la derecha vuelve al Menú."
       ]
     }
   ]
