@@ -1,18 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.5",
-  "codigo": 126,
+  "versao": "0.43.6",
+  "codigo": 127,
   "data": "30/10/2026",
-  "tamanho": 189361285,
-  "sha256": "ee43aa876cc18a96ba3075fbdda2071fbadc07a97e2e1bfae720ddcf7a285253",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.5/Vrumbi-0.43.5.apk",
+  "tamanho": 188703118,
+  "sha256": "fa4bc001171f0efe264d4fa4edcfeacd857fdf8890fede1986597c84959d2889",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.6/Vrumbi-0.43.6.apk",
   "notas": [
-    "Clima e tempo: saíram os ícones de nascer do sol, pôr do sol, arco-íris e fumaça — eles apareciam com o céu nublado ou com chuva e confundiam; agora o ícone é sempre o do tempo (a tempestade de areia, de regiões de deserto, continua).",
-    "Ícone de sol com nuvens: a nuvem agora tem a cor das outras nuvens; só o sol fica amarelo.",
-    "Clima e tempo: ao trocar de cidade (deslizando ou pela aba), a lista fica no mesmo horário em que você estava, em vez de voltar para o início.",
-    "Girar o celular ficou limpo: ao voltar para o retrato não aparece mais a tela do horizontal espremida em cima com um branco embaixo — enquanto o Android ajusta o tamanho, a tela fica na cor do mapa e a imagem certa entra suave."
+    "Celular deitado: os botões Seguir, Mídia, Gravar e ☰ voltaram a funcionar (a barra de baixo ficava por cima deles e engolia o toque).",
+    "Girar o celular: a tela só gira, sem esmaecer e sem sumir o mapa.",
+    "Avisar na via: o seu próprio aviso não aparece mais como alerta por cima do \"Valeu!\" do Vrumbi; o balão virou card no padrão, com o botão Desfazer contornado e o X igual ao dos outros avisos.",
+    "Clima e tempo: nova faixa \"Chuva nas próximas 2 horas\", de 15 em 15 minutos, com a hora em que a chuva começa. No widget, a linha Chuva diz \"Chuva às 10:15\" ou \"Chovendo agora\" quando há chuva nas próximas 2 h."
   ],
   "versoes": [
+    {
+      "versao": "0.43.6",
+      "data": "30/10/2026",
+      "itens": [
+        "Celular deitado: os botões Seguir, Mídia, Gravar e ☰ voltaram a funcionar (a barra de baixo ficava por cima deles e engolia o toque).",
+        "Girar o celular: a tela só gira, sem esmaecer e sem sumir o mapa.",
+        "Avisar na via: o seu próprio aviso não aparece mais como alerta por cima do \"Valeu!\" do Vrumbi; o balão virou card no padrão, com o botão Desfazer contornado e o X igual ao dos outros avisos.",
+        "Clima e tempo: nova faixa \"Chuva nas próximas 2 horas\", de 15 em 15 minutos, com a hora em que a chuva começa. No widget, a linha Chuva diz \"Chuva às 10:15\" ou \"Chovendo agora\" quando há chuva nas próximas 2 h."
+      ],
+      "en": [
+        "Phone in landscape: the Follow, Media, Record and ☰ buttons work again (the bottom bar sat on top of them and swallowed the touch).",
+        "Rotating the phone: the screen just rotates, with no fade and no disappearing map.",
+        "Reporting on the road: your own report no longer shows up as an alert on top of Vrumbi's \"Thanks!\"; the bubble is now a standard card, with an outlined Undo button and the same X as the other notices.",
+        "Weather: new \"Rain in the next 2 hours\" strip, every 15 minutes, with the time the rain starts. On the widget, the Rain line says \"Rain at 10:15\" or \"Raining now\" when rain is coming within 2 h."
+      ],
+      "es": [
+        "Celular horizontal: los botones Seguir, Medios, Grabar y ☰ vuelven a funcionar (la barra de abajo quedaba encima y se tragaba el toque).",
+        "Girar el celular: la pantalla solo gira, sin desvanecer y sin que desaparezca el mapa.",
+        "Avisar en la vía: su propio aviso ya no aparece como alerta encima del \"¡Gracias!\" de Vrumbi; el globo es ahora una tarjeta estándar, con el botón Deshacer contorneado y la X igual a la de los demás avisos.",
+        "Clima: nueva franja \"Lluvia en las próximas 2 horas\", cada 15 minutos, con la hora en que empieza la lluvia. En el widget, la línea Lluvia dice \"Lluvia a las 10:15\" o \"Lloviendo ahora\" cuando llega lluvia en 2 h."
+      ]
+    },
     {
       "versao": "0.43.5",
       "data": "30/10/2026",
@@ -211,28 +233,6 @@
       ],
       "es": [
         "Favoritos dentro de Buscar: la lupa pasó a la izquierda, en lugar del botón Favoritos. Al abrir la búsqueda, cuatro tarjetas destacadas: Casa y Trabajo trazan la ruta enseguida, Favoritos muestra todos sus lugares guardados abajo y Cercanías abre la ayuda cerca."
-      ]
-    },
-    {
-      "versao": "0.41.4",
-      "data": "30/10/2026",
-      "itens": [
-        "Player na borda: arraste o player até a borda de cima ou de baixo e, com música, ele vira uma barrinha com tocar/pausar, voltar, avançar e a barra da música. O mapa, os botões e os avisos passam a ocupar o resto da tela, sem ficar por baixo dele. Segure o player meio segundo para soltar de novo.",
-        "Com vídeo, vira tela dividida: com o celular em pé, o vídeo fica em cima ou embaixo; deitado, à esquerda ou à direita. O app ajusta o lado sozinho ao girar o celular. Arraste a divisa para aumentar ou diminuir o vídeo.",
-        "Botão Alertas: o número some depois que você vê o alerta (abrindo Alertas ou fechando o aviso); o ícone agora fica na cor do sistema, como os outros botões.",
-        "O botão Avisar ganhou ícone próprio (megafone), diferente do Alertas."
-      ],
-      "en": [
-        "Player on the edge: drag the player to the top or bottom edge and, with music, it becomes a small bar with play/pause, previous, next and the track bar. The map, buttons and alerts use the rest of the screen, never under it. Hold the player for half a second to release it again.",
-        "With a video, it becomes a split screen: with the phone upright, the video goes on top or bottom; sideways, on the left or right. The app adjusts the side by itself when you rotate the phone. Drag the divider to make the video bigger or smaller.",
-        "Alerts button: the number goes away once you have seen the alert (opening Alerts or closing the notice); the icon now uses the system color, like the other buttons.",
-        "The Report button got its own icon (megaphone), different from Alerts."
-      ],
-      "es": [
-        "Reproductor en el borde: arrastre el reproductor hasta el borde de arriba o de abajo y, con música, se vuelve una barrita con reproducir/pausar, anterior, siguiente y la barra de la canción. El mapa, los botones y los avisos usan el resto de la pantalla, sin quedar debajo. Mantenga el reproductor medio segundo para soltarlo de nuevo.",
-        "Con video, se vuelve pantalla dividida: con el celular de pie, el video va arriba o abajo; acostado, a la izquierda o a la derecha. La app ajusta el lado sola al girar el celular. Arrastre la división para agrandar o achicar el video.",
-        "Botón Alertas: el número desaparece cuando usted ya vio la alerta (abriendo Alertas o cerrando el aviso); el icono ahora usa el color del sistema, como los demás botones.",
-        "El botón Avisar tiene icono propio (megáfono), distinto del de Alertas."
       ]
     }
   ]
