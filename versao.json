@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.45.3",
-  "codigo": 138,
+  "versao": "0.46.0",
+  "codigo": 139,
   "data": "30/10/2026",
-  "tamanho": 192006320,
-  "sha256": "217e9923d337fed014b80b45825ef0c6f1eea1d228481c989fa654cee29758b1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.3/Vrumbi-0.45.3.apk",
+  "tamanho": 192042924,
+  "sha256": "a6637d7a992f734e2fec2202aa3916ea4e8f5336f1f6f7c3f8a956990138db52",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.46.0/Vrumbi-0.46.0.apk",
   "notas": [
-    "Editar favorito de verdade: além do título, o endereço e o número. Ao mudar, eu procuro o lugar novo e mostro as opções; tocando na certa e em Salvar, o favorito vai para o lugar novo (e a rota também)."
+    "Opções de rota de verdade: além da mais rápida, as alternativas, a SEM PEDÁGIO e a MAIS CURTA (com o seu veículo e as suas escolhas de evitar). Cada opção mostra o tempo, a distância, quanto demora a mais e o pedágio: quantas praças e o valor para o seu veículo (moto, carro ou por eixo no caminhão).",
+    "Na rota escolhida, \"Pedágios desta rota\" lista cada praça com a concessionária e o valor. Os valores vêm do mapa colaborativo (976 praças no Brasil) e só contam as praças do sentido em que você passa."
   ],
   "versoes": [
+    {
+      "versao": "0.46.0",
+      "data": "30/10/2026",
+      "itens": [
+        "Opções de rota de verdade: além da mais rápida, as alternativas, a SEM PEDÁGIO e a MAIS CURTA (com o seu veículo e as suas escolhas de evitar). Cada opção mostra o tempo, a distância, quanto demora a mais e o pedágio: quantas praças e o valor para o seu veículo (moto, carro ou por eixo no caminhão).",
+        "Na rota escolhida, \"Pedágios desta rota\" lista cada praça com a concessionária e o valor. Os valores vêm do mapa colaborativo (976 praças no Brasil) e só contam as praças do sentido em que você passa."
+      ],
+      "en": [
+        "Real route options: besides the fastest, the alternatives, the NO-TOLL and the SHORTEST (with your vehicle and your avoid choices). Each option shows the time, distance, how much longer it takes and the tolls: how many plazas and the price for your vehicle (motorcycle, car or per axle for trucks).",
+        "On the chosen route, \"Tolls on this route\" lists each plaza with the operator and price. Prices come from the collaborative map (976 plazas in Brazil) and only plazas in your direction of travel are counted."
+      ],
+      "es": [
+        "Opciones de ruta de verdad: además de la más rápida, las alternativas, la SIN PEAJE y la MÁS CORTA (con su vehículo y sus opciones de evitar). Cada opción muestra el tiempo, la distancia, cuánto más tarda y el peaje: cuántas plazas y el valor para su vehículo (moto, auto o por eje en camión).",
+        "En la ruta elegida, \"Peajes de esta ruta\" lista cada plaza con la concesionaria y el valor. Los valores vienen del mapa colaborativo (976 plazas en Brasil) y solo cuentan las plazas en el sentido en que usted pasa."
+      ]
+    },
     {
       "versao": "0.45.3",
       "data": "30/10/2026",
@@ -199,28 +216,6 @@
       ],
       "es": [
         "Girar el celular es mucho más rápido: el mapa quieto se redibujaba sin parar (los nombres de las calles apareciendo y desapareciendo), y el giro esperaba en la fila — por eso la pantalla quedaba dividida por segundos. Ahora el mapa descansa cuando está quieto y dibuja menos píxeles en pantallas de altísima resolución. La app también queda más liviana y gasta menos batería."
-      ]
-    },
-    {
-      "versao": "0.43.6",
-      "data": "30/10/2026",
-      "itens": [
-        "Celular deitado: os botões Seguir, Mídia, Gravar e ☰ voltaram a funcionar (a barra de baixo ficava por cima deles e engolia o toque).",
-        "Girar o celular: a tela só gira, sem esmaecer e sem sumir o mapa.",
-        "Avisar na via: o seu próprio aviso não aparece mais como alerta por cima do \"Valeu!\" do Vrumbi; o balão virou card no padrão, com o botão Desfazer contornado e o X igual ao dos outros avisos.",
-        "Clima e tempo: nova faixa \"Chuva nas próximas 2 horas\", de 15 em 15 minutos, com a hora em que a chuva começa. No widget, a linha Chuva diz \"Chuva às 10:15\" ou \"Chovendo agora\" quando há chuva nas próximas 2 h."
-      ],
-      "en": [
-        "Phone in landscape: the Follow, Media, Record and ☰ buttons work again (the bottom bar sat on top of them and swallowed the touch).",
-        "Rotating the phone: the screen just rotates, with no fade and no disappearing map.",
-        "Reporting on the road: your own report no longer shows up as an alert on top of Vrumbi's \"Thanks!\"; the bubble is now a standard card, with an outlined Undo button and the same X as the other notices.",
-        "Weather: new \"Rain in the next 2 hours\" strip, every 15 minutes, with the time the rain starts. On the widget, the Rain line says \"Rain at 10:15\" or \"Raining now\" when rain is coming within 2 h."
-      ],
-      "es": [
-        "Celular horizontal: los botones Seguir, Medios, Grabar y ☰ vuelven a funcionar (la barra de abajo quedaba encima y se tragaba el toque).",
-        "Girar el celular: la pantalla solo gira, sin desvanecer y sin que desaparezca el mapa.",
-        "Avisar en la vía: su propio aviso ya no aparece como alerta encima del \"¡Gracias!\" de Vrumbi; el globo es ahora una tarjeta estándar, con el botón Deshacer contorneado y la X igual a la de los demás avisos.",
-        "Clima: nueva franja \"Lluvia en las próximas 2 horas\", cada 15 minutos, con la hora en que empieza la lluvia. En el widget, la línea Lluvia dice \"Lluvia a las 10:15\" o \"Lloviendo ahora\" cuando llega lluvia en 2 h."
       ]
     }
   ]
