@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.5",
-  "codigo": 116,
+  "versao": "0.41.6",
+  "codigo": 117,
   "data": "30/10/2026",
-  "tamanho": 188669923,
-  "sha256": "8e639cd9e212e8bd5541a7a318b0c87b741cfcc36fe7fc834829c54543e36f80",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.5/Vrumbi-0.41.5.apk",
+  "tamanho": 188000010,
+  "sha256": "05246703a0c23520ac3f1a7460883f2fb73e6140e8875dbd379a19c0ab726997",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.6/Vrumbi-0.41.6.apk",
   "notas": [
-    "Favoritos dentro do Buscar: a lupa foi para a esquerda, no lugar do botão Favoritos. Ao abrir a busca, quatro cards em destaque: Casa e Trabalho já traçam a rota, Favoritos mostra todos os seus lugares salvos logo abaixo e Proximidades abre a ajuda por perto."
+    "Clima e tempo: deslize o dedo para a esquerda ou para a direita em qualquer lugar da tela para trocar de local (as abas de cima)."
   ],
   "versoes": [
+    {
+      "versao": "0.41.6",
+      "data": "30/10/2026",
+      "itens": [
+        "Clima e tempo: deslize o dedo para a esquerda ou para a direita em qualquer lugar da tela para trocar de local (as abas de cima)."
+      ],
+      "en": [
+        "Weather: swipe left or right anywhere on the screen to switch between places (the tabs at the top)."
+      ],
+      "es": [
+        "Clima: deslice el dedo a la izquierda o a la derecha en cualquier parte de la pantalla para cambiar de lugar (las pestañas de arriba)."
+      ]
+    },
     {
       "versao": "0.41.5",
       "data": "30/10/2026",
@@ -181,19 +194,6 @@
       ],
       "es": [
         "Icono de humo: vuelve el ancho de antes; solo las columnas quedaron más bajas."
-      ]
-    },
-    {
-      "versao": "0.40.4",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça: colunas mais finas e mais baixas."
-      ],
-      "en": [
-        "Smoke icon: thinner, shorter columns."
-      ],
-      "es": [
-        "Icono de humo: columnas más finas y más bajas."
       ]
     }
   ]
