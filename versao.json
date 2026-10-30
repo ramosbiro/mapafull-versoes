@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.45.2",
-  "codigo": 137,
+  "versao": "0.45.3",
+  "codigo": 138,
   "data": "30/10/2026",
-  "tamanho": 192653109,
-  "sha256": "7de8c0485cf075b23369573d9985d9ce0d7f234b635cfc56046edea47235e07a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.2/Vrumbi-0.45.2.apk",
+  "tamanho": 192006320,
+  "sha256": "217e9923d337fed014b80b45825ef0c6f1eea1d228481c989fa654cee29758b1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.3/Vrumbi-0.45.3.apk",
   "notas": [
-    "Download dos mapas que dá para acompanhar: no alto da tela, o mapa da vez com a barra e a porcentagem, \"mapa 3 de 27\" e o total; baixando o Brasil ou uma região, a lista abre sozinha e cada estado mostra a porcentagem, \"na fila\" ou pronto. Com o app em segundo plano, a notificação mostra a barra, a porcentagem e o mapa, com Cancelar. Se der erro, aparece o motivo e \"Tentar de novo\".",
-    "Mapas offline dos Estados Unidos por estado (como o Brasil: Nordeste, Centro-Oeste, Sul e Oeste), começando por Flórida, Nova York, Califórnia, Nevada, Texas, Massachusetts, Illinois, Geórgia, Washington D.C., Havaí, Nova Jersey e Arizona; os outros estados entram em seguida.",
-    "Itália em 5 partes (Noroeste, Nordeste, Centro, Sul e Ilhas), Reino Unido (Inglaterra, Escócia, País de Gales) e Ilhas Canárias. França (por região, com a Guiana Francesa e as ilhas) e Alemanha (por estado) chegam logo depois, sem precisar atualizar o app.",
-    "Os nomes das regiões e dos estados aparecem no idioma do aplicativo."
+    "Editar favorito de verdade: além do título, o endereço e o número. Ao mudar, eu procuro o lugar novo e mostro as opções; tocando na certa e em Salvar, o favorito vai para o lugar novo (e a rota também)."
   ],
   "versoes": [
+    {
+      "versao": "0.45.3",
+      "data": "30/10/2026",
+      "itens": [
+        "Editar favorito de verdade: além do título, o endereço e o número. Ao mudar, eu procuro o lugar novo e mostro as opções; tocando na certa e em Salvar, o favorito vai para o lugar novo (e a rota também)."
+      ],
+      "en": [
+        "Real favorite editing: besides the title, the address and the number. When you change them, I look up the new place and show the options; tap the right one and Save, and the favorite moves there (and so does the route)."
+      ],
+      "es": [
+        "Editar favorito de verdad: además del título, la dirección y el número. Al cambiarlos, busco el lugar nuevo y muestro las opciones; al tocar la correcta y Guardar, el favorito pasa al lugar nuevo (y la ruta también)."
+      ]
+    },
     {
       "versao": "0.45.2",
       "data": "30/10/2026",
@@ -211,28 +221,6 @@
         "Girar el celular: la pantalla solo gira, sin desvanecer y sin que desaparezca el mapa.",
         "Avisar en la vía: su propio aviso ya no aparece como alerta encima del \"¡Gracias!\" de Vrumbi; el globo es ahora una tarjeta estándar, con el botón Deshacer contorneado y la X igual a la de los demás avisos.",
         "Clima: nueva franja \"Lluvia en las próximas 2 horas\", cada 15 minutos, con la hora en que empieza la lluvia. En el widget, la línea Lluvia dice \"Lluvia a las 10:15\" o \"Lloviendo ahora\" cuando llega lluvia en 2 h."
-      ]
-    },
-    {
-      "versao": "0.43.5",
-      "data": "30/10/2026",
-      "itens": [
-        "Clima e tempo: saíram os ícones de nascer do sol, pôr do sol, arco-íris e fumaça — eles apareciam com o céu nublado ou com chuva e confundiam; agora o ícone é sempre o do tempo (a tempestade de areia, de regiões de deserto, continua).",
-        "Ícone de sol com nuvens: a nuvem agora tem a cor das outras nuvens; só o sol fica amarelo.",
-        "Clima e tempo: ao trocar de cidade (deslizando ou pela aba), a lista fica no mesmo horário em que você estava, em vez de voltar para o início.",
-        "Girar o celular ficou limpo: ao voltar para o retrato não aparece mais a tela do horizontal espremida em cima com um branco embaixo — enquanto o Android ajusta o tamanho, a tela fica na cor do mapa e a imagem certa entra suave."
-      ],
-      "en": [
-        "Weather: the sunrise, sunset, rainbow and smoke icons are gone — they showed up with cloudy or rainy skies and were confusing; the icon is now always the weather itself (sandstorms, in desert regions, remain).",
-        "Sun-and-clouds icon: the cloud now has the same color as the other clouds; only the sun is yellow.",
-        "Weather: when switching cities (by swiping or by the tab), the list stays at the same time you were looking at instead of jumping back to the top.",
-        "Rotating the phone is clean now: going back to portrait no longer shows the landscape screen squeezed at the top with white below — while Android adjusts the size, the screen stays in the map color and the right picture fades in."
-      ],
-      "es": [
-        "Clima: se quitaron los íconos de amanecer, atardecer, arcoíris y humo — aparecían con el cielo nublado o con lluvia y confundían; ahora el ícono es siempre el del tiempo (la tormenta de arena, de regiones desérticas, sigue).",
-        "Ícono de sol con nubes: la nube ahora tiene el color de las otras nubes; solo el sol queda amarillo.",
-        "Clima: al cambiar de ciudad (deslizando o por la pestaña), la lista queda en la misma hora en que estaba, en lugar de volver al inicio.",
-        "Girar el celular quedó limpio: al volver a vertical ya no aparece la pantalla horizontal apretada arriba con blanco abajo — mientras Android ajusta el tamaño, la pantalla queda del color del mapa y la imagen correcta entra suave."
       ]
     }
   ]
