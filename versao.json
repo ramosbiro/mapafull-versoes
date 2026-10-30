@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.2",
-  "codigo": 123,
+  "versao": "0.43.3",
+  "codigo": 124,
   "data": "30/10/2026",
-  "tamanho": 188695222,
-  "sha256": "479c63f4096fe5a76f98244c5a8322dd0d4a409e19d22df85115e5392bbbbb56",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.2/Vrumbi-0.43.2.apk",
+  "tamanho": 188023606,
+  "sha256": "af26bd50b08a5e56c8d7dafcbbd88962574fa227489fb7f57b1b8798608d3cfd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.3/Vrumbi-0.43.3.apk",
   "notas": [
-    "Player no tamanho máximo não passa mais da tela (o X ficava cortado), puxar a borda para mudar o tamanho não dá mais um pulinho no começo, e o popup fica um pouco afastado das laterais: ali é a faixa do gesto de voltar do Android, que roubava o toque (e às vezes saía do app) quando se puxava a borda do player.",
-    "Player, menu de posição: os botões de Encaixar na borda voltaram a mostrar o traço laranja de cima ou de baixo (de lado, com o celular deitado), para saber para onde o player vai."
+    "Player de mídia esticado (mais alto): voltou a arrastar de qualquer ponto e a mudar de tamanho pelas bordas. Nesse modo ele cortava a metade de fora das alças das bordas e travava o arrasto quando o conteúdo rolava."
   ],
   "versoes": [
+    {
+      "versao": "0.43.3",
+      "data": "30/10/2026",
+      "itens": [
+        "Player de mídia esticado (mais alto): voltou a arrastar de qualquer ponto e a mudar de tamanho pelas bordas. Nesse modo ele cortava a metade de fora das alças das bordas e travava o arrasto quando o conteúdo rolava."
+      ],
+      "en": [
+        "Media player stretched taller: it can be dragged from anywhere and resized by its edges again. In that mode it cut off the outer half of the edge handles and blocked dragging when the content scrolled."
+      ],
+      "es": [
+        "Reproductor estirado (más alto): vuelve a arrastrarse desde cualquier punto y a cambiar de tamaño por los bordes. En ese modo cortaba la mitad exterior de las asas de los bordes y bloqueaba el arrastre cuando el contenido se desplazaba."
+      ]
+    },
     {
       "versao": "0.43.2",
       "data": "30/10/2026",
@@ -215,19 +227,6 @@
         "Los sectores censales ahora se descargan solo cuando la capa los pide (la app quedó más liviana).",
         "Clima: en el menú ☰, los iconos del tiempo tienen las mismas tres opciones del widget (De colores, Realistas o Del color del texto), y los iconos del ítem \"Clima y tiempo\" y del menú siguen la elección (con Realistas, la Luna muestra la fase de hoy).",
         "Widget: tocar el reloj ahora abre las alarmas también en los celulares Samsung (si el celular no lo permite, abre la app Reloj)."
-      ]
-    },
-    {
-      "versao": "0.41.1",
-      "data": "29/10/2026",
-      "itens": [
-        "Fumaça, poeira e geada no mesmo jeito das nuvens novas: fumaça em rolos fofos subindo na frente do sol (ou da lua), poeira como um véu macio atravessando e geada como chão gelado, com capim branco e brilhos."
-      ],
-      "en": [
-        "Smoke, dust and frost in the same style as the new clouds: fluffy smoke billows rising in front of the sun (or moon), dust as a soft veil drifting across and frost as icy ground with white grass and sparkles."
-      ],
-      "es": [
-        "Humo, polvo y helada con el mismo estilo de las nubes nuevas: humo en rollos esponjosos subiendo delante del sol (o de la luna), polvo como un velo suave que cruza y helada como suelo helado, con pasto blanco y brillos."
       ]
     }
   ]
