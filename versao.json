@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.46.0",
-  "codigo": 139,
+  "versao": "0.46.1",
+  "codigo": 140,
   "data": "30/10/2026",
-  "tamanho": 192042924,
-  "sha256": "a6637d7a992f734e2fec2202aa3916ea4e8f5336f1f6f7c3f8a956990138db52",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.46.0/Vrumbi-0.46.0.apk",
+  "tamanho": 192043364,
+  "sha256": "a605d2b90c545a82bf75632ccbbcbebffae49e15b18eda754f4eb7dddc62ef55",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.46.1/Vrumbi-0.46.1.apk",
   "notas": [
-    "Opções de rota de verdade: além da mais rápida, as alternativas, a SEM PEDÁGIO e a MAIS CURTA (com o seu veículo e as suas escolhas de evitar). Cada opção mostra o tempo, a distância, quanto demora a mais e o pedágio: quantas praças e o valor para o seu veículo (moto, carro ou por eixo no caminhão).",
-    "Na rota escolhida, \"Pedágios desta rota\" lista cada praça com a concessionária e o valor. Os valores vêm do mapa colaborativo (976 praças no Brasil) e só contam as praças do sentido em que você passa."
+    "Meu carro direto na busca: logo abaixo de Casa, Trabalho, Favoritos e Proximidades, onde o carro ficou estacionado (há quanto tempo e a que distância); tocar mostra o lugar e a rota até ele. Sem carro marcado, \"Marcar onde estacionei\" fica ali mesmo."
   ],
   "versoes": [
+    {
+      "versao": "0.46.1",
+      "data": "30/10/2026",
+      "itens": [
+        "Meu carro direto na busca: logo abaixo de Casa, Trabalho, Favoritos e Proximidades, onde o carro ficou estacionado (há quanto tempo e a que distância); tocar mostra o lugar e a rota até ele. Sem carro marcado, \"Marcar onde estacionei\" fica ali mesmo."
+      ],
+      "en": [
+        "My car right in search: below Home, Work, Favorites and Nearby, where the car was parked (how long ago and how far); tap to see the place and the route there. With no car marked, \"Mark where I parked\" is right there."
+      ],
+      "es": [
+        "Mi auto directo en la búsqueda: debajo de Casa, Trabajo, Favoritos y Cercanías, dónde quedó estacionado (hace cuánto y a qué distancia); al tocar muestra el lugar y la ruta. Sin auto marcado, \"Marcar dónde estacioné\" queda ahí mismo."
+      ]
+    },
     {
       "versao": "0.46.0",
       "data": "30/10/2026",
@@ -203,19 +215,6 @@
         "Hora, batería y señal arriba de la pantalla siempre legibles: los íconos quedan oscuros sobre el mapa claro y claros sobre el mapa oscuro (y acompañan el Menú y la Configuración cuando están abiertos).",
         "Reproductor encajado en la esquina: ahora se pega de verdad a la esquina (antes bajaba debajo de la \"i\" del mapa) y quedó bien pequeño, con la barra de tiempo de la canción y los botones atrás, reproducir, adelante y detener.",
         "Reproductor estrecho: la pestaña YouTube ya no desaparece detrás de los botones redondos — las tres pestañas siempre caben."
-      ]
-    },
-    {
-      "versao": "0.43.7",
-      "data": "30/10/2026",
-      "itens": [
-        "Girar o celular muito mais rápido: o mapa parado ficava se redesenhando sem parar (os nomes das ruas esmaecendo e reaparecendo), e o giro esperava na fila — por isso a tela ficava dividida por segundos. Agora o mapa descansa quando está parado, e ele desenha menos pixels nas telas de altíssima resolução. O app também fica mais leve e gasta menos bateria."
-      ],
-      "en": [
-        "Rotating the phone is much faster: the idle map kept redrawing nonstop (street names fading in and out), and the rotation waited in line — that is why the screen stayed split for seconds. Now the map rests when idle and draws fewer pixels on very high-resolution screens. The app is also lighter and uses less battery."
-      ],
-      "es": [
-        "Girar el celular es mucho más rápido: el mapa quieto se redibujaba sin parar (los nombres de las calles apareciendo y desapareciendo), y el giro esperaba en la fila — por eso la pantalla quedaba dividida por segundos. Ahora el mapa descansa cuando está quieto y dibuja menos píxeles en pantallas de altísima resolución. La app también queda más liviana y gasta menos batería."
       ]
     }
   ]
