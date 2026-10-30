@@ -1,18 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.44.0",
-  "codigo": 131,
+  "versao": "0.44.1",
+  "codigo": 132,
   "data": "30/10/2026",
-  "tamanho": 192591916,
-  "sha256": "83ff29545b2bea8329d13ad6fe15ccbb22b0bcbac551ee9d94594b3831a9d362",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.0/Vrumbi-0.44.0.apk",
+  "tamanho": 192593355,
+  "sha256": "24dc25c8fe1e29860529dd318983613b0303a9690b9c7d4c25cb9d6d37eb9761",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.1/Vrumbi-0.44.1.apk",
   "notas": [
-    "Central multimídia, primeira parte — Minhas músicas: as músicas do celular tocam dentro do Vrumbi, organizadas por Artistas, Álbuns, Pastas ou Todas, com Tocar tudo, Aleatório, Repetir e a fila para pular para qualquer música.",
-    "Vincular pasta: escolha uma pasta de músicas e cada subpasta (por exemplo, uma por artista) vira uma playlist. Não precisa liberar nada além da própria pasta.",
-    "Tocador do Vrumbi de verdade: continua tocando com a tela apagada e o app no fundo, com os controles na notificação, na tela de bloqueio e no relógio.",
-    "YouTube Music, Spotify e outros: o player mostra a fila do app (a playlist que está tocando) e você pula para qualquer música dela sem sair do Vrumbi."
+    "Tela dividida nos quatro lados: o player gruda em cima, embaixo, à esquerda ou à direita, em pé ou deitado — música e vídeo.",
+    "O player se molda ao espaço: puxe a divisa e ele muda de forma. Na lateral estreita fica em pé, só com os botões um em cima do outro e a barra da música em pé; mais largo, mostra capa, nome e listas; em cima ou embaixo, baixo é a faixa dos controles e alto é o player inteiro.",
+    "Corrigido: arrastar a barra da música pulava de volta ao começo — agora vai para o ponto escolhido, também no YouTube Music, Spotify e outros apps, e tocar numa música da fila do app pula para ela."
   ],
   "versoes": [
+    {
+      "versao": "0.44.1",
+      "data": "30/10/2026",
+      "itens": [
+        "Tela dividida nos quatro lados: o player gruda em cima, embaixo, à esquerda ou à direita, em pé ou deitado — música e vídeo.",
+        "O player se molda ao espaço: puxe a divisa e ele muda de forma. Na lateral estreita fica em pé, só com os botões um em cima do outro e a barra da música em pé; mais largo, mostra capa, nome e listas; em cima ou embaixo, baixo é a faixa dos controles e alto é o player inteiro.",
+        "Corrigido: arrastar a barra da música pulava de volta ao começo — agora vai para o ponto escolhido, também no YouTube Music, Spotify e outros apps, e tocar numa música da fila do app pula para ela."
+      ],
+      "en": [
+        "Split screen on all four sides: the player sticks to the top, bottom, left or right, in portrait or landscape — music and video.",
+        "The player adapts to the space: drag the divider and it changes shape. On a narrow side it stands up, with just the buttons stacked and an upright music bar; wider, it shows cover, name and lists; at the top or bottom, short is the controls strip and tall is the full player.",
+        "Fixed: dragging the music bar jumped back to the start — it now goes to the chosen point, also in YouTube Music, Spotify and other apps, and tapping a song in the app queue jumps to it."
+      ],
+      "es": [
+        "Pantalla dividida en los cuatro lados: el reproductor se pega arriba, abajo, a la izquierda o a la derecha, en vertical u horizontal — música y video.",
+        "El reproductor se adapta al espacio: arrastre la división y cambia de forma. En un lateral estrecho queda de pie, solo con los botones uno encima del otro y la barra de la música vertical; más ancho, muestra portada, nombre y listas; arriba o abajo, bajo es la franja de controles y alto es el reproductor completo.",
+        "Corregido: arrastrar la barra de la música volvía al inicio — ahora va al punto elegido, también en YouTube Music, Spotify y otras apps, y tocar una canción de la cola de la app salta a ella."
+      ]
+    },
     {
       "versao": "0.44.0",
       "data": "30/10/2026",
@@ -226,19 +244,6 @@
         "Botón atrás del celular sin salir de la app por error: dentro de las ventanas vuelve una pantalla a la vez (antes, en algunos lugares, salía de la aplicación) y, en el mapa, el primer atrás solo avisa — salir es con el segundo.",
         "Menú: todas las tarjetas con el mismo contorno (Ajustes rápidos tenía un borde distinto).",
         "Clima: en la primera pestaña, deslizar a la derecha abre el menú ☰ del Clima; con él abierto, a la izquierda vuelve al lugar y a la derecha vuelve al Menú."
-      ]
-    },
-    {
-      "versao": "0.42.1",
-      "data": "30/10/2026",
-      "itens": [
-        "Menu e Configurações agrupados por assunto, para achar cada coisa de cara. Menu: Mapa, Informações (clima, alertas, ajuda por perto), Aplicativo (mapas offline, novidades) e Ajustes (Ajustes rápidos e Configurações). Configurações: Navegação, Avisos e mensagens, Viagens e lugares, Aparência e idioma, Sistema."
-      ],
-      "en": [
-        "Menu and Settings grouped by topic, so you find everything right away. Menu: Map, Information (weather, alerts, help nearby), App (offline maps, what's new) and Settings (Quick settings and Settings). Settings: Navigation, Alerts and messages, Trips and places, Appearance and language, System."
-      ],
-      "es": [
-        "Menú y Configuración agrupados por tema, para encontrar cada cosa enseguida. Menú: Mapa, Información (clima, avisos, ayuda cerca), Aplicación (mapas sin conexión, novedades) y Ajustes (Ajustes rápidos y Configuración). Configuración: Navegación, Avisos y mensajes, Viajes y lugares, Apariencia e idioma, Sistema."
       ]
     }
   ]
