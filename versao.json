@@ -1,20 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.1",
-  "codigo": 122,
+  "versao": "0.43.2",
+  "codigo": 123,
   "data": "30/10/2026",
-  "tamanho": 189352093,
-  "sha256": "7f58dd329a2cf5506c98706ded79bf384666cfd235cabbed55ec9b68a9c23f7f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.1/Vrumbi-0.43.1.apk",
+  "tamanho": 188695222,
+  "sha256": "479c63f4096fe5a76f98244c5a8322dd0d4a409e19d22df85115e5392bbbbb56",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.2/Vrumbi-0.43.2.apk",
   "notas": [
-    "O botão ☰ desceu: agora fica embaixo, à direita, logo acima do Avisar e do velocímetro — tudo ao alcance do polegar, e o alto do mapa fica livre.",
-    "A Voz saiu da tela e virou um card no topo do Menu (ao lado do nome Vrumbi): abriu o ☰, já liga ou desliga. Continua também nos Ajustes rápidos e no toque no velocímetro.",
-    "Menu: os cards Mapa completo, Unidades e Camadas ficaram um pouco menores e mais discretos.",
-    "Cards nunca mais grudados: em todas as janelas (Gravar, Favoritos e as outras) cada card fica separado do anterior, no mesmo espaço.",
-    "Configurações sem repetição: cada ajuste que tinha par fora delas foi morar junto dele. Escolher a voz, Cor de destaque e Avisos de clima estão nos Ajustes rápidos; Ajustes da gravação, no Gravar; os ajustes das Mensagens, na engrenagem da caixa de Mensagens; Meus lugares e backup, nos Favoritos. Nas Configurações ficou o resto: Navegação (veículo, ícone da posição, evitar na rota, tela do carro, GPS), Idioma e widgets, e Sistema.",
-    "Celular deitado: os botões ficam numa fileira só, embaixo (Buscar, Seguir, Mídia, Gravar à esquerda; ☰, Avisar e velocímetro à direita), rentes às bordas e longe do furo da câmera; o \"i\" do mapa alinhado com eles."
+    "Player no tamanho máximo não passa mais da tela (o X ficava cortado), puxar a borda para mudar o tamanho não dá mais um pulinho no começo, e o popup fica um pouco afastado das laterais: ali é a faixa do gesto de voltar do Android, que roubava o toque (e às vezes saía do app) quando se puxava a borda do player.",
+    "Player, menu de posição: os botões de Encaixar na borda voltaram a mostrar o traço laranja de cima ou de baixo (de lado, com o celular deitado), para saber para onde o player vai."
   ],
   "versoes": [
+    {
+      "versao": "0.43.2",
+      "data": "30/10/2026",
+      "itens": [
+        "Player no tamanho máximo não passa mais da tela (o X ficava cortado), puxar a borda para mudar o tamanho não dá mais um pulinho no começo, e o popup fica um pouco afastado das laterais: ali é a faixa do gesto de voltar do Android, que roubava o toque (e às vezes saía do app) quando se puxava a borda do player.",
+        "Player, menu de posição: os botões de Encaixar na borda voltaram a mostrar o traço laranja de cima ou de baixo (de lado, com o celular deitado), para saber para onde o player vai."
+      ],
+      "en": [
+        "The player at its largest no longer goes past the screen (the X was cut off), dragging an edge to resize no longer jumps at the start, and the popup stays a little away from the sides: that is the Android back-gesture strip, which stole the touch (and sometimes left the app) when dragging the player edge.",
+        "Player, position menu: the Dock to edge buttons show the orange bar at the top or bottom again (on the sides, with the phone in landscape), so you know where the player goes."
+      ],
+      "es": [
+        "El reproductor en su tamaño máximo ya no se sale de la pantalla (la X quedaba cortada), tirar del borde para cambiar el tamaño ya no da un saltito al comienzo, y la ventana queda un poco apartada de los lados: ahí está la franja del gesto atrás de Android, que robaba el toque (y a veces salía de la app) al tirar del borde.",
+        "Reproductor, menú de posición: los botones de Encajar en el borde vuelven a mostrar la barra naranja arriba o abajo (a los lados, con el celular horizontal), para saber adónde va el reproductor."
+      ]
+    },
     {
       "versao": "0.43.1",
       "data": "30/10/2026",
@@ -216,25 +228,6 @@
       ],
       "es": [
         "Humo, polvo y helada con el mismo estilo de las nubes nuevas: humo en rollos esponjosos subiendo delante del sol (o de la luna), polvo como un velo suave que cruza y helada como suelo helado, con pasto blanco y brillos."
-      ]
-    },
-    {
-      "versao": "0.41.0",
-      "data": "29/10/2026",
-      "itens": [
-        "Nuvens novas nos ícones do tempo: com cara de foto, fofas, com volume, topo branco e base cinza, e a borda macia.",
-        "Chuva e garoa em fios finos e brilhantes (mais fios quanto mais forte a chuva).",
-        "Sol e lua maiores (continuam do mesmo tamanho em todos os ícones) e ícones maiores na fileira de horas do widget, com menos espaço entre a hora, o ícone e a temperatura."
-      ],
-      "en": [
-        "New clouds in the weather icons: photo-like, fluffy, with volume, a white top, a grey base and soft edges.",
-        "Rain and drizzle as thin shiny streaks (more streaks the heavier the rain).",
-        "Bigger sun and moon (still the same size in every icon) and bigger icons in the widget hourly row, with less space between the hour, the icon and the temperature."
-      ],
-      "es": [
-        "Nubes nuevas en los iconos del tiempo: con aspecto de foto, esponjosas, con volumen, parte de arriba blanca, base gris y borde suave.",
-        "Lluvia y llovizna en hilos finos y brillantes (más hilos cuanto más fuerte la lluvia).",
-        "Sol y luna más grandes (siguen del mismo tamaño en todos los iconos) e iconos más grandes en la fila de horas del widget, con menos espacio entre la hora, el icono y la temperatura."
       ]
     }
   ]
