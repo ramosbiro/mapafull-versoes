@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.3",
-  "codigo": 114,
-  "data": "29/10/2026",
-  "tamanho": 187991182,
-  "sha256": "1d378718e203a97418b3cf7469f5f5f6c0fa37b26f30234136cd45881e86e61f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.3/Vrumbi-0.41.3.apk",
+  "versao": "0.41.4",
+  "codigo": 115,
+  "data": "30/10/2026",
+  "tamanho": 188665062,
+  "sha256": "365c9da7226785c47f1170c808340a1b613fbc343b75ba25e186574ec950545e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.4/Vrumbi-0.41.4.apk",
   "notas": [
-    "Clima > Meus locais: dá para buscar qualquer cidade pelo nome e salvar nas abas do clima (até 5); a cidade salva também aparece como local do widget."
+    "Player na borda: arraste o player até a borda de cima ou de baixo e, com música, ele vira uma barrinha com tocar/pausar, voltar, avançar e a barra da música. O mapa, os botões e os avisos passam a ocupar o resto da tela, sem ficar por baixo dele. Segure o player meio segundo para soltar de novo.",
+    "Com vídeo, vira tela dividida: com o celular em pé, o vídeo fica em cima ou embaixo; deitado, à esquerda ou à direita. O app ajusta o lado sozinho ao girar o celular. Arraste a divisa para aumentar ou diminuir o vídeo.",
+    "Botão Alertas: o número some depois que você vê o alerta (abrindo Alertas ou fechando o aviso); o ícone agora fica na cor do sistema, como os outros botões.",
+    "O botão Avisar ganhou ícone próprio (megafone), diferente do Alertas."
   ],
   "versoes": [
+    {
+      "versao": "0.41.4",
+      "data": "30/10/2026",
+      "itens": [
+        "Player na borda: arraste o player até a borda de cima ou de baixo e, com música, ele vira uma barrinha com tocar/pausar, voltar, avançar e a barra da música. O mapa, os botões e os avisos passam a ocupar o resto da tela, sem ficar por baixo dele. Segure o player meio segundo para soltar de novo.",
+        "Com vídeo, vira tela dividida: com o celular em pé, o vídeo fica em cima ou embaixo; deitado, à esquerda ou à direita. O app ajusta o lado sozinho ao girar o celular. Arraste a divisa para aumentar ou diminuir o vídeo.",
+        "Botão Alertas: o número some depois que você vê o alerta (abrindo Alertas ou fechando o aviso); o ícone agora fica na cor do sistema, como os outros botões.",
+        "O botão Avisar ganhou ícone próprio (megafone), diferente do Alertas."
+      ],
+      "en": [
+        "Player on the edge: drag the player to the top or bottom edge and, with music, it becomes a small bar with play/pause, previous, next and the track bar. The map, buttons and alerts use the rest of the screen, never under it. Hold the player for half a second to release it again.",
+        "With a video, it becomes a split screen: with the phone upright, the video goes on top or bottom; sideways, on the left or right. The app adjusts the side by itself when you rotate the phone. Drag the divider to make the video bigger or smaller.",
+        "Alerts button: the number goes away once you have seen the alert (opening Alerts or closing the notice); the icon now uses the system color, like the other buttons.",
+        "The Report button got its own icon (megaphone), different from Alerts."
+      ],
+      "es": [
+        "Reproductor en el borde: arrastre el reproductor hasta el borde de arriba o de abajo y, con música, se vuelve una barrita con reproducir/pausar, anterior, siguiente y la barra de la canción. El mapa, los botones y los avisos usan el resto de la pantalla, sin quedar debajo. Mantenga el reproductor medio segundo para soltarlo de nuevo.",
+        "Con video, se vuelve pantalla dividida: con el celular de pie, el video va arriba o abajo; acostado, a la izquierda o a la derecha. La app ajusta el lado sola al girar el celular. Arrastre la división para agrandar o achicar el video.",
+        "Botón Alertas: el número desaparece cuando usted ya vio la alerta (abriendo Alertas o cerrando el aviso); el icono ahora usa el color del sistema, como los demás botones.",
+        "El botón Avisar tiene icono propio (megáfono), distinto del de Alertas."
+      ]
+    },
     {
       "versao": "0.41.3",
       "data": "29/10/2026",
@@ -172,19 +197,6 @@
       ],
       "es": [
         "Icono de humo: sin suelo; la base ahora es el propio humo, redondeada y entera dentro del cuadro."
-      ]
-    },
-    {
-      "versao": "0.40.2",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça ajustado: sem o fogo, menor e inteiro dentro do quadro, com a coluna de fumaça saindo de um chão queimado."
-      ],
-      "en": [
-        "Smoke icon adjusted: no fire, smaller and fully inside the frame, with the column of smoke rising from scorched ground."
-      ],
-      "es": [
-        "Icono de humo ajustado: sin fuego, más pequeño y entero dentro del cuadro, con la columna de humo saliendo de un suelo quemado."
       ]
     }
   ]
