@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.41.6",
-  "codigo": 117,
+  "versao": "0.41.7",
+  "codigo": 118,
   "data": "30/10/2026",
-  "tamanho": 188000010,
-  "sha256": "05246703a0c23520ac3f1a7460883f2fb73e6140e8875dbd379a19c0ab726997",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.6/Vrumbi-0.41.6.apk",
+  "tamanho": 188001222,
+  "sha256": "1718e4c9d546572c9b158c672a37c3f2b69c9d4b6b4f012ff41a9f78d8121599",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.41.7/Vrumbi-0.41.7.apk",
   "notas": [
-    "Clima e tempo: deslize o dedo para a esquerda ou para a direita em qualquer lugar da tela para trocar de local (as abas de cima)."
+    "Janelas que sobem de baixo (Avisar, menu, Ajustes rápidos, Configurações, Clima…): com a lista no topo, puxe para baixo e ela desce e fecha, como a gaveta de aplicativos do Android. Arrastar para o lado continua fechando."
   ],
   "versoes": [
+    {
+      "versao": "0.41.7",
+      "data": "30/10/2026",
+      "itens": [
+        "Janelas que sobem de baixo (Avisar, menu, Ajustes rápidos, Configurações, Clima…): com a lista no topo, puxe para baixo e ela desce e fecha, como a gaveta de aplicativos do Android. Arrastar para o lado continua fechando."
+      ],
+      "en": [
+        "Panels that slide up from the bottom (Report, menu, Quick settings, Settings, Weather…): with the list at the top, pull down and it slides away and closes, like the Android app drawer. Swiping sideways still closes it."
+      ],
+      "es": [
+        "Paneles que suben desde abajo (Avisar, menú, Ajustes rápidos, Configuración, Clima…): con la lista arriba del todo, tire hacia abajo y el panel baja y se cierra, como el cajón de aplicaciones de Android. Deslizar hacia el lado sigue cerrándolo."
+      ]
+    },
     {
       "versao": "0.41.6",
       "data": "30/10/2026",
@@ -181,19 +194,6 @@
       ],
       "es": [
         "Icono de humo más arriba en el cuadro, tocando el sol (o la luna)."
-      ]
-    },
-    {
-      "versao": "0.40.5",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça: volta a largura de antes; só as colunas ficaram mais baixas."
-      ],
-      "en": [
-        "Smoke icon: back to the previous width; only the columns are shorter."
-      ],
-      "es": [
-        "Icono de humo: vuelve el ancho de antes; solo las columnas quedaron más bajas."
       ]
     }
   ]
