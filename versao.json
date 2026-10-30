@@ -1,17 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.45.0",
-  "codigo": 135,
+  "versao": "0.45.1",
+  "codigo": 136,
   "data": "30/10/2026",
-  "tamanho": 191960018,
-  "sha256": "30fa10cc99f18b869b87df58df372896c7d42d2b8823eb6c7ee0fe58243a602e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.0/Vrumbi-0.45.0.apk",
+  "tamanho": 191288997,
+  "sha256": "8f2749670138cd588d948a19270aa0b3cadb9275d52b4b23d4eff80d775aa751",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.1/Vrumbi-0.45.1.apk",
   "notas": [
-    "Mapas offline de outros países: toda a América do Sul — Argentina, Uruguai, Paraguai, Chile, Bolívia, Peru, Colômbia, Equador, Venezuela, Guiana e Suriname — em Mapas offline > Adicionar, cada país num download só. Nas fronteiras os mapas se completam.",
-    "Grupos de favoritos: crie grupos (Clientes, Viagem, Postos...), escolha o grupo ao salvar ou pela pasta de cada favorito, filtre pela fileira de grupos e renomeie ou apague um grupo sem perder os favoritos. Na busca, os favoritos aparecem separados por grupo.",
-    "Ligar por voz: em Mensagens, toque em \"Ligar para alguém\" e fale o nome; eu acho nos seus contatos e mostro os números em botões grandes. Os contatos não saem do celular."
+    "Mapas offline: mais países — Portugal, Espanha, Holanda, Suíça e México.",
+    "As regiões do Brasil aparecem só com o nome (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) e, embaixo, os estados de cada uma; abrindo a região, os estados vêm um a um para baixar.",
+    "Os nomes dos países aparecem no idioma do aplicativo."
   ],
   "versoes": [
+    {
+      "versao": "0.45.1",
+      "data": "30/10/2026",
+      "itens": [
+        "Mapas offline: mais países — Portugal, Espanha, Holanda, Suíça e México.",
+        "As regiões do Brasil aparecem só com o nome (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) e, embaixo, os estados de cada uma; abrindo a região, os estados vêm um a um para baixar.",
+        "Os nomes dos países aparecem no idioma do aplicativo."
+      ],
+      "en": [
+        "Offline maps: more countries — Portugal, Spain, Netherlands, Switzerland and Mexico.",
+        "Brazil's regions show only their name (North, Northeast, Center-West, Southeast, South) with their states below; opening a region lists the states one by one to download.",
+        "Country names appear in the app language."
+      ],
+      "es": [
+        "Mapas sin conexión: más países — Portugal, España, Países Bajos, Suiza y México.",
+        "Las regiones de Brasil aparecen solo con el nombre (Norte, Nordeste, Centro-Oeste, Sudeste, Sur) y, debajo, sus estados; al abrir la región, los estados aparecen uno por uno para descargar.",
+        "Los nombres de los países aparecen en el idioma de la app."
+      ]
+    },
     {
       "versao": "0.45.0",
       "data": "30/10/2026",
@@ -210,19 +229,6 @@
         "Reproductor realmente suelto: arrástrelo con el dedo desde cualquier punto de la ventana (antes se movía un poquito y se trababa, porque el celular creía que era para desplazar). También se arrastra por la barrita de arriba (ahí cambiaba de tamaño sin querer).",
         "Sin bordes naranjas al arrastrar: solo el borde que usted sostiene para cambiar el tamaño muestra una barrita naranja fina.",
         "Pantalla dividida: es más fácil soltar el reproductor arriba del todo o abajo del todo para que se vuelva la franja de la pantalla dividida."
-      ]
-    },
-    {
-      "versao": "0.43.3",
-      "data": "30/10/2026",
-      "itens": [
-        "Player de mídia esticado (mais alto): voltou a arrastar de qualquer ponto e a mudar de tamanho pelas bordas. Nesse modo ele cortava a metade de fora das alças das bordas e travava o arrasto quando o conteúdo rolava."
-      ],
-      "en": [
-        "Media player stretched taller: it can be dragged from anywhere and resized by its edges again. In that mode it cut off the outer half of the edge handles and blocked dragging when the content scrolled."
-      ],
-      "es": [
-        "Reproductor estirado (más alto): vuelve a arrastrarse desde cualquier punto y a cambiar de tamaño por los bordes. En ese modo cortaba la mitad exterior de las asas de los bordes y bloqueaba el arrastre cuando el contenido se desplazaba."
       ]
     }
   ]
