@@ -1,15 +1,48 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.42.1",
-  "codigo": 120,
+  "versao": "0.43.0",
+  "codigo": 121,
   "data": "30/10/2026",
-  "tamanho": 188010694,
-  "sha256": "5f087425e6680089b199d9de9700971d295c9541594b191303651e542f30fabe",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.42.1/Vrumbi-0.42.1.apk",
+  "tamanho": 188686058,
+  "sha256": "383dd423ae73d4a2e5319fa2cc11c2e41fcc661c977b6580c2ab97d3377c75ed",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.0/Vrumbi-0.43.0.apk",
   "notas": [
-    "Menu e Configurações agrupados por assunto, para achar cada coisa de cara. Menu: Mapa, Informações (clima, alertas, ajuda por perto), Aplicativo (mapas offline, novidades) e Ajustes (Ajustes rápidos e Configurações). Configurações: Navegação, Avisos e mensagens, Viagens e lugares, Aparência e idioma, Sistema."
+    "O botão Som virou Voz (com microfone): ele sempre ligou e desligou só a voz da navegação, agora com o nome certo.",
+    "O botão Alertas saiu da tela (repetia o Alertas e notícias do Menu): o número de alertas novos aparece no botão ☰ e, dentro do Menu, no card Alertas e notícias, que também diz quantos avisos valem aqui agora.",
+    "Navegação por gestos, como no Android: dentro do Menu, arrastar para o lado VOLTA uma tela (Clima → Menu, seção das Configurações → lista → Menu); no Menu, fecha. O botão voltar do celular faz o mesmo. Puxar para baixo com a lista no topo continua fechando.",
+    "Voltar do celular sem sair do app por engano: dentro das janelas ele volta uma tela por vez (antes, em alguns lugares, saía do aplicativo) e, no mapa, o primeiro voltar só avisa — sair é no segundo.",
+    "Menu: todos os cards com o mesmo contorno (o Ajustes rápidos tinha uma borda diferente).",
+    "Clima e tempo: na primeira aba, arrastar para a direita abre o menu ☰ do Clima; com ele aberto, para a esquerda volta ao local e para a direita volta ao Menu."
   ],
   "versoes": [
+    {
+      "versao": "0.43.0",
+      "data": "30/10/2026",
+      "itens": [
+        "O botão Som virou Voz (com microfone): ele sempre ligou e desligou só a voz da navegação, agora com o nome certo.",
+        "O botão Alertas saiu da tela (repetia o Alertas e notícias do Menu): o número de alertas novos aparece no botão ☰ e, dentro do Menu, no card Alertas e notícias, que também diz quantos avisos valem aqui agora.",
+        "Navegação por gestos, como no Android: dentro do Menu, arrastar para o lado VOLTA uma tela (Clima → Menu, seção das Configurações → lista → Menu); no Menu, fecha. O botão voltar do celular faz o mesmo. Puxar para baixo com a lista no topo continua fechando.",
+        "Voltar do celular sem sair do app por engano: dentro das janelas ele volta uma tela por vez (antes, em alguns lugares, saía do aplicativo) e, no mapa, o primeiro voltar só avisa — sair é no segundo.",
+        "Menu: todos os cards com o mesmo contorno (o Ajustes rápidos tinha uma borda diferente).",
+        "Clima e tempo: na primeira aba, arrastar para a direita abre o menu ☰ do Clima; com ele aberto, para a esquerda volta ao local e para a direita volta ao Menu."
+      ],
+      "en": [
+        "The Sound button is now Voice (with a microphone): it always turned only the navigation voice on and off, now with the right name.",
+        "The Alerts button left the screen (it repeated Alerts and news in the Menu): the number of new alerts shows on the ☰ button and, inside the Menu, on the Alerts and news card, which also says how many alerts are in effect here.",
+        "Gesture navigation, like Android: inside the Menu, swiping sideways goes BACK one screen (Weather → Menu, a Settings section → list → Menu); in the Menu, it closes. The phone back button does the same. Pulling down with the list at the top still closes.",
+        "Phone back button without leaving the app by mistake: inside windows it goes back one screen at a time (before, in some places, it left the app) and, on the map, the first back only warns — the second one exits.",
+        "Menu: every card now has the same outline (Quick settings had a different border).",
+        "Weather: on the first tab, swiping right opens the Weather ☰ menu; with it open, swipe left to go back to the place and right to go back to the Menu."
+      ],
+      "es": [
+        "El botón Sonido ahora es Voz (con micrófono): siempre activó y desactivó solo la voz de la navegación, ahora con el nombre correcto.",
+        "El botón Avisos salió de la pantalla (repetía Avisos y noticias del Menú): el número de avisos nuevos aparece en el botón ☰ y, dentro del Menú, en la tarjeta Avisos y noticias, que también dice cuántos avisos rigen aquí ahora.",
+        "Navegación con gestos, como en Android: dentro del Menú, deslizar hacia el lado VUELVE una pantalla (Clima → Menú, sección de Configuración → lista → Menú); en el Menú, cierra. El botón atrás del celular hace lo mismo. Tirar hacia abajo con la lista arriba sigue cerrando.",
+        "Botón atrás del celular sin salir de la app por error: dentro de las ventanas vuelve una pantalla a la vez (antes, en algunos lugares, salía de la aplicación) y, en el mapa, el primer atrás solo avisa — salir es con el segundo.",
+        "Menú: todas las tarjetas con el mismo contorno (Ajustes rápidos tenía un borde distinto).",
+        "Clima: en la primera pestaña, deslizar a la derecha abre el menú ☰ del Clima; con él abierto, a la izquierda vuelve al lugar y a la derecha vuelve al Menú."
+      ]
+    },
     {
       "versao": "0.42.1",
       "data": "30/10/2026",
@@ -190,19 +223,6 @@
       "es": [
         "Sol y luna del mismo tamaño en todos los iconos del tiempo: la situación (humo, bochorno, aire seco, polvo, helada) es solo un detalle pequeño.",
         "La luna de los iconos de noche muestra la fase real de esa hora: nueva, creciente, cuarto creciente, llena, menguante... (en el hemisferio norte, dibujada como se ve allí). En la app y en el widget."
-      ]
-    },
-    {
-      "versao": "0.40.8",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça mais alto no quadro, cobrindo parte do sol (ou da lua)."
-      ],
-      "en": [
-        "Smoke icon higher in the frame, covering part of the sun (or moon)."
-      ],
-      "es": [
-        "Icono de humo más alto en el cuadro, cubriendo parte del sol (o de la luna)."
       ]
     }
   ]
