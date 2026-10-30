@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.42.0",
-  "codigo": 119,
+  "versao": "0.42.1",
+  "codigo": 120,
   "data": "30/10/2026",
-  "tamanho": 188007658,
-  "sha256": "016f8fd07fa303576a6225397262a3511448c603a009b90fcb2a27aeedd152be",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.42.0/Vrumbi-0.42.0.apk",
+  "tamanho": 188010694,
+  "sha256": "5f087425e6680089b199d9de9700971d295c9541594b191303651e542f30fabe",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.42.1/Vrumbi-0.42.1.apk",
   "notas": [
-    "Menu repaginado, sem nada repetido: todos os liga/desliga (tema, radares, limite e tolerância, INMET, comunidade, relógio, transporte e voz) agora ficam num card só, Ajustes rápidos. As Configurações ficam com o resto (cor, idioma, escolher a voz, veículo, ícone, evitar na rota…), e Ajuda por perto entrou na lista do Menu.",
-    "Velocímetro no canto de baixo à direita, na altura do Buscar, com o Avisar logo acima.",
-    "Widget de clima: no hora em hora, a temperatura ganhou um respiro abaixo do ícone (não fica mais colada).",
-    "Player de mídia: arraste o popup de qualquer ponto, também por cima dos botões; as bordas para mudar o tamanho ficaram da largura do dedo; e ele só gruda na borda da tela quando o dedo chega lá."
+    "Menu e Configurações agrupados por assunto, para achar cada coisa de cara. Menu: Mapa, Informações (clima, alertas, ajuda por perto), Aplicativo (mapas offline, novidades) e Ajustes (Ajustes rápidos e Configurações). Configurações: Navegação, Avisos e mensagens, Viagens e lugares, Aparência e idioma, Sistema."
   ],
   "versoes": [
+    {
+      "versao": "0.42.1",
+      "data": "30/10/2026",
+      "itens": [
+        "Menu e Configurações agrupados por assunto, para achar cada coisa de cara. Menu: Mapa, Informações (clima, alertas, ajuda por perto), Aplicativo (mapas offline, novidades) e Ajustes (Ajustes rápidos e Configurações). Configurações: Navegação, Avisos e mensagens, Viagens e lugares, Aparência e idioma, Sistema."
+      ],
+      "en": [
+        "Menu and Settings grouped by topic, so you find everything right away. Menu: Map, Information (weather, alerts, help nearby), App (offline maps, what's new) and Settings (Quick settings and Settings). Settings: Navigation, Alerts and messages, Trips and places, Appearance and language, System."
+      ],
+      "es": [
+        "Menú y Configuración agrupados por tema, para encontrar cada cosa enseguida. Menú: Mapa, Información (clima, avisos, ayuda cerca), Aplicación (mapas sin conexión, novedades) y Ajustes (Ajustes rápidos y Configuración). Configuración: Navegación, Avisos y mensajes, Viajes y lugares, Apariencia e idioma, Sistema."
+      ]
+    },
     {
       "versao": "0.42.0",
       "data": "30/10/2026",
@@ -193,19 +203,6 @@
       ],
       "es": [
         "Icono de humo más alto en el cuadro, cubriendo parte del sol (o de la luna)."
-      ]
-    },
-    {
-      "versao": "0.40.7",
-      "data": "29/10/2026",
-      "itens": [
-        "Ícone de fumaça ainda mais para cima, passando na frente do sol (ou da lua)."
-      ],
-      "en": [
-        "Smoke icon moved further up, passing in front of the sun (or moon)."
-      ],
-      "es": [
-        "Icono de humo aún más arriba, pasando delante del sol (o de la luna)."
       ]
     }
   ]
