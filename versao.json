@@ -1,17 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.4",
-  "codigo": 125,
+  "versao": "0.43.5",
+  "codigo": 126,
   "data": "30/10/2026",
-  "tamanho": 188696881,
-  "sha256": "10f85d8e22e06bf23565897e60061be40359619cbb9a9fc61bc3502e36cc0a59",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.4/Vrumbi-0.43.4.apk",
+  "tamanho": 189361285,
+  "sha256": "ee43aa876cc18a96ba3075fbdda2071fbadc07a97e2e1bfae720ddcf7a285253",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.5/Vrumbi-0.43.5.apk",
   "notas": [
-    "Player de mídia solto de verdade: arraste com o dedo em qualquer ponto do popup (antes ele mexia um pouquinho e travava, porque o celular achava que era para rolar). Pela barrinha do alto ele também arrasta (ali ele mudava de tamanho sem querer).",
-    "Sem bordas laranja ao arrastar: só a borda que você segurar para mudar o tamanho mostra uma barrinha laranja fina.",
-    "Dividir a tela: ficou mais fácil soltar o player lá em cima ou lá embaixo para ele virar a faixa da tela dividida."
+    "Clima e tempo: saíram os ícones de nascer do sol, pôr do sol, arco-íris e fumaça — eles apareciam com o céu nublado ou com chuva e confundiam; agora o ícone é sempre o do tempo (a tempestade de areia, de regiões de deserto, continua).",
+    "Ícone de sol com nuvens: a nuvem agora tem a cor das outras nuvens; só o sol fica amarelo.",
+    "Clima e tempo: ao trocar de cidade (deslizando ou pela aba), a lista fica no mesmo horário em que você estava, em vez de voltar para o início.",
+    "Girar o celular ficou limpo: ao voltar para o retrato não aparece mais a tela do horizontal espremida em cima com um branco embaixo — enquanto o Android ajusta o tamanho, a tela fica na cor do mapa e a imagem certa entra suave."
   ],
   "versoes": [
+    {
+      "versao": "0.43.5",
+      "data": "30/10/2026",
+      "itens": [
+        "Clima e tempo: saíram os ícones de nascer do sol, pôr do sol, arco-íris e fumaça — eles apareciam com o céu nublado ou com chuva e confundiam; agora o ícone é sempre o do tempo (a tempestade de areia, de regiões de deserto, continua).",
+        "Ícone de sol com nuvens: a nuvem agora tem a cor das outras nuvens; só o sol fica amarelo.",
+        "Clima e tempo: ao trocar de cidade (deslizando ou pela aba), a lista fica no mesmo horário em que você estava, em vez de voltar para o início.",
+        "Girar o celular ficou limpo: ao voltar para o retrato não aparece mais a tela do horizontal espremida em cima com um branco embaixo — enquanto o Android ajusta o tamanho, a tela fica na cor do mapa e a imagem certa entra suave."
+      ],
+      "en": [
+        "Weather: the sunrise, sunset, rainbow and smoke icons are gone — they showed up with cloudy or rainy skies and were confusing; the icon is now always the weather itself (sandstorms, in desert regions, remain).",
+        "Sun-and-clouds icon: the cloud now has the same color as the other clouds; only the sun is yellow.",
+        "Weather: when switching cities (by swiping or by the tab), the list stays at the same time you were looking at instead of jumping back to the top.",
+        "Rotating the phone is clean now: going back to portrait no longer shows the landscape screen squeezed at the top with white below — while Android adjusts the size, the screen stays in the map color and the right picture fades in."
+      ],
+      "es": [
+        "Clima: se quitaron los íconos de amanecer, atardecer, arcoíris y humo — aparecían con el cielo nublado o con lluvia y confundían; ahora el ícono es siempre el del tiempo (la tormenta de arena, de regiones desérticas, sigue).",
+        "Ícono de sol con nubes: la nube ahora tiene el color de las otras nubes; solo el sol queda amarillo.",
+        "Clima: al cambiar de ciudad (deslizando o por la pestaña), la lista queda en la misma hora en que estaba, en lugar de volver al inicio.",
+        "Girar el celular quedó limpio: al volver a vertical ya no aparece la pantalla horizontal apretada arriba con blanco abajo — mientras Android ajusta el tamaño, la pantalla queda del color del mapa y la imagen correcta entra suave."
+      ]
+    },
     {
       "versao": "0.43.4",
       "data": "30/10/2026",
@@ -210,19 +233,6 @@
         "Con video, se vuelve pantalla dividida: con el celular de pie, el video va arriba o abajo; acostado, a la izquierda o a la derecha. La app ajusta el lado sola al girar el celular. Arrastre la división para agrandar o achicar el video.",
         "Botón Alertas: el número desaparece cuando usted ya vio la alerta (abriendo Alertas o cerrando el aviso); el icono ahora usa el color del sistema, como los demás botones.",
         "El botón Avisar tiene icono propio (megáfono), distinto del de Alertas."
-      ]
-    },
-    {
-      "versao": "0.41.3",
-      "data": "29/10/2026",
-      "itens": [
-        "Clima > Meus locais: dá para buscar qualquer cidade pelo nome e salvar nas abas do clima (até 5); a cidade salva também aparece como local do widget."
-      ],
-      "en": [
-        "Weather > My places: search any city by name and save it in the weather tabs (up to 5); the saved city also shows up as a widget location."
-      ],
-      "es": [
-        "Clima > Mis lugares: se puede buscar cualquier ciudad por el nombre y guardarla en las pestañas del clima (hasta 5); la ciudad guardada también aparece como lugar del widget."
       ]
     }
   ]
