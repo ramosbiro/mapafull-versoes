@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.6",
-  "codigo": 127,
+  "versao": "0.43.7",
+  "codigo": 128,
   "data": "30/10/2026",
-  "tamanho": 188703118,
-  "sha256": "fa4bc001171f0efe264d4fa4edcfeacd857fdf8890fede1986597c84959d2889",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.6/Vrumbi-0.43.6.apk",
+  "tamanho": 188031282,
+  "sha256": "cffcfe33529a746ca08c15077abc676ae8e5117ac096ecc2a8c6d3a38e6aed09",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.7/Vrumbi-0.43.7.apk",
   "notas": [
-    "Celular deitado: os botões Seguir, Mídia, Gravar e ☰ voltaram a funcionar (a barra de baixo ficava por cima deles e engolia o toque).",
-    "Girar o celular: a tela só gira, sem esmaecer e sem sumir o mapa.",
-    "Avisar na via: o seu próprio aviso não aparece mais como alerta por cima do \"Valeu!\" do Vrumbi; o balão virou card no padrão, com o botão Desfazer contornado e o X igual ao dos outros avisos.",
-    "Clima e tempo: nova faixa \"Chuva nas próximas 2 horas\", de 15 em 15 minutos, com a hora em que a chuva começa. No widget, a linha Chuva diz \"Chuva às 10:15\" ou \"Chovendo agora\" quando há chuva nas próximas 2 h."
+    "Girar o celular muito mais rápido: o mapa parado ficava se redesenhando sem parar (os nomes das ruas esmaecendo e reaparecendo), e o giro esperava na fila — por isso a tela ficava dividida por segundos. Agora o mapa descansa quando está parado, e ele desenha menos pixels nas telas de altíssima resolução. O app também fica mais leve e gasta menos bateria."
   ],
   "versoes": [
+    {
+      "versao": "0.43.7",
+      "data": "30/10/2026",
+      "itens": [
+        "Girar o celular muito mais rápido: o mapa parado ficava se redesenhando sem parar (os nomes das ruas esmaecendo e reaparecendo), e o giro esperava na fila — por isso a tela ficava dividida por segundos. Agora o mapa descansa quando está parado, e ele desenha menos pixels nas telas de altíssima resolução. O app também fica mais leve e gasta menos bateria."
+      ],
+      "en": [
+        "Rotating the phone is much faster: the idle map kept redrawing nonstop (street names fading in and out), and the rotation waited in line — that is why the screen stayed split for seconds. Now the map rests when idle and draws fewer pixels on very high-resolution screens. The app is also lighter and uses less battery."
+      ],
+      "es": [
+        "Girar el celular es mucho más rápido: el mapa quieto se redibujaba sin parar (los nombres de las calles apareciendo y desapareciendo), y el giro esperaba en la fila — por eso la pantalla quedaba dividida por segundos. Ahora el mapa descansa cuando está quieto y dibuja menos píxeles en pantallas de altísima resolución. La app también queda más liviana y gasta menos batería."
+      ]
+    },
     {
       "versao": "0.43.6",
       "data": "30/10/2026",
@@ -220,19 +230,6 @@
       ],
       "es": [
         "Clima: deslice el dedo a la izquierda o a la derecha en cualquier parte de la pantalla para cambiar de lugar (las pestañas de arriba)."
-      ]
-    },
-    {
-      "versao": "0.41.5",
-      "data": "30/10/2026",
-      "itens": [
-        "Favoritos dentro do Buscar: a lupa foi para a esquerda, no lugar do botão Favoritos. Ao abrir a busca, quatro cards em destaque: Casa e Trabalho já traçam a rota, Favoritos mostra todos os seus lugares salvos logo abaixo e Proximidades abre a ajuda por perto."
-      ],
-      "en": [
-        "Favorites inside Search: the magnifier moved to the left, where the Favorites button was. When you open search, four highlighted cards: Home and Work start the route right away, Favorites lists all your saved places just below and Nearby opens help nearby."
-      ],
-      "es": [
-        "Favoritos dentro de Buscar: la lupa pasó a la izquierda, en lugar del botón Favoritos. Al abrir la búsqueda, cuatro tarjetas destacadas: Casa y Trabajo trazan la ruta enseguida, Favoritos muestra todos sus lugares guardados abajo y Cercanías abre la ayuda cerca."
       ]
     }
   ]
