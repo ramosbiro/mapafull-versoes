@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.3",
-  "codigo": 124,
+  "versao": "0.43.4",
+  "codigo": 125,
   "data": "30/10/2026",
-  "tamanho": 188023606,
-  "sha256": "af26bd50b08a5e56c8d7dafcbbd88962574fa227489fb7f57b1b8798608d3cfd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.3/Vrumbi-0.43.3.apk",
+  "tamanho": 188696881,
+  "sha256": "10f85d8e22e06bf23565897e60061be40359619cbb9a9fc61bc3502e36cc0a59",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.4/Vrumbi-0.43.4.apk",
   "notas": [
-    "Player de mídia esticado (mais alto): voltou a arrastar de qualquer ponto e a mudar de tamanho pelas bordas. Nesse modo ele cortava a metade de fora das alças das bordas e travava o arrasto quando o conteúdo rolava."
+    "Player de mídia solto de verdade: arraste com o dedo em qualquer ponto do popup (antes ele mexia um pouquinho e travava, porque o celular achava que era para rolar). Pela barrinha do alto ele também arrasta (ali ele mudava de tamanho sem querer).",
+    "Sem bordas laranja ao arrastar: só a borda que você segurar para mudar o tamanho mostra uma barrinha laranja fina.",
+    "Dividir a tela: ficou mais fácil soltar o player lá em cima ou lá embaixo para ele virar a faixa da tela dividida."
   ],
   "versoes": [
+    {
+      "versao": "0.43.4",
+      "data": "30/10/2026",
+      "itens": [
+        "Player de mídia solto de verdade: arraste com o dedo em qualquer ponto do popup (antes ele mexia um pouquinho e travava, porque o celular achava que era para rolar). Pela barrinha do alto ele também arrasta (ali ele mudava de tamanho sem querer).",
+        "Sem bordas laranja ao arrastar: só a borda que você segurar para mudar o tamanho mostra uma barrinha laranja fina.",
+        "Dividir a tela: ficou mais fácil soltar o player lá em cima ou lá embaixo para ele virar a faixa da tela dividida."
+      ],
+      "en": [
+        "Media player truly free: drag it with your finger from anywhere in the popup (before it moved a little and stopped, because the phone thought you wanted to scroll). It also drags by the top bar (there it used to resize by mistake).",
+        "No orange borders while dragging: only the edge you hold to resize shows a thin orange bar.",
+        "Split screen: it is easier to drop the player at the very top or bottom so it becomes the split-screen strip."
+      ],
+      "es": [
+        "Reproductor realmente suelto: arrástrelo con el dedo desde cualquier punto de la ventana (antes se movía un poquito y se trababa, porque el celular creía que era para desplazar). También se arrastra por la barrita de arriba (ahí cambiaba de tamaño sin querer).",
+        "Sin bordes naranjas al arrastrar: solo el borde que usted sostiene para cambiar el tamaño muestra una barrita naranja fina.",
+        "Pantalla dividida: es más fácil soltar el reproductor arriba del todo o abajo del todo para que se vuelva la franja de la pantalla dividida."
+      ]
+    },
     {
       "versao": "0.43.3",
       "data": "30/10/2026",
@@ -202,31 +223,6 @@
       ],
       "es": [
         "Clima > Mis lugares: se puede buscar cualquier ciudad por el nombre y guardarla en las pestañas del clima (hasta 5); la ciudad guardada también aparece como lugar del widget."
-      ]
-    },
-    {
-      "versao": "0.41.2",
-      "data": "29/10/2026",
-      "itens": [
-        "Botões da tela inicial todos iguais: o menu, o Som/Mudo e o Avisar agora têm o mesmo card dos outros (fundo do tema, contorno fino, ícone na cor do sistema).",
-        "Os dados do mapa se atualizam sozinhos, sem precisar de versão nova: radares, escolas, saúde, áreas de risco e locais são refeitos toda semana e o app baixa só o que mudou. Sem internet, usa os que já vieram no app.",
-        "Os setores censitários agora são baixados só quando a camada pede (o app ficou menor).",
-        "Clima: no menu ☰, os ícones do tempo têm as mesmas três opções do widget (Coloridos, Realistas ou Na cor do texto), e os ícones do item \"Clima e tempo\" e do menu seguem a escolha (com Realistas, a Lua mostra a fase de hoje).",
-        "Widget: tocar no relógio agora abre os alarmes também nos celulares Samsung (se o celular não deixar, abre o app de Relógio)."
-      ],
-      "en": [
-        "All home screen buttons look the same: the menu, Sound/Mute and Report now use the same card as the others (theme background, thin outline, icon in the system color).",
-        "Map data now updates by itself, no new version needed: speed cameras, schools, health, risk areas and places are rebuilt every week and the app downloads only what changed. Offline, it uses the data that came with the app.",
-        "Census tracts are now downloaded only when the layer asks for them (the app got smaller).",
-        "Weather: in the ☰ menu, weather icons have the same three options as the widget (Colorful, Realistic or Text color), and the icons of the \"Weather\" item and of the menu follow the choice (with Realistic, the Moon shows today's phase).",
-        "Widget: tapping the clock now opens the alarms on Samsung phones too (if the phone does not allow it, it opens the Clock app)."
-      ],
-      "es": [
-        "Botones de la pantalla inicial todos iguales: el menú, Sonido/Silencio y Avisar ahora tienen la misma tarjeta que los demás (fondo del tema, contorno fino, icono en el color del sistema).",
-        "Los datos del mapa se actualizan solos, sin necesitar una versión nueva: radares, escuelas, salud, áreas de riesgo y lugares se rehacen cada semana y la app descarga solo lo que cambió. Sin internet, usa los que ya vinieron en la app.",
-        "Los sectores censales ahora se descargan solo cuando la capa los pide (la app quedó más liviana).",
-        "Clima: en el menú ☰, los iconos del tiempo tienen las mismas tres opciones del widget (De colores, Realistas o Del color del texto), y los iconos del ítem \"Clima y tiempo\" y del menú siguen la elección (con Realistas, la Luna muestra la fase de hoy).",
-        "Widget: tocar el reloj ahora abre las alarmas también en los celulares Samsung (si el celular no lo permite, abre la app Reloj)."
       ]
     }
   ]
