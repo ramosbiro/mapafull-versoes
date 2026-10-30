@@ -1,17 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.45.1",
-  "codigo": 136,
+  "versao": "0.45.2",
+  "codigo": 137,
   "data": "30/10/2026",
-  "tamanho": 191288997,
-  "sha256": "8f2749670138cd588d948a19270aa0b3cadb9275d52b4b23d4eff80d775aa751",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.1/Vrumbi-0.45.1.apk",
+  "tamanho": 192653109,
+  "sha256": "7de8c0485cf075b23369573d9985d9ce0d7f234b635cfc56046edea47235e07a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.45.2/Vrumbi-0.45.2.apk",
   "notas": [
-    "Mapas offline: mais países — Portugal, Espanha, Holanda, Suíça e México.",
-    "As regiões do Brasil aparecem só com o nome (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) e, embaixo, os estados de cada uma; abrindo a região, os estados vêm um a um para baixar.",
-    "Os nomes dos países aparecem no idioma do aplicativo."
+    "Download dos mapas que dá para acompanhar: no alto da tela, o mapa da vez com a barra e a porcentagem, \"mapa 3 de 27\" e o total; baixando o Brasil ou uma região, a lista abre sozinha e cada estado mostra a porcentagem, \"na fila\" ou pronto. Com o app em segundo plano, a notificação mostra a barra, a porcentagem e o mapa, com Cancelar. Se der erro, aparece o motivo e \"Tentar de novo\".",
+    "Mapas offline dos Estados Unidos por estado (como o Brasil: Nordeste, Centro-Oeste, Sul e Oeste), começando por Flórida, Nova York, Califórnia, Nevada, Texas, Massachusetts, Illinois, Geórgia, Washington D.C., Havaí, Nova Jersey e Arizona; os outros estados entram em seguida.",
+    "Itália em 5 partes (Noroeste, Nordeste, Centro, Sul e Ilhas), Reino Unido (Inglaterra, Escócia, País de Gales) e Ilhas Canárias. França (por região, com a Guiana Francesa e as ilhas) e Alemanha (por estado) chegam logo depois, sem precisar atualizar o app.",
+    "Os nomes das regiões e dos estados aparecem no idioma do aplicativo."
   ],
   "versoes": [
+    {
+      "versao": "0.45.2",
+      "data": "30/10/2026",
+      "itens": [
+        "Download dos mapas que dá para acompanhar: no alto da tela, o mapa da vez com a barra e a porcentagem, \"mapa 3 de 27\" e o total; baixando o Brasil ou uma região, a lista abre sozinha e cada estado mostra a porcentagem, \"na fila\" ou pronto. Com o app em segundo plano, a notificação mostra a barra, a porcentagem e o mapa, com Cancelar. Se der erro, aparece o motivo e \"Tentar de novo\".",
+        "Mapas offline dos Estados Unidos por estado (como o Brasil: Nordeste, Centro-Oeste, Sul e Oeste), começando por Flórida, Nova York, Califórnia, Nevada, Texas, Massachusetts, Illinois, Geórgia, Washington D.C., Havaí, Nova Jersey e Arizona; os outros estados entram em seguida.",
+        "Itália em 5 partes (Noroeste, Nordeste, Centro, Sul e Ilhas), Reino Unido (Inglaterra, Escócia, País de Gales) e Ilhas Canárias. França (por região, com a Guiana Francesa e as ilhas) e Alemanha (por estado) chegam logo depois, sem precisar atualizar o app.",
+        "Os nomes das regiões e dos estados aparecem no idioma do aplicativo."
+      ],
+      "en": [
+        "Map downloads you can follow: at the top, the current map with a bar and percentage, \"map 3 of 27\" and the total; downloading Brazil or a region opens the list and each state shows its percentage, \"queued\" or done. With the app in the background, the notification shows the bar, percentage and map, with Cancel. On errors, the reason and \"Try again\" appear.",
+        "Offline maps of the United States by state (like Brazil: Northeast, Midwest, South and West), starting with Florida, New York, California, Nevada, Texas, Massachusetts, Illinois, Georgia, Washington D.C., Hawaii, New Jersey and Arizona; the other states come next.",
+        "Italy in 5 parts (Northwest, Northeast, Center, South and Islands), United Kingdom (England, Scotland, Wales) and the Canary Islands. France (by region, with French Guiana and the islands) and Germany (by state) come right after, no app update needed.",
+        "Region and state names appear in the app language."
+      ],
+      "es": [
+        "Descarga de mapas que se puede seguir: arriba, el mapa actual con la barra y el porcentaje, \"mapa 3 de 27\" y el total; al descargar Brasil o una región, la lista se abre y cada estado muestra su porcentaje, \"en cola\" o listo. Con la app en segundo plano, la notificación muestra la barra, el porcentaje y el mapa, con Cancelar. Si hay error, aparece el motivo y \"Intentar de nuevo\".",
+        "Mapas sin conexión de Estados Unidos por estado (como Brasil: Noreste, Centro-Oeste, Sur y Oeste), empezando por Florida, Nueva York, California, Nevada, Texas, Massachusetts, Illinois, Georgia, Washington D.C., Hawái, Nueva Jersey y Arizona; los demás estados vienen después.",
+        "Italia en 5 partes (Noroeste, Noreste, Centro, Sur e Islas), Reino Unido (Inglaterra, Escocia, Gales) e Islas Canarias. Francia (por región, con la Guayana Francesa y las islas) y Alemania (por estado) llegan enseguida, sin actualizar la app.",
+        "Los nombres de regiones y estados aparecen en el idioma de la app."
+      ]
+    },
     {
       "versao": "0.45.1",
       "data": "30/10/2026",
@@ -210,25 +233,6 @@
         "Ícono de sol con nubes: la nube ahora tiene el color de las otras nubes; solo el sol queda amarillo.",
         "Clima: al cambiar de ciudad (deslizando o por la pestaña), la lista queda en la misma hora en que estaba, en lugar de volver al inicio.",
         "Girar el celular quedó limpio: al volver a vertical ya no aparece la pantalla horizontal apretada arriba con blanco abajo — mientras Android ajusta el tamaño, la pantalla queda del color del mapa y la imagen correcta entra suave."
-      ]
-    },
-    {
-      "versao": "0.43.4",
-      "data": "30/10/2026",
-      "itens": [
-        "Player de mídia solto de verdade: arraste com o dedo em qualquer ponto do popup (antes ele mexia um pouquinho e travava, porque o celular achava que era para rolar). Pela barrinha do alto ele também arrasta (ali ele mudava de tamanho sem querer).",
-        "Sem bordas laranja ao arrastar: só a borda que você segurar para mudar o tamanho mostra uma barrinha laranja fina.",
-        "Dividir a tela: ficou mais fácil soltar o player lá em cima ou lá embaixo para ele virar a faixa da tela dividida."
-      ],
-      "en": [
-        "Media player truly free: drag it with your finger from anywhere in the popup (before it moved a little and stopped, because the phone thought you wanted to scroll). It also drags by the top bar (there it used to resize by mistake).",
-        "No orange borders while dragging: only the edge you hold to resize shows a thin orange bar.",
-        "Split screen: it is easier to drop the player at the very top or bottom so it becomes the split-screen strip."
-      ],
-      "es": [
-        "Reproductor realmente suelto: arrástrelo con el dedo desde cualquier punto de la ventana (antes se movía un poquito y se trababa, porque el celular creía que era para desplazar). También se arrastra por la barrita de arriba (ahí cambiaba de tamaño sin querer).",
-        "Sin bordes naranjas al arrastrar: solo el borde que usted sostiene para cambiar el tamaño muestra una barrita naranja fina.",
-        "Pantalla dividida: es más fácil soltar el reproductor arriba del todo o abajo del todo para que se vuelva la franja de la pantalla dividida."
       ]
     }
   ]
