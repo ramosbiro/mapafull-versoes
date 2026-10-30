@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.43.9",
-  "codigo": 130,
+  "versao": "0.44.0",
+  "codigo": 131,
   "data": "30/10/2026",
-  "tamanho": 188705802,
-  "sha256": "0c6bafeefbf0dee712aae9b333e599b0e79c2105af929a9a5050092ebb4e10ae",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.43.9/Vrumbi-0.43.9.apk",
+  "tamanho": 192591916,
+  "sha256": "83ff29545b2bea8329d13ad6fe15ccbb22b0bcbac551ee9d94594b3831a9d362",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.44.0/Vrumbi-0.44.0.apk",
   "notas": [
-    "Player de mídia mais simples: saíram as abas Apps, Arquivos e YouTube. Tudo fica na grade dos players — tocar no YouTube já liga o vídeo com imagem aqui no Vrumbi, e o novo quadrado Arquivos abre direto as pastas do celular para escolher música ou vídeo. Para voltar à grade, \"‹ Players\" no alto."
+    "Central multimídia, primeira parte — Minhas músicas: as músicas do celular tocam dentro do Vrumbi, organizadas por Artistas, Álbuns, Pastas ou Todas, com Tocar tudo, Aleatório, Repetir e a fila para pular para qualquer música.",
+    "Vincular pasta: escolha uma pasta de músicas e cada subpasta (por exemplo, uma por artista) vira uma playlist. Não precisa liberar nada além da própria pasta.",
+    "Tocador do Vrumbi de verdade: continua tocando com a tela apagada e o app no fundo, com os controles na notificação, na tela de bloqueio e no relógio.",
+    "YouTube Music, Spotify e outros: o player mostra a fila do app (a playlist que está tocando) e você pula para qualquer música dela sem sair do Vrumbi."
   ],
   "versoes": [
+    {
+      "versao": "0.44.0",
+      "data": "30/10/2026",
+      "itens": [
+        "Central multimídia, primeira parte — Minhas músicas: as músicas do celular tocam dentro do Vrumbi, organizadas por Artistas, Álbuns, Pastas ou Todas, com Tocar tudo, Aleatório, Repetir e a fila para pular para qualquer música.",
+        "Vincular pasta: escolha uma pasta de músicas e cada subpasta (por exemplo, uma por artista) vira uma playlist. Não precisa liberar nada além da própria pasta.",
+        "Tocador do Vrumbi de verdade: continua tocando com a tela apagada e o app no fundo, com os controles na notificação, na tela de bloqueio e no relógio.",
+        "YouTube Music, Spotify e outros: o player mostra a fila do app (a playlist que está tocando) e você pula para qualquer música dela sem sair do Vrumbi."
+      ],
+      "en": [
+        "Media hub, part one — My music: the phone music plays inside Vrumbi, organized by Artists, Albums, Folders or All, with Play all, Shuffle, Repeat and the queue to jump to any song.",
+        "Link folder: pick a music folder and each subfolder (for example, one per artist) becomes a playlist. Nothing else needs to be allowed besides that folder.",
+        "A real Vrumbi player: keeps playing with the screen off and the app in the background, with controls on the notification, the lock screen and the watch.",
+        "YouTube Music, Spotify and others: the player shows the app queue (the playlist that is playing) and you jump to any song without leaving Vrumbi."
+      ],
+      "es": [
+        "Central multimedia, primera parte — Mi música: la música del celular suena dentro de Vrumbi, organizada por Artistas, Álbumes, Carpetas o Todas, con Reproducir todo, Aleatorio, Repetir y la cola para saltar a cualquier canción.",
+        "Vincular carpeta: elija una carpeta de música y cada subcarpeta (por ejemplo, una por artista) se vuelve una lista. No hace falta permitir nada más que esa carpeta.",
+        "Un reproductor de Vrumbi de verdad: sigue sonando con la pantalla apagada y la app en segundo plano, con los controles en la notificación, la pantalla de bloqueo y el reloj.",
+        "YouTube Music, Spotify y otros: el reproductor muestra la cola de la app (la lista que está sonando) y usted salta a cualquier canción sin salir de Vrumbi."
+      ]
+    },
     {
       "versao": "0.43.9",
       "data": "30/10/2026",
@@ -214,28 +239,6 @@
       ],
       "es": [
         "Menú y Configuración agrupados por tema, para encontrar cada cosa enseguida. Menú: Mapa, Información (clima, avisos, ayuda cerca), Aplicación (mapas sin conexión, novedades) y Ajustes (Ajustes rápidos y Configuración). Configuración: Navegación, Avisos y mensajes, Viajes y lugares, Apariencia e idioma, Sistema."
-      ]
-    },
-    {
-      "versao": "0.42.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Menu repaginado, sem nada repetido: todos os liga/desliga (tema, radares, limite e tolerância, INMET, comunidade, relógio, transporte e voz) agora ficam num card só, Ajustes rápidos. As Configurações ficam com o resto (cor, idioma, escolher a voz, veículo, ícone, evitar na rota…), e Ajuda por perto entrou na lista do Menu.",
-        "Velocímetro no canto de baixo à direita, na altura do Buscar, com o Avisar logo acima.",
-        "Widget de clima: no hora em hora, a temperatura ganhou um respiro abaixo do ícone (não fica mais colada).",
-        "Player de mídia: arraste o popup de qualquer ponto, também por cima dos botões; as bordas para mudar o tamanho ficaram da largura do dedo; e ele só gruda na borda da tela quando o dedo chega lá."
-      ],
-      "en": [
-        "Redesigned menu with nothing repeated: every on/off switch (theme, speed cameras, limit and tolerance, INMET, community, watch, transit and voice) now lives in a single Quick settings card. Settings keep the rest (color, language, choosing the voice, vehicle, icon, avoid on route…), and Help nearby joined the Menu list.",
-        "Speedometer in the bottom-right corner, level with Search, with Report right above it.",
-        "Weather widget: in the hourly forecast, the temperature now has some space below the icon (no longer cramped).",
-        "Media player: drag the popup from anywhere, even over the buttons; the resize edges are now finger-wide; and it only docks to the screen edge when your finger gets there."
-      ],
-      "es": [
-        "Menú renovado, sin nada repetido: todos los interruptores (tema, radares, límite y tolerancia, INMET, comunidad, reloj, transporte y voz) ahora están en una sola tarjeta, Ajustes rápidos. La Configuración guarda el resto (color, idioma, elegir la voz, vehículo, icono, evitar en la ruta…), y Ayuda cerca entró en la lista del Menú.",
-        "Velocímetro en la esquina inferior derecha, a la altura de Buscar, con Avisar justo encima.",
-        "Widget del clima: en el pronóstico por hora, la temperatura ahora tiene un espacio debajo del icono (ya no queda pegada).",
-        "Reproductor: arrastre la ventana desde cualquier punto, incluso sobre los botones; los bordes para cambiar el tamaño ahora tienen el ancho de un dedo; y solo se pega al borde de la pantalla cuando el dedo llega allí."
       ]
     }
   ]
