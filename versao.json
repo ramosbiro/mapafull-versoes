@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.4",
-  "codigo": 159,
+  "versao": "0.52.5",
+  "codigo": 160,
   "data": "31/10/2026",
-  "tamanho": 203125731,
-  "sha256": "1d48665fbcd02767a913c789c2deae8dae0f4ee10c127bd95bc7ddc28b68fd91",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.4/Vrumbi-0.52.4.apk",
+  "tamanho": 204592671,
+  "sha256": "afafa112fbb9737cbe221bf52eb861d694c858301c75a670d34f1a1083899016",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.5/Vrumbi-0.52.5.apk",
   "notas": [
-    "Widget de clima idêntico ao app: os dois usam a mesma previsão, guardada no celular. Quando o app atualiza, o widget muda na hora; quando o widget atualiza sozinho, o app mostra a mesma.",
-    "A hora atual da lista e do gráfico mostra o \"agora\" (a mesma temperatura e condição do topo e do widget), não mais a previsão daquela hora."
+    "Neblina só de verdade: a visibilidade que a previsão informa despenca nas noites úmidas e virava \"Neblina\" a noite toda (com os aeroportos marcando 10 km de visibilidade). Agora a neblina por visibilidade só aparece com o ar saturado (umidade de 98% ou mais) — no app e no widget, igual.",
+    "Com o app aberto, a previsão se renova a cada 10 minutos e vai na hora para o widget.",
+    "Widget de relógio e clima grande: à direita do nome do lugar, a hora da última atualização e um botão discreto para atualizar na hora."
   ],
   "versoes": [
+    {
+      "versao": "0.52.5",
+      "data": "31/10/2026",
+      "itens": [
+        "Neblina só de verdade: a visibilidade que a previsão informa despenca nas noites úmidas e virava \"Neblina\" a noite toda (com os aeroportos marcando 10 km de visibilidade). Agora a neblina por visibilidade só aparece com o ar saturado (umidade de 98% ou mais) — no app e no widget, igual.",
+        "Com o app aberto, a previsão se renova a cada 10 minutos e vai na hora para o widget.",
+        "Widget de relógio e clima grande: à direita do nome do lugar, a hora da última atualização e um botão discreto para atualizar na hora."
+      ],
+      "en": [
+        "Fog only when real: the visibility in the forecast drops on humid nights and turned into \"Fog\" all night (while airports reported 10 km visibility). Now visibility fog only shows with saturated air (humidity of 98% or more) — the same in the app and the widget.",
+        "With the app open, the forecast refreshes every 10 minutes and goes to the widget at once.",
+        "Large clock and weather widget: next to the place name, the time of the last update and a discreet button to update right away."
+      ],
+      "es": [
+        "Niebla solo cuando es real: la visibilidad de la previsión se desploma en las noches húmedas y se convertía en \"Niebla\" toda la noche (con los aeropuertos marcando 10 km de visibilidad). Ahora la niebla por visibilidad solo aparece con el aire saturado (humedad del 98% o más) — igual en la app y en el widget.",
+        "Con la app abierta, la previsión se renueva cada 10 minutos y va al instante al widget.",
+        "Widget grande de reloj y clima: junto al nombre del lugar, la hora de la última actualización y un botón discreto para actualizar al momento."
+      ]
+    },
     {
       "versao": "0.52.4",
       "data": "31/10/2026",
@@ -188,19 +208,6 @@
       ],
       "es": [
         "Tipo de lluvia correcto: la lluvia de verano de la tarde aparece como \"Chubascos\" o \"Lluvia débil\" (antes decía \"Llovizna\"). Llovizna queda solo para la llovizna fina de verdad. Vale para la pantalla Clima, los widgets y el clima de los viajes."
-      ]
-    },
-    {
-      "versao": "0.50.2",
-      "data": "31/10/2026",
-      "itens": [
-        "Clima mais fiel ao céu: com nuvens espalhadas de dia aparece \"Sol entre nuvens\" (e o ícone de sol com nuvens). \"Sol forte (UV alto)\" e \"Ar muito seco\" só aparecem com o céu limpo ou quase; o índice UV continua no card dele."
-      ],
-      "en": [
-        "Weather closer to the real sky: scattered clouds during the day now show \"Sun and clouds\" (with the sun-and-cloud icon). \"Strong sun (high UV)\" and \"Very dry air\" only appear with a clear or nearly clear sky; the UV index stays in its own card."
-      ],
-      "es": [
-        "Clima más fiel al cielo: con nubes dispersas de día aparece \"Sol entre nubes\" (con el ícono de sol y nubes). \"Sol fuerte (UV alto)\" y \"Aire muy seco\" solo aparecen con el cielo despejado o casi; el índice UV sigue en su tarjeta."
       ]
     }
   ]
