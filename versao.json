@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.3",
-  "codigo": 158,
+  "versao": "0.52.4",
+  "codigo": 159,
   "data": "31/10/2026",
-  "tamanho": 199691751,
-  "sha256": "8da030640a93abdd2dbf756dcd050609e8d6799573cc90cda11ce1aa39d36aab",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.3/Vrumbi-0.52.3.apk",
+  "tamanho": 203125731,
+  "sha256": "1d48665fbcd02767a913c789c2deae8dae0f4ee10c127bd95bc7ddc28b68fd91",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.4/Vrumbi-0.52.4.apk",
   "notas": [
-    "O cartão do endereço nunca cobre um botão: ele fica no espaço livre entre os botões da esquerda (Gravar, Mídia, Seguir...) e os da direita (Menu, Avisar, velocímetro), e o nome comprido termina em \"…\".",
-    "A seta fica mais perto do cartão (antes sobrava um espaço de quase um dedo)."
+    "Widget de clima idêntico ao app: os dois usam a mesma previsão, guardada no celular. Quando o app atualiza, o widget muda na hora; quando o widget atualiza sozinho, o app mostra a mesma.",
+    "A hora atual da lista e do gráfico mostra o \"agora\" (a mesma temperatura e condição do topo e do widget), não mais a previsão daquela hora."
   ],
   "versoes": [
+    {
+      "versao": "0.52.4",
+      "data": "31/10/2026",
+      "itens": [
+        "Widget de clima idêntico ao app: os dois usam a mesma previsão, guardada no celular. Quando o app atualiza, o widget muda na hora; quando o widget atualiza sozinho, o app mostra a mesma.",
+        "A hora atual da lista e do gráfico mostra o \"agora\" (a mesma temperatura e condição do topo e do widget), não mais a previsão daquela hora."
+      ],
+      "en": [
+        "Weather widget identical to the app: both use the same forecast, stored on the phone. When the app updates, the widget changes at once; when the widget updates by itself, the app shows the same one.",
+        "The current hour in the list and chart shows \"now\" (the same temperature and condition as the top and the widget), no longer that hour’s forecast."
+      ],
+      "es": [
+        "Widget del clima idéntico a la app: los dos usan la misma previsión, guardada en el celular. Cuando la app actualiza, el widget cambia al instante; cuando el widget se actualiza solo, la app muestra la misma.",
+        "La hora actual de la lista y del gráfico muestra el \"ahora\" (la misma temperatura y condición de arriba y del widget), ya no la previsión de esa hora."
+      ]
+    },
     {
       "versao": "0.52.3",
       "data": "31/10/2026",
@@ -185,25 +201,6 @@
       ],
       "es": [
         "Clima más fiel al cielo: con nubes dispersas de día aparece \"Sol entre nubes\" (con el ícono de sol y nubes). \"Sol fuerte (UV alto)\" y \"Aire muy seco\" solo aparecen con el cielo despejado o casi; el índice UV sigue en su tarjeta."
-      ]
-    },
-    {
-      "versao": "0.50.1",
-      "data": "31/10/2026",
-      "itens": [
-        "Clima mais preciso agora: o app não mostra mais garoa ou chuva quando a chance de chover e as nuvens não confirmam (era o caso de sol entre nuvens aparecendo como \"Garoa\").",
-        "O \"agora\" confere o céu de verdade: com um aeroporto a até 40 km, a condição atual vem da observação dele (atualizada a cada hora), e a tela mostra de onde veio e há quantos minutos.",
-        "O mesmo vale para os widgets da tela inicial e para o clima no caminho das viagens."
-      ],
-      "en": [
-        "More accurate weather now: the app no longer shows drizzle or rain when the chance of rain and the clouds do not back it up (sunny with clouds was showing as \"Drizzle\").",
-        "\"Now\" checks the real sky: with an airport within 40 km, the current condition comes from its observation (updated every hour), and the screen shows where it came from and how many minutes ago.",
-        "The same applies to the home screen widgets and to the weather along your trips."
-      ],
-      "es": [
-        "Clima más preciso ahora: la app ya no muestra llovizna ni lluvia cuando la probabilidad de lluvia y las nubes no lo confirman (sol entre nubes aparecía como \"Llovizna\").",
-        "El \"ahora\" verifica el cielo real: con un aeropuerto a menos de 40 km, la condición actual viene de su observación (actualizada cada hora), y la pantalla muestra de dónde vino y hace cuántos minutos.",
-        "Lo mismo vale para los widgets de la pantalla de inicio y para el clima en el camino de los viajes."
       ]
     }
   ]
