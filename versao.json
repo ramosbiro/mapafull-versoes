@@ -1,18 +1,44 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.48.0",
-  "codigo": 144,
-  "data": "30/10/2026",
-  "tamanho": 200516466,
-  "sha256": "c5d5667642a9788bf72c4fe6993755a340a4fea7eb96233c0356fc3de5a2da7b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.48.0/Vrumbi-0.48.0.apk",
+  "versao": "0.49.0",
+  "codigo": 145,
+  "data": "31/10/2026",
+  "tamanho": 195212837,
+  "sha256": "2f354933b957b291fe4a3be342e9e1be6ee75d97074a19ac6c8a8f6f31d761be",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.49.0/Vrumbi-0.49.0.apk",
   "notas": [
-    "Meus veículos (Configurações): cadastre um ou mais veículos com foto, placa, RENAVAM e cor. O modelo vem da tabela FIPE: digite \"onix 1.0\", escolha o seu na lista e o ano, e eu preencho marca, modelo, combustível e o valor FIPE. Tanque e consumo na estrada e na cidade; sem saber o consumo, a estimativa usa o tipo e o motor do modelo.",
-    "Custo da viagem: escolha o veículo e eu calculo os litros e o valor do combustível pelo preço da ANP da semana em cada estado do caminho, somo os pedágios, a hospedagem (noites × diária) e a alimentação, e mostro o total, também de ida e volta.",
-    "Onde abastecer: com o tanque que você tem na saída, marco o posto do caminho em que parar antes de chegar à reserva, com quanto você chega e quanto vai abastecer. No carro flex, digo se gasolina ou etanol compensa nesta viagem.",
-    "Carro elétrico: eletropostos ao longo da rota e onde recarregar."
+    "Na rota, a seta fica em cima da linha da rota e aponta para onde a rota vai, mesmo com o GPS impreciso: não sai mais para a lateral nem \"voa\" fora da pista. Só larga a linha quando você realmente sai da rota.",
+    "Nada fica por cima da seta: rota, radares, alertas e camadas passam sempre por baixo dela.",
+    "Aviso de pedágio: cerca de 1,5 km antes de cada praça eu falo a distância e o valor para o seu veículo, com o balão na tela e no relógio.",
+    "Lembrete da viagem: na véspera às 20h e 1 hora antes de sair; tocar no aviso abre a viagem com o clima e onde abastecer.",
+    "Mapas do caminho: na viagem, um toque mostra só os mapas offline que a rota atravessa e baixa os que faltam."
   ],
   "versoes": [
+    {
+      "versao": "0.49.0",
+      "data": "31/10/2026",
+      "itens": [
+        "Na rota, a seta fica em cima da linha da rota e aponta para onde a rota vai, mesmo com o GPS impreciso: não sai mais para a lateral nem \"voa\" fora da pista. Só larga a linha quando você realmente sai da rota.",
+        "Nada fica por cima da seta: rota, radares, alertas e camadas passam sempre por baixo dela.",
+        "Aviso de pedágio: cerca de 1,5 km antes de cada praça eu falo a distância e o valor para o seu veículo, com o balão na tela e no relógio.",
+        "Lembrete da viagem: na véspera às 20h e 1 hora antes de sair; tocar no aviso abre a viagem com o clima e onde abastecer.",
+        "Mapas do caminho: na viagem, um toque mostra só os mapas offline que a rota atravessa e baixa os que faltam."
+      ],
+      "en": [
+        "On the route, the arrow stays on the route line and points where the route goes, even with poor GPS: it no longer drifts sideways or \"flies\" off the road. It only leaves the line when you really leave the route.",
+        "Nothing covers the arrow: route, speed cameras, alerts and layers always go under it.",
+        "Toll warning: about 1.5 km before each toll plaza I say the distance and the price for your vehicle, with the bubble on screen and on the watch.",
+        "Trip reminder: the evening before at 8 pm and 1 hour before you leave; tapping it opens the trip with the weather and where to refuel.",
+        "Maps for the route: in the trip, one tap shows only the offline maps the route goes through and downloads the missing ones."
+      ],
+      "es": [
+        "En la ruta, la flecha queda sobre la línea de la ruta y apunta hacia donde va la ruta, incluso con GPS impreciso: ya no se va al costado ni \"vuela\" fuera de la pista. Solo deja la línea cuando de verdad sale de la ruta.",
+        "Nada queda encima de la flecha: ruta, radares, alertas y capas pasan siempre por debajo.",
+        "Aviso de peaje: unos 1,5 km antes de cada plaza digo la distancia y el valor para su vehículo, con el globo en la pantalla y en el reloj.",
+        "Recordatorio del viaje: la víspera a las 20 h y 1 hora antes de salir; tocar el aviso abre el viaje con el clima y dónde cargar.",
+        "Mapas del camino: en el viaje, un toque muestra solo los mapas offline que cruza la ruta y descarga los que faltan."
+      ]
+    },
     {
       "versao": "0.48.0",
       "data": "30/10/2026",
@@ -205,22 +231,6 @@
       "es": [
         "Grabación con las dos cámaras a la vez también en los celulares que no avisan que pueden: en Grabación del viaje, elija \"Las dos\" y pruebo su celular en 2 segundos. Si funciona, grabo la carretera y el interior juntos, en dos videos.",
         "Si el celular no aguanta las dos en Full HD, pruebo en HD; solo si lo rechaza de verdad grabo la carretera y explico el motivo."
-      ]
-    },
-    {
-      "versao": "0.44.2",
-      "data": "30/10/2026",
-      "itens": [
-        "O player pequeno do canto agora anda pela tela: arraste e ele descola; solte e ele gruda como ímã na lateral, na altura onde você deixou. Arrastado até uma borda, vira a tela dividida.",
-        "Os controles da música nunca somem: em cima ou embaixo, a faixa só vira o player inteiro quando cabe tudo; antes disso fica com a música, a barra e os botões."
-      ],
-      "en": [
-        "The small corner player now moves around the screen: drag it to unstick it; let go and it snaps like a magnet to the nearest side, at the height you left it. Dragged to an edge, it becomes the split screen.",
-        "The music controls never disappear: at the top or bottom, the strip only becomes the full player when everything fits; before that it shows the song, the bar and the buttons."
-      ],
-      "es": [
-        "El reproductor pequeño de la esquina ahora se mueve por la pantalla: arrástrelo y se despega; suéltelo y se pega como un imán al lateral más cercano, a la altura donde lo dejó. Arrastrado hasta un borde, se vuelve pantalla dividida.",
-        "Los controles de la música nunca desaparecen: arriba o abajo, la franja solo se vuelve el reproductor completo cuando cabe todo; antes muestra la canción, la barra y los botones."
       ]
     }
   ]
