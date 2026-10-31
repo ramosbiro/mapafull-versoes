@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.7",
-  "codigo": 162,
+  "versao": "0.52.8",
+  "codigo": 163,
   "data": "31/10/2026",
-  "tamanho": 203822851,
-  "sha256": "4ebc29a272b16555ab661a68077cac2c1feb4e1d48861ad6c3efbb6e2fb51da7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.7/Vrumbi-0.52.7.apk",
+  "tamanho": 203126846,
+  "sha256": "d6ff8d395e100b8f89e91340e0a5c54bbc3727a1070c74db784699fe0cc65af8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.8/Vrumbi-0.52.8.apk",
   "notas": [
-    "O que tem aqui: os lugares do centro comercial ficam em cards grandes, um por categoria (Alimentação, Moda e calçados, Beleza e saúde...), com a quantidade no título e em ordem alfabética dentro de cada card. A busca e os botões de categoria continuam filtrando.",
-    "Lojas de esporte (Adidas, Centauro, Nike...) agora em Moda e calçados."
+    "Seu carro no mapa: ao marcar onde estacionou, o selo laranja do carro fica no lugar, visível de longe e de perto, como Casa e Trabalho. Tocar nele abre o \"Meu carro\" com o caminho até lá.",
+    "\"Esquecer onde estacionei\" virou \"Já peguei o carro\": tira o carro do mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.52.8",
+      "data": "31/10/2026",
+      "itens": [
+        "Seu carro no mapa: ao marcar onde estacionou, o selo laranja do carro fica no lugar, visível de longe e de perto, como Casa e Trabalho. Tocar nele abre o \"Meu carro\" com o caminho até lá.",
+        "\"Esquecer onde estacionei\" virou \"Já peguei o carro\": tira o carro do mapa."
+      ],
+      "en": [
+        "Your car on the map: when you mark where you parked, the orange car badge stays at the spot, visible from far and near, like Home and Work. Tap it to open \"My car\" with the way there.",
+        "\"Forget where I parked\" became \"I picked up the car\": it takes the car off the map."
+      ],
+      "es": [
+        "Su coche en el mapa: al marcar dónde estacionó, el sello naranja del coche queda en el lugar, visible de lejos y de cerca, como Casa y Trabajo. Al tocarlo se abre \"Mi coche\" con el camino hasta allí.",
+        "\"Olvidar dónde estacioné\" pasó a ser \"Ya recogí el coche\": quita el coche del mapa."
+      ]
+    },
     {
       "versao": "0.52.7",
       "data": "31/10/2026",
@@ -185,25 +201,6 @@
         "Qué hay aquí: al entrar en un shopping, centro comercial o mercado, debajo del nombre de la calle aparece \"<nombre> · ver qué hay aquí\". Al tocarlo, sale la lista de todo lo que hay dentro — comida, moda, belleza y salud, mercado, electrónica, hogar, bancos y servicios, ocio — con búsqueda, teléfono para llamar y el lugar en el mapa.",
         "Estacionamiento del centro: la empresa que lo opera (ej.: Estapar), si es de pago, plazas y horario cuando la información existe, y el acceso a la app del operador. El precio aparece cuando la fuente lo informa.",
         "Funciona sin internet: la app reconoce el centro por su contorno en el propio celular, en cada posición."
-      ]
-    },
-    {
-      "versao": "0.50.5",
-      "data": "31/10/2026",
-      "itens": [
-        "Chuva local: garoando aí com sol, o app mostra \"Pancadas de chuva\" com o ícone de sol e chuva. O aeroporto seco a 30 km não apaga mais a chuva que a previsão vê no seu ponto; chuva no aeroporto só conta se ele estiver perto.",
-        "Widgets de clima atualizam a cada 15 minutos (antes 30).",
-        "Túnel: o mapa escurece antes de entrar (o app vê o túnel no caminho a uns 5 segundos), não mais só na saída."
-      ],
-      "en": [
-        "Local rain: drizzling where you are with sun, the app shows \"Rain showers\" with the sun-and-rain icon. A dry airport 30 km away no longer erases the rain the forecast sees at your spot; rain at the airport only counts if it is close.",
-        "Weather widgets update every 15 minutes (it was 30).",
-        "Tunnel: the map turns dark before you enter (the app sees the tunnel ahead about 5 seconds early), no longer only on the way out."
-      ],
-      "es": [
-        "Lluvia local: lloviznando donde está con sol, la app muestra \"Chubascos\" con el ícono de sol y lluvia. Un aeropuerto seco a 30 km ya no borra la lluvia que la previsión ve en su punto; la lluvia en el aeropuerto solo cuenta si está cerca.",
-        "Los widgets de clima se actualizan cada 15 minutos (antes 30).",
-        "Túnel: el mapa se oscurece antes de entrar (la app ve el túnel en el camino unos 5 segundos antes), ya no solo al salir."
       ]
     }
   ]
