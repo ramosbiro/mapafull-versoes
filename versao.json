@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.3",
-  "codigo": 149,
+  "versao": "0.50.4",
+  "codigo": 150,
   "data": "31/10/2026",
-  "tamanho": 195234989,
-  "sha256": "da885022f0e918c216b6483e17a0b1a3be62c786bf4d774a3514aaf8bdae5514",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.3/Vrumbi-0.50.3.apk",
+  "tamanho": 195931841,
+  "sha256": "da297d38f4c20a8ed4f4fcc84c253a2b86d9844eb26c0a0c8d1c0891c3bd5d97",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.4/Vrumbi-0.50.4.apk",
   "notas": [
-    "Tipo de chuva certo: a chuva de verão da tarde aparece como \"Pancadas de chuva\" ou \"Chuva fraca\" (antes saía como \"Garoa\"). Garoa fica só para a chuvinha fina de verdade. Vale para a tela Clima, os widgets e o clima das viagens."
+    "Nome da rua na hora: virou numa rua, o cartão já mostra a rua nova (vem do próprio mapa, na mesma leitura do GPS; antes podia levar minutos).",
+    "Seta nas curvas: ao virar, a seta entra na direção da rua nova logo que o carro entra nela, e segue o desenho da via.",
+    "Parado no semáforo, a seta não vira mais para o lado: fica na direção em que você vinha, mesmo com o GPS tremendo.",
+    "Deitado: a placa de velocidade máxima fica em cima do velocímetro, não mais por baixo do botão Avisar."
   ],
   "versoes": [
+    {
+      "versao": "0.50.4",
+      "data": "31/10/2026",
+      "itens": [
+        "Nome da rua na hora: virou numa rua, o cartão já mostra a rua nova (vem do próprio mapa, na mesma leitura do GPS; antes podia levar minutos).",
+        "Seta nas curvas: ao virar, a seta entra na direção da rua nova logo que o carro entra nela, e segue o desenho da via.",
+        "Parado no semáforo, a seta não vira mais para o lado: fica na direção em que você vinha, mesmo com o GPS tremendo.",
+        "Deitado: a placa de velocidade máxima fica em cima do velocímetro, não mais por baixo do botão Avisar."
+      ],
+      "en": [
+        "Street name right away: turn into a street and the card shows the new one at once (it comes from the map itself, on the same GPS reading; it used to take minutes).",
+        "Arrow on turns: when you turn, the arrow takes the direction of the new street as soon as the car enters it, and follows the road.",
+        "Stopped at a traffic light, the arrow no longer turns sideways: it keeps the direction you were going, even with a shaky GPS.",
+        "Landscape: the speed limit sign sits above the speedometer, no longer under the Report button."
+      ],
+      "es": [
+        "Nombre de la calle al instante: al girar en una calle, la tarjeta ya muestra la nueva (viene del propio mapa, en la misma lectura del GPS; antes podía tardar minutos).",
+        "Flecha en las curvas: al girar, la flecha toma la dirección de la calle nueva en cuanto el coche entra en ella, y sigue la vía.",
+        "Detenido en el semáforo, la flecha ya no gira de lado: mantiene la dirección en la que venía, aunque el GPS tiemble.",
+        "En horizontal: la señal de velocidad máxima queda encima del velocímetro, ya no debajo del botón Avisar."
+      ]
+    },
     {
       "versao": "0.50.3",
       "data": "31/10/2026",
@@ -205,19 +230,6 @@
       "es": [
         "Opciones de ruta de verdad: además de la más rápida, las alternativas, la SIN PEAJE y la MÁS CORTA (con su vehículo y sus opciones de evitar). Cada opción muestra el tiempo, la distancia, cuánto más tarda y el peaje: cuántas plazas y el valor para su vehículo (moto, auto o por eje en camión).",
         "En la ruta elegida, \"Peajes de esta ruta\" lista cada plaza con la concesionaria y el valor. Los valores vienen del mapa colaborativo (976 plazas en Brasil) y solo cuentan las plazas en el sentido en que usted pasa."
-      ]
-    },
-    {
-      "versao": "0.45.3",
-      "data": "30/10/2026",
-      "itens": [
-        "Editar favorito de verdade: além do título, o endereço e o número. Ao mudar, eu procuro o lugar novo e mostro as opções; tocando na certa e em Salvar, o favorito vai para o lugar novo (e a rota também)."
-      ],
-      "en": [
-        "Real favorite editing: besides the title, the address and the number. When you change them, I look up the new place and show the options; tap the right one and Save, and the favorite moves there (and so does the route)."
-      ],
-      "es": [
-        "Editar favorito de verdad: además del título, la dirección y el número. Al cambiarlos, busco el lugar nuevo y muestro las opciones; al tocar la correcta y Guardar, el favorito pasa al lugar nuevo (y la ruta también)."
       ]
     }
   ]
