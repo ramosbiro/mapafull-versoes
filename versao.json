@@ -1,18 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.4",
-  "codigo": 150,
+  "versao": "0.50.5",
+  "codigo": 151,
   "data": "31/10/2026",
-  "tamanho": 195931841,
-  "sha256": "da297d38f4c20a8ed4f4fcc84c253a2b86d9844eb26c0a0c8d1c0891c3bd5d97",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.4/Vrumbi-0.50.4.apk",
+  "tamanho": 196597163,
+  "sha256": "8c16b1b4b1eb0745acc29e6c198bb07eabfb0a74ed4cdb763ff92ce0b8836c94",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.5/Vrumbi-0.50.5.apk",
   "notas": [
-    "Nome da rua na hora: virou numa rua, o cartão já mostra a rua nova (vem do próprio mapa, na mesma leitura do GPS; antes podia levar minutos).",
-    "Seta nas curvas: ao virar, a seta entra na direção da rua nova logo que o carro entra nela, e segue o desenho da via.",
-    "Parado no semáforo, a seta não vira mais para o lado: fica na direção em que você vinha, mesmo com o GPS tremendo.",
-    "Deitado: a placa de velocidade máxima fica em cima do velocímetro, não mais por baixo do botão Avisar."
+    "Chuva local: garoando aí com sol, o app mostra \"Pancadas de chuva\" com o ícone de sol e chuva. O aeroporto seco a 30 km não apaga mais a chuva que a previsão vê no seu ponto; chuva no aeroporto só conta se ele estiver perto.",
+    "Widgets de clima atualizam a cada 15 minutos (antes 30).",
+    "Túnel: o mapa escurece antes de entrar (o app vê o túnel no caminho a uns 5 segundos), não mais só na saída."
   ],
   "versoes": [
+    {
+      "versao": "0.50.5",
+      "data": "31/10/2026",
+      "itens": [
+        "Chuva local: garoando aí com sol, o app mostra \"Pancadas de chuva\" com o ícone de sol e chuva. O aeroporto seco a 30 km não apaga mais a chuva que a previsão vê no seu ponto; chuva no aeroporto só conta se ele estiver perto.",
+        "Widgets de clima atualizam a cada 15 minutos (antes 30).",
+        "Túnel: o mapa escurece antes de entrar (o app vê o túnel no caminho a uns 5 segundos), não mais só na saída."
+      ],
+      "en": [
+        "Local rain: drizzling where you are with sun, the app shows \"Rain showers\" with the sun-and-rain icon. A dry airport 30 km away no longer erases the rain the forecast sees at your spot; rain at the airport only counts if it is close.",
+        "Weather widgets update every 15 minutes (it was 30).",
+        "Tunnel: the map turns dark before you enter (the app sees the tunnel ahead about 5 seconds early), no longer only on the way out."
+      ],
+      "es": [
+        "Lluvia local: lloviznando donde está con sol, la app muestra \"Chubascos\" con el ícono de sol y lluvia. Un aeropuerto seco a 30 km ya no borra la lluvia que la previsión ve en su punto; la lluvia en el aeropuerto solo cuenta si está cerca.",
+        "Los widgets de clima se actualizan cada 15 minutos (antes 30).",
+        "Túnel: el mapa se oscurece antes de entrar (la app ve el túnel en el camino unos 5 segundos antes), ya no solo al salir."
+      ]
+    },
     {
       "versao": "0.50.4",
       "data": "31/10/2026",
@@ -214,22 +232,6 @@
       ],
       "es": [
         "Mi auto directo en la búsqueda: debajo de Casa, Trabajo, Favoritos y Cercanías, dónde quedó estacionado (hace cuánto y a qué distancia); al tocar muestra el lugar y la ruta. Sin auto marcado, \"Marcar dónde estacioné\" queda ahí mismo."
-      ]
-    },
-    {
-      "versao": "0.46.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Opções de rota de verdade: além da mais rápida, as alternativas, a SEM PEDÁGIO e a MAIS CURTA (com o seu veículo e as suas escolhas de evitar). Cada opção mostra o tempo, a distância, quanto demora a mais e o pedágio: quantas praças e o valor para o seu veículo (moto, carro ou por eixo no caminhão).",
-        "Na rota escolhida, \"Pedágios desta rota\" lista cada praça com a concessionária e o valor. Os valores vêm do mapa colaborativo (976 praças no Brasil) e só contam as praças do sentido em que você passa."
-      ],
-      "en": [
-        "Real route options: besides the fastest, the alternatives, the NO-TOLL and the SHORTEST (with your vehicle and your avoid choices). Each option shows the time, distance, how much longer it takes and the tolls: how many plazas and the price for your vehicle (motorcycle, car or per axle for trucks).",
-        "On the chosen route, \"Tolls on this route\" lists each plaza with the operator and price. Prices come from the collaborative map (976 plazas in Brazil) and only plazas in your direction of travel are counted."
-      ],
-      "es": [
-        "Opciones de ruta de verdad: además de la más rápida, las alternativas, la SIN PEAJE y la MÁS CORTA (con su vehículo y sus opciones de evitar). Cada opción muestra el tiempo, la distancia, cuánto más tarda y el peaje: cuántas plazas y el valor para su vehículo (moto, auto o por eje en camión).",
-        "En la ruta elegida, \"Peajes de esta ruta\" lista cada plaza con la concesionaria y el valor. Los valores vienen del mapa colaborativo (976 plazas en Brasil) y solo cuentan las plazas en el sentido en que usted pasa."
       ]
     }
   ]
