@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.6",
-  "codigo": 161,
+  "versao": "0.52.7",
+  "codigo": 162,
   "data": "31/10/2026",
-  "tamanho": 203128782,
-  "sha256": "85eec6583ab984941058758b064d7ff84ef433116da0fc8b52ab3370500595f2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.6/Vrumbi-0.52.6.apk",
+  "tamanho": 203822851,
+  "sha256": "4ebc29a272b16555ab661a68077cac2c1feb4e1d48861ad6c3efbb6e2fb51da7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.7/Vrumbi-0.52.7.apk",
   "notas": [
-    "Clima pelo céu: o ícone e o texto mostram só a situação do céu e da chuva (limpo, poucas nuvens, sol entre nuvens, nublado, garoa, chuva, pancadas, trovoada), além de tempestade severa e ventania com chuva. Neblina só quando um aeroporto perto observa de verdade; na previsão das próximas horas, não mais.",
-    "Ar seco, abafado, calor, frio, vento forte e sol forte saíram do ícone por enquanto (os números continuam nos detalhes)."
+    "O que tem aqui: os lugares do centro comercial ficam em cards grandes, um por categoria (Alimentação, Moda e calçados, Beleza e saúde...), com a quantidade no título e em ordem alfabética dentro de cada card. A busca e os botões de categoria continuam filtrando.",
+    "Lojas de esporte (Adidas, Centauro, Nike...) agora em Moda e calçados."
   ],
   "versoes": [
+    {
+      "versao": "0.52.7",
+      "data": "31/10/2026",
+      "itens": [
+        "O que tem aqui: os lugares do centro comercial ficam em cards grandes, um por categoria (Alimentação, Moda e calçados, Beleza e saúde...), com a quantidade no título e em ordem alfabética dentro de cada card. A busca e os botões de categoria continuam filtrando.",
+        "Lojas de esporte (Adidas, Centauro, Nike...) agora em Moda e calçados."
+      ],
+      "en": [
+        "What is here: the places in the shopping center are in large cards, one per category (Food, Fashion and shoes, Beauty and health...), with the count in the title and alphabetical inside each card. Search and the category buttons still filter.",
+        "Sports stores (Adidas, Centauro, Nike...) now under Fashion and shoes."
+      ],
+      "es": [
+        "Qué hay aquí: los lugares del centro comercial quedan en tarjetas grandes, una por categoría (Comida, Moda y calzado, Belleza y salud...), con la cantidad en el título y en orden alfabético dentro de cada tarjeta. La búsqueda y los botones de categoría siguen filtrando.",
+        "Tiendas de deporte (Adidas, Centauro, Nike...) ahora en Moda y calzado."
+      ]
+    },
     {
       "versao": "0.52.6",
       "data": "31/10/2026",
@@ -188,28 +204,6 @@
         "Lluvia local: lloviznando donde está con sol, la app muestra \"Chubascos\" con el ícono de sol y lluvia. Un aeropuerto seco a 30 km ya no borra la lluvia que la previsión ve en su punto; la lluvia en el aeropuerto solo cuenta si está cerca.",
         "Los widgets de clima se actualizan cada 15 minutos (antes 30).",
         "Túnel: el mapa se oscurece antes de entrar (la app ve el túnel en el camino unos 5 segundos antes), ya no solo al salir."
-      ]
-    },
-    {
-      "versao": "0.50.4",
-      "data": "31/10/2026",
-      "itens": [
-        "Nome da rua na hora: virou numa rua, o cartão já mostra a rua nova (vem do próprio mapa, na mesma leitura do GPS; antes podia levar minutos).",
-        "Seta nas curvas: ao virar, a seta entra na direção da rua nova logo que o carro entra nela, e segue o desenho da via.",
-        "Parado no semáforo, a seta não vira mais para o lado: fica na direção em que você vinha, mesmo com o GPS tremendo.",
-        "Deitado: a placa de velocidade máxima fica em cima do velocímetro, não mais por baixo do botão Avisar."
-      ],
-      "en": [
-        "Street name right away: turn into a street and the card shows the new one at once (it comes from the map itself, on the same GPS reading; it used to take minutes).",
-        "Arrow on turns: when you turn, the arrow takes the direction of the new street as soon as the car enters it, and follows the road.",
-        "Stopped at a traffic light, the arrow no longer turns sideways: it keeps the direction you were going, even with a shaky GPS.",
-        "Landscape: the speed limit sign sits above the speedometer, no longer under the Report button."
-      ],
-      "es": [
-        "Nombre de la calle al instante: al girar en una calle, la tarjeta ya muestra la nueva (viene del propio mapa, en la misma lectura del GPS; antes podía tardar minutos).",
-        "Flecha en las curvas: al girar, la flecha toma la dirección de la calle nueva en cuanto el coche entra en ella, y sigue la vía.",
-        "Detenido en el semáforo, la flecha ya no gira de lado: mantiene la dirección en la que venía, aunque el GPS tiemble.",
-        "En horizontal: la señal de velocidad máxima queda encima del velocímetro, ya no debajo del botón Avisar."
       ]
     }
   ]
