@@ -1,19 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.49.0",
-  "codigo": 145,
+  "versao": "0.50.0",
+  "codigo": 146,
   "data": "31/10/2026",
-  "tamanho": 195212837,
-  "sha256": "2f354933b957b291fe4a3be342e9e1be6ee75d97074a19ac6c8a8f6f31d761be",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.49.0/Vrumbi-0.49.0.apk",
+  "tamanho": 195230637,
+  "sha256": "98e6674f4ee38c5970d52a096517817e88383e5453b3ec340de5605df65b9c61",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.0/Vrumbi-0.50.0.apk",
   "notas": [
-    "Na rota, a seta fica em cima da linha da rota e aponta para onde a rota vai, mesmo com o GPS impreciso: não sai mais para a lateral nem \"voa\" fora da pista. Só larga a linha quando você realmente sai da rota.",
-    "Nada fica por cima da seta: rota, radares, alertas e camadas passam sempre por baixo dela.",
-    "Aviso de pedágio: cerca de 1,5 km antes de cada praça eu falo a distância e o valor para o seu veículo, com o balão na tela e no relógio.",
-    "Lembrete da viagem: na véspera às 20h e 1 hora antes de sair; tocar no aviso abre a viagem com o clima e onde abastecer.",
-    "Mapas do caminho: na viagem, um toque mostra só os mapas offline que a rota atravessa e baixa os que faltam."
+    "Viagem com paradas: na nova viagem (ou em \"Editar rota\"), adicione cidades ou lugares no caminho, na ordem que quiser. A viagem mostra a hora prevista de chegar em cada parada, e \"Ir\" leva até a próxima.",
+    "Consumo oficial do INMETRO: ao escolher o modelo pela tabela FIPE, o consumo na estrada e na cidade vem da tabela de etiquetagem do INMETRO para o motor e o câmbio do seu carro (o que você digitou continua valendo).",
+    "Busca mais limpa: Meu carro e Minhas viagens lado a lado, no mesmo estilo dos atalhos de cima. \"Esquecer onde estacionei\" fica dentro da ficha do carro.",
+    "Destino e paradas da viagem: digitar o nome de uma cidade traz a cidade primeiro (não mais uma rua com o mesmo nome perto de você)."
   ],
   "versoes": [
+    {
+      "versao": "0.50.0",
+      "data": "31/10/2026",
+      "itens": [
+        "Viagem com paradas: na nova viagem (ou em \"Editar rota\"), adicione cidades ou lugares no caminho, na ordem que quiser. A viagem mostra a hora prevista de chegar em cada parada, e \"Ir\" leva até a próxima.",
+        "Consumo oficial do INMETRO: ao escolher o modelo pela tabela FIPE, o consumo na estrada e na cidade vem da tabela de etiquetagem do INMETRO para o motor e o câmbio do seu carro (o que você digitou continua valendo).",
+        "Busca mais limpa: Meu carro e Minhas viagens lado a lado, no mesmo estilo dos atalhos de cima. \"Esquecer onde estacionei\" fica dentro da ficha do carro.",
+        "Destino e paradas da viagem: digitar o nome de uma cidade traz a cidade primeiro (não mais uma rua com o mesmo nome perto de você)."
+      ],
+      "en": [
+        "Trip with stops: in a new trip (or \"Edit route\"), add towns or places along the way, in the order you want. The trip shows the expected arrival at each stop, and \"Go\" takes you to the next one.",
+        "Official INMETRO consumption: when you pick the model from the FIPE table, highway and city consumption come from INMETRO's labeling table for your car's engine and transmission (what you typed still counts).",
+        "Cleaner search: My car and My trips side by side, in the same style as the shortcuts above. \"Forget where I parked\" is inside the car's card.",
+        "Trip destination and stops: typing a city name brings the city first (no longer a street with the same name near you)."
+      ],
+      "es": [
+        "Viaje con paradas: en un nuevo viaje (o \"Editar ruta\"), agregue ciudades o lugares en el camino, en el orden que quiera. El viaje muestra la hora prevista de llegada a cada parada, y \"Ir\" lleva a la siguiente.",
+        "Consumo oficial del INMETRO: al elegir el modelo en la tabla FIPE, el consumo en carretera y ciudad viene de la tabla de etiquetado del INMETRO para el motor y la caja de su coche (lo que escribió sigue valiendo).",
+        "Búsqueda más limpia: Mi coche y Mis viajes lado a lado, en el mismo estilo de los accesos de arriba. \"Olvidar dónde estacioné\" queda dentro de la ficha del coche.",
+        "Destino y paradas del viaje: al escribir el nombre de una ciudad aparece primero la ciudad (ya no una calle con el mismo nombre cerca de usted)."
+      ]
+    },
     {
       "versao": "0.49.0",
       "data": "31/10/2026",
@@ -215,22 +236,6 @@
         "Mapas sin conexión de otros países: toda América del Sur — Argentina, Uruguay, Paraguay, Chile, Bolivia, Perú, Colombia, Ecuador, Venezuela, Guyana y Surinam — en Mapas sin conexión > Agregar, cada país en una sola descarga. En las fronteras los mapas se completan.",
         "Grupos de favoritos: cree grupos (Clientes, Viaje, Gasolineras...), elija el grupo al guardar o con la carpeta de cada favorito, filtre con la fila de grupos y renombre o borre un grupo sin perder los favoritos. En la búsqueda, los favoritos aparecen separados por grupo.",
         "Llamar por voz: en Mensajes, toque \"Llamar a alguien\" y diga el nombre; lo busco en sus contactos y muestro los números en botones grandes. Los contactos no salen del celular."
-      ]
-    },
-    {
-      "versao": "0.44.3",
-      "data": "30/10/2026",
-      "itens": [
-        "Gravação com as duas câmeras ao mesmo tempo também nos celulares que não avisam que conseguem: em Gravação da viagem, escolha \"As duas\" e eu testo o seu celular em 2 segundos. Dando certo, gravo a estrada e o interior juntos, em dois vídeos.",
-        "Se o celular não aguentar as duas em Full HD, tento em HD; só se ele recusar mesmo eu gravo a estrada e explico o motivo."
-      ],
-      "en": [
-        "Recording with both cameras at once also on phones that do not say they can: in Trip recording, choose \"Both\" and I test your phone in 2 seconds. If it works, I record the road and the interior together, in two videos.",
-        "If the phone cannot handle both in Full HD, I try HD; only if it really refuses do I record the road and explain why."
-      ],
-      "es": [
-        "Grabación con las dos cámaras a la vez también en los celulares que no avisan que pueden: en Grabación del viaje, elija \"Las dos\" y pruebo su celular en 2 segundos. Si funciona, grabo la carretera y el interior juntos, en dos videos.",
-        "Si el celular no aguanta las dos en Full HD, pruebo en HD; solo si lo rechaza de verdad grabo la carretera y explico el motivo."
       ]
     }
   ]
