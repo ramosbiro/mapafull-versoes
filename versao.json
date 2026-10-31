@@ -1,17 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.5",
-  "codigo": 151,
+  "versao": "0.51.0",
+  "codigo": 152,
   "data": "31/10/2026",
-  "tamanho": 196597163,
-  "sha256": "8c16b1b4b1eb0745acc29e6c198bb07eabfb0a74ed4cdb763ff92ce0b8836c94",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.5/Vrumbi-0.50.5.apk",
+  "tamanho": 197884030,
+  "sha256": "b3dec8840853c846e7584a202ad8467c534161d19c2c4d041b24c37e85a964ba",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.0/Vrumbi-0.51.0.apk",
   "notas": [
-    "Chuva local: garoando aí com sol, o app mostra \"Pancadas de chuva\" com o ícone de sol e chuva. O aeroporto seco a 30 km não apaga mais a chuva que a previsão vê no seu ponto; chuva no aeroporto só conta se ele estiver perto.",
-    "Widgets de clima atualizam a cada 15 minutos (antes 30).",
-    "Túnel: o mapa escurece antes de entrar (o app vê o túnel no caminho a uns 5 segundos), não mais só na saída."
+    "O que tem aqui: entrou num shopping, centro comercial ou mercado, embaixo do nome da rua aparece \"<nome> · ver o que tem aqui\". Tocando, vem a lista de tudo o que tem lá dentro — alimentação, moda, beleza e saúde, mercado, eletrônicos, casa, bancos e serviços, lazer — com busca, telefone para ligar e o lugar no mapa.",
+    "Estacionamento do centro: a empresa que opera (ex.: Estapar), se é pago, vagas e horário, quando a informação existe, e o atalho para o app da operadora. O valor aparece quando a fonte informa.",
+    "Funciona sem internet: o app reconhece o centro pelo contorno no próprio celular, a cada posição."
   ],
   "versoes": [
+    {
+      "versao": "0.51.0",
+      "data": "31/10/2026",
+      "itens": [
+        "O que tem aqui: entrou num shopping, centro comercial ou mercado, embaixo do nome da rua aparece \"<nome> · ver o que tem aqui\". Tocando, vem a lista de tudo o que tem lá dentro — alimentação, moda, beleza e saúde, mercado, eletrônicos, casa, bancos e serviços, lazer — com busca, telefone para ligar e o lugar no mapa.",
+        "Estacionamento do centro: a empresa que opera (ex.: Estapar), se é pago, vagas e horário, quando a informação existe, e o atalho para o app da operadora. O valor aparece quando a fonte informa.",
+        "Funciona sem internet: o app reconhece o centro pelo contorno no próprio celular, a cada posição."
+      ],
+      "en": [
+        "What is here: when you enter a mall, shopping center or market, under the street name you get \"<name> · see what is here\". Tap it for the list of everything inside — food, fashion, beauty and health, groceries, electronics, home, banks and services, leisure — with search, phone to call and the place on the map.",
+        "Parking at the center: the operating company (e.g. Estapar), whether it is paid, spaces and hours when the information exists, and a shortcut to the operator’s app. The price shows when the source has it.",
+        "Works offline: the app recognizes the center by its outline on the phone itself, at every position."
+      ],
+      "es": [
+        "Qué hay aquí: al entrar en un shopping, centro comercial o mercado, debajo del nombre de la calle aparece \"<nombre> · ver qué hay aquí\". Al tocarlo, sale la lista de todo lo que hay dentro — comida, moda, belleza y salud, mercado, electrónica, hogar, bancos y servicios, ocio — con búsqueda, teléfono para llamar y el lugar en el mapa.",
+        "Estacionamiento del centro: la empresa que lo opera (ej.: Estapar), si es de pago, plazas y horario cuando la información existe, y el acceso a la app del operador. El precio aparece cuando la fuente lo informa.",
+        "Funciona sin internet: la app reconoce el centro por su contorno en el propio celular, en cada posición."
+      ]
+    },
     {
       "versao": "0.50.5",
       "data": "31/10/2026",
@@ -219,19 +238,6 @@
       "es": [
         "Editar favoritos sin trabas: la dirección completa (calle, número, barrio, ciudad) en un solo campo libre; marco la dirección más probable y, al guardar, el favorito va allí. O toque \"Elegir en el mapa\", arrastre el mapa hasta el lugar exacto y use el punto.",
         "Grupos de favoritos con el dedo: toque y mantenga un favorito, arrástrelo y suéltelo sobre la carpeta. Las carpetas quedan fijas arriba de la lista; soltar en \"Nuevo grupo\" crea la carpeta con él dentro."
-      ]
-    },
-    {
-      "versao": "0.46.1",
-      "data": "30/10/2026",
-      "itens": [
-        "Meu carro direto na busca: logo abaixo de Casa, Trabalho, Favoritos e Proximidades, onde o carro ficou estacionado (há quanto tempo e a que distância); tocar mostra o lugar e a rota até ele. Sem carro marcado, \"Marcar onde estacionei\" fica ali mesmo."
-      ],
-      "en": [
-        "My car right in search: below Home, Work, Favorites and Nearby, where the car was parked (how long ago and how far); tap to see the place and the route there. With no car marked, \"Mark where I parked\" is right there."
-      ],
-      "es": [
-        "Mi auto directo en la búsqueda: debajo de Casa, Trabajo, Favoritos y Cercanías, dónde quedó estacionado (hace cuánto y a qué distancia); al tocar muestra el lugar y la ruta. Sin auto marcado, \"Marcar dónde estacioné\" queda ahí mismo."
       ]
     }
   ]
