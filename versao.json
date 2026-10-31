@@ -1,16 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.2",
-  "codigo": 157,
+  "versao": "0.52.3",
+  "codigo": 158,
   "data": "31/10/2026",
-  "tamanho": 199691059,
-  "sha256": "6dc99e901508efeef7312ab0f032ef511d949dedc6d3e37cca086d8ff3948557",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.2/Vrumbi-0.52.2.apk",
+  "tamanho": 199691751,
+  "sha256": "8da030640a93abdd2dbf756dcd050609e8d6799573cc90cda11ce1aa39d36aab",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.3/Vrumbi-0.52.3.apk",
   "notas": [
-    "Um cartão só: dentro de um centro comercial, a linha \"<nome> · ver o que tem aqui\" fica dentro do cartão do endereço, e tocar nele abre o que tem no lugar.",
-    "O cartão não cobre mais a seta: quando ele cresce (deitado, principalmente), a seta sobe um pouco na tela."
+    "O cartão do endereço nunca cobre um botão: ele fica no espaço livre entre os botões da esquerda (Gravar, Mídia, Seguir...) e os da direita (Menu, Avisar, velocímetro), e o nome comprido termina em \"…\".",
+    "A seta fica mais perto do cartão (antes sobrava um espaço de quase um dedo)."
   ],
   "versoes": [
+    {
+      "versao": "0.52.3",
+      "data": "31/10/2026",
+      "itens": [
+        "O cartão do endereço nunca cobre um botão: ele fica no espaço livre entre os botões da esquerda (Gravar, Mídia, Seguir...) e os da direita (Menu, Avisar, velocímetro), e o nome comprido termina em \"…\".",
+        "A seta fica mais perto do cartão (antes sobrava um espaço de quase um dedo)."
+      ],
+      "en": [
+        "The address card never covers a button: it sits in the free space between the buttons on the left (Record, Media, Follow...) and on the right (Menu, Report, speedometer), and a long name ends in \"…\".",
+        "The arrow sits closer to the card (there used to be a finger-wide gap)."
+      ],
+      "es": [
+        "La tarjeta de la dirección nunca tapa un botón: queda en el espacio libre entre los botones de la izquierda (Grabar, Multimedia, Seguir...) y los de la derecha (Menú, Avisar, velocímetro), y el nombre largo termina en \"…\".",
+        "La flecha queda más cerca de la tarjeta (antes sobraba un espacio de casi un dedo)."
+      ]
+    },
     {
       "versao": "0.52.2",
       "data": "31/10/2026",
@@ -188,28 +204,6 @@
         "Clima más preciso ahora: la app ya no muestra llovizna ni lluvia cuando la probabilidad de lluvia y las nubes no lo confirman (sol entre nubes aparecía como \"Llovizna\").",
         "El \"ahora\" verifica el cielo real: con un aeropuerto a menos de 40 km, la condición actual viene de su observación (actualizada cada hora), y la pantalla muestra de dónde vino y hace cuántos minutos.",
         "Lo mismo vale para los widgets de la pantalla de inicio y para el clima en el camino de los viajes."
-      ]
-    },
-    {
-      "versao": "0.50.0",
-      "data": "31/10/2026",
-      "itens": [
-        "Viagem com paradas: na nova viagem (ou em \"Editar rota\"), adicione cidades ou lugares no caminho, na ordem que quiser. A viagem mostra a hora prevista de chegar em cada parada, e \"Ir\" leva até a próxima.",
-        "Consumo oficial do INMETRO: ao escolher o modelo pela tabela FIPE, o consumo na estrada e na cidade vem da tabela de etiquetagem do INMETRO para o motor e o câmbio do seu carro (o que você digitou continua valendo).",
-        "Busca mais limpa: Meu carro e Minhas viagens lado a lado, no mesmo estilo dos atalhos de cima. \"Esquecer onde estacionei\" fica dentro da ficha do carro.",
-        "Destino e paradas da viagem: digitar o nome de uma cidade traz a cidade primeiro (não mais uma rua com o mesmo nome perto de você)."
-      ],
-      "en": [
-        "Trip with stops: in a new trip (or \"Edit route\"), add towns or places along the way, in the order you want. The trip shows the expected arrival at each stop, and \"Go\" takes you to the next one.",
-        "Official INMETRO consumption: when you pick the model from the FIPE table, highway and city consumption come from INMETRO's labeling table for your car's engine and transmission (what you typed still counts).",
-        "Cleaner search: My car and My trips side by side, in the same style as the shortcuts above. \"Forget where I parked\" is inside the car's card.",
-        "Trip destination and stops: typing a city name brings the city first (no longer a street with the same name near you)."
-      ],
-      "es": [
-        "Viaje con paradas: en un nuevo viaje (o \"Editar ruta\"), agregue ciudades o lugares en el camino, en el orden que quiera. El viaje muestra la hora prevista de llegada a cada parada, y \"Ir\" lleva a la siguiente.",
-        "Consumo oficial del INMETRO: al elegir el modelo en la tabla FIPE, el consumo en carretera y ciudad viene de la tabla de etiquetado del INMETRO para el motor y la caja de su coche (lo que escribió sigue valiendo).",
-        "Búsqueda más limpia: Mi coche y Mis viajes lado a lado, en el mismo estilo de los accesos de arriba. \"Olvidar dónde estacioné\" queda dentro de la ficha del coche.",
-        "Destino y paradas del viaje: al escribir el nombre de una ciudad aparece primero la ciudad (ya no una calle con el mismo nombre cerca de usted)."
       ]
     }
   ]
