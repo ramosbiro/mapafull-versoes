@@ -1,18 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.0",
-  "codigo": 146,
+  "versao": "0.50.1",
+  "codigo": 147,
   "data": "31/10/2026",
-  "tamanho": 195230637,
-  "sha256": "98e6674f4ee38c5970d52a096517817e88383e5453b3ec340de5605df65b9c61",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.0/Vrumbi-0.50.0.apk",
+  "tamanho": 195233341,
+  "sha256": "f3a76806c8d8afb0a0adb7fda415b2836a77c671f51fbbc19c9ef7c3c867ded0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.1/Vrumbi-0.50.1.apk",
   "notas": [
-    "Viagem com paradas: na nova viagem (ou em \"Editar rota\"), adicione cidades ou lugares no caminho, na ordem que quiser. A viagem mostra a hora prevista de chegar em cada parada, e \"Ir\" leva até a próxima.",
-    "Consumo oficial do INMETRO: ao escolher o modelo pela tabela FIPE, o consumo na estrada e na cidade vem da tabela de etiquetagem do INMETRO para o motor e o câmbio do seu carro (o que você digitou continua valendo).",
-    "Busca mais limpa: Meu carro e Minhas viagens lado a lado, no mesmo estilo dos atalhos de cima. \"Esquecer onde estacionei\" fica dentro da ficha do carro.",
-    "Destino e paradas da viagem: digitar o nome de uma cidade traz a cidade primeiro (não mais uma rua com o mesmo nome perto de você)."
+    "Clima mais preciso agora: o app não mostra mais garoa ou chuva quando a chance de chover e as nuvens não confirmam (era o caso de sol entre nuvens aparecendo como \"Garoa\").",
+    "O \"agora\" confere o céu de verdade: com um aeroporto a até 40 km, a condição atual vem da observação dele (atualizada a cada hora), e a tela mostra de onde veio e há quantos minutos.",
+    "O mesmo vale para os widgets da tela inicial e para o clima no caminho das viagens."
   ],
   "versoes": [
+    {
+      "versao": "0.50.1",
+      "data": "31/10/2026",
+      "itens": [
+        "Clima mais preciso agora: o app não mostra mais garoa ou chuva quando a chance de chover e as nuvens não confirmam (era o caso de sol entre nuvens aparecendo como \"Garoa\").",
+        "O \"agora\" confere o céu de verdade: com um aeroporto a até 40 km, a condição atual vem da observação dele (atualizada a cada hora), e a tela mostra de onde veio e há quantos minutos.",
+        "O mesmo vale para os widgets da tela inicial e para o clima no caminho das viagens."
+      ],
+      "en": [
+        "More accurate weather now: the app no longer shows drizzle or rain when the chance of rain and the clouds do not back it up (sunny with clouds was showing as \"Drizzle\").",
+        "\"Now\" checks the real sky: with an airport within 40 km, the current condition comes from its observation (updated every hour), and the screen shows where it came from and how many minutes ago.",
+        "The same applies to the home screen widgets and to the weather along your trips."
+      ],
+      "es": [
+        "Clima más preciso ahora: la app ya no muestra llovizna ni lluvia cuando la probabilidad de lluvia y las nubes no lo confirman (sol entre nubes aparecía como \"Llovizna\").",
+        "El \"ahora\" verifica el cielo real: con un aeropuerto a menos de 40 km, la condición actual viene de su observación (actualizada cada hora), y la pantalla muestra de dónde vino y hace cuántos minutos.",
+        "Lo mismo vale para los widgets de la pantalla de inicio y para el clima en el camino de los viajes."
+      ]
+    },
     {
       "versao": "0.50.0",
       "data": "31/10/2026",
@@ -217,25 +235,6 @@
         "Mapas sin conexión: más países — Portugal, España, Países Bajos, Suiza y México.",
         "Las regiones de Brasil aparecen solo con el nombre (Norte, Nordeste, Centro-Oeste, Sudeste, Sur) y, debajo, sus estados; al abrir la región, los estados aparecen uno por uno para descargar.",
         "Los nombres de los países aparecen en el idioma de la app."
-      ]
-    },
-    {
-      "versao": "0.45.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Mapas offline de outros países: toda a América do Sul — Argentina, Uruguai, Paraguai, Chile, Bolívia, Peru, Colômbia, Equador, Venezuela, Guiana e Suriname — em Mapas offline > Adicionar, cada país num download só. Nas fronteiras os mapas se completam.",
-        "Grupos de favoritos: crie grupos (Clientes, Viagem, Postos...), escolha o grupo ao salvar ou pela pasta de cada favorito, filtre pela fileira de grupos e renomeie ou apague um grupo sem perder os favoritos. Na busca, os favoritos aparecem separados por grupo.",
-        "Ligar por voz: em Mensagens, toque em \"Ligar para alguém\" e fale o nome; eu acho nos seus contatos e mostro os números em botões grandes. Os contatos não saem do celular."
-      ],
-      "en": [
-        "Offline maps of other countries: all of South America — Argentina, Uruguay, Paraguay, Chile, Bolivia, Peru, Colombia, Ecuador, Venezuela, Guyana and Suriname — in Offline maps > Add, each country in a single download. At the borders the maps complete each other.",
-        "Favorite groups: create groups (Clients, Trip, Gas stations...), choose the group when saving or via each favorite's folder, filter with the row of groups and rename or delete a group without losing favorites. In search, favorites appear split by group.",
-        "Call by voice: in Messages, tap \"Call someone\" and say the name; I find it in your contacts and show the numbers in big buttons. Contacts never leave the phone."
-      ],
-      "es": [
-        "Mapas sin conexión de otros países: toda América del Sur — Argentina, Uruguay, Paraguay, Chile, Bolivia, Perú, Colombia, Ecuador, Venezuela, Guyana y Surinam — en Mapas sin conexión > Agregar, cada país en una sola descarga. En las fronteras los mapas se completan.",
-        "Grupos de favoritos: cree grupos (Clientes, Viaje, Gasolineras...), elija el grupo al guardar o con la carpeta de cada favorito, filtre con la fila de grupos y renombre o borre un grupo sin perder los favoritos. En la búsqueda, los favoritos aparecen separados por grupo.",
-        "Llamar por voz: en Mensajes, toque \"Llamar a alguien\" y diga el nombre; lo busco en sus contactos y muestro los números en botones grandes. Los contactos no salen del celular."
       ]
     }
   ]
