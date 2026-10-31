@@ -1,15 +1,60 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.46.1",
-  "codigo": 140,
+  "versao": "0.47.0",
+  "codigo": 142,
   "data": "30/10/2026",
-  "tamanho": 192043364,
-  "sha256": "a605d2b90c545a82bf75632ccbbcbebffae49e15b18eda754f4eb7dddc62ef55",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.46.1/Vrumbi-0.46.1.apk",
+  "tamanho": 193101168,
+  "sha256": "1ddcc17a721e84120e0eb629cd7a224803e0e51319def492224a6fd1910ef882",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.47.0/Vrumbi-0.47.0.apk",
   "notas": [
-    "Meu carro direto na busca: logo abaixo de Casa, Trabalho, Favoritos e Proximidades, onde o carro ficou estacionado (há quanto tempo e a que distância); tocar mostra o lugar e a rota até ele. Sem carro marcado, \"Marcar onde estacionei\" fica ali mesmo."
+    "Minhas viagens (no Menu): planeje a viagem antes de sair. Escolha a saída, o destino (cidade, endereço ou um ponto no mapa, no Brasil ou fora), o dia e a hora, e a rota. A viagem fica guardada no aparelho com tudo o que você encontrar nela.",
+    "Clima no caminho na hora em que você passa: a previsão de cada trecho (temperatura, chuva, rajadas) para o horário em que o carro vai estar ali, com a cidade de cada ponto. Abre até 15 dias antes da viagem.",
+    "Postos, paradas e hospedagens ao longo da rota, cada um com o km em que aparece, e paradas sugeridas a cada 2 horas de direção.",
+    "Hospedagem no destino: hotéis, pousadas, hostels, motéis, chalés e campings da cidade e dos arredores, com a ficha completa do mapa (telefone, WhatsApp, site, e-mail, endereço, estrelas), \"Levar até lá\", \"Guardar nesta viagem\" e \"Ver preços e reservar\", que já abre com as datas da viagem.",
+    "Nas opções de rota, o botão \"Salvar como viagem\" guarda a rota escolhida para o dia que você quiser."
   ],
   "versoes": [
+    {
+      "versao": "0.47.0",
+      "data": "30/10/2026",
+      "itens": [
+        "Minhas viagens (no Menu): planeje a viagem antes de sair. Escolha a saída, o destino (cidade, endereço ou um ponto no mapa, no Brasil ou fora), o dia e a hora, e a rota. A viagem fica guardada no aparelho com tudo o que você encontrar nela.",
+        "Clima no caminho na hora em que você passa: a previsão de cada trecho (temperatura, chuva, rajadas) para o horário em que o carro vai estar ali, com a cidade de cada ponto. Abre até 15 dias antes da viagem.",
+        "Postos, paradas e hospedagens ao longo da rota, cada um com o km em que aparece, e paradas sugeridas a cada 2 horas de direção.",
+        "Hospedagem no destino: hotéis, pousadas, hostels, motéis, chalés e campings da cidade e dos arredores, com a ficha completa do mapa (telefone, WhatsApp, site, e-mail, endereço, estrelas), \"Levar até lá\", \"Guardar nesta viagem\" e \"Ver preços e reservar\", que já abre com as datas da viagem.",
+        "Nas opções de rota, o botão \"Salvar como viagem\" guarda a rota escolhida para o dia que você quiser."
+      ],
+      "en": [
+        "My trips (in the Menu): plan the trip before you leave. Choose the start, the destination (city, address or a point on the map, in Brazil or abroad), the day and time, and the route. The trip is kept on the device with everything you find for it.",
+        "Weather along the way at the time you pass: the forecast for each stretch (temperature, rain, gusts) for the hour the car will be there, with the town at each point. Available up to 15 days before the trip.",
+        "Gas stations, rest stops and lodging along the route, each with the km where it appears, and suggested stops every 2 hours of driving.",
+        "Lodging at the destination: hotels, guesthouses, hostels, motels, chalets and campsites in the city and nearby, with the full map record (phone, WhatsApp, website, e-mail, address, stars), \"Take me there\", \"Keep in this trip\" and \"See prices and book\", already with the trip dates.",
+        "In the route options, the \"Save as trip\" button keeps the chosen route for the day you want."
+      ],
+      "es": [
+        "Mis viajes (en el Menú): planifique el viaje antes de salir. Elija la salida, el destino (ciudad, dirección o un punto en el mapa, en Brasil o fuera), el día y la hora, y la ruta. El viaje queda guardado en el aparato con todo lo que encuentre para él.",
+        "Clima en el camino a la hora en que pasa: el pronóstico de cada tramo (temperatura, lluvia, ráfagas) para la hora en que el coche estará allí, con la ciudad de cada punto. Disponible hasta 15 días antes del viaje.",
+        "Gasolineras, paradas y alojamientos a lo largo de la ruta, cada uno con el km donde aparece, y paradas sugeridas cada 2 horas de manejo.",
+        "Alojamiento en el destino: hoteles, posadas, hostales, moteles, cabañas y campings de la ciudad y alrededores, con la ficha completa del mapa (teléfono, WhatsApp, sitio, e-mail, dirección, estrellas), \"Llevarme allí\", \"Guardar en este viaje\" y \"Ver precios y reservar\", ya con las fechas del viaje.",
+        "En las opciones de ruta, el botón \"Guardar como viaje\" guarda la ruta elegida para el día que quiera."
+      ]
+    },
+    {
+      "versao": "0.46.2",
+      "data": "30/10/2026",
+      "itens": [
+        "Editar favorito sem travas: o endereço completo (rua, número, bairro, cidade) num campo só, livre para escrever; eu já marco o endereço mais provável e, ao salvar, o favorito vai para lá. Ou toque em \"Escolher no mapa\", arraste o mapa até o lugar certo e use o ponto.",
+        "Grupos de favoritos no dedo: toque e segure um favorito, arraste e solte em cima da pasta. As pastas ficam presas no alto da lista; soltar em \"Novo grupo\" cria a pasta já com ele."
+      ],
+      "en": [
+        "Edit favorites freely: the full address (street, number, neighborhood, city) in a single field you can type in; I mark the most likely address and, when you save, the favorite moves there. Or tap \"Pick on the map\", drag the map to the exact spot and use the point.",
+        "Favorite groups by touch: touch and hold a favorite, drag it and drop it on a folder. Folders stay pinned at the top of the list; dropping on \"New group\" creates the folder with it inside."
+      ],
+      "es": [
+        "Editar favoritos sin trabas: la dirección completa (calle, número, barrio, ciudad) en un solo campo libre; marco la dirección más probable y, al guardar, el favorito va allí. O toque \"Elegir en el mapa\", arrastre el mapa hasta el lugar exacto y use el punto.",
+        "Grupos de favoritos con el dedo: toque y mantenga un favorito, arrástrelo y suéltelo sobre la carpeta. Las carpetas quedan fijas arriba de la lista; soltar en \"Nuevo grupo\" crea la carpeta con él dentro."
+      ]
+    },
     {
       "versao": "0.46.1",
       "data": "30/10/2026",
@@ -183,38 +228,6 @@
         "Vincular carpeta: elija una carpeta de música y cada subcarpeta (por ejemplo, una por artista) se vuelve una lista. No hace falta permitir nada más que esa carpeta.",
         "Un reproductor de Vrumbi de verdad: sigue sonando con la pantalla apagada y la app en segundo plano, con los controles en la notificación, la pantalla de bloqueo y el reloj.",
         "YouTube Music, Spotify y otros: el reproductor muestra la cola de la app (la lista que está sonando) y usted salta a cualquier canción sin salir de Vrumbi."
-      ]
-    },
-    {
-      "versao": "0.43.9",
-      "data": "30/10/2026",
-      "itens": [
-        "Player de mídia mais simples: saíram as abas Apps, Arquivos e YouTube. Tudo fica na grade dos players — tocar no YouTube já liga o vídeo com imagem aqui no Vrumbi, e o novo quadrado Arquivos abre direto as pastas do celular para escolher música ou vídeo. Para voltar à grade, \"‹ Players\" no alto."
-      ],
-      "en": [
-        "Simpler media player: the Apps, Files and YouTube tabs are gone. Everything sits in the players grid — tapping YouTube turns on video with picture right here in Vrumbi, and the new Files tile opens the phone folders to pick a song or video. To go back to the grid, \"‹ Players\" at the top."
-      ],
-      "es": [
-        "Reproductor más simple: salieron las pestañas Apps, Archivos y YouTube. Todo queda en la cuadrícula de reproductores — tocar YouTube ya activa el video con imagen aquí en Vrumbi, y el nuevo cuadro Archivos abre directo las carpetas del celular para elegir música o video. Para volver a la cuadrícula, \"‹ Reproductores\" arriba."
-      ]
-    },
-    {
-      "versao": "0.43.8",
-      "data": "30/10/2026",
-      "itens": [
-        "Hora, bateria e sinal no alto da tela agora sempre legíveis: os ícones ficam escuros sobre o mapa claro e claros sobre o mapa escuro (e acompanham o menu e as Configurações quando estão abertos).",
-        "Player encaixado no canto: agora cola de verdade no canto (antes descia para baixo do \"i\" do mapa) e ficou bem pequeno, com a barra de tempo da música e os botões voltar, tocar, avançar e parar.",
-        "Player de mídia estreito: a aba YouTube não some mais atrás dos botões redondos — as três abas cabem sempre."
-      ],
-      "en": [
-        "Time, battery and signal at the top are always readable now: the icons turn dark over the light map and light over the dark map (and follow the Menu and Settings when they are open).",
-        "Player docked in a corner: it now truly sticks to the corner (it used to drop below the map \"i\") and is much smaller, with the song timeline and the back, play, forward and stop buttons.",
-        "Narrow media player: the YouTube tab no longer hides behind the round buttons — the three tabs always fit."
-      ],
-      "es": [
-        "Hora, batería y señal arriba de la pantalla siempre legibles: los íconos quedan oscuros sobre el mapa claro y claros sobre el mapa oscuro (y acompañan el Menú y la Configuración cuando están abiertos).",
-        "Reproductor encajado en la esquina: ahora se pega de verdad a la esquina (antes bajaba debajo de la \"i\" del mapa) y quedó bien pequeño, con la barra de tiempo de la canción y los botones atrás, reproducir, adelante y detener.",
-        "Reproductor estrecho: la pestaña YouTube ya no desaparece detrás de los botones redondos — las tres pestañas siempre caben."
       ]
     }
   ]
