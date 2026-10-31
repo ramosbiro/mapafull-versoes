@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.1",
-  "codigo": 156,
+  "versao": "0.52.2",
+  "codigo": 157,
   "data": "31/10/2026",
-  "tamanho": 199690443,
-  "sha256": "a21eb5ddb2f9c21da6bfafc6be8ba17fbfc0fbf93754c467f9b03eede95bcd7e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.1/Vrumbi-0.52.1.apk",
+  "tamanho": 199691059,
+  "sha256": "6dc99e901508efeef7312ab0f032ef511d949dedc6d3e37cca086d8ff3948557",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.2/Vrumbi-0.52.2.apk",
   "notas": [
-    "Módulo da polícia: nos aparelhos que já tinham o Vrumbi (a equipe), o módulo fica liberado sem código. Instalações novas começam sem o módulo, que se libera com o código de acesso (e, no futuro, pelo cadastro)."
+    "Um cartão só: dentro de um centro comercial, a linha \"<nome> · ver o que tem aqui\" fica dentro do cartão do endereço, e tocar nele abre o que tem no lugar.",
+    "O cartão não cobre mais a seta: quando ele cresce (deitado, principalmente), a seta sobe um pouco na tela."
   ],
   "versoes": [
+    {
+      "versao": "0.52.2",
+      "data": "31/10/2026",
+      "itens": [
+        "Um cartão só: dentro de um centro comercial, a linha \"<nome> · ver o que tem aqui\" fica dentro do cartão do endereço, e tocar nele abre o que tem no lugar.",
+        "O cartão não cobre mais a seta: quando ele cresce (deitado, principalmente), a seta sobe um pouco na tela."
+      ],
+      "en": [
+        "One card only: inside a shopping center, the \"<name> · see what is here\" line sits inside the address card, and tapping it opens what is in the place.",
+        "The card no longer covers the arrow: when it grows (especially in landscape), the arrow moves up a bit on the screen."
+      ],
+      "es": [
+        "Una sola tarjeta: dentro de un centro comercial, la línea \"<nombre> · ver qué hay aquí\" va dentro de la tarjeta de la dirección, y al tocarla se abre lo que hay en el lugar.",
+        "La tarjeta ya no tapa la flecha: cuando crece (sobre todo en horizontal), la flecha sube un poco en la pantalla."
+      ]
+    },
     {
       "versao": "0.52.1",
       "data": "31/10/2026",
@@ -193,31 +210,6 @@
         "Consumo oficial del INMETRO: al elegir el modelo en la tabla FIPE, el consumo en carretera y ciudad viene de la tabla de etiquetado del INMETRO para el motor y la caja de su coche (lo que escribió sigue valiendo).",
         "Búsqueda más limpia: Mi coche y Mis viajes lado a lado, en el mismo estilo de los accesos de arriba. \"Olvidar dónde estacioné\" queda dentro de la ficha del coche.",
         "Destino y paradas del viaje: al escribir el nombre de una ciudad aparece primero la ciudad (ya no una calle con el mismo nombre cerca de usted)."
-      ]
-    },
-    {
-      "versao": "0.49.0",
-      "data": "31/10/2026",
-      "itens": [
-        "Na rota, a seta fica em cima da linha da rota e aponta para onde a rota vai, mesmo com o GPS impreciso: não sai mais para a lateral nem \"voa\" fora da pista. Só larga a linha quando você realmente sai da rota.",
-        "Nada fica por cima da seta: rota, radares, alertas e camadas passam sempre por baixo dela.",
-        "Aviso de pedágio: cerca de 1,5 km antes de cada praça eu falo a distância e o valor para o seu veículo, com o balão na tela e no relógio.",
-        "Lembrete da viagem: na véspera às 20h e 1 hora antes de sair; tocar no aviso abre a viagem com o clima e onde abastecer.",
-        "Mapas do caminho: na viagem, um toque mostra só os mapas offline que a rota atravessa e baixa os que faltam."
-      ],
-      "en": [
-        "On the route, the arrow stays on the route line and points where the route goes, even with poor GPS: it no longer drifts sideways or \"flies\" off the road. It only leaves the line when you really leave the route.",
-        "Nothing covers the arrow: route, speed cameras, alerts and layers always go under it.",
-        "Toll warning: about 1.5 km before each toll plaza I say the distance and the price for your vehicle, with the bubble on screen and on the watch.",
-        "Trip reminder: the evening before at 8 pm and 1 hour before you leave; tapping it opens the trip with the weather and where to refuel.",
-        "Maps for the route: in the trip, one tap shows only the offline maps the route goes through and downloads the missing ones."
-      ],
-      "es": [
-        "En la ruta, la flecha queda sobre la línea de la ruta y apunta hacia donde va la ruta, incluso con GPS impreciso: ya no se va al costado ni \"vuela\" fuera de la pista. Solo deja la línea cuando de verdad sale de la ruta.",
-        "Nada queda encima de la flecha: ruta, radares, alertas y capas pasan siempre por debajo.",
-        "Aviso de peaje: unos 1,5 km antes de cada plaza digo la distancia y el valor para su vehículo, con el globo en la pantalla y en el reloj.",
-        "Recordatorio del viaje: la víspera a las 20 h y 1 hora antes de salir; tocar el aviso abre el viaje con el clima y dónde cargar.",
-        "Mapas del camino: en el viaje, un toque muestra solo los mapas offline que cruza la ruta y descarga los que faltan."
       ]
     }
   ]
