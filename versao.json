@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.51.1",
-  "codigo": 153,
+  "versao": "0.51.2",
+  "codigo": 154,
   "data": "31/10/2026",
-  "tamanho": 199674691,
-  "sha256": "0b371a04527643ccd3cfe6ca2f904ea53cfd2e5f283f245814fddccb81642da4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.1/Vrumbi-0.51.1.apk",
+  "tamanho": 199675011,
+  "sha256": "982906f192b0dc30ebd85d268af45b190c54f3bc0c9b68725232537625b43e86",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.2/Vrumbi-0.51.2.apk",
   "notas": [
-    "Todo lugar com lojas: além de shopping e mercado, o app agora reconhece galerias (as do centro de São Paulo, da 25 de Março...), calçadões com lojas (centro de SP, litoral, interior), prédios e áreas comerciais (como o Patteo Mogilar) e mini shoppings. Só em SP: 2.752 lugares assim, com mais de 100 mil estabelecimentos.",
-    "As lojas com o mesmo endereço do centro (ex.: \"R. Manuel de Oliveira, 269 – Torre 2, Loja 3\") entram na lista mesmo fora do contorno desenhado no mapa."
+    "Meu carro, favoritos, casa, trabalho e as lojas dos centros comerciais: a ficha mostra só o que é seu (endereço, hora, ir para cá), sem o quadro de município, batalhão, companhia, DP e bombeiros."
   ],
   "versoes": [
+    {
+      "versao": "0.51.2",
+      "data": "31/10/2026",
+      "itens": [
+        "Meu carro, favoritos, casa, trabalho e as lojas dos centros comerciais: a ficha mostra só o que é seu (endereço, hora, ir para cá), sem o quadro de município, batalhão, companhia, DP e bombeiros."
+      ],
+      "en": [
+        "My car, favorites, home, work and the shops in shopping centers: the card shows only what is yours (address, time, go here), without the municipality, police and fire department box."
+      ],
+      "es": [
+        "Mi coche, favoritos, casa, trabajo y las tiendas de los centros comerciales: la ficha muestra solo lo suyo (dirección, hora, ir aquí), sin el cuadro de municipio, batallón, compañía, comisaría y bomberos."
+      ]
+    },
     {
       "versao": "0.51.1",
       "data": "31/10/2026",
@@ -212,31 +224,6 @@
       ],
       "es": [
         "Mis viajes también en la búsqueda: justo debajo de Mi coche, con el próximo viaje y el día de salida; el + empieza un viaje nuevo directo."
-      ]
-    },
-    {
-      "versao": "0.47.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Minhas viagens (no Menu): planeje a viagem antes de sair. Escolha a saída, o destino (cidade, endereço ou um ponto no mapa, no Brasil ou fora), o dia e a hora, e a rota. A viagem fica guardada no aparelho com tudo o que você encontrar nela.",
-        "Clima no caminho na hora em que você passa: a previsão de cada trecho (temperatura, chuva, rajadas) para o horário em que o carro vai estar ali, com a cidade de cada ponto. Abre até 15 dias antes da viagem.",
-        "Postos, paradas e hospedagens ao longo da rota, cada um com o km em que aparece, e paradas sugeridas a cada 2 horas de direção.",
-        "Hospedagem no destino: hotéis, pousadas, hostels, motéis, chalés e campings da cidade e dos arredores, com a ficha completa do mapa (telefone, WhatsApp, site, e-mail, endereço, estrelas), \"Levar até lá\", \"Guardar nesta viagem\" e \"Ver preços e reservar\", que já abre com as datas da viagem.",
-        "Nas opções de rota, o botão \"Salvar como viagem\" guarda a rota escolhida para o dia que você quiser."
-      ],
-      "en": [
-        "My trips (in the Menu): plan the trip before you leave. Choose the start, the destination (city, address or a point on the map, in Brazil or abroad), the day and time, and the route. The trip is kept on the device with everything you find for it.",
-        "Weather along the way at the time you pass: the forecast for each stretch (temperature, rain, gusts) for the hour the car will be there, with the town at each point. Available up to 15 days before the trip.",
-        "Gas stations, rest stops and lodging along the route, each with the km where it appears, and suggested stops every 2 hours of driving.",
-        "Lodging at the destination: hotels, guesthouses, hostels, motels, chalets and campsites in the city and nearby, with the full map record (phone, WhatsApp, website, e-mail, address, stars), \"Take me there\", \"Keep in this trip\" and \"See prices and book\", already with the trip dates.",
-        "In the route options, the \"Save as trip\" button keeps the chosen route for the day you want."
-      ],
-      "es": [
-        "Mis viajes (en el Menú): planifique el viaje antes de salir. Elija la salida, el destino (ciudad, dirección o un punto en el mapa, en Brasil o fuera), el día y la hora, y la ruta. El viaje queda guardado en el aparato con todo lo que encuentre para él.",
-        "Clima en el camino a la hora en que pasa: el pronóstico de cada tramo (temperatura, lluvia, ráfagas) para la hora en que el coche estará allí, con la ciudad de cada punto. Disponible hasta 15 días antes del viaje.",
-        "Gasolineras, paradas y alojamientos a lo largo de la ruta, cada uno con el km donde aparece, y paradas sugeridas cada 2 horas de manejo.",
-        "Alojamiento en el destino: hoteles, posadas, hostales, moteles, cabañas y campings de la ciudad y alrededores, con la ficha completa del mapa (teléfono, WhatsApp, sitio, e-mail, dirección, estrellas), \"Llevarme allí\", \"Guardar en este viaje\" y \"Ver precios y reservar\", ya con las fechas del viaje.",
-        "En las opciones de ruta, el botón \"Guardar como viaje\" guarda la ruta elegida para el día que quiera."
       ]
     }
   ]
