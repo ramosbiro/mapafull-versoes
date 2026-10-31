@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.51.2",
-  "codigo": 154,
+  "versao": "0.52.0",
+  "codigo": 155,
   "data": "31/10/2026",
-  "tamanho": 199675011,
-  "sha256": "982906f192b0dc30ebd85d268af45b190c54f3bc0c9b68725232537625b43e86",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.2/Vrumbi-0.51.2.apk",
+  "tamanho": 199690111,
+  "sha256": "5c45b2d3bbd8e666d027511bc489862a0a598ef3a6ac351c2f062c04c8712296",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.0/Vrumbi-0.52.0.apk",
   "notas": [
-    "Meu carro, favoritos, casa, trabalho e as lojas dos centros comerciais: a ficha mostra só o que é seu (endereço, hora, ir para cá), sem o quadro de município, batalhão, companhia, DP e bombeiros."
+    "Módulo da polícia: o mapa completo (com as ferramentas de plotagem e análise), as áreas da PM, da Polícia Civil e dos bombeiros, a análise criminal e a área de cada ponto (batalhão, companhia, DP) agora ficam num módulo só para policiais, liberado por código de acesso em Configurações > Módulo da polícia. Com o acesso, liga e desliga nos Ajustes rápidos.",
+    "Para todos continuam os pontos das unidades (PM, bombeiros, delegacias), com telefone e rota até elas, e a Ajuda por perto."
   ],
   "versoes": [
+    {
+      "versao": "0.52.0",
+      "data": "31/10/2026",
+      "itens": [
+        "Módulo da polícia: o mapa completo (com as ferramentas de plotagem e análise), as áreas da PM, da Polícia Civil e dos bombeiros, a análise criminal e a área de cada ponto (batalhão, companhia, DP) agora ficam num módulo só para policiais, liberado por código de acesso em Configurações > Módulo da polícia. Com o acesso, liga e desliga nos Ajustes rápidos.",
+        "Para todos continuam os pontos das unidades (PM, bombeiros, delegacias), com telefone e rota até elas, e a Ajuda por perto."
+      ],
+      "en": [
+        "Police module: the full map (with plotting and analysis tools), the Military Police, Civil Police and fire department areas, crime analysis and the area of each point (battalion, company, police district) are now in a module for police officers only, unlocked with an access code in Settings > Police module. With access, turn it on and off in Quick settings.",
+        "Still for everyone: the unit locations (police, fire department, police stations), with phone and route to them, and Help nearby."
+      ],
+      "es": [
+        "Módulo de la policía: el mapa completo (con las herramientas de trazado y análisis), las áreas de la PM, de la Policía Civil y de los bomberos, el análisis criminal y el área de cada punto (batallón, compañía, comisaría) ahora están en un módulo solo para policías, liberado con código de acceso en Configuración > Módulo de la policía. Con el acceso, se activa y desactiva en Ajustes rápidos.",
+        "Para todos siguen los puntos de las unidades (policía, bomberos, comisarías), con teléfono y ruta hasta ellas, y la Ayuda cercana."
+      ]
+    },
     {
       "versao": "0.51.2",
       "data": "31/10/2026",
@@ -211,19 +228,6 @@
         "Costo del viaje: elija el vehículo y calculo los litros y el valor del combustible con el precio de la ANP de la semana en cada estado del camino, sumo los peajes, el alojamiento (noches × tarifa) y la comida, y muestro el total, también ida y vuelta.",
         "Dónde cargar combustible: con lo que tiene en el tanque al salir, marco la gasolinera del camino donde parar antes de llegar a la reserva, con cuánto llega y cuánto cargar. En el coche flex, digo si conviene gasolina o etanol en este viaje.",
         "Coche eléctrico: electrolineras a lo largo de la ruta y dónde recargar."
-      ]
-    },
-    {
-      "versao": "0.47.1",
-      "data": "30/10/2026",
-      "itens": [
-        "Minhas viagens também na busca: logo abaixo do Meu carro, com a próxima viagem e o dia de sair; o + começa uma viagem nova direto."
-      ],
-      "en": [
-        "My trips in search too: right below My car, with the next trip and the day you leave; the + starts a new trip right away."
-      ],
-      "es": [
-        "Mis viajes también en la búsqueda: justo debajo de Mi coche, con el próximo viaje y el día de salida; el + empieza un viaje nuevo directo."
       ]
     }
   ]
