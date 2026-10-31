@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.5",
-  "codigo": 160,
+  "versao": "0.52.6",
+  "codigo": 161,
   "data": "31/10/2026",
-  "tamanho": 204592671,
-  "sha256": "afafa112fbb9737cbe221bf52eb861d694c858301c75a670d34f1a1083899016",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.5/Vrumbi-0.52.5.apk",
+  "tamanho": 203128782,
+  "sha256": "85eec6583ab984941058758b064d7ff84ef433116da0fc8b52ab3370500595f2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.6/Vrumbi-0.52.6.apk",
   "notas": [
-    "Neblina só de verdade: a visibilidade que a previsão informa despenca nas noites úmidas e virava \"Neblina\" a noite toda (com os aeroportos marcando 10 km de visibilidade). Agora a neblina por visibilidade só aparece com o ar saturado (umidade de 98% ou mais) — no app e no widget, igual.",
-    "Com o app aberto, a previsão se renova a cada 10 minutos e vai na hora para o widget.",
-    "Widget de relógio e clima grande: à direita do nome do lugar, a hora da última atualização e um botão discreto para atualizar na hora."
+    "Clima pelo céu: o ícone e o texto mostram só a situação do céu e da chuva (limpo, poucas nuvens, sol entre nuvens, nublado, garoa, chuva, pancadas, trovoada), além de tempestade severa e ventania com chuva. Neblina só quando um aeroporto perto observa de verdade; na previsão das próximas horas, não mais.",
+    "Ar seco, abafado, calor, frio, vento forte e sol forte saíram do ícone por enquanto (os números continuam nos detalhes)."
   ],
   "versoes": [
+    {
+      "versao": "0.52.6",
+      "data": "31/10/2026",
+      "itens": [
+        "Clima pelo céu: o ícone e o texto mostram só a situação do céu e da chuva (limpo, poucas nuvens, sol entre nuvens, nublado, garoa, chuva, pancadas, trovoada), além de tempestade severa e ventania com chuva. Neblina só quando um aeroporto perto observa de verdade; na previsão das próximas horas, não mais.",
+        "Ar seco, abafado, calor, frio, vento forte e sol forte saíram do ícone por enquanto (os números continuam nos detalhes)."
+      ],
+      "en": [
+        "Weather by the sky: the icon and text show only the sky and the rain (clear, few clouds, sun and clouds, cloudy, drizzle, rain, showers, thunder), plus severe storm and wind with rain. Fog only when a nearby airport actually observes it; no longer in the forecast for the next hours.",
+        "Dry air, muggy, heat, cold, strong wind and strong sun left the icon for now (the numbers are still in the details)."
+      ],
+      "es": [
+        "Clima por el cielo: el ícono y el texto muestran solo el cielo y la lluvia (despejado, pocas nubes, sol entre nubes, nublado, llovizna, lluvia, chubascos, tormenta), además de tormenta severa y viento con lluvia. Niebla solo cuando un aeropuerto cercano la observa de verdad; ya no en la previsión de las próximas horas.",
+        "Aire seco, bochorno, calor, frío, viento fuerte y sol fuerte salieron del ícono por ahora (los números siguen en los detalles)."
+      ]
+    },
     {
       "versao": "0.52.5",
       "data": "31/10/2026",
@@ -195,19 +210,6 @@
         "Flecha en las curvas: al girar, la flecha toma la dirección de la calle nueva en cuanto el coche entra en ella, y sigue la vía.",
         "Detenido en el semáforo, la flecha ya no gira de lado: mantiene la dirección en la que venía, aunque el GPS tiemble.",
         "En horizontal: la señal de velocidad máxima queda encima del velocímetro, ya no debajo del botón Avisar."
-      ]
-    },
-    {
-      "versao": "0.50.3",
-      "data": "31/10/2026",
-      "itens": [
-        "Tipo de chuva certo: a chuva de verão da tarde aparece como \"Pancadas de chuva\" ou \"Chuva fraca\" (antes saía como \"Garoa\"). Garoa fica só para a chuvinha fina de verdade. Vale para a tela Clima, os widgets e o clima das viagens."
-      ],
-      "en": [
-        "Right kind of rain: afternoon summer rain now shows as \"Rain showers\" or \"Light rain\" (it used to say \"Drizzle\"). Drizzle is only for real fine drizzle. Applies to the Weather screen, widgets and trip weather."
-      ],
-      "es": [
-        "Tipo de lluvia correcto: la lluvia de verano de la tarde aparece como \"Chubascos\" o \"Lluvia débil\" (antes decía \"Llovizna\"). Llovizna queda solo para la llovizna fina de verdad. Vale para la pantalla Clima, los widgets y el clima de los viajes."
       ]
     }
   ]
