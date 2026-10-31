@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.51.0",
-  "codigo": 152,
+  "versao": "0.51.1",
+  "codigo": 153,
   "data": "31/10/2026",
-  "tamanho": 197884030,
-  "sha256": "b3dec8840853c846e7584a202ad8467c534161d19c2c4d041b24c37e85a964ba",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.0/Vrumbi-0.51.0.apk",
+  "tamanho": 199674691,
+  "sha256": "0b371a04527643ccd3cfe6ca2f904ea53cfd2e5f283f245814fddccb81642da4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.51.1/Vrumbi-0.51.1.apk",
   "notas": [
-    "O que tem aqui: entrou num shopping, centro comercial ou mercado, embaixo do nome da rua aparece \"<nome> · ver o que tem aqui\". Tocando, vem a lista de tudo o que tem lá dentro — alimentação, moda, beleza e saúde, mercado, eletrônicos, casa, bancos e serviços, lazer — com busca, telefone para ligar e o lugar no mapa.",
-    "Estacionamento do centro: a empresa que opera (ex.: Estapar), se é pago, vagas e horário, quando a informação existe, e o atalho para o app da operadora. O valor aparece quando a fonte informa.",
-    "Funciona sem internet: o app reconhece o centro pelo contorno no próprio celular, a cada posição."
+    "Todo lugar com lojas: além de shopping e mercado, o app agora reconhece galerias (as do centro de São Paulo, da 25 de Março...), calçadões com lojas (centro de SP, litoral, interior), prédios e áreas comerciais (como o Patteo Mogilar) e mini shoppings. Só em SP: 2.752 lugares assim, com mais de 100 mil estabelecimentos.",
+    "As lojas com o mesmo endereço do centro (ex.: \"R. Manuel de Oliveira, 269 – Torre 2, Loja 3\") entram na lista mesmo fora do contorno desenhado no mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.51.1",
+      "data": "31/10/2026",
+      "itens": [
+        "Todo lugar com lojas: além de shopping e mercado, o app agora reconhece galerias (as do centro de São Paulo, da 25 de Março...), calçadões com lojas (centro de SP, litoral, interior), prédios e áreas comerciais (como o Patteo Mogilar) e mini shoppings. Só em SP: 2.752 lugares assim, com mais de 100 mil estabelecimentos.",
+        "As lojas com o mesmo endereço do centro (ex.: \"R. Manuel de Oliveira, 269 – Torre 2, Loja 3\") entram na lista mesmo fora do contorno desenhado no mapa."
+      ],
+      "en": [
+        "Every place with shops: besides malls and markets, the app now recognizes galleries (downtown São Paulo, 25 de Março...), pedestrian shopping streets (downtown, coast, inland), commercial buildings and areas (like Patteo Mogilar) and small malls. In SP alone: 2,752 such places with over 100,000 businesses.",
+        "Shops with the center’s address (e.g. \"R. Manuel de Oliveira, 269 – Tower 2, Store 3\") join the list even outside the outline drawn on the map."
+      ],
+      "es": [
+        "Todo lugar con tiendas: además de shoppings y mercados, la app ahora reconoce galerías (las del centro de São Paulo, la 25 de Março...), calles peatonales con tiendas (centro, litoral, interior), edificios y áreas comerciales (como el Patteo Mogilar) y mini shoppings. Solo en SP: 2.752 lugares así, con más de 100 mil comercios.",
+        "Las tiendas con la misma dirección del centro (ej.: \"R. Manuel de Oliveira, 269 – Torre 2, Local 3\") entran en la lista aunque estén fuera del contorno dibujado en el mapa."
+      ]
+    },
     {
       "versao": "0.51.0",
       "data": "31/10/2026",
@@ -222,22 +237,6 @@
         "Gasolineras, paradas y alojamientos a lo largo de la ruta, cada uno con el km donde aparece, y paradas sugeridas cada 2 horas de manejo.",
         "Alojamiento en el destino: hoteles, posadas, hostales, moteles, cabañas y campings de la ciudad y alrededores, con la ficha completa del mapa (teléfono, WhatsApp, sitio, e-mail, dirección, estrellas), \"Llevarme allí\", \"Guardar en este viaje\" y \"Ver precios y reservar\", ya con las fechas del viaje.",
         "En las opciones de ruta, el botón \"Guardar como viaje\" guarda la ruta elegida para el día que quiera."
-      ]
-    },
-    {
-      "versao": "0.46.2",
-      "data": "30/10/2026",
-      "itens": [
-        "Editar favorito sem travas: o endereço completo (rua, número, bairro, cidade) num campo só, livre para escrever; eu já marco o endereço mais provável e, ao salvar, o favorito vai para lá. Ou toque em \"Escolher no mapa\", arraste o mapa até o lugar certo e use o ponto.",
-        "Grupos de favoritos no dedo: toque e segure um favorito, arraste e solte em cima da pasta. As pastas ficam presas no alto da lista; soltar em \"Novo grupo\" cria a pasta já com ele."
-      ],
-      "en": [
-        "Edit favorites freely: the full address (street, number, neighborhood, city) in a single field you can type in; I mark the most likely address and, when you save, the favorite moves there. Or tap \"Pick on the map\", drag the map to the exact spot and use the point.",
-        "Favorite groups by touch: touch and hold a favorite, drag it and drop it on a folder. Folders stay pinned at the top of the list; dropping on \"New group\" creates the folder with it inside."
-      ],
-      "es": [
-        "Editar favoritos sin trabas: la dirección completa (calle, número, barrio, ciudad) en un solo campo libre; marco la dirección más probable y, al guardar, el favorito va allí. O toque \"Elegir en el mapa\", arrastre el mapa hasta el lugar exacto y use el punto.",
-        "Grupos de favoritos con el dedo: toque y mantenga un favorito, arrástrelo y suéltelo sobre la carpeta. Las carpetas quedan fijas arriba de la lista; soltar en \"Nuevo grupo\" crea la carpeta con él dentro."
       ]
     }
   ]
