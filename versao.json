@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.8",
-  "codigo": 163,
+  "versao": "0.52.9",
+  "codigo": 164,
   "data": "31/10/2026",
-  "tamanho": 203126846,
-  "sha256": "d6ff8d395e100b8f89e91340e0a5c54bbc3727a1070c74db784699fe0cc65af8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.8/Vrumbi-0.52.8.apk",
+  "tamanho": 203825164,
+  "sha256": "0c135ec2e912b8d36a7b4dfab262186361da319ec005dd3beedd76a6b6dc686d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.9/Vrumbi-0.52.9.apk",
   "notas": [
-    "Seu carro no mapa: ao marcar onde estacionou, o selo laranja do carro fica no lugar, visível de longe e de perto, como Casa e Trabalho. Tocar nele abre o \"Meu carro\" com o caminho até lá.",
-    "\"Esquecer onde estacionei\" virou \"Já peguei o carro\": tira o carro do mapa."
+    "O carro estacionado no mapa agora é o próprio Vrumbi (o carrinho laranja, com a placa \"P\" azul no canto), com a nossa cara."
   ],
   "versoes": [
+    {
+      "versao": "0.52.9",
+      "data": "31/10/2026",
+      "itens": [
+        "O carro estacionado no mapa agora é o próprio Vrumbi (o carrinho laranja, com a placa \"P\" azul no canto), com a nossa cara."
+      ],
+      "en": [
+        "The parked car on the map is now Vrumbi itself (the little orange car, with a blue \"P\" sign in the corner), with our own look."
+      ],
+      "es": [
+        "El coche estacionado en el mapa ahora es el propio Vrumbi (el autito naranja, con la placa \"P\" azul en la esquina), con nuestra cara."
+      ]
+    },
     {
       "versao": "0.52.8",
       "data": "31/10/2026",
@@ -182,25 +194,6 @@
       "es": [
         "Todo lugar con tiendas: además de shoppings y mercados, la app ahora reconoce galerías (las del centro de São Paulo, la 25 de Março...), calles peatonales con tiendas (centro, litoral, interior), edificios y áreas comerciales (como el Patteo Mogilar) y mini shoppings. Solo en SP: 2.752 lugares así, con más de 100 mil comercios.",
         "Las tiendas con la misma dirección del centro (ej.: \"R. Manuel de Oliveira, 269 – Torre 2, Local 3\") entran en la lista aunque estén fuera del contorno dibujado en el mapa."
-      ]
-    },
-    {
-      "versao": "0.51.0",
-      "data": "31/10/2026",
-      "itens": [
-        "O que tem aqui: entrou num shopping, centro comercial ou mercado, embaixo do nome da rua aparece \"<nome> · ver o que tem aqui\". Tocando, vem a lista de tudo o que tem lá dentro — alimentação, moda, beleza e saúde, mercado, eletrônicos, casa, bancos e serviços, lazer — com busca, telefone para ligar e o lugar no mapa.",
-        "Estacionamento do centro: a empresa que opera (ex.: Estapar), se é pago, vagas e horário, quando a informação existe, e o atalho para o app da operadora. O valor aparece quando a fonte informa.",
-        "Funciona sem internet: o app reconhece o centro pelo contorno no próprio celular, a cada posição."
-      ],
-      "en": [
-        "What is here: when you enter a mall, shopping center or market, under the street name you get \"<name> · see what is here\". Tap it for the list of everything inside — food, fashion, beauty and health, groceries, electronics, home, banks and services, leisure — with search, phone to call and the place on the map.",
-        "Parking at the center: the operating company (e.g. Estapar), whether it is paid, spaces and hours when the information exists, and a shortcut to the operator’s app. The price shows when the source has it.",
-        "Works offline: the app recognizes the center by its outline on the phone itself, at every position."
-      ],
-      "es": [
-        "Qué hay aquí: al entrar en un shopping, centro comercial o mercado, debajo del nombre de la calle aparece \"<nombre> · ver qué hay aquí\". Al tocarlo, sale la lista de todo lo que hay dentro — comida, moda, belleza y salud, mercado, electrónica, hogar, bancos y servicios, ocio — con búsqueda, teléfono para llamar y el lugar en el mapa.",
-        "Estacionamiento del centro: la empresa que lo opera (ej.: Estapar), si es de pago, plazas y horario cuando la información existe, y el acceso a la app del operador. El precio aparece cuando la fuente lo informa.",
-        "Funciona sin internet: la app reconoce el centro por su contorno en el propio celular, en cada posición."
       ]
     }
   ]
