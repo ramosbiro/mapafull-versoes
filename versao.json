@@ -1,19 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.47.0",
-  "codigo": 142,
+  "versao": "0.47.1",
+  "codigo": 143,
   "data": "30/10/2026",
-  "tamanho": 193101168,
-  "sha256": "1ddcc17a721e84120e0eb629cd7a224803e0e51319def492224a6fd1910ef882",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.47.0/Vrumbi-0.47.0.apk",
+  "tamanho": 192103079,
+  "sha256": "b0b2521ac390bb05529ebd4db8279e28aced602748f05efe6f382373749582e4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.47.1/Vrumbi-0.47.1.apk",
   "notas": [
-    "Minhas viagens (no Menu): planeje a viagem antes de sair. Escolha a saída, o destino (cidade, endereço ou um ponto no mapa, no Brasil ou fora), o dia e a hora, e a rota. A viagem fica guardada no aparelho com tudo o que você encontrar nela.",
-    "Clima no caminho na hora em que você passa: a previsão de cada trecho (temperatura, chuva, rajadas) para o horário em que o carro vai estar ali, com a cidade de cada ponto. Abre até 15 dias antes da viagem.",
-    "Postos, paradas e hospedagens ao longo da rota, cada um com o km em que aparece, e paradas sugeridas a cada 2 horas de direção.",
-    "Hospedagem no destino: hotéis, pousadas, hostels, motéis, chalés e campings da cidade e dos arredores, com a ficha completa do mapa (telefone, WhatsApp, site, e-mail, endereço, estrelas), \"Levar até lá\", \"Guardar nesta viagem\" e \"Ver preços e reservar\", que já abre com as datas da viagem.",
-    "Nas opções de rota, o botão \"Salvar como viagem\" guarda a rota escolhida para o dia que você quiser."
+    "Minhas viagens também na busca: logo abaixo do Meu carro, com a próxima viagem e o dia de sair; o + começa uma viagem nova direto."
   ],
   "versoes": [
+    {
+      "versao": "0.47.1",
+      "data": "30/10/2026",
+      "itens": [
+        "Minhas viagens também na busca: logo abaixo do Meu carro, com a próxima viagem e o dia de sair; o + começa uma viagem nova direto."
+      ],
+      "en": [
+        "My trips in search too: right below My car, with the next trip and the day you leave; the + starts a new trip right away."
+      ],
+      "es": [
+        "Mis viajes también en la búsqueda: justo debajo de Mi coche, con el próximo viaje y el día de salida; el + empieza un viaje nuevo directo."
+      ]
+    },
     {
       "versao": "0.47.0",
       "data": "30/10/2026",
@@ -206,28 +215,6 @@
         "Pantalla dividida en los cuatro lados: el reproductor se pega arriba, abajo, a la izquierda o a la derecha, en vertical u horizontal — música y video.",
         "El reproductor se adapta al espacio: arrastre la división y cambia de forma. En un lateral estrecho queda de pie, solo con los botones uno encima del otro y la barra de la música vertical; más ancho, muestra portada, nombre y listas; arriba o abajo, bajo es la franja de controles y alto es el reproductor completo.",
         "Corregido: arrastrar la barra de la música volvía al inicio — ahora va al punto elegido, también en YouTube Music, Spotify y otras apps, y tocar una canción de la cola de la app salta a ella."
-      ]
-    },
-    {
-      "versao": "0.44.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Central multimídia, primeira parte — Minhas músicas: as músicas do celular tocam dentro do Vrumbi, organizadas por Artistas, Álbuns, Pastas ou Todas, com Tocar tudo, Aleatório, Repetir e a fila para pular para qualquer música.",
-        "Vincular pasta: escolha uma pasta de músicas e cada subpasta (por exemplo, uma por artista) vira uma playlist. Não precisa liberar nada além da própria pasta.",
-        "Tocador do Vrumbi de verdade: continua tocando com a tela apagada e o app no fundo, com os controles na notificação, na tela de bloqueio e no relógio.",
-        "YouTube Music, Spotify e outros: o player mostra a fila do app (a playlist que está tocando) e você pula para qualquer música dela sem sair do Vrumbi."
-      ],
-      "en": [
-        "Media hub, part one — My music: the phone music plays inside Vrumbi, organized by Artists, Albums, Folders or All, with Play all, Shuffle, Repeat and the queue to jump to any song.",
-        "Link folder: pick a music folder and each subfolder (for example, one per artist) becomes a playlist. Nothing else needs to be allowed besides that folder.",
-        "A real Vrumbi player: keeps playing with the screen off and the app in the background, with controls on the notification, the lock screen and the watch.",
-        "YouTube Music, Spotify and others: the player shows the app queue (the playlist that is playing) and you jump to any song without leaving Vrumbi."
-      ],
-      "es": [
-        "Central multimedia, primera parte — Mi música: la música del celular suena dentro de Vrumbi, organizada por Artistas, Álbumes, Carpetas o Todas, con Reproducir todo, Aleatorio, Repetir y la cola para saltar a cualquier canción.",
-        "Vincular carpeta: elija una carpeta de música y cada subcarpeta (por ejemplo, una por artista) se vuelve una lista. No hace falta permitir nada más que esa carpeta.",
-        "Un reproductor de Vrumbi de verdad: sigue sonando con la pantalla apagada y la app en segundo plano, con los controles en la notificación, la pantalla de bloqueo y el reloj.",
-        "YouTube Music, Spotify y otros: el reproductor muestra la cola de la app (la lista que está sonando) y usted salta a cualquier canción sin salir de Vrumbi."
       ]
     }
   ]
