@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.52.0",
-  "codigo": 155,
+  "versao": "0.52.1",
+  "codigo": 156,
   "data": "31/10/2026",
-  "tamanho": 199690111,
-  "sha256": "5c45b2d3bbd8e666d027511bc489862a0a598ef3a6ac351c2f062c04c8712296",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.0/Vrumbi-0.52.0.apk",
+  "tamanho": 199690443,
+  "sha256": "a21eb5ddb2f9c21da6bfafc6be8ba17fbfc0fbf93754c467f9b03eede95bcd7e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.52.1/Vrumbi-0.52.1.apk",
   "notas": [
-    "Módulo da polícia: o mapa completo (com as ferramentas de plotagem e análise), as áreas da PM, da Polícia Civil e dos bombeiros, a análise criminal e a área de cada ponto (batalhão, companhia, DP) agora ficam num módulo só para policiais, liberado por código de acesso em Configurações > Módulo da polícia. Com o acesso, liga e desliga nos Ajustes rápidos.",
-    "Para todos continuam os pontos das unidades (PM, bombeiros, delegacias), com telefone e rota até elas, e a Ajuda por perto."
+    "Módulo da polícia: nos aparelhos que já tinham o Vrumbi (a equipe), o módulo fica liberado sem código. Instalações novas começam sem o módulo, que se libera com o código de acesso (e, no futuro, pelo cadastro)."
   ],
   "versoes": [
+    {
+      "versao": "0.52.1",
+      "data": "31/10/2026",
+      "itens": [
+        "Módulo da polícia: nos aparelhos que já tinham o Vrumbi (a equipe), o módulo fica liberado sem código. Instalações novas começam sem o módulo, que se libera com o código de acesso (e, no futuro, pelo cadastro)."
+      ],
+      "en": [
+        "Police module: on devices that already had Vrumbi (the team), the module stays unlocked without a code. New installs start without the module, which is unlocked with the access code (and, in the future, by registration)."
+      ],
+      "es": [
+        "Módulo de la policía: en los dispositivos que ya tenían Vrumbi (el equipo), el módulo queda liberado sin código. Las instalaciones nuevas empiezan sin el módulo, que se libera con el código de acceso (y, en el futuro, con el registro)."
+      ]
+    },
     {
       "versao": "0.52.0",
       "data": "31/10/2026",
@@ -206,28 +218,6 @@
         "Aviso de peaje: unos 1,5 km antes de cada plaza digo la distancia y el valor para su vehículo, con el globo en la pantalla y en el reloj.",
         "Recordatorio del viaje: la víspera a las 20 h y 1 hora antes de salir; tocar el aviso abre el viaje con el clima y dónde cargar.",
         "Mapas del camino: en el viaje, un toque muestra solo los mapas offline que cruza la ruta y descarga los que faltan."
-      ]
-    },
-    {
-      "versao": "0.48.0",
-      "data": "30/10/2026",
-      "itens": [
-        "Meus veículos (Configurações): cadastre um ou mais veículos com foto, placa, RENAVAM e cor. O modelo vem da tabela FIPE: digite \"onix 1.0\", escolha o seu na lista e o ano, e eu preencho marca, modelo, combustível e o valor FIPE. Tanque e consumo na estrada e na cidade; sem saber o consumo, a estimativa usa o tipo e o motor do modelo.",
-        "Custo da viagem: escolha o veículo e eu calculo os litros e o valor do combustível pelo preço da ANP da semana em cada estado do caminho, somo os pedágios, a hospedagem (noites × diária) e a alimentação, e mostro o total, também de ida e volta.",
-        "Onde abastecer: com o tanque que você tem na saída, marco o posto do caminho em que parar antes de chegar à reserva, com quanto você chega e quanto vai abastecer. No carro flex, digo se gasolina ou etanol compensa nesta viagem.",
-        "Carro elétrico: eletropostos ao longo da rota e onde recarregar."
-      ],
-      "en": [
-        "My vehicles (Settings): add one or more vehicles with photo, plate, registration number and color. The model comes from the FIPE table: type \"onix 1.0\", pick yours and the year, and I fill in brand, model, fuel and the FIPE value. Tank and highway/city consumption; if you don't know it, the estimate uses the vehicle type and engine.",
-        "Trip cost: choose the vehicle and I calculate the liters and the fuel cost with this week's ANP price in each state along the way, add the tolls, lodging (nights × daily rate) and food, and show the total, also round trip.",
-        "Where to refuel: with the fuel you have when you leave, I mark the gas station on the way where you should stop before reaching the reserve, how much you arrive with and how much to fill. In a flex car, I tell you whether gasoline or ethanol pays off on this trip.",
-        "Electric car: charging stations along the route and where to recharge."
-      ],
-      "es": [
-        "Mis vehículos (Configuración): registre uno o más vehículos con foto, placa, RENAVAM y color. El modelo viene de la tabla FIPE: escriba \"onix 1.0\", elija el suyo y el año, y completo marca, modelo, combustible y el valor FIPE. Tanque y consumo en carretera y ciudad; sin saber el consumo, la estimación usa el tipo y el motor del modelo.",
-        "Costo del viaje: elija el vehículo y calculo los litros y el valor del combustible con el precio de la ANP de la semana en cada estado del camino, sumo los peajes, el alojamiento (noches × tarifa) y la comida, y muestro el total, también ida y vuelta.",
-        "Dónde cargar combustible: con lo que tiene en el tanque al salir, marco la gasolinera del camino donde parar antes de llegar a la reserva, con cuánto llega y cuánto cargar. En el coche flex, digo si conviene gasolina o etanol en este viaje.",
-        "Coche eléctrico: electrolineras a lo largo de la ruta y dónde recargar."
       ]
     }
   ]
