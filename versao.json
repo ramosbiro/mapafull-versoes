@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.2",
-  "codigo": 148,
+  "versao": "0.50.3",
+  "codigo": 149,
   "data": "31/10/2026",
-  "tamanho": 195234453,
-  "sha256": "fb85bef6db4962e67e7f5d44af0f8a7efc3149030478d0eb6eb3e4ac56fcc62b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.2/Vrumbi-0.50.2.apk",
+  "tamanho": 195234989,
+  "sha256": "da885022f0e918c216b6483e17a0b1a3be62c786bf4d774a3514aaf8bdae5514",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.3/Vrumbi-0.50.3.apk",
   "notas": [
-    "Clima mais fiel ao céu: com nuvens espalhadas de dia aparece \"Sol entre nuvens\" (e o ícone de sol com nuvens). \"Sol forte (UV alto)\" e \"Ar muito seco\" só aparecem com o céu limpo ou quase; o índice UV continua no card dele."
+    "Tipo de chuva certo: a chuva de verão da tarde aparece como \"Pancadas de chuva\" ou \"Chuva fraca\" (antes saía como \"Garoa\"). Garoa fica só para a chuvinha fina de verdade. Vale para a tela Clima, os widgets e o clima das viagens."
   ],
   "versoes": [
+    {
+      "versao": "0.50.3",
+      "data": "31/10/2026",
+      "itens": [
+        "Tipo de chuva certo: a chuva de verão da tarde aparece como \"Pancadas de chuva\" ou \"Chuva fraca\" (antes saía como \"Garoa\"). Garoa fica só para a chuvinha fina de verdade. Vale para a tela Clima, os widgets e o clima das viagens."
+      ],
+      "en": [
+        "Right kind of rain: afternoon summer rain now shows as \"Rain showers\" or \"Light rain\" (it used to say \"Drizzle\"). Drizzle is only for real fine drizzle. Applies to the Weather screen, widgets and trip weather."
+      ],
+      "es": [
+        "Tipo de lluvia correcto: la lluvia de verano de la tarde aparece como \"Chubascos\" o \"Lluvia débil\" (antes decía \"Llovizna\"). Llovizna queda solo para la llovizna fina de verdad. Vale para la pantalla Clima, los widgets y el clima de los viajes."
+      ]
+    },
     {
       "versao": "0.50.2",
       "data": "31/10/2026",
@@ -205,28 +218,6 @@
       ],
       "es": [
         "Editar favorito de verdad: además del título, la dirección y el número. Al cambiarlos, busco el lugar nuevo y muestro las opciones; al tocar la correcta y Guardar, el favorito pasa al lugar nuevo (y la ruta también)."
-      ]
-    },
-    {
-      "versao": "0.45.2",
-      "data": "30/10/2026",
-      "itens": [
-        "Download dos mapas que dá para acompanhar: no alto da tela, o mapa da vez com a barra e a porcentagem, \"mapa 3 de 27\" e o total; baixando o Brasil ou uma região, a lista abre sozinha e cada estado mostra a porcentagem, \"na fila\" ou pronto. Com o app em segundo plano, a notificação mostra a barra, a porcentagem e o mapa, com Cancelar. Se der erro, aparece o motivo e \"Tentar de novo\".",
-        "Mapas offline dos Estados Unidos por estado (como o Brasil: Nordeste, Centro-Oeste, Sul e Oeste), começando por Flórida, Nova York, Califórnia, Nevada, Texas, Massachusetts, Illinois, Geórgia, Washington D.C., Havaí, Nova Jersey e Arizona; os outros estados entram em seguida.",
-        "Itália em 5 partes (Noroeste, Nordeste, Centro, Sul e Ilhas), Reino Unido (Inglaterra, Escócia, País de Gales) e Ilhas Canárias. França (por região, com a Guiana Francesa e as ilhas) e Alemanha (por estado) chegam logo depois, sem precisar atualizar o app.",
-        "Os nomes das regiões e dos estados aparecem no idioma do aplicativo."
-      ],
-      "en": [
-        "Map downloads you can follow: at the top, the current map with a bar and percentage, \"map 3 of 27\" and the total; downloading Brazil or a region opens the list and each state shows its percentage, \"queued\" or done. With the app in the background, the notification shows the bar, percentage and map, with Cancel. On errors, the reason and \"Try again\" appear.",
-        "Offline maps of the United States by state (like Brazil: Northeast, Midwest, South and West), starting with Florida, New York, California, Nevada, Texas, Massachusetts, Illinois, Georgia, Washington D.C., Hawaii, New Jersey and Arizona; the other states come next.",
-        "Italy in 5 parts (Northwest, Northeast, Center, South and Islands), United Kingdom (England, Scotland, Wales) and the Canary Islands. France (by region, with French Guiana and the islands) and Germany (by state) come right after, no app update needed.",
-        "Region and state names appear in the app language."
-      ],
-      "es": [
-        "Descarga de mapas que se puede seguir: arriba, el mapa actual con la barra y el porcentaje, \"mapa 3 de 27\" y el total; al descargar Brasil o una región, la lista se abre y cada estado muestra su porcentaje, \"en cola\" o listo. Con la app en segundo plano, la notificación muestra la barra, el porcentaje y el mapa, con Cancelar. Si hay error, aparece el motivo y \"Intentar de nuevo\".",
-        "Mapas sin conexión de Estados Unidos por estado (como Brasil: Noreste, Centro-Oeste, Sur y Oeste), empezando por Florida, Nueva York, California, Nevada, Texas, Massachusetts, Illinois, Georgia, Washington D.C., Hawái, Nueva Jersey y Arizona; los demás estados vienen después.",
-        "Italia en 5 partes (Noroeste, Noreste, Centro, Sur e Islas), Reino Unido (Inglaterra, Escocia, Gales) e Islas Canarias. Francia (por región, con la Guayana Francesa y las islas) y Alemania (por estado) llegan enseguida, sin actualizar la app.",
-        "Los nombres de regiones y estados aparecen en el idioma de la app."
       ]
     }
   ]
