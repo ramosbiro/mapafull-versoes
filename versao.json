@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.50.1",
-  "codigo": 147,
+  "versao": "0.50.2",
+  "codigo": 148,
   "data": "31/10/2026",
-  "tamanho": 195233341,
-  "sha256": "f3a76806c8d8afb0a0adb7fda415b2836a77c671f51fbbc19c9ef7c3c867ded0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.1/Vrumbi-0.50.1.apk",
+  "tamanho": 195234453,
+  "sha256": "fb85bef6db4962e67e7f5d44af0f8a7efc3149030478d0eb6eb3e4ac56fcc62b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.50.2/Vrumbi-0.50.2.apk",
   "notas": [
-    "Clima mais preciso agora: o app não mostra mais garoa ou chuva quando a chance de chover e as nuvens não confirmam (era o caso de sol entre nuvens aparecendo como \"Garoa\").",
-    "O \"agora\" confere o céu de verdade: com um aeroporto a até 40 km, a condição atual vem da observação dele (atualizada a cada hora), e a tela mostra de onde veio e há quantos minutos.",
-    "O mesmo vale para os widgets da tela inicial e para o clima no caminho das viagens."
+    "Clima mais fiel ao céu: com nuvens espalhadas de dia aparece \"Sol entre nuvens\" (e o ícone de sol com nuvens). \"Sol forte (UV alto)\" e \"Ar muito seco\" só aparecem com o céu limpo ou quase; o índice UV continua no card dele."
   ],
   "versoes": [
+    {
+      "versao": "0.50.2",
+      "data": "31/10/2026",
+      "itens": [
+        "Clima mais fiel ao céu: com nuvens espalhadas de dia aparece \"Sol entre nuvens\" (e o ícone de sol com nuvens). \"Sol forte (UV alto)\" e \"Ar muito seco\" só aparecem com o céu limpo ou quase; o índice UV continua no card dele."
+      ],
+      "en": [
+        "Weather closer to the real sky: scattered clouds during the day now show \"Sun and clouds\" (with the sun-and-cloud icon). \"Strong sun (high UV)\" and \"Very dry air\" only appear with a clear or nearly clear sky; the UV index stays in its own card."
+      ],
+      "es": [
+        "Clima más fiel al cielo: con nubes dispersas de día aparece \"Sol entre nubes\" (con el ícono de sol y nubes). \"Sol fuerte (UV alto)\" y \"Aire muy seco\" solo aparecen con el cielo despejado o casi; el índice UV sigue en su tarjeta."
+      ]
+    },
     {
       "versao": "0.50.1",
       "data": "31/10/2026",
@@ -216,25 +227,6 @@
         "Mapas sin conexión de Estados Unidos por estado (como Brasil: Noreste, Centro-Oeste, Sur y Oeste), empezando por Florida, Nueva York, California, Nevada, Texas, Massachusetts, Illinois, Georgia, Washington D.C., Hawái, Nueva Jersey y Arizona; los demás estados vienen después.",
         "Italia en 5 partes (Noroeste, Noreste, Centro, Sur e Islas), Reino Unido (Inglaterra, Escocia, Gales) e Islas Canarias. Francia (por región, con la Guayana Francesa y las islas) y Alemania (por estado) llegan enseguida, sin actualizar la app.",
         "Los nombres de regiones y estados aparecen en el idioma de la app."
-      ]
-    },
-    {
-      "versao": "0.45.1",
-      "data": "30/10/2026",
-      "itens": [
-        "Mapas offline: mais países — Portugal, Espanha, Holanda, Suíça e México.",
-        "As regiões do Brasil aparecem só com o nome (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) e, embaixo, os estados de cada uma; abrindo a região, os estados vêm um a um para baixar.",
-        "Os nomes dos países aparecem no idioma do aplicativo."
-      ],
-      "en": [
-        "Offline maps: more countries — Portugal, Spain, Netherlands, Switzerland and Mexico.",
-        "Brazil's regions show only their name (North, Northeast, Center-West, Southeast, South) with their states below; opening a region lists the states one by one to download.",
-        "Country names appear in the app language."
-      ],
-      "es": [
-        "Mapas sin conexión: más países — Portugal, España, Países Bajos, Suiza y México.",
-        "Las regiones de Brasil aparecen solo con el nombre (Norte, Nordeste, Centro-Oeste, Sudeste, Sur) y, debajo, sus estados; al abrir la región, los estados aparecen uno por uno para descargar.",
-        "Los nombres de los países aparecen en el idioma de la app."
       ]
     }
   ]
