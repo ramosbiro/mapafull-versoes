@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.47.1",
-  "codigo": 143,
+  "versao": "0.48.0",
+  "codigo": 144,
   "data": "30/10/2026",
-  "tamanho": 192103079,
-  "sha256": "b0b2521ac390bb05529ebd4db8279e28aced602748f05efe6f382373749582e4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.47.1/Vrumbi-0.47.1.apk",
+  "tamanho": 200516466,
+  "sha256": "c5d5667642a9788bf72c4fe6993755a340a4fea7eb96233c0356fc3de5a2da7b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.48.0/Vrumbi-0.48.0.apk",
   "notas": [
-    "Minhas viagens também na busca: logo abaixo do Meu carro, com a próxima viagem e o dia de sair; o + começa uma viagem nova direto."
+    "Meus veículos (Configurações): cadastre um ou mais veículos com foto, placa, RENAVAM e cor. O modelo vem da tabela FIPE: digite \"onix 1.0\", escolha o seu na lista e o ano, e eu preencho marca, modelo, combustível e o valor FIPE. Tanque e consumo na estrada e na cidade; sem saber o consumo, a estimativa usa o tipo e o motor do modelo.",
+    "Custo da viagem: escolha o veículo e eu calculo os litros e o valor do combustível pelo preço da ANP da semana em cada estado do caminho, somo os pedágios, a hospedagem (noites × diária) e a alimentação, e mostro o total, também de ida e volta.",
+    "Onde abastecer: com o tanque que você tem na saída, marco o posto do caminho em que parar antes de chegar à reserva, com quanto você chega e quanto vai abastecer. No carro flex, digo se gasolina ou etanol compensa nesta viagem.",
+    "Carro elétrico: eletropostos ao longo da rota e onde recarregar."
   ],
   "versoes": [
+    {
+      "versao": "0.48.0",
+      "data": "30/10/2026",
+      "itens": [
+        "Meus veículos (Configurações): cadastre um ou mais veículos com foto, placa, RENAVAM e cor. O modelo vem da tabela FIPE: digite \"onix 1.0\", escolha o seu na lista e o ano, e eu preencho marca, modelo, combustível e o valor FIPE. Tanque e consumo na estrada e na cidade; sem saber o consumo, a estimativa usa o tipo e o motor do modelo.",
+        "Custo da viagem: escolha o veículo e eu calculo os litros e o valor do combustível pelo preço da ANP da semana em cada estado do caminho, somo os pedágios, a hospedagem (noites × diária) e a alimentação, e mostro o total, também de ida e volta.",
+        "Onde abastecer: com o tanque que você tem na saída, marco o posto do caminho em que parar antes de chegar à reserva, com quanto você chega e quanto vai abastecer. No carro flex, digo se gasolina ou etanol compensa nesta viagem.",
+        "Carro elétrico: eletropostos ao longo da rota e onde recarregar."
+      ],
+      "en": [
+        "My vehicles (Settings): add one or more vehicles with photo, plate, registration number and color. The model comes from the FIPE table: type \"onix 1.0\", pick yours and the year, and I fill in brand, model, fuel and the FIPE value. Tank and highway/city consumption; if you don't know it, the estimate uses the vehicle type and engine.",
+        "Trip cost: choose the vehicle and I calculate the liters and the fuel cost with this week's ANP price in each state along the way, add the tolls, lodging (nights × daily rate) and food, and show the total, also round trip.",
+        "Where to refuel: with the fuel you have when you leave, I mark the gas station on the way where you should stop before reaching the reserve, how much you arrive with and how much to fill. In a flex car, I tell you whether gasoline or ethanol pays off on this trip.",
+        "Electric car: charging stations along the route and where to recharge."
+      ],
+      "es": [
+        "Mis vehículos (Configuración): registre uno o más vehículos con foto, placa, RENAVAM y color. El modelo viene de la tabla FIPE: escriba \"onix 1.0\", elija el suyo y el año, y completo marca, modelo, combustible y el valor FIPE. Tanque y consumo en carretera y ciudad; sin saber el consumo, la estimación usa el tipo y el motor del modelo.",
+        "Costo del viaje: elija el vehículo y calculo los litros y el valor del combustible con el precio de la ANP de la semana en cada estado del camino, sumo los peajes, el alojamiento (noches × tarifa) y la comida, y muestro el total, también ida y vuelta.",
+        "Dónde cargar combustible: con lo que tiene en el tanque al salir, marco la gasolinera del camino donde parar antes de llegar a la reserva, con cuánto llega y cuánto cargar. En el coche flex, digo si conviene gasolina o etanol en este viaje.",
+        "Coche eléctrico: electrolineras a lo largo de la ruta y dónde recargar."
+      ]
+    },
     {
       "versao": "0.47.1",
       "data": "30/10/2026",
@@ -196,25 +221,6 @@
       "es": [
         "El reproductor pequeño de la esquina ahora se mueve por la pantalla: arrástrelo y se despega; suéltelo y se pega como un imán al lateral más cercano, a la altura donde lo dejó. Arrastrado hasta un borde, se vuelve pantalla dividida.",
         "Los controles de la música nunca desaparecen: arriba o abajo, la franja solo se vuelve el reproductor completo cuando cabe todo; antes muestra la canción, la barra y los botones."
-      ]
-    },
-    {
-      "versao": "0.44.1",
-      "data": "30/10/2026",
-      "itens": [
-        "Tela dividida nos quatro lados: o player gruda em cima, embaixo, à esquerda ou à direita, em pé ou deitado — música e vídeo.",
-        "O player se molda ao espaço: puxe a divisa e ele muda de forma. Na lateral estreita fica em pé, só com os botões um em cima do outro e a barra da música em pé; mais largo, mostra capa, nome e listas; em cima ou embaixo, baixo é a faixa dos controles e alto é o player inteiro.",
-        "Corrigido: arrastar a barra da música pulava de volta ao começo — agora vai para o ponto escolhido, também no YouTube Music, Spotify e outros apps, e tocar numa música da fila do app pula para ela."
-      ],
-      "en": [
-        "Split screen on all four sides: the player sticks to the top, bottom, left or right, in portrait or landscape — music and video.",
-        "The player adapts to the space: drag the divider and it changes shape. On a narrow side it stands up, with just the buttons stacked and an upright music bar; wider, it shows cover, name and lists; at the top or bottom, short is the controls strip and tall is the full player.",
-        "Fixed: dragging the music bar jumped back to the start — it now goes to the chosen point, also in YouTube Music, Spotify and other apps, and tapping a song in the app queue jumps to it."
-      ],
-      "es": [
-        "Pantalla dividida en los cuatro lados: el reproductor se pega arriba, abajo, a la izquierda o a la derecha, en vertical u horizontal — música y video.",
-        "El reproductor se adapta al espacio: arrastre la división y cambia de forma. En un lateral estrecho queda de pie, solo con los botones uno encima del otro y la barra de la música vertical; más ancho, muestra portada, nombre y listas; arriba o abajo, bajo es la franja de controles y alto es el reproductor completo.",
-        "Corregido: arrastrar la barra de la música volvía al inicio — ahora va al punto elegido, también en YouTube Music, Spotify y otras apps, y tocar una canción de la cola de la app salta a ella."
       ]
     }
   ]
