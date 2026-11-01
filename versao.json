@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.54.2",
-  "codigo": 177,
+  "versao": "0.55.0",
+  "codigo": 178,
   "data": "01/11/2026",
-  "tamanho": 203885285,
-  "sha256": "f80a34ee7c90cd1a007cb5a8eb1ded897682fd36d9c3eb546c5c66561e779aa6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.2/Vrumbi-0.54.2.apk",
+  "tamanho": 205283284,
+  "sha256": "fb7e8c93d5c27e1ad74dede664888c221248333e9a7734d6673ee5fdc1713a7e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.55.0/Vrumbi-0.55.0.apk",
   "notas": [
-    "Menu: o item Clima e tempo usa o mesmo ícone laranja dos outros itens; o tipo de ícone do tempo (realista, colorido) vale dentro do Clima e tempo."
+    "Novo: Desempenho (no Menu). Grave corrida, caminhada, bicicleta, moto, carro ou atividade livre: o Vrumbi grava com a tela apagada, pausa sozinho quando você para e fala a cada quilômetro.",
+    "No fim: o mapa colorido pela velocidade (vermelho devagar, verde rápido), onde você acelerou e onde freou, gráfico de velocidade e altitude, parciais por km, recordes pessoais e os totais da semana e do mês.",
+    "Compartilhe no WhatsApp e nas redes uma imagem no modelo do Vrumbi, com o traçado, os números e o link para baixar o app; ou exporte o GPX."
   ],
   "versoes": [
+    {
+      "versao": "0.55.0",
+      "data": "01/11/2026",
+      "itens": [
+        "Novo: Desempenho (no Menu). Grave corrida, caminhada, bicicleta, moto, carro ou atividade livre: o Vrumbi grava com a tela apagada, pausa sozinho quando você para e fala a cada quilômetro.",
+        "No fim: o mapa colorido pela velocidade (vermelho devagar, verde rápido), onde você acelerou e onde freou, gráfico de velocidade e altitude, parciais por km, recordes pessoais e os totais da semana e do mês.",
+        "Compartilhe no WhatsApp e nas redes uma imagem no modelo do Vrumbi, com o traçado, os números e o link para baixar o app; ou exporte o GPX."
+      ],
+      "en": [
+        "New: Performance (in the Menu). Record a run, walk, bike, motorbike, car or free activity: Vrumbi records with the screen off, pauses by itself when you stop and talks every kilometer.",
+        "At the end: the map colored by speed (red slow, green fast), where you sped up and slowed down, speed and elevation chart, splits per km, personal records and weekly and monthly totals.",
+        "Share on WhatsApp and social networks an image in the Vrumbi template, with the track, the numbers and the link to download the app; or export the GPX."
+      ],
+      "es": [
+        "Nuevo: Rendimiento (en el Menú). Grabe carrera, caminata, bicicleta, moto, auto o actividad libre: Vrumbi graba con la pantalla apagada, se pausa solo cuando usted se detiene y habla en cada kilómetro.",
+        "Al final: el mapa coloreado por la velocidad (rojo lento, verde rápido), dónde aceleró y dónde frenó, gráfico de velocidad y altitud, parciales por km, récords personales y los totales de la semana y del mes.",
+        "Comparta en WhatsApp y en las redes una imagen con el modelo de Vrumbi, con el trazado, los números y el enlace para descargar la aplicación; o exporte el GPX."
+      ]
+    },
     {
       "versao": "0.54.2",
       "data": "01/11/2026",
@@ -184,22 +205,6 @@
       ],
       "es": [
         "Ruta en horizontal: la flecha ya no toca la tarjeta de la dirección; queda un poco más arriba, con holgura."
-      ]
-    },
-    {
-      "versao": "0.53.1",
-      "data": "31/10/2026",
-      "itens": [
-        "Rota mais limpa, principalmente deitado: a faixa da manobra ficou compacta (seta e texto lado a lado) e, arrastada para o lado, some até a próxima manobra.",
-        "Sem a pílula de baixo: a hora de chegada, o tempo e a distância ficam numa linha laranja dentro do cartão da rua (com a cidade). Tocar nela abre \"Opções da rota\" e \"Encerrar a rota\" — que agora pede confirmação."
-      ],
-      "en": [
-        "Cleaner route, especially in landscape: the maneuver banner is compact (arrow and text side by side) and, swiped sideways, hides until the next maneuver.",
-        "No bottom pill: arrival time, duration and distance sit in an orange line inside the street card (with the city). Tap it for \"Route options\" and \"End route\" — which now asks for confirmation."
-      ],
-      "es": [
-        "Ruta más limpia, sobre todo en horizontal: la franja de la maniobra quedó compacta (flecha y texto lado a lado) y, deslizada a un lado, se oculta hasta la próxima maniobra.",
-        "Sin la píldora de abajo: la hora de llegada, el tiempo y la distancia quedan en una línea naranja dentro de la tarjeta de la calle (con la ciudad). Al tocarla se abre \"Opciones de la ruta\" y \"Terminar la ruta\", que ahora pide confirmación."
       ]
     }
   ]
