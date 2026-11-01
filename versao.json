@@ -1,18 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.7",
-  "codigo": 172,
+  "versao": "0.53.8",
+  "codigo": 173,
   "data": "01/11/2026",
-  "tamanho": 204541923,
-  "sha256": "ac25427912496c919e8fa98ad0d7ba1d89a39a31094aad3865f74346fc10cf4b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.7/Vrumbi-0.53.7.apk",
+  "tamanho": 203879689,
+  "sha256": "0c6c021e0ae9dec0715c9536900d3a0aec079b597971984d52a227cac5b45ef0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.8/Vrumbi-0.53.8.apk",
   "notas": [
-    "Notificação da rota com o carrinho do Vrumbi como ícone (antes era a seta); a seta da manobra continua no painel.",
-    "Mapas offline: a lista rola solta enquanto o mapa baixa (antes ficava agarrando a cada atualização do progresso).",
-    "Mapas offline: os países ficam recolhidos (Brasil mostra quantos mapas e o tamanho); toque para ver os estados. Baixar um estado continua baixando só ele.",
-    "Widget do clima: o botão de atualizar ficou do tamanho da hora ao lado, discreto, à direita."
+    "Clima e tempo: o menu lateral ganhou o carrinho e o nome Vrumbi no alto, como no widget."
   ],
   "versoes": [
+    {
+      "versao": "0.53.8",
+      "data": "01/11/2026",
+      "itens": [
+        "Clima e tempo: o menu lateral ganhou o carrinho e o nome Vrumbi no alto, como no widget."
+      ],
+      "en": [
+        "Weather: the side menu now shows the Vrumbi car and name at the top, like the widget."
+      ],
+      "es": [
+        "Clima y tiempo: el menú lateral ahora muestra el autito y el nombre Vrumbi arriba, como en el widget."
+      ]
+    },
     {
       "versao": "0.53.7",
       "data": "01/11/2026",
@@ -190,22 +200,6 @@
       "es": [
         "Qué hay aquí: los lugares del centro comercial quedan en tarjetas grandes, una por categoría (Comida, Moda y calzado, Belleza y salud...), con la cantidad en el título y en orden alfabético dentro de cada tarjeta. La búsqueda y los botones de categoría siguen filtrando.",
         "Tiendas de deporte (Adidas, Centauro, Nike...) ahora en Moda y calzado."
-      ]
-    },
-    {
-      "versao": "0.52.6",
-      "data": "31/10/2026",
-      "itens": [
-        "Clima pelo céu: o ícone e o texto mostram só a situação do céu e da chuva (limpo, poucas nuvens, sol entre nuvens, nublado, garoa, chuva, pancadas, trovoada), além de tempestade severa e ventania com chuva. Neblina só quando um aeroporto perto observa de verdade; na previsão das próximas horas, não mais.",
-        "Ar seco, abafado, calor, frio, vento forte e sol forte saíram do ícone por enquanto (os números continuam nos detalhes)."
-      ],
-      "en": [
-        "Weather by the sky: the icon and text show only the sky and the rain (clear, few clouds, sun and clouds, cloudy, drizzle, rain, showers, thunder), plus severe storm and wind with rain. Fog only when a nearby airport actually observes it; no longer in the forecast for the next hours.",
-        "Dry air, muggy, heat, cold, strong wind and strong sun left the icon for now (the numbers are still in the details)."
-      ],
-      "es": [
-        "Clima por el cielo: el ícono y el texto muestran solo el cielo y la lluvia (despejado, pocas nubes, sol entre nubes, nublado, llovizna, lluvia, chubascos, tormenta), además de tormenta severa y viento con lluvia. Niebla solo cuando un aeropuerto cercano la observa de verdad; ya no en la previsión de las próximas horas.",
-        "Aire seco, bochorno, calor, frío, viento fuerte y sol fuerte salieron del ícono por ahora (los números siguen en los detalles)."
       ]
     }
   ]
