@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.55.1",
-  "codigo": 179,
+  "versao": "0.56.0",
+  "codigo": 180,
   "data": "01/11/2026",
-  "tamanho": 204653148,
-  "sha256": "e1cd8d588f2366b513e2e958f950a65ab8f9be5515618e1c7018f17c4fbf2c55",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.55.1/Vrumbi-0.55.1.apk",
+  "tamanho": 206290324,
+  "sha256": "fa680c70f9974c40549b78668c3772c5616be43c85a24a555e6081996513e26f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.56.0/Vrumbi-0.56.0.apk",
   "notas": [
-    "Desempenho: batimentos ao vivo. Em Desempenho > Sensores, conecte uma cinta cardíaca (Polar, Garmin, Wahoo, Coros...) ou um relógio que transmite a frequência cardíaca (Garmin, Pixel Watch); os batimentos aparecem na gravação, na notificação e no resumo (FC média, máxima e a curva no gráfico)."
+    "Desempenho + Saúde do Android (Health Connect): conecte em Desempenho > Sensores. Os batimentos do seu relógio (Galaxy Watch pelo Samsung Health, Pixel Watch, Garmin...) entram no resumo de cada atividade, e as suas corridas, caminhadas e pedaladas vão para o Samsung Health e o Google, com o traçado.",
+    "Zonas de frequência cardíaca no resumo (leve, aquecimento, aeróbico, limiar, máximo), pela sua idade."
   ],
   "versoes": [
+    {
+      "versao": "0.56.0",
+      "data": "01/11/2026",
+      "itens": [
+        "Desempenho + Saúde do Android (Health Connect): conecte em Desempenho > Sensores. Os batimentos do seu relógio (Galaxy Watch pelo Samsung Health, Pixel Watch, Garmin...) entram no resumo de cada atividade, e as suas corridas, caminhadas e pedaladas vão para o Samsung Health e o Google, com o traçado.",
+        "Zonas de frequência cardíaca no resumo (leve, aquecimento, aeróbico, limiar, máximo), pela sua idade."
+      ],
+      "en": [
+        "Performance + Android Health (Health Connect): connect it in Performance > Sensors. Your watch’s heart rate (Galaxy Watch via Samsung Health, Pixel Watch, Garmin...) shows in each activity summary, and your runs, walks and rides go to Samsung Health and Google, with the track.",
+        "Heart rate zones in the summary (easy, warm-up, aerobic, threshold, maximum), based on your age."
+      ],
+      "es": [
+        "Rendimiento + Salud de Android (Health Connect): conéctela en Rendimiento > Sensores. Las pulsaciones de su reloj (Galaxy Watch por Samsung Health, Pixel Watch, Garmin...) entran en el resumen de cada actividad, y sus carreras, caminatas y paseos en bici van a Samsung Health y Google, con el trazado.",
+        "Zonas de frecuencia cardíaca en el resumen (suave, calentamiento, aeróbico, umbral, máximo), según su edad."
+      ]
+    },
     {
       "versao": "0.55.1",
       "data": "01/11/2026",
@@ -187,22 +204,6 @@
         "Radares de todo el mundo: además del registro del DER y de la ARTESP (SP), están los radares de las carreteras federales de todo Brasil (DNIT), las listas de los municipios (empezando por Mogi das Cruzes) y todos los radares y tramos de velocidad media de OpenStreetMap, en todos los países: más de 74 mil puntos.",
         "Buscar: el teclado ya no se abre solo; puede tocar las tarjetas antes y aparece cuando toca el campo. Además, el campo deja que el teclado de su celular use sus sugerencias y los datos que ya guarda.",
         "Buscar en horizontal: las tarjetas Casa, Trabajo, Favoritos y Cercanías quedaron bajas, con el ícono al lado del texto."
-      ]
-    },
-    {
-      "versao": "0.53.3",
-      "data": "01/11/2026",
-      "itens": [
-        "Na rota, o trecho que você já passou fica num azul apagado; o que falta continua no azul forte.",
-        "Deitado, a placa do limite da via fica ao lado do velocímetro e não cobre mais o botão Avisar."
-      ],
-      "en": [
-        "On a route, the stretch you have already driven turns a faded blue; what is left stays bright blue.",
-        "In landscape, the speed-limit sign sits beside the speedometer and no longer covers the Report button."
-      ],
-      "es": [
-        "En la ruta, el tramo que ya recorrió queda en un azul apagado; lo que falta sigue en azul fuerte.",
-        "En horizontal, la placa del límite de la vía queda al lado del velocímetro y ya no tapa el botón Avisar."
       ]
     }
   ]
