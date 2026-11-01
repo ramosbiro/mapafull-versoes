@@ -1,15 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.2",
-  "codigo": 167,
+  "versao": "0.53.3",
+  "codigo": 168,
   "data": "01/11/2026",
-  "tamanho": 203177738,
-  "sha256": "588436680097086f056ec6cfaf196cca10d697bf853694aa6a02e6d379216dc0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.2/Vrumbi-0.53.2.apk",
+  "tamanho": 203877336,
+  "sha256": "8001185d55f41af770df5ee7171d18f3a3f5b2c01bf09826457e5da8e6ab79cf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.3/Vrumbi-0.53.3.apk",
   "notas": [
-    "Rota deitado: a seta não encosta mais no cartão do endereço — fica um pouco mais acima, com folga."
+    "Na rota, o trecho que você já passou fica num azul apagado; o que falta continua no azul forte.",
+    "Deitado, a placa do limite da via fica ao lado do velocímetro e não cobre mais o botão Avisar."
   ],
   "versoes": [
+    {
+      "versao": "0.53.3",
+      "data": "01/11/2026",
+      "itens": [
+        "Na rota, o trecho que você já passou fica num azul apagado; o que falta continua no azul forte.",
+        "Deitado, a placa do limite da via fica ao lado do velocímetro e não cobre mais o botão Avisar."
+      ],
+      "en": [
+        "On a route, the stretch you have already driven turns a faded blue; what is left stays bright blue.",
+        "In landscape, the speed-limit sign sits beside the speedometer and no longer covers the Report button."
+      ],
+      "es": [
+        "En la ruta, el tramo que ya recorrió queda en un azul apagado; lo que falta sigue en azul fuerte.",
+        "En horizontal, la placa del límite de la vía queda al lado del velocímetro y ya no tapa el botón Avisar."
+      ]
+    },
     {
       "versao": "0.53.2",
       "data": "01/11/2026",
@@ -184,19 +201,6 @@
       "es": [
         "Una sola tarjeta: dentro de un centro comercial, la línea \"<nombre> · ver qué hay aquí\" va dentro de la tarjeta de la dirección, y al tocarla se abre lo que hay en el lugar.",
         "La tarjeta ya no tapa la flecha: cuando crece (sobre todo en horizontal), la flecha sube un poco en la pantalla."
-      ]
-    },
-    {
-      "versao": "0.52.1",
-      "data": "31/10/2026",
-      "itens": [
-        "Módulo da polícia: nos aparelhos que já tinham o Vrumbi (a equipe), o módulo fica liberado sem código. Instalações novas começam sem o módulo, que se libera com o código de acesso (e, no futuro, pelo cadastro)."
-      ],
-      "en": [
-        "Police module: on devices that already had Vrumbi (the team), the module stays unlocked without a code. New installs start without the module, which is unlocked with the access code (and, in the future, by registration)."
-      ],
-      "es": [
-        "Módulo de la policía: en los dispositivos que ya tenían Vrumbi (el equipo), el módulo queda liberado sin código. Las instalaciones nuevas empiezan sin el módulo, que se libera con el código de acceso (y, en el futuro, con el registro)."
       ]
     }
   ]
