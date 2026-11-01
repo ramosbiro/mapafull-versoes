@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.5",
-  "codigo": 170,
+  "versao": "0.53.6",
+  "codigo": 171,
   "data": "01/11/2026",
-  "tamanho": 204575218,
-  "sha256": "5845e692eb9d95db7434e9f760298299268f563852a453653c4a2c921e1a3cad",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.5/Vrumbi-0.53.5.apk",
+  "tamanho": 203876523,
+  "sha256": "9f2a0ebc7a175e5bb96303c68f6a6e6b29d786ee5695195240ee22786db11612",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.6/Vrumbi-0.53.6.apk",
   "notas": [
-    "Ajustes rápidos e Navegação em cartões: cada assunto (Rota, Avisos, Voz, Aparência) é um cartão, com cartões menores dentro. Tocar no cartão liga ou desliga, e o ligado fica com o contorno de destaque.",
-    "Notificação da rota mais discreta: o fundo é o das outras notificações do celular, e o painel com a seta fica escuro, com contorno laranja."
+    "Notificação da rota acompanha o tema do celular: no tema claro o painel da seta fica claro, no escuro fica escuro — sempre com o contorno laranja e o carrinho do Vrumbi."
   ],
   "versoes": [
+    {
+      "versao": "0.53.6",
+      "data": "01/11/2026",
+      "itens": [
+        "Notificação da rota acompanha o tema do celular: no tema claro o painel da seta fica claro, no escuro fica escuro — sempre com o contorno laranja e o carrinho do Vrumbi."
+      ],
+      "en": [
+        "The route notification follows your phone’s theme: light panel in light mode, dark panel in dark mode — always with the orange outline and the Vrumbi car."
+      ],
+      "es": [
+        "La notificación de la ruta sigue el tema del celular: panel claro en el tema claro y oscuro en el oscuro, siempre con el contorno naranja y el autito de Vrumbi."
+      ]
+    },
     {
       "versao": "0.53.5",
       "data": "01/11/2026",
@@ -188,22 +200,6 @@
         "Niebla solo cuando es real: la visibilidad de la previsión se desploma en las noches húmedas y se convertía en \"Niebla\" toda la noche (con los aeropuertos marcando 10 km de visibilidad). Ahora la niebla por visibilidad solo aparece con el aire saturado (humedad del 98% o más) — igual en la app y en el widget.",
         "Con la app abierta, la previsión se renueva cada 10 minutos y va al instante al widget.",
         "Widget grande de reloj y clima: junto al nombre del lugar, la hora de la última actualización y un botón discreto para actualizar al momento."
-      ]
-    },
-    {
-      "versao": "0.52.4",
-      "data": "31/10/2026",
-      "itens": [
-        "Widget de clima idêntico ao app: os dois usam a mesma previsão, guardada no celular. Quando o app atualiza, o widget muda na hora; quando o widget atualiza sozinho, o app mostra a mesma.",
-        "A hora atual da lista e do gráfico mostra o \"agora\" (a mesma temperatura e condição do topo e do widget), não mais a previsão daquela hora."
-      ],
-      "en": [
-        "Weather widget identical to the app: both use the same forecast, stored on the phone. When the app updates, the widget changes at once; when the widget updates by itself, the app shows the same one.",
-        "The current hour in the list and chart shows \"now\" (the same temperature and condition as the top and the widget), no longer that hour’s forecast."
-      ],
-      "es": [
-        "Widget del clima idéntico a la app: los dos usan la misma previsión, guardada en el celular. Cuando la app actualiza, el widget cambia al instante; cuando el widget se actualiza solo, la app muestra la misma.",
-        "La hora actual de la lista y del gráfico muestra el \"ahora\" (la misma temperatura y condición de arriba y del widget), ya no la previsión de esa hora."
       ]
     }
   ]
