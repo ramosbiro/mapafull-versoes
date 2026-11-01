@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.0",
-  "codigo": 165,
+  "versao": "0.53.1",
+  "codigo": 166,
   "data": "31/10/2026",
-  "tamanho": 203872008,
-  "sha256": "36f509f4d2f10f45f8f3a4398f7c6c855b1144bc2a6d715041b73334f4a759c1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.0/Vrumbi-0.53.0.apk",
+  "tamanho": 203876039,
+  "sha256": "6cb7ebd26654b138a2fe6d8ccbca5ac04332ac80fc2558fab8a95fa2bfebb562",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.1/Vrumbi-0.53.1.apk",
   "notas": [
-    "Fale com o Vrumbi! Toque no Vrumbi da busca, do topo do Menu ou do widget \"Para onde?\" (ou segure a lupa do mapa) e fale: o carrinho ouve, entende e responde falando, mexendo a boca.",
-    "Ele faz: \"me leva para…\" (acha o lugar e traça a rota), \"ir para casa / trabalho\", \"onde está meu carro?\", \"marca onde estacionei\", \"vai chover?\", \"o que tem aqui?\", \"onde eu estou?\", \"que horas são?\", \"minhas viagens\", \"música\", \"mensagens\" — e conversa: \"tudo bem?\", \"bom dia\", \"quem é você?\", \"conta uma piada\".",
-    "Por enquanto ele entende português. A conversa livre, sobre qualquer assunto, vem numa próxima etapa."
+    "Rota mais limpa, principalmente deitado: a faixa da manobra ficou compacta (seta e texto lado a lado) e, arrastada para o lado, some até a próxima manobra.",
+    "Sem a pílula de baixo: a hora de chegada, o tempo e a distância ficam numa linha laranja dentro do cartão da rua (com a cidade). Tocar nela abre \"Opções da rota\" e \"Encerrar a rota\" — que agora pede confirmação."
   ],
   "versoes": [
+    {
+      "versao": "0.53.1",
+      "data": "31/10/2026",
+      "itens": [
+        "Rota mais limpa, principalmente deitado: a faixa da manobra ficou compacta (seta e texto lado a lado) e, arrastada para o lado, some até a próxima manobra.",
+        "Sem a pílula de baixo: a hora de chegada, o tempo e a distância ficam numa linha laranja dentro do cartão da rua (com a cidade). Tocar nela abre \"Opções da rota\" e \"Encerrar a rota\" — que agora pede confirmação."
+      ],
+      "en": [
+        "Cleaner route, especially in landscape: the maneuver banner is compact (arrow and text side by side) and, swiped sideways, hides until the next maneuver.",
+        "No bottom pill: arrival time, duration and distance sit in an orange line inside the street card (with the city). Tap it for \"Route options\" and \"End route\" — which now asks for confirmation."
+      ],
+      "es": [
+        "Ruta más limpia, sobre todo en horizontal: la franja de la maniobra quedó compacta (flecha y texto lado a lado) y, deslizada a un lado, se oculta hasta la próxima maniobra.",
+        "Sin la píldora de abajo: la hora de llegada, el tiempo y la distancia quedan en una línea naranja dentro de la tarjeta de la calle (con la ciudad). Al tocarla se abre \"Opciones de la ruta\" y \"Terminar la ruta\", que ahora pide confirmación."
+      ]
+    },
     {
       "versao": "0.53.0",
       "data": "31/10/2026",
@@ -186,19 +201,6 @@
       "es": [
         "Módulo de la policía: el mapa completo (con las herramientas de trazado y análisis), las áreas de la PM, de la Policía Civil y de los bomberos, el análisis criminal y el área de cada punto (batallón, compañía, comisaría) ahora están en un módulo solo para policías, liberado con código de acceso en Configuración > Módulo de la policía. Con el acceso, se activa y desactiva en Ajustes rápidos.",
         "Para todos siguen los puntos de las unidades (policía, bomberos, comisarías), con teléfono y ruta hasta ellas, y la Ayuda cercana."
-      ]
-    },
-    {
-      "versao": "0.51.2",
-      "data": "31/10/2026",
-      "itens": [
-        "Meu carro, favoritos, casa, trabalho e as lojas dos centros comerciais: a ficha mostra só o que é seu (endereço, hora, ir para cá), sem o quadro de município, batalhão, companhia, DP e bombeiros."
-      ],
-      "en": [
-        "My car, favorites, home, work and the shops in shopping centers: the card shows only what is yours (address, time, go here), without the municipality, police and fire department box."
-      ],
-      "es": [
-        "Mi coche, favoritos, casa, trabajo y las tiendas de los centros comerciales: la ficha muestra solo lo suyo (dirección, hora, ir aquí), sin el cuadro de municipio, batallón, compañía, comisaría y bomberos."
       ]
     }
   ]
