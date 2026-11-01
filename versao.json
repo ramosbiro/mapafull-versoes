@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.57.1",
-  "codigo": 182,
+  "versao": "0.57.2",
+  "codigo": 183,
   "data": "01/11/2026",
-  "tamanho": 205527939,
-  "sha256": "a7a23803d628bb70d9d8c7cc079454116b9b9e0280d6c6d685373a933271d45a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.1/Vrumbi-0.57.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.1/Vrumbi-relogio-0.57.1.apk",
+  "tamanho": 205540191,
+  "sha256": "203df0cff1cbee12b76c48c042dfc1539fdb9740bf2691d9728fbe6b4d2fc897",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.2/Vrumbi-0.57.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.2/Vrumbi-relogio-0.57.2.apk",
   "notas": [
-    "Vrumbi no relógio: monte as suas telas. Cada tela tem um formato de grade (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 faixas) e você escolhe o número de cada espaço (batimentos, tempo, distância, ritmo, ritmo médio, velocidade, velocidade média, calorias, FC máxima, hora). Várias telas, passando com o dedo para o lado; tocar no número grande troca o número dele."
+    "Correr ficou fácil: no Menu, Correr, Caminhar e Pedalar começam a gravar com um toque; segurando o ícone do Vrumbi na tela inicial aparecem os mesmos atalhos; e dá para pedir ao Vrumbi: \"começar corrida\".",
+    "Notícias da cidade de verdade: buscadas pelo próprio celular no Google Notícias e no Bing Notícias, juntas e sem repetir; a última lista aparece na hora enquanto atualiza.",
+    "Alertas: as cores dos níveis (amarelo, laranja, vermelho) ficaram legíveis no tema claro. Ajustes rápidos: o cartão Avisos de clima mostra quantos avisos estão ligados.",
+    "Busca: o botão do carrinho no mesmo formato do campo."
   ],
   "versoes": [
+    {
+      "versao": "0.57.2",
+      "data": "01/11/2026",
+      "itens": [
+        "Correr ficou fácil: no Menu, Correr, Caminhar e Pedalar começam a gravar com um toque; segurando o ícone do Vrumbi na tela inicial aparecem os mesmos atalhos; e dá para pedir ao Vrumbi: \"começar corrida\".",
+        "Notícias da cidade de verdade: buscadas pelo próprio celular no Google Notícias e no Bing Notícias, juntas e sem repetir; a última lista aparece na hora enquanto atualiza.",
+        "Alertas: as cores dos níveis (amarelo, laranja, vermelho) ficaram legíveis no tema claro. Ajustes rápidos: o cartão Avisos de clima mostra quantos avisos estão ligados.",
+        "Busca: o botão do carrinho no mesmo formato do campo."
+      ],
+      "en": [
+        "Running made easy: in the Menu, Run, Walk and Ride start recording with one tap; long-pressing the Vrumbi icon on the home screen shows the same shortcuts; and you can ask Vrumbi: \"start a run\".",
+        "Real city news: fetched by the phone itself from Google News and Bing News, merged without repeats; the last list shows instantly while it updates.",
+        "Alerts: level colors (yellow, orange, red) are now readable in light mode. Quick settings: the Weather alerts card shows how many alerts are on.",
+        "Search: the car button now matches the search field."
+      ],
+      "es": [
+        "Correr es más fácil: en el Menú, Correr, Caminar y Pedalear empiezan a grabar con un toque; manteniendo el ícono de Vrumbi en la pantalla de inicio aparecen los mismos atajos; y se lo puede pedir a Vrumbi: \"empezar carrera\".",
+        "Noticias de la ciudad de verdad: buscadas por el propio celular en Google Noticias y Bing Noticias, juntas y sin repetir; la última lista aparece al instante mientras se actualiza.",
+        "Alertas: los colores de los niveles (amarillo, naranja, rojo) se leen bien en el tema claro. Ajustes rápidos: la tarjeta Avisos de clima muestra cuántos avisos están activos.",
+        "Búsqueda: el botón del autito con el mismo formato del campo."
+      ]
+    },
     {
       "versao": "0.57.1",
       "data": "01/11/2026",
@@ -185,19 +210,6 @@
         "Mapas sin conexión: la lista se desplaza libre mientras el mapa se descarga (antes se trababa en cada actualización del progreso).",
         "Mapas sin conexión: los países quedan plegados (Brasil muestra cuántos mapas y el tamaño); toque para ver los estados. Descargar un estado sigue descargando solo ese estado.",
         "Widget del clima: el botón de actualizar quedó del tamaño de la hora al lado, discreto, a la derecha."
-      ]
-    },
-    {
-      "versao": "0.53.6",
-      "data": "01/11/2026",
-      "itens": [
-        "Notificação da rota acompanha o tema do celular: no tema claro o painel da seta fica claro, no escuro fica escuro — sempre com o contorno laranja e o carrinho do Vrumbi."
-      ],
-      "en": [
-        "The route notification follows your phone’s theme: light panel in light mode, dark panel in dark mode — always with the orange outline and the Vrumbi car."
-      ],
-      "es": [
-        "La notificación de la ruta sigue el tema del celular: panel claro en el tema claro y oscuro en el oscuro, siempre con el contorno naranja y el autito de Vrumbi."
       ]
     }
   ]
