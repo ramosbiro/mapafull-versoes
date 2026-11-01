@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.56.0",
-  "codigo": 180,
+  "versao": "0.57.0",
+  "codigo": 181,
   "data": "01/11/2026",
-  "tamanho": 206290324,
-  "sha256": "fa680c70f9974c40549b78668c3772c5616be43c85a24a555e6081996513e26f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.56.0/Vrumbi-0.56.0.apk",
+  "tamanho": 205527479,
+  "sha256": "e479101e2a7ebe1ee1c0dcf7c98c886580ea260fa060ebd82448ae4f80bcc2bf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.0/Vrumbi-0.57.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.0/Vrumbi-relogio-0.57.0.apk",
   "notas": [
-    "Desempenho + Saúde do Android (Health Connect): conecte em Desempenho > Sensores. Os batimentos do seu relógio (Galaxy Watch pelo Samsung Health, Pixel Watch, Garmin...) entram no resumo de cada atividade, e as suas corridas, caminhadas e pedaladas vão para o Samsung Health e o Google, com o traçado.",
-    "Zonas de frequência cardíaca no resumo (leve, aquecimento, aeróbico, limiar, máximo), pela sua idade."
+    "Vrumbi no relógio (Wear OS: Galaxy Watch, Pixel Watch...): batimentos ao vivo no pulso, e começar, pausar e encerrar a corrida, caminhada ou pedalada pelo relógio. O celular grava o caminho e guarda tudo junto, com os batimentos. Veja em Desempenho > App no relógio.",
+    "Atividades começadas e encerradas pelo relógio com o app do celular fechado entram sozinhas no histórico."
   ],
   "versoes": [
+    {
+      "versao": "0.57.0",
+      "data": "01/11/2026",
+      "itens": [
+        "Vrumbi no relógio (Wear OS: Galaxy Watch, Pixel Watch...): batimentos ao vivo no pulso, e começar, pausar e encerrar a corrida, caminhada ou pedalada pelo relógio. O celular grava o caminho e guarda tudo junto, com os batimentos. Veja em Desempenho > App no relógio.",
+        "Atividades começadas e encerradas pelo relógio com o app do celular fechado entram sozinhas no histórico."
+      ],
+      "en": [
+        "Vrumbi on the watch (Wear OS: Galaxy Watch, Pixel Watch...): live heart rate on your wrist, and start, pause and end your run, walk or ride from the watch. The phone records the route and keeps everything together, with the heart rate. See Performance > Watch app.",
+        "Activities started and ended from the watch with the phone app closed go into the history by themselves."
+      ],
+      "es": [
+        "Vrumbi en el reloj (Wear OS: Galaxy Watch, Pixel Watch...): pulsaciones en vivo en la muñeca, y empezar, pausar y terminar la carrera, caminata o paseo en bici desde el reloj. El celular graba el recorrido y guarda todo junto, con las pulsaciones. Vea Rendimiento > App en el reloj.",
+        "Las actividades empezadas y terminadas desde el reloj con la app del celular cerrada entran solas en el historial."
+      ]
+    },
     {
       "versao": "0.56.0",
       "data": "01/11/2026",
@@ -185,25 +202,6 @@
       "es": [
         "Ajustes rápidos y Navegación en tarjetas: cada tema (Ruta, Avisos, Voz, Apariencia) es una tarjeta con tarjetas más pequeñas dentro. Al tocar una tarjeta se activa o desactiva, y las activas tienen el contorno de destaque.",
         "Notificación de la ruta más discreta: el fondo es el de las demás notificaciones del celular, y el panel con la flecha es oscuro, con contorno naranja."
-      ]
-    },
-    {
-      "versao": "0.53.4",
-      "data": "01/11/2026",
-      "itens": [
-        "Radares do mundo todo: além do cadastro do DER e da ARTESP (SP), entram os radares das rodovias federais do Brasil inteiro (DNIT), as listas das prefeituras (começando por Mogi das Cruzes) e todos os radares e trechos de velocidade média do OpenStreetMap, em todos os países — mais de 74 mil pontos.",
-        "Pesquisar: o teclado não abre mais sozinho — dá para tocar nos cards antes; ele aparece quando você toca no campo. E o campo agora deixa o teclado do seu celular usar as sugestões e os dados que ele já guarda.",
-        "Pesquisar deitado: os cards Casa, Trabalho, Favoritos e Proximidades ficaram baixos, com o ícone ao lado do texto."
-      ],
-      "en": [
-        "Speed cameras worldwide: besides the DER and ARTESP records (São Paulo state), the app now has the cameras on all Brazilian federal highways (DNIT), city hall lists (starting with Mogi das Cruzes) and every speed and average-speed camera in OpenStreetMap, in every country — over 74 thousand points.",
-        "Search: the keyboard no longer opens by itself — you can tap the cards first; it shows up when you tap the field. The field also lets your phone’s keyboard use its suggestions and saved data.",
-        "Search in landscape: the Home, Work, Favorites and Nearby cards are now short, with the icon beside the text."
-      ],
-      "es": [
-        "Radares de todo el mundo: además del registro del DER y de la ARTESP (SP), están los radares de las carreteras federales de todo Brasil (DNIT), las listas de los municipios (empezando por Mogi das Cruzes) y todos los radares y tramos de velocidad media de OpenStreetMap, en todos los países: más de 74 mil puntos.",
-        "Buscar: el teclado ya no se abre solo; puede tocar las tarjetas antes y aparece cuando toca el campo. Además, el campo deja que el teclado de su celular use sus sugerencias y los datos que ya guarda.",
-        "Buscar en horizontal: las tarjetas Casa, Trabajo, Favoritos y Cercanías quedaron bajas, con el ícono al lado del texto."
       ]
     }
   ]
