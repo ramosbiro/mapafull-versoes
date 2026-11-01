@@ -1,16 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.1",
-  "codigo": 166,
-  "data": "31/10/2026",
-  "tamanho": 203876039,
-  "sha256": "6cb7ebd26654b138a2fe6d8ccbca5ac04332ac80fc2558fab8a95fa2bfebb562",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.1/Vrumbi-0.53.1.apk",
+  "versao": "0.53.2",
+  "codigo": 167,
+  "data": "01/11/2026",
+  "tamanho": 203177738,
+  "sha256": "588436680097086f056ec6cfaf196cca10d697bf853694aa6a02e6d379216dc0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.2/Vrumbi-0.53.2.apk",
   "notas": [
-    "Rota mais limpa, principalmente deitado: a faixa da manobra ficou compacta (seta e texto lado a lado) e, arrastada para o lado, some até a próxima manobra.",
-    "Sem a pílula de baixo: a hora de chegada, o tempo e a distância ficam numa linha laranja dentro do cartão da rua (com a cidade). Tocar nela abre \"Opções da rota\" e \"Encerrar a rota\" — que agora pede confirmação."
+    "Rota deitado: a seta não encosta mais no cartão do endereço — fica um pouco mais acima, com folga."
   ],
   "versoes": [
+    {
+      "versao": "0.53.2",
+      "data": "01/11/2026",
+      "itens": [
+        "Rota deitado: a seta não encosta mais no cartão do endereço — fica um pouco mais acima, com folga."
+      ],
+      "en": [
+        "Route in landscape: the arrow no longer touches the address card — it sits a little higher, with room to spare."
+      ],
+      "es": [
+        "Ruta en horizontal: la flecha ya no toca la tarjeta de la dirección; queda un poco más arriba, con holgura."
+      ]
+    },
     {
       "versao": "0.53.1",
       "data": "31/10/2026",
@@ -185,22 +197,6 @@
       ],
       "es": [
         "Módulo de la policía: en los dispositivos que ya tenían Vrumbi (el equipo), el módulo queda liberado sin código. Las instalaciones nuevas empiezan sin el módulo, que se libera con el código de acceso (y, en el futuro, con el registro)."
-      ]
-    },
-    {
-      "versao": "0.52.0",
-      "data": "31/10/2026",
-      "itens": [
-        "Módulo da polícia: o mapa completo (com as ferramentas de plotagem e análise), as áreas da PM, da Polícia Civil e dos bombeiros, a análise criminal e a área de cada ponto (batalhão, companhia, DP) agora ficam num módulo só para policiais, liberado por código de acesso em Configurações > Módulo da polícia. Com o acesso, liga e desliga nos Ajustes rápidos.",
-        "Para todos continuam os pontos das unidades (PM, bombeiros, delegacias), com telefone e rota até elas, e a Ajuda por perto."
-      ],
-      "en": [
-        "Police module: the full map (with plotting and analysis tools), the Military Police, Civil Police and fire department areas, crime analysis and the area of each point (battalion, company, police district) are now in a module for police officers only, unlocked with an access code in Settings > Police module. With access, turn it on and off in Quick settings.",
-        "Still for everyone: the unit locations (police, fire department, police stations), with phone and route to them, and Help nearby."
-      ],
-      "es": [
-        "Módulo de la policía: el mapa completo (con las herramientas de trazado y análisis), las áreas de la PM, de la Policía Civil y de los bomberos, el análisis criminal y el área de cada punto (batallón, compañía, comisaría) ahora están en un módulo solo para policías, liberado con código de acceso en Configuración > Módulo de la policía. Con el acceso, se activa y desactiva en Ajustes rápidos.",
-        "Para todos siguen los puntos de las unidades (policía, bomberos, comisarías), con teléfono y ruta hasta ellas, y la Ayuda cercana."
       ]
     }
   ]
