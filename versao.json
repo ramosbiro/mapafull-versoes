@@ -1,17 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.54.0",
-  "codigo": 175,
+  "versao": "0.54.1",
+  "codigo": 176,
   "data": "01/11/2026",
-  "tamanho": 204583570,
-  "sha256": "523eab4c48fd95ea652c91376589503580609031380ece4cfca97f398e6018fd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.0/Vrumbi-0.54.0.apk",
+  "tamanho": 204586743,
+  "sha256": "94b3983b14790617feaea9c4eab4365b6b73e60c15d6e5371b97a545f86c789a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.1/Vrumbi-0.54.1.apk",
   "notas": [
-    "O Vrumbi ganhou voz própria: quando você fala com o carrinho, ele responde com uma voz de personagem de desenho, mais aguda e animada, diferente da voz que narra a navegação. E chega buzinando \"bi-bi\" e acelera \"vrum\" quando sai a rota.",
-    "Escolher a rota: o mapa mostra de cima todas as rotas para o destino, cada uma com o tempo escrito na linha. Toque numa linha (ou no cartão) para escolher. Quando os servidores dão um caminho só, o Vrumbi procura desvios dos dois lados.",
-    "O painel da escolha ficou mais baixo: as opções numa fileira que rola para o lado, Cancelar e Iniciar lado a lado. Deitado, o painel fica à esquerda e as rotas à direita."
+    "Clima de hora em hora: \"Possibilidade de tempestade\" quando o ar está instável (trovoada prevista, ou pancada com muita energia no ar: CAPE e Lifted Index) e \"Possibilidade de chuva\" quando a chance é baixa; a chance de chuva aparece por extenso em cada hora e em cada dia.",
+    "Clima e tempo: a hora da última atualização ao lado do botão de atualizar, como no widget.",
+    "O ícone do Vrumbi acompanha o tema: claro no tema claro, escuro no tema escuro."
   ],
   "versoes": [
+    {
+      "versao": "0.54.1",
+      "data": "01/11/2026",
+      "itens": [
+        "Clima de hora em hora: \"Possibilidade de tempestade\" quando o ar está instável (trovoada prevista, ou pancada com muita energia no ar: CAPE e Lifted Index) e \"Possibilidade de chuva\" quando a chance é baixa; a chance de chuva aparece por extenso em cada hora e em cada dia.",
+        "Clima e tempo: a hora da última atualização ao lado do botão de atualizar, como no widget.",
+        "O ícone do Vrumbi acompanha o tema: claro no tema claro, escuro no tema escuro."
+      ],
+      "en": [
+        "Hourly weather: \"Chance of storms\" when the air is unstable (thunder forecast, or showers with lots of energy in the air: CAPE and Lifted Index) and \"Chance of rain\" when the chance is low; the chance of rain is spelled out for every hour and day.",
+        "Weather: the time of the last update next to the refresh button, like the widget.",
+        "The Vrumbi icon follows the theme: light in light mode, dark in dark mode."
+      ],
+      "es": [
+        "Clima por hora: \"Probabilidad de tormenta\" cuando el aire está inestable (tormenta prevista, o chubascos con mucha energía en el aire: CAPE y Lifted Index) y \"Probabilidad de lluvia\" cuando la chance es baja; la probabilidad de lluvia aparece escrita en cada hora y cada día.",
+        "Clima: la hora de la última actualización al lado del botón de actualizar, como en el widget.",
+        "El ícono de Vrumbi sigue el tema: claro en el tema claro, oscuro en el oscuro."
+      ]
+    },
     {
       "versao": "0.54.0",
       "data": "01/11/2026",
@@ -189,19 +208,6 @@
         "¡Hable con Vrumbi! Toque a Vrumbi en la búsqueda, arriba en el Menú o en el widget \"¿A dónde?\" (o mantenga la lupa del mapa) y hable: el autito escucha, entiende y responde hablando, moviendo la boca.",
         "Hace: \"llévame a…\" (encuentra el lugar y traza la ruta), \"ir a casa / al trabajo\", \"¿dónde está mi coche?\", \"marca dónde estacioné\", \"¿va a llover?\", \"¿qué hay aquí?\", \"¿dónde estoy?\", \"¿qué hora es?\", \"mis viajes\", \"música\", \"mensajes\" — y conversa: \"¿todo bien?\", \"buenos días\", \"¿quién eres?\", \"cuéntame un chiste\".",
         "Por ahora entiende portugués. La conversación libre, sobre cualquier tema, llega en una próxima etapa."
-      ]
-    },
-    {
-      "versao": "0.52.9",
-      "data": "31/10/2026",
-      "itens": [
-        "O carro estacionado no mapa agora é o próprio Vrumbi (o carrinho laranja, com a placa \"P\" azul no canto), com a nossa cara."
-      ],
-      "en": [
-        "The parked car on the map is now Vrumbi itself (the little orange car, with a blue \"P\" sign in the corner), with our own look."
-      ],
-      "es": [
-        "El coche estacionado en el mapa ahora es el propio Vrumbi (el autito naranja, con la placa \"P\" azul en la esquina), con nuestra cara."
       ]
     }
   ]
