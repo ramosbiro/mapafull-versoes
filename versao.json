@@ -1,15 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.8",
-  "codigo": 173,
+  "versao": "0.53.9",
+  "codigo": 174,
   "data": "01/11/2026",
-  "tamanho": 203879689,
-  "sha256": "0c6c021e0ae9dec0715c9536900d3a0aec079b597971984d52a227cac5b45ef0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.8/Vrumbi-0.53.8.apk",
+  "tamanho": 203880157,
+  "sha256": "f7293503c5f0aefaa061ffbd30408d29bf76513d36d7d3f1d5c0735be5e7ceff",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.9/Vrumbi-0.53.9.apk",
   "notas": [
-    "Clima e tempo: o menu lateral ganhou o carrinho e o nome Vrumbi no alto, como no widget."
+    "A marca Vrumbi igual em todo lugar: o carrinho e o nome \"vrumbi\" em laranja no Menu, nas Configurações e no Clima e tempo, como no widget; o resto na cor do texto, depois de um ponto laranja."
   ],
   "versoes": [
+    {
+      "versao": "0.53.9",
+      "data": "01/11/2026",
+      "itens": [
+        "A marca Vrumbi igual em todo lugar: o carrinho e o nome \"vrumbi\" em laranja no Menu, nas Configurações e no Clima e tempo, como no widget; o resto na cor do texto, depois de um ponto laranja."
+      ],
+      "en": [
+        "The Vrumbi brand is the same everywhere: the car and the \"vrumbi\" name in orange in the Menu, Settings and Weather, like the widget; everything else in the text color, after an orange dot."
+      ],
+      "es": [
+        "La marca Vrumbi igual en todas partes: el autito y el nombre \"vrumbi\" en naranja en el Menú, la Configuración y el Clima, como en el widget; lo demás en el color del texto, después de un punto naranja."
+      ]
+    },
     {
       "versao": "0.53.8",
       "data": "01/11/2026",
@@ -184,22 +197,6 @@
       "es": [
         "Su coche en el mapa: al marcar dónde estacionó, el sello naranja del coche queda en el lugar, visible de lejos y de cerca, como Casa y Trabajo. Al tocarlo se abre \"Mi coche\" con el camino hasta allí.",
         "\"Olvidar dónde estacioné\" pasó a ser \"Ya recogí el coche\": quita el coche del mapa."
-      ]
-    },
-    {
-      "versao": "0.52.7",
-      "data": "31/10/2026",
-      "itens": [
-        "O que tem aqui: os lugares do centro comercial ficam em cards grandes, um por categoria (Alimentação, Moda e calçados, Beleza e saúde...), com a quantidade no título e em ordem alfabética dentro de cada card. A busca e os botões de categoria continuam filtrando.",
-        "Lojas de esporte (Adidas, Centauro, Nike...) agora em Moda e calçados."
-      ],
-      "en": [
-        "What is here: the places in the shopping center are in large cards, one per category (Food, Fashion and shoes, Beauty and health...), with the count in the title and alphabetical inside each card. Search and the category buttons still filter.",
-        "Sports stores (Adidas, Centauro, Nike...) now under Fashion and shoes."
-      ],
-      "es": [
-        "Qué hay aquí: los lugares del centro comercial quedan en tarjetas grandes, una por categoría (Comida, Moda y calzado, Belleza y salud...), con la cantidad en el título y en orden alfabético dentro de cada tarjeta. La búsqueda y los botones de categoría siguen filtrando.",
-        "Tiendas de deporte (Adidas, Centauro, Nike...) ahora en Moda y calzado."
       ]
     }
   ]
