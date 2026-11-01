@@ -1,15 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.9",
-  "codigo": 174,
+  "versao": "0.54.0",
+  "codigo": 175,
   "data": "01/11/2026",
-  "tamanho": 203880157,
-  "sha256": "f7293503c5f0aefaa061ffbd30408d29bf76513d36d7d3f1d5c0735be5e7ceff",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.9/Vrumbi-0.53.9.apk",
+  "tamanho": 204583570,
+  "sha256": "523eab4c48fd95ea652c91376589503580609031380ece4cfca97f398e6018fd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.0/Vrumbi-0.54.0.apk",
   "notas": [
-    "A marca Vrumbi igual em todo lugar: o carrinho e o nome \"vrumbi\" em laranja no Menu, nas Configurações e no Clima e tempo, como no widget; o resto na cor do texto, depois de um ponto laranja."
+    "O Vrumbi ganhou voz própria: quando você fala com o carrinho, ele responde com uma voz de personagem de desenho, mais aguda e animada, diferente da voz que narra a navegação. E chega buzinando \"bi-bi\" e acelera \"vrum\" quando sai a rota.",
+    "Escolher a rota: o mapa mostra de cima todas as rotas para o destino, cada uma com o tempo escrito na linha. Toque numa linha (ou no cartão) para escolher. Quando os servidores dão um caminho só, o Vrumbi procura desvios dos dois lados.",
+    "O painel da escolha ficou mais baixo: as opções numa fileira que rola para o lado, Cancelar e Iniciar lado a lado. Deitado, o painel fica à esquerda e as rotas à direita."
   ],
   "versoes": [
+    {
+      "versao": "0.54.0",
+      "data": "01/11/2026",
+      "itens": [
+        "O Vrumbi ganhou voz própria: quando você fala com o carrinho, ele responde com uma voz de personagem de desenho, mais aguda e animada, diferente da voz que narra a navegação. E chega buzinando \"bi-bi\" e acelera \"vrum\" quando sai a rota.",
+        "Escolher a rota: o mapa mostra de cima todas as rotas para o destino, cada uma com o tempo escrito na linha. Toque numa linha (ou no cartão) para escolher. Quando os servidores dão um caminho só, o Vrumbi procura desvios dos dois lados.",
+        "O painel da escolha ficou mais baixo: as opções numa fileira que rola para o lado, Cancelar e Iniciar lado a lado. Deitado, o painel fica à esquerda e as rotas à direita."
+      ],
+      "en": [
+        "Vrumbi got its own voice: when you talk to the little car, it answers with a cartoon character voice, higher and livelier, different from the navigation voice. It also arrives honking \"beep-beep\" and revs \"vroom\" when the route is ready.",
+        "Choosing a route: the map shows all routes to the destination from above, each with its time written on the line. Tap a line (or the card) to choose. When the servers give only one path, Vrumbi looks for detours on both sides.",
+        "The choice panel is shorter: options in a row that scrolls sideways, Cancel and Start side by side. In landscape, the panel is on the left and the routes on the right."
+      ],
+      "es": [
+        "Vrumbi tiene voz propia: cuando habla con el autito, responde con una voz de personaje de dibujos animados, más aguda y animada, distinta de la voz que narra la navegación. Y llega tocando la bocina \"bi-bi\" y acelera \"brum\" cuando sale la ruta.",
+        "Elegir la ruta: el mapa muestra desde arriba todas las rutas al destino, cada una con el tiempo escrito en la línea. Toque una línea (o la tarjeta) para elegir. Cuando los servidores dan un solo camino, Vrumbi busca desvíos por ambos lados.",
+        "El panel de elección quedó más bajo: las opciones en una fila que se desliza de lado, Cancelar e Iniciar lado a lado. En horizontal, el panel queda a la izquierda y las rutas a la derecha."
+      ]
+    },
     {
       "versao": "0.53.9",
       "data": "01/11/2026",
@@ -181,22 +202,6 @@
       ],
       "es": [
         "El coche estacionado en el mapa ahora es el propio Vrumbi (el autito naranja, con la placa \"P\" azul en la esquina), con nuestra cara."
-      ]
-    },
-    {
-      "versao": "0.52.8",
-      "data": "31/10/2026",
-      "itens": [
-        "Seu carro no mapa: ao marcar onde estacionou, o selo laranja do carro fica no lugar, visível de longe e de perto, como Casa e Trabalho. Tocar nele abre o \"Meu carro\" com o caminho até lá.",
-        "\"Esquecer onde estacionei\" virou \"Já peguei o carro\": tira o carro do mapa."
-      ],
-      "en": [
-        "Your car on the map: when you mark where you parked, the orange car badge stays at the spot, visible from far and near, like Home and Work. Tap it to open \"My car\" with the way there.",
-        "\"Forget where I parked\" became \"I picked up the car\": it takes the car off the map."
-      ],
-      "es": [
-        "Su coche en el mapa: al marcar dónde estacionó, el sello naranja del coche queda en el lugar, visible de lejos y de cerca, como Casa y Trabajo. Al tocarlo se abre \"Mi coche\" con el camino hasta allí.",
-        "\"Olvidar dónde estacioné\" pasó a ser \"Ya recogí el coche\": quita el coche del mapa."
       ]
     }
   ]
