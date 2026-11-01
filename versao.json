@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.57.0",
-  "codigo": 181,
+  "versao": "0.57.1",
+  "codigo": 182,
   "data": "01/11/2026",
-  "tamanho": 205527479,
-  "sha256": "e479101e2a7ebe1ee1c0dcf7c98c886580ea260fa060ebd82448ae4f80bcc2bf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.0/Vrumbi-0.57.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.0/Vrumbi-relogio-0.57.0.apk",
+  "tamanho": 205527939,
+  "sha256": "a7a23803d628bb70d9d8c7cc079454116b9b9e0280d6c6d685373a933271d45a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.1/Vrumbi-0.57.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.1/Vrumbi-relogio-0.57.1.apk",
   "notas": [
-    "Vrumbi no relógio (Wear OS: Galaxy Watch, Pixel Watch...): batimentos ao vivo no pulso, e começar, pausar e encerrar a corrida, caminhada ou pedalada pelo relógio. O celular grava o caminho e guarda tudo junto, com os batimentos. Veja em Desempenho > App no relógio.",
-    "Atividades começadas e encerradas pelo relógio com o app do celular fechado entram sozinhas no histórico."
+    "Vrumbi no relógio: monte as suas telas. Cada tela tem um formato de grade (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 faixas) e você escolhe o número de cada espaço (batimentos, tempo, distância, ritmo, ritmo médio, velocidade, velocidade média, calorias, FC máxima, hora). Várias telas, passando com o dedo para o lado; tocar no número grande troca o número dele."
   ],
   "versoes": [
+    {
+      "versao": "0.57.1",
+      "data": "01/11/2026",
+      "itens": [
+        "Vrumbi no relógio: monte as suas telas. Cada tela tem um formato de grade (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 faixas) e você escolhe o número de cada espaço (batimentos, tempo, distância, ritmo, ritmo médio, velocidade, velocidade média, calorias, FC máxima, hora). Várias telas, passando com o dedo para o lado; tocar no número grande troca o número dele."
+      ],
+      "en": [
+        "Vrumbi on the watch: build your own screens. Each screen has a grid layout (1 big; 1 big + 2; 1 big + 4; 2 × 2; 3 rows) and you pick the metric of each slot (heart rate, time, distance, pace, avg pace, speed, avg speed, calories, max HR, clock). Several screens, swiping sideways; tap the big number to change it."
+      ],
+      "es": [
+        "Vrumbi en el reloj: arme sus pantallas. Cada pantalla tiene un formato de cuadrícula (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 franjas) y usted elige el dato de cada espacio (pulsaciones, tiempo, distancia, ritmo, ritmo medio, velocidad, velocidad media, calorías, FC máxima, hora). Varias pantallas, deslizando de lado; toque el número grande para cambiarlo."
+      ]
+    },
     {
       "versao": "0.57.0",
       "data": "01/11/2026",
@@ -186,22 +198,6 @@
       ],
       "es": [
         "La notificación de la ruta sigue el tema del celular: panel claro en el tema claro y oscuro en el oscuro, siempre con el contorno naranja y el autito de Vrumbi."
-      ]
-    },
-    {
-      "versao": "0.53.5",
-      "data": "01/11/2026",
-      "itens": [
-        "Ajustes rápidos e Navegação em cartões: cada assunto (Rota, Avisos, Voz, Aparência) é um cartão, com cartões menores dentro. Tocar no cartão liga ou desliga, e o ligado fica com o contorno de destaque.",
-        "Notificação da rota mais discreta: o fundo é o das outras notificações do celular, e o painel com a seta fica escuro, com contorno laranja."
-      ],
-      "en": [
-        "Quick settings and Navigation in cards: each topic (Route, Alerts, Voice, Appearance) is a card with smaller cards inside. Tap a card to turn it on or off; the ones that are on get the highlight outline.",
-        "Subtler route notification: the background matches your other notifications, and the arrow panel is dark with an orange outline."
-      ],
-      "es": [
-        "Ajustes rápidos y Navegación en tarjetas: cada tema (Ruta, Avisos, Voz, Apariencia) es una tarjeta con tarjetas más pequeñas dentro. Al tocar una tarjeta se activa o desactiva, y las activas tienen el contorno de destaque.",
-        "Notificación de la ruta más discreta: el fondo es el de las demás notificaciones del celular, y el panel con la flecha es oscuro, con contorno naranja."
       ]
     }
   ]
