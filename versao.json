@@ -1,17 +1,28 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.54.1",
-  "codigo": 176,
+  "versao": "0.54.2",
+  "codigo": 177,
   "data": "01/11/2026",
-  "tamanho": 204586743,
-  "sha256": "94b3983b14790617feaea9c4eab4365b6b73e60c15d6e5371b97a545f86c789a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.1/Vrumbi-0.54.1.apk",
+  "tamanho": 203885285,
+  "sha256": "f80a34ee7c90cd1a007cb5a8eb1ded897682fd36d9c3eb546c5c66561e779aa6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.54.2/Vrumbi-0.54.2.apk",
   "notas": [
-    "Clima de hora em hora: \"Possibilidade de tempestade\" quando o ar está instável (trovoada prevista, ou pancada com muita energia no ar: CAPE e Lifted Index) e \"Possibilidade de chuva\" quando a chance é baixa; a chance de chuva aparece por extenso em cada hora e em cada dia.",
-    "Clima e tempo: a hora da última atualização ao lado do botão de atualizar, como no widget.",
-    "O ícone do Vrumbi acompanha o tema: claro no tema claro, escuro no tema escuro."
+    "Menu: o item Clima e tempo usa o mesmo ícone laranja dos outros itens; o tipo de ícone do tempo (realista, colorido) vale dentro do Clima e tempo."
   ],
   "versoes": [
+    {
+      "versao": "0.54.2",
+      "data": "01/11/2026",
+      "itens": [
+        "Menu: o item Clima e tempo usa o mesmo ícone laranja dos outros itens; o tipo de ícone do tempo (realista, colorido) vale dentro do Clima e tempo."
+      ],
+      "en": [
+        "Menu: the Weather item uses the same orange icon as the other items; the weather icon style (realistic, colored) applies inside Weather."
+      ],
+      "es": [
+        "Menú: el ítem Clima y tiempo usa el mismo ícono naranja de los demás; el tipo de ícono del tiempo (realista, colorido) vale dentro de Clima y tiempo."
+      ]
+    },
     {
       "versao": "0.54.1",
       "data": "01/11/2026",
@@ -189,25 +200,6 @@
       "es": [
         "Ruta más limpia, sobre todo en horizontal: la franja de la maniobra quedó compacta (flecha y texto lado a lado) y, deslizada a un lado, se oculta hasta la próxima maniobra.",
         "Sin la píldora de abajo: la hora de llegada, el tiempo y la distancia quedan en una línea naranja dentro de la tarjeta de la calle (con la ciudad). Al tocarla se abre \"Opciones de la ruta\" y \"Terminar la ruta\", que ahora pide confirmación."
-      ]
-    },
-    {
-      "versao": "0.53.0",
-      "data": "31/10/2026",
-      "itens": [
-        "Fale com o Vrumbi! Toque no Vrumbi da busca, do topo do Menu ou do widget \"Para onde?\" (ou segure a lupa do mapa) e fale: o carrinho ouve, entende e responde falando, mexendo a boca.",
-        "Ele faz: \"me leva para…\" (acha o lugar e traça a rota), \"ir para casa / trabalho\", \"onde está meu carro?\", \"marca onde estacionei\", \"vai chover?\", \"o que tem aqui?\", \"onde eu estou?\", \"que horas são?\", \"minhas viagens\", \"música\", \"mensagens\" — e conversa: \"tudo bem?\", \"bom dia\", \"quem é você?\", \"conta uma piada\".",
-        "Por enquanto ele entende português. A conversa livre, sobre qualquer assunto, vem numa próxima etapa."
-      ],
-      "en": [
-        "Talk to Vrumbi! Tap Vrumbi in the search, at the top of the Menu or on the \"Where to?\" widget (or hold the map’s search button) and speak: the little car listens, understands and answers out loud, moving its mouth.",
-        "It does: \"take me to…\" (finds the place and makes the route), \"go home / to work\", \"where is my car?\", \"mark where I parked\", \"will it rain?\", \"what is here?\", \"where am I?\", \"what time is it?\", \"my trips\", \"music\", \"messages\" — and chats: \"how are you?\", \"good morning\", \"who are you?\", \"tell me a joke\".",
-        "For now it understands Portuguese. Free conversation on any subject comes in a next stage."
-      ],
-      "es": [
-        "¡Hable con Vrumbi! Toque a Vrumbi en la búsqueda, arriba en el Menú o en el widget \"¿A dónde?\" (o mantenga la lupa del mapa) y hable: el autito escucha, entiende y responde hablando, moviendo la boca.",
-        "Hace: \"llévame a…\" (encuentra el lugar y traza la ruta), \"ir a casa / al trabajo\", \"¿dónde está mi coche?\", \"marca dónde estacioné\", \"¿va a llover?\", \"¿qué hay aquí?\", \"¿dónde estoy?\", \"¿qué hora es?\", \"mis viajes\", \"música\", \"mensajes\" — y conversa: \"¿todo bien?\", \"buenos días\", \"¿quién eres?\", \"cuéntame un chiste\".",
-        "Por ahora entiende portugués. La conversación libre, sobre cualquier tema, llega en una próxima etapa."
       ]
     }
   ]
