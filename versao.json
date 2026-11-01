@@ -1,16 +1,36 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.3",
-  "codigo": 168,
+  "versao": "0.53.4",
+  "codigo": 169,
   "data": "01/11/2026",
-  "tamanho": 203877336,
-  "sha256": "8001185d55f41af770df5ee7171d18f3a3f5b2c01bf09826457e5da8e6ab79cf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.3/Vrumbi-0.53.3.apk",
+  "tamanho": 203868719,
+  "sha256": "264399dfb2a8afd6e3b46ab6fcc79490fa83d42383d83bcea0779049b7ddac8c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.4/Vrumbi-0.53.4.apk",
   "notas": [
-    "Na rota, o trecho que você já passou fica num azul apagado; o que falta continua no azul forte.",
-    "Deitado, a placa do limite da via fica ao lado do velocímetro e não cobre mais o botão Avisar."
+    "Radares do mundo todo: além do cadastro do DER e da ARTESP (SP), entram os radares das rodovias federais do Brasil inteiro (DNIT), as listas das prefeituras (começando por Mogi das Cruzes) e todos os radares e trechos de velocidade média do OpenStreetMap, em todos os países — mais de 74 mil pontos.",
+    "Pesquisar: o teclado não abre mais sozinho — dá para tocar nos cards antes; ele aparece quando você toca no campo. E o campo agora deixa o teclado do seu celular usar as sugestões e os dados que ele já guarda.",
+    "Pesquisar deitado: os cards Casa, Trabalho, Favoritos e Proximidades ficaram baixos, com o ícone ao lado do texto."
   ],
   "versoes": [
+    {
+      "versao": "0.53.4",
+      "data": "01/11/2026",
+      "itens": [
+        "Radares do mundo todo: além do cadastro do DER e da ARTESP (SP), entram os radares das rodovias federais do Brasil inteiro (DNIT), as listas das prefeituras (começando por Mogi das Cruzes) e todos os radares e trechos de velocidade média do OpenStreetMap, em todos os países — mais de 74 mil pontos.",
+        "Pesquisar: o teclado não abre mais sozinho — dá para tocar nos cards antes; ele aparece quando você toca no campo. E o campo agora deixa o teclado do seu celular usar as sugestões e os dados que ele já guarda.",
+        "Pesquisar deitado: os cards Casa, Trabalho, Favoritos e Proximidades ficaram baixos, com o ícone ao lado do texto."
+      ],
+      "en": [
+        "Speed cameras worldwide: besides the DER and ARTESP records (São Paulo state), the app now has the cameras on all Brazilian federal highways (DNIT), city hall lists (starting with Mogi das Cruzes) and every speed and average-speed camera in OpenStreetMap, in every country — over 74 thousand points.",
+        "Search: the keyboard no longer opens by itself — you can tap the cards first; it shows up when you tap the field. The field also lets your phone’s keyboard use its suggestions and saved data.",
+        "Search in landscape: the Home, Work, Favorites and Nearby cards are now short, with the icon beside the text."
+      ],
+      "es": [
+        "Radares de todo el mundo: además del registro del DER y de la ARTESP (SP), están los radares de las carreteras federales de todo Brasil (DNIT), las listas de los municipios (empezando por Mogi das Cruzes) y todos los radares y tramos de velocidad media de OpenStreetMap, en todos los países: más de 74 mil puntos.",
+        "Buscar: el teclado ya no se abre solo; puede tocar las tarjetas antes y aparece cuando toca el campo. Además, el campo deja que el teclado de su celular use sus sugerencias y los datos que ya guarda.",
+        "Buscar en horizontal: las tarjetas Casa, Trabajo, Favoritos y Cercanías quedaron bajas, con el ícono al lado del texto."
+      ]
+    },
     {
       "versao": "0.53.3",
       "data": "01/11/2026",
@@ -185,22 +205,6 @@
       "es": [
         "La tarjeta de la dirección nunca tapa un botón: queda en el espacio libre entre los botones de la izquierda (Grabar, Multimedia, Seguir...) y los de la derecha (Menú, Avisar, velocímetro), y el nombre largo termina en \"…\".",
         "La flecha queda más cerca de la tarjeta (antes sobraba un espacio de casi un dedo)."
-      ]
-    },
-    {
-      "versao": "0.52.2",
-      "data": "31/10/2026",
-      "itens": [
-        "Um cartão só: dentro de um centro comercial, a linha \"<nome> · ver o que tem aqui\" fica dentro do cartão do endereço, e tocar nele abre o que tem no lugar.",
-        "O cartão não cobre mais a seta: quando ele cresce (deitado, principalmente), a seta sobe um pouco na tela."
-      ],
-      "en": [
-        "One card only: inside a shopping center, the \"<name> · see what is here\" line sits inside the address card, and tapping it opens what is in the place.",
-        "The card no longer covers the arrow: when it grows (especially in landscape), the arrow moves up a bit on the screen."
-      ],
-      "es": [
-        "Una sola tarjeta: dentro de un centro comercial, la línea \"<nombre> · ver qué hay aquí\" va dentro de la tarjeta de la dirección, y al tocarla se abre lo que hay en el lugar.",
-        "La tarjeta ya no tapa la flecha: cuando crece (sobre todo en horizontal), la flecha sube un poco en la pantalla."
       ]
     }
   ]
