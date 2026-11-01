@@ -1,17 +1,32 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.4",
-  "codigo": 169,
+  "versao": "0.53.5",
+  "codigo": 170,
   "data": "01/11/2026",
-  "tamanho": 203868719,
-  "sha256": "264399dfb2a8afd6e3b46ab6fcc79490fa83d42383d83bcea0779049b7ddac8c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.4/Vrumbi-0.53.4.apk",
+  "tamanho": 204575218,
+  "sha256": "5845e692eb9d95db7434e9f760298299268f563852a453653c4a2c921e1a3cad",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.5/Vrumbi-0.53.5.apk",
   "notas": [
-    "Radares do mundo todo: além do cadastro do DER e da ARTESP (SP), entram os radares das rodovias federais do Brasil inteiro (DNIT), as listas das prefeituras (começando por Mogi das Cruzes) e todos os radares e trechos de velocidade média do OpenStreetMap, em todos os países — mais de 74 mil pontos.",
-    "Pesquisar: o teclado não abre mais sozinho — dá para tocar nos cards antes; ele aparece quando você toca no campo. E o campo agora deixa o teclado do seu celular usar as sugestões e os dados que ele já guarda.",
-    "Pesquisar deitado: os cards Casa, Trabalho, Favoritos e Proximidades ficaram baixos, com o ícone ao lado do texto."
+    "Ajustes rápidos e Navegação em cartões: cada assunto (Rota, Avisos, Voz, Aparência) é um cartão, com cartões menores dentro. Tocar no cartão liga ou desliga, e o ligado fica com o contorno de destaque.",
+    "Notificação da rota mais discreta: o fundo é o das outras notificações do celular, e o painel com a seta fica escuro, com contorno laranja."
   ],
   "versoes": [
+    {
+      "versao": "0.53.5",
+      "data": "01/11/2026",
+      "itens": [
+        "Ajustes rápidos e Navegação em cartões: cada assunto (Rota, Avisos, Voz, Aparência) é um cartão, com cartões menores dentro. Tocar no cartão liga ou desliga, e o ligado fica com o contorno de destaque.",
+        "Notificação da rota mais discreta: o fundo é o das outras notificações do celular, e o painel com a seta fica escuro, com contorno laranja."
+      ],
+      "en": [
+        "Quick settings and Navigation in cards: each topic (Route, Alerts, Voice, Appearance) is a card with smaller cards inside. Tap a card to turn it on or off; the ones that are on get the highlight outline.",
+        "Subtler route notification: the background matches your other notifications, and the arrow panel is dark with an orange outline."
+      ],
+      "es": [
+        "Ajustes rápidos y Navegación en tarjetas: cada tema (Ruta, Avisos, Voz, Apariencia) es una tarjeta con tarjetas más pequeñas dentro. Al tocar una tarjeta se activa o desactiva, y las activas tienen el contorno de destaque.",
+        "Notificación de la ruta más discreta: el fondo es el de las demás notificaciones del celular, y el panel con la flecha es oscuro, con contorno naranja."
+      ]
+    },
     {
       "versao": "0.53.4",
       "data": "01/11/2026",
@@ -189,22 +204,6 @@
       "es": [
         "Widget del clima idéntico a la app: los dos usan la misma previsión, guardada en el celular. Cuando la app actualiza, el widget cambia al instante; cuando el widget se actualiza solo, la app muestra la misma.",
         "La hora actual de la lista y del gráfico muestra el \"ahora\" (la misma temperatura y condición de arriba y del widget), ya no la previsión de esa hora."
-      ]
-    },
-    {
-      "versao": "0.52.3",
-      "data": "31/10/2026",
-      "itens": [
-        "O cartão do endereço nunca cobre um botão: ele fica no espaço livre entre os botões da esquerda (Gravar, Mídia, Seguir...) e os da direita (Menu, Avisar, velocímetro), e o nome comprido termina em \"…\".",
-        "A seta fica mais perto do cartão (antes sobrava um espaço de quase um dedo)."
-      ],
-      "en": [
-        "The address card never covers a button: it sits in the free space between the buttons on the left (Record, Media, Follow...) and on the right (Menu, Report, speedometer), and a long name ends in \"…\".",
-        "The arrow sits closer to the card (there used to be a finger-wide gap)."
-      ],
-      "es": [
-        "La tarjeta de la dirección nunca tapa un botón: queda en el espacio libre entre los botones de la izquierda (Grabar, Multimedia, Seguir...) y los de la derecha (Menú, Avisar, velocímetro), y el nombre largo termina en \"…\".",
-        "La flecha queda más cerca de la tarjeta (antes sobraba un espacio de casi un dedo)."
       ]
     }
   ]
