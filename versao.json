@@ -1,15 +1,40 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.53.6",
-  "codigo": 171,
+  "versao": "0.53.7",
+  "codigo": 172,
   "data": "01/11/2026",
-  "tamanho": 203876523,
-  "sha256": "9f2a0ebc7a175e5bb96303c68f6a6e6b29d786ee5695195240ee22786db11612",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.6/Vrumbi-0.53.6.apk",
+  "tamanho": 204541923,
+  "sha256": "ac25427912496c919e8fa98ad0d7ba1d89a39a31094aad3865f74346fc10cf4b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.53.7/Vrumbi-0.53.7.apk",
   "notas": [
-    "Notificação da rota acompanha o tema do celular: no tema claro o painel da seta fica claro, no escuro fica escuro — sempre com o contorno laranja e o carrinho do Vrumbi."
+    "Notificação da rota com o carrinho do Vrumbi como ícone (antes era a seta); a seta da manobra continua no painel.",
+    "Mapas offline: a lista rola solta enquanto o mapa baixa (antes ficava agarrando a cada atualização do progresso).",
+    "Mapas offline: os países ficam recolhidos (Brasil mostra quantos mapas e o tamanho); toque para ver os estados. Baixar um estado continua baixando só ele.",
+    "Widget do clima: o botão de atualizar ficou do tamanho da hora ao lado, discreto, à direita."
   ],
   "versoes": [
+    {
+      "versao": "0.53.7",
+      "data": "01/11/2026",
+      "itens": [
+        "Notificação da rota com o carrinho do Vrumbi como ícone (antes era a seta); a seta da manobra continua no painel.",
+        "Mapas offline: a lista rola solta enquanto o mapa baixa (antes ficava agarrando a cada atualização do progresso).",
+        "Mapas offline: os países ficam recolhidos (Brasil mostra quantos mapas e o tamanho); toque para ver os estados. Baixar um estado continua baixando só ele.",
+        "Widget do clima: o botão de atualizar ficou do tamanho da hora ao lado, discreto, à direita."
+      ],
+      "en": [
+        "The route notification now uses the Vrumbi car as its icon (it used to be the arrow); the maneuver arrow stays in the panel.",
+        "Offline maps: the list scrolls smoothly while a map downloads (it used to stick at every progress update).",
+        "Offline maps: countries start collapsed (Brazil shows how many maps and their size); tap to see the states. Downloading a state still downloads only that state.",
+        "Weather widget: the refresh button is now the size of the time next to it, subtle, on the right."
+      ],
+      "es": [
+        "La notificación de la ruta usa el autito de Vrumbi como ícono (antes era la flecha); la flecha de la maniobra sigue en el panel.",
+        "Mapas sin conexión: la lista se desplaza libre mientras el mapa se descarga (antes se trababa en cada actualización del progreso).",
+        "Mapas sin conexión: los países quedan plegados (Brasil muestra cuántos mapas y el tamaño); toque para ver los estados. Descargar un estado sigue descargando solo ese estado.",
+        "Widget del clima: el botón de actualizar quedó del tamaño de la hora al lado, discreto, a la derecha."
+      ]
+    },
     {
       "versao": "0.53.6",
       "data": "01/11/2026",
@@ -181,25 +206,6 @@
       "es": [
         "Clima por el cielo: el ícono y el texto muestran solo el cielo y la lluvia (despejado, pocas nubes, sol entre nubes, nublado, llovizna, lluvia, chubascos, tormenta), además de tormenta severa y viento con lluvia. Niebla solo cuando un aeropuerto cercano la observa de verdad; ya no en la previsión de las próximas horas.",
         "Aire seco, bochorno, calor, frío, viento fuerte y sol fuerte salieron del ícono por ahora (los números siguen en los detalles)."
-      ]
-    },
-    {
-      "versao": "0.52.5",
-      "data": "31/10/2026",
-      "itens": [
-        "Neblina só de verdade: a visibilidade que a previsão informa despenca nas noites úmidas e virava \"Neblina\" a noite toda (com os aeroportos marcando 10 km de visibilidade). Agora a neblina por visibilidade só aparece com o ar saturado (umidade de 98% ou mais) — no app e no widget, igual.",
-        "Com o app aberto, a previsão se renova a cada 10 minutos e vai na hora para o widget.",
-        "Widget de relógio e clima grande: à direita do nome do lugar, a hora da última atualização e um botão discreto para atualizar na hora."
-      ],
-      "en": [
-        "Fog only when real: the visibility in the forecast drops on humid nights and turned into \"Fog\" all night (while airports reported 10 km visibility). Now visibility fog only shows with saturated air (humidity of 98% or more) — the same in the app and the widget.",
-        "With the app open, the forecast refreshes every 10 minutes and goes to the widget at once.",
-        "Large clock and weather widget: next to the place name, the time of the last update and a discreet button to update right away."
-      ],
-      "es": [
-        "Niebla solo cuando es real: la visibilidad de la previsión se desploma en las noches húmedas y se convertía en \"Niebla\" toda la noche (con los aeropuertos marcando 10 km de visibilidad). Ahora la niebla por visibilidad solo aparece con el aire saturado (humedad del 98% o más) — igual en la app y en el widget.",
-        "Con la app abierta, la previsión se renueva cada 10 minutos y va al instante al widget.",
-        "Widget grande de reloj y clima: junto al nombre del lugar, la hora de la última actualización y un botón discreto para actualizar al momento."
       ]
     }
   ]
