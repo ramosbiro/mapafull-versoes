@@ -1,18 +1,61 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.59.0",
-  "codigo": 194,
+  "versao": "0.60.0",
+  "codigo": 195,
   "data": "02/11/2026",
-  "tamanho": 206527201,
-  "sha256": "7a88a08e5e8772f6baa8bdbc611332fa1b90dcb8c52c15a6fe98a37c36ffdb06",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.59.0/Vrumbi-0.59.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.59.0/Vrumbi-relogio-0.59.0.apk",
+  "tamanho": 206811644,
+  "sha256": "31d2b981b139bf499197109809f2c1d4d5cdfa5108360cac6e7dfd619b66e5d1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.60.0/Vrumbi-0.60.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.60.0/Vrumbi-relogio-0.60.0.apk",
   "notas": [
-    "Meus treinos: o lugar para ver tudo o que você já fez. Abas Dias, Semanas e Meses; filtro por esporte; o total grande do período (tempo, ou a distância quando escolhe um esporte), com distância, calorias, FC média, ritmo médio e sessões; barras dos últimos períodos com a linha da média (toque numa barra para ver aquele período); e a lista agrupada por dia, com o tempo e as calorias de cada dia.",
-    "Calendário: o mês com os dias de treino marcados (quanto mais forte a cor, mais tempo de treino); toque no dia para ver as atividades dele.",
-    "O Treino ficou para treinar: no alto, o cartão Meus treinos (com o resumo da semana) abre o histórico."
+    "Treinador do Vrumbi: antes do START, cada esporte tem os seus Ajustes deste treino, e quem acompanha é o próprio serviço da gravação: vale com a tela apagada e com o app fechado.",
+    "Meta do treino (distância, tempo ou calorias): a barra de progresso na tela, a notificação com a porcentagem, o aviso na metade e a comemoração quando você bate a meta.",
+    "Ritmo-alvo com folga: fora da faixa por 15 segundos, o Vrumbi avisa (acelere ou segure) e o celular vibra; voltou para a faixa, ele confirma.",
+    "Treino intervalado: aquecimento, esforços por tempo ou distância, descansos, séries e desaquecimento, com modelos prontos (tiros de 1 minuto, 4 × 4, Tabata, tiros de 400 m e de 1 km). A troca de etapa vem com voz, vibração e bipes nos 3 últimos segundos.",
+    "Alerta de batimentos: ficar numa zona (Z1 a Z5) ou não passar de um limite.",
+    "Guia de voz do seu jeito: a cada 500 m, 1, 2 ou 5 km, ou a cada 1, 5 ou 10 minutos, e você escolhe o que ouvir (distância, tempo, ritmo médio e atual, batimentos, calorias, quanto falta da meta). A música abaixa enquanto ele fala.",
+    "Voltas: automáticas (400 m a 5 km) e no botão Volta, na tela do treino e na notificação. No resumo, a tabela de voltas e a das etapas do intervalado, com a melhor em destaque.",
+    "Editar o treino: nome, anotação e o esporte. Apagar agora leva para a Lixeira, que guarda por 30 dias para restaurar.",
+    "Recordes por distância, como nos apps de saúde: o trecho mais rápido de 5 km, 10 km, meia maratona e maratona (na bicicleta, de 5 a 100 km), em Meus treinos ao escolher o esporte."
   ],
   "versoes": [
+    {
+      "versao": "0.60.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Treinador do Vrumbi: antes do START, cada esporte tem os seus Ajustes deste treino, e quem acompanha é o próprio serviço da gravação: vale com a tela apagada e com o app fechado.",
+        "Meta do treino (distância, tempo ou calorias): a barra de progresso na tela, a notificação com a porcentagem, o aviso na metade e a comemoração quando você bate a meta.",
+        "Ritmo-alvo com folga: fora da faixa por 15 segundos, o Vrumbi avisa (acelere ou segure) e o celular vibra; voltou para a faixa, ele confirma.",
+        "Treino intervalado: aquecimento, esforços por tempo ou distância, descansos, séries e desaquecimento, com modelos prontos (tiros de 1 minuto, 4 × 4, Tabata, tiros de 400 m e de 1 km). A troca de etapa vem com voz, vibração e bipes nos 3 últimos segundos.",
+        "Alerta de batimentos: ficar numa zona (Z1 a Z5) ou não passar de um limite.",
+        "Guia de voz do seu jeito: a cada 500 m, 1, 2 ou 5 km, ou a cada 1, 5 ou 10 minutos, e você escolhe o que ouvir (distância, tempo, ritmo médio e atual, batimentos, calorias, quanto falta da meta). A música abaixa enquanto ele fala.",
+        "Voltas: automáticas (400 m a 5 km) e no botão Volta, na tela do treino e na notificação. No resumo, a tabela de voltas e a das etapas do intervalado, com a melhor em destaque.",
+        "Editar o treino: nome, anotação e o esporte. Apagar agora leva para a Lixeira, que guarda por 30 dias para restaurar.",
+        "Recordes por distância, como nos apps de saúde: o trecho mais rápido de 5 km, 10 km, meia maratona e maratona (na bicicleta, de 5 a 100 km), em Meus treinos ao escolher o esporte."
+      ],
+      "en": [
+        "Vrumbi coach: before START, each sport has its own Workout settings, and the recording service itself does the coaching, so it works with the screen off and the app closed.",
+        "Workout goal (distance, time or calories): a progress bar on screen, the percentage in the notification, a heads-up at halfway and a celebration when you hit it.",
+        "Target pace with a margin: out of range for 15 seconds, Vrumbi tells you (speed up or ease off) and the phone vibrates; back in range, it confirms.",
+        "Interval training: warm-up, work intervals by time or distance, rests, sets and cool-down, with ready-made plans (1-minute repeats, 4 × 4, Tabata, 400 m and 1 km repeats). Each change comes with voice, vibration and beeps in the last 3 seconds.",
+        "Heart rate alert: stay in a zone (Z1 to Z5) or stay under a limit.",
+        "Voice guidance your way: every 500 m, 1, 2 or 5 km, or every 1, 5 or 10 minutes, and you choose what to hear (distance, time, average and current pace, heart rate, calories, how much of the goal is left). Music ducks while it talks.",
+        "Laps: automatic (400 m to 5 km) and with the Lap button, on the workout screen and in the notification. In the summary, the laps table and the interval stages table, with the best one highlighted.",
+        "Edit a workout: name, note and sport. Deleting now moves it to the Trash, kept for 30 days so you can restore it.",
+        "Distance records, like health apps: your fastest 5 km, 10 km, half marathon and marathon stretch (on the bike, 5 to 100 km), in My workouts when you pick the sport."
+      ],
+      "es": [
+        "Entrenador de Vrumbi: antes del START, cada deporte tiene sus Ajustes de este entreno, y quien acompaña es el propio servicio de la grabación: funciona con la pantalla apagada y la app cerrada.",
+        "Meta del entreno (distancia, tiempo o calorías): la barra de progreso en pantalla, el porcentaje en la notificación, el aviso a la mitad y la celebración al cumplirla.",
+        "Ritmo objetivo con margen: fuera del rango por 15 segundos, Vrumbi avisa (acelera o frena) y el móvil vibra; al volver al rango, lo confirma.",
+        "Entreno por intervalos: calentamiento, esfuerzos por tiempo o distancia, descansos, series y vuelta a la calma, con modelos listos (series de 1 minuto, 4 × 4, Tabata, series de 400 m y de 1 km). Cada cambio llega con voz, vibración y pitidos en los 3 últimos segundos.",
+        "Alerta de pulso: quedarse en una zona (Z1 a Z5) o no pasar de un límite.",
+        "Guía de voz a tu manera: cada 500 m, 1, 2 o 5 km, o cada 1, 5 o 10 minutos, y eliges qué oír (distancia, tiempo, ritmo medio y actual, pulso, calorías, cuánto falta de la meta). La música baja mientras habla.",
+        "Vueltas: automáticas (400 m a 5 km) y con el botón Vuelta, en la pantalla del entreno y en la notificación. En el resumen, la tabla de vueltas y la de las etapas del intervalo, con la mejor destacada.",
+        "Editar el entreno: nombre, nota y deporte. Borrar ahora lo lleva a la Papelera, que lo guarda 30 días para restaurarlo.",
+        "Récords por distancia, como en las apps de salud: el tramo más rápido de 5 km, 10 km, media maratón y maratón (en bici, de 5 a 100 km), en Mis entrenos al elegir el deporte."
+      ]
+    },
     {
       "versao": "0.59.0",
       "data": "02/11/2026",
@@ -235,28 +278,6 @@
         "En el reloj: todas las actividades (las 3 últimas arriba y \"Todas las actividades\"), cada una con el tipo correcto del sensor; y los pasos en las pantallas. En Health Connect, cada actividad va con el tipo correcto, las calorías y los pasos.",
         "Contactos: el botón del mapa (antes Mensajes) ya no desaparece cuando la bandeja queda vacía. Ahora junta globo y teléfono: Llamar o Enviar mensaje (WhatsApp o SMS) a cualquier contacto, buscando por el nombre, diciendo el nombre o con el teclado; los recientes quedan arriba, y las conversaciones recibidas siguen ahí.",
         "Voz: \"empezar cinta\", \"iniciar natación\", \"grabar musculación\" y cualquier otra actividad por el nombre."
-      ]
-    },
-    {
-      "versao": "0.57.2",
-      "data": "01/11/2026",
-      "itens": [
-        "Correr ficou fácil: no Menu, Correr, Caminhar e Pedalar começam a gravar com um toque; segurando o ícone do Vrumbi na tela inicial aparecem os mesmos atalhos; e dá para pedir ao Vrumbi: \"começar corrida\".",
-        "Notícias da cidade de verdade: buscadas pelo próprio celular no Google Notícias e no Bing Notícias, juntas e sem repetir; a última lista aparece na hora enquanto atualiza.",
-        "Alertas: as cores dos níveis (amarelo, laranja, vermelho) ficaram legíveis no tema claro. Ajustes rápidos: o cartão Avisos de clima mostra quantos avisos estão ligados.",
-        "Busca: o botão do carrinho no mesmo formato do campo."
-      ],
-      "en": [
-        "Running made easy: in the Menu, Run, Walk and Ride start recording with one tap; long-pressing the Vrumbi icon on the home screen shows the same shortcuts; and you can ask Vrumbi: \"start a run\".",
-        "Real city news: fetched by the phone itself from Google News and Bing News, merged without repeats; the last list shows instantly while it updates.",
-        "Alerts: level colors (yellow, orange, red) are now readable in light mode. Quick settings: the Weather alerts card shows how many alerts are on.",
-        "Search: the car button now matches the search field."
-      ],
-      "es": [
-        "Correr es más fácil: en el Menú, Correr, Caminar y Pedalear empiezan a grabar con un toque; manteniendo el ícono de Vrumbi en la pantalla de inicio aparecen los mismos atajos; y se lo puede pedir a Vrumbi: \"empezar carrera\".",
-        "Noticias de la ciudad de verdad: buscadas por el propio celular en Google Noticias y Bing Noticias, juntas y sin repetir; la última lista aparece al instante mientras se actualiza.",
-        "Alertas: los colores de los niveles (amarillo, naranja, rojo) se leen bien en el tema claro. Ajustes rápidos: la tarjeta Avisos de clima muestra cuántos avisos están activos.",
-        "Búsqueda: el botón del autito con el mismo formato del campo."
       ]
     }
   ]
