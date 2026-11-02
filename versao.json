@@ -1,20 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.2",
-  "codigo": 186,
+  "versao": "0.58.3",
+  "codigo": 187,
   "data": "02/11/2026",
-  "tamanho": 206399796,
-  "sha256": "5442bedb3272775b12a48c2921db4b97e429618223f16ccf85eaab1dc6d17218",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.2/Vrumbi-0.58.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.2/Vrumbi-relogio-0.58.2.apk",
+  "tamanho": 207125256,
+  "sha256": "d4d731a6956fdf4ba328170f98b44e0d6748793bb94bc51175d912c4a9956af2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.3/Vrumbi-0.58.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.3/Vrumbi-relogio-0.58.3.apk",
   "notas": [
-    "Treino de cara nova: todas as atividades à vista, em fileiras de cartões por categoria (rolam para o lado), sem precisar pesquisar. As que você usou por último ficam em cima; a busca ficou só no fim, para quem não achou a sua.",
-    "Você decide a ordem: em Organizar, coloque em cima o esporte que mais pratica (natação, corrida, bicicleta...) e mude também a ordem dos cartões de cada categoria.",
-    "Fechar o Treino arrastando para o lado volta direto para o mapa (antes abria o Menu).",
-    "Resumo da atividade com fundo de satélite: troque entre Mapa e Satélite em cima do mapa e veja o trajeto sobre a imagem real; o botão ao lado mostra o circuito inteiro.",
-    "Menu mais limpo: o treino saiu do Menu (fica no botão Treino do mapa). Sensores, relógio, Saúde do Android e o seu perfil agora ficam em Configurações > Sensores e relógio, junto com o GPS e a bússola."
+    "Resumo da atividade em três visões: Mapa (de cima, 2D), Satélite (de cima, 2D, com a trilha toda na cor do rendimento) e Animação.",
+    "Animação do percurso: a câmera acompanha você fazendo o circuito sobre o satélite, e a trilha vai se pintando na cor do rendimento. Embaixo, o contagiros mostra a velocidade (ou o ritmo) naquele ponto, junto com o tempo, a distância, os batimentos, a altitude e as calorias até ali. Dá para pausar, voltar ao começo, acelerar (×2, ×4) e arrastar a barra para qualquer ponto.",
+    "Mapa e Satélite ficam sempre de cima (2D) no resumo: nada inclina a câmera."
   ],
   "versoes": [
+    {
+      "versao": "0.58.3",
+      "data": "02/11/2026",
+      "itens": [
+        "Resumo da atividade em três visões: Mapa (de cima, 2D), Satélite (de cima, 2D, com a trilha toda na cor do rendimento) e Animação.",
+        "Animação do percurso: a câmera acompanha você fazendo o circuito sobre o satélite, e a trilha vai se pintando na cor do rendimento. Embaixo, o contagiros mostra a velocidade (ou o ritmo) naquele ponto, junto com o tempo, a distância, os batimentos, a altitude e as calorias até ali. Dá para pausar, voltar ao começo, acelerar (×2, ×4) e arrastar a barra para qualquer ponto.",
+        "Mapa e Satélite ficam sempre de cima (2D) no resumo: nada inclina a câmera."
+      ],
+      "en": [
+        "Activity summary in three views: Map (top-down, 2D), Satellite (top-down, 2D, with the whole trail in your performance colors) and Animation.",
+        "Route animation: the camera follows you along the course over satellite imagery while the trail paints itself in your performance colors. Below, the gauge shows your speed (or pace) at that point, with time, distance, heart rate, altitude and calories so far. Pause, restart, speed up (×2, ×4) or drag the bar to any point.",
+        "Map and Satellite always stay top-down (2D) in the summary: nothing tilts the camera."
+      ],
+      "es": [
+        "Resumen de la actividad en tres vistas: Mapa (desde arriba, 2D), Satélite (desde arriba, 2D, con todo el recorrido en los colores del rendimiento) y Animación.",
+        "Animación del recorrido: la cámara te sigue haciendo el circuito sobre el satélite y el recorrido se va pintando con los colores del rendimiento. Abajo, el cuentarrevoluciones muestra la velocidad (o el ritmo) en ese punto, junto con el tiempo, la distancia, las pulsaciones, la altitud y las calorías hasta ahí. Se puede pausar, volver al inicio, acelerar (×2, ×4) y arrastrar la barra a cualquier punto.",
+        "Mapa y Satélite quedan siempre desde arriba (2D) en el resumen: nada inclina la cámara."
+      ]
+    },
     {
       "versao": "0.58.2",
       "data": "02/11/2026",
@@ -219,25 +236,6 @@
         "Clima por hora: \"Probabilidad de tormenta\" cuando el aire está inestable (tormenta prevista, o chubascos con mucha energía en el aire: CAPE y Lifted Index) y \"Probabilidad de lluvia\" cuando la chance es baja; la probabilidad de lluvia aparece escrita en cada hora y cada día.",
         "Clima: la hora de la última actualización al lado del botón de actualizar, como en el widget.",
         "El ícono de Vrumbi sigue el tema: claro en el tema claro, oscuro en el oscuro."
-      ]
-    },
-    {
-      "versao": "0.54.0",
-      "data": "01/11/2026",
-      "itens": [
-        "O Vrumbi ganhou voz própria: quando você fala com o carrinho, ele responde com uma voz de personagem de desenho, mais aguda e animada, diferente da voz que narra a navegação. E chega buzinando \"bi-bi\" e acelera \"vrum\" quando sai a rota.",
-        "Escolher a rota: o mapa mostra de cima todas as rotas para o destino, cada uma com o tempo escrito na linha. Toque numa linha (ou no cartão) para escolher. Quando os servidores dão um caminho só, o Vrumbi procura desvios dos dois lados.",
-        "O painel da escolha ficou mais baixo: as opções numa fileira que rola para o lado, Cancelar e Iniciar lado a lado. Deitado, o painel fica à esquerda e as rotas à direita."
-      ],
-      "en": [
-        "Vrumbi got its own voice: when you talk to the little car, it answers with a cartoon character voice, higher and livelier, different from the navigation voice. It also arrives honking \"beep-beep\" and revs \"vroom\" when the route is ready.",
-        "Choosing a route: the map shows all routes to the destination from above, each with its time written on the line. Tap a line (or the card) to choose. When the servers give only one path, Vrumbi looks for detours on both sides.",
-        "The choice panel is shorter: options in a row that scrolls sideways, Cancel and Start side by side. In landscape, the panel is on the left and the routes on the right."
-      ],
-      "es": [
-        "Vrumbi tiene voz propia: cuando habla con el autito, responde con una voz de personaje de dibujos animados, más aguda y animada, distinta de la voz que narra la navegación. Y llega tocando la bocina \"bi-bi\" y acelera \"brum\" cuando sale la ruta.",
-        "Elegir la ruta: el mapa muestra desde arriba todas las rutas al destino, cada una con el tiempo escrito en la línea. Toque una línea (o la tarjeta) para elegir. Cuando los servidores dan un solo camino, Vrumbi busca desvíos por ambos lados.",
-        "El panel de elección quedó más bajo: las opciones en una fila que se desliza de lado, Cancelar e Iniciar lado a lado. En horizontal, el panel queda a la izquierda y las rutas a la derecha."
       ]
     }
   ]
