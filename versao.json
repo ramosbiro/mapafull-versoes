@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.66.1",
-  "codigo": 202,
+  "versao": "0.67.0",
+  "codigo": 203,
   "data": "02/11/2026",
-  "tamanho": 206820423,
-  "sha256": "610cd54b483f76b8255af23688a1710d0167050a1d901d76a5fc2c7a57a162e6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.1/Vrumbi-0.66.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.1/Vrumbi-relogio-0.66.1.apk",
+  "tamanho": 206841785,
+  "sha256": "7b4a80b78eb556e1197a5dd3901d9930a713ae609a9a6efe84a5a0de3c90dc96",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.0/Vrumbi-0.67.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.0/Vrumbi-relogio-0.67.0.apk",
   "notas": [
-    "Mensagens: agora dá para OUVIR os áudios e VER as fotos, vídeos, GIFs e figurinhas que chegam no WhatsApp, ali mesmo na conversa do Vrumbi. Toque em Ouvir ou Ver: o Vrumbi acha o arquivo que o WhatsApp já salvou no celular (na primeira vez, o Android pede a permissão de fotos, vídeos e áudios).",
-    "O áudio toca com a barra de progresso e dá para pausar; foto, figurinha e GIF aparecem na bolha e abrem em tela cheia; vídeo abre em tela cheia (só com o carro parado, como digitar).",
-    "Telegram e outros guardam os arquivos numa pasta só deles: nesses, o Vrumbi oferece abrir a conversa no próprio app."
+    "Importar treinos de outros apps (Meus treinos > Importar): escolha os arquivos exportados, vários de uma vez, o ZIP inteiro da exportação ou uma PASTA com as subpastas. O Vrumbi entende GPX, TCX, FIT, KML, CSV e JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Saúde, adidas Running, Runkeeper, Komoot e outros. Com o trajeto, os batimentos, o nome e o tipo de cada treino, e sem duplicar o que já está aqui.",
+    "Da Saúde do Android: puxa os treinos que o Samsung Health, o Google, a Fitbit e outros guardaram lá.",
+    "GPX sem horário vira uma rota salva para seguir no treino. No fim, o Vrumbi mostra quantos entraram, quantos já existiam e o que não reconheceu; e dá para mandar um diagnóstico (só a estrutura dos arquivos, sem os seus dados) para melhorarmos a importação.",
+    "Selecionar vários treinos, como no Samsung Health: segure um treino (ou toque no botão de seleção) para marcar; o círculo no canto marca todos; Excluir manda para a lixeira (dá para restaurar)."
   ],
   "versoes": [
+    {
+      "versao": "0.67.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Importar treinos de outros apps (Meus treinos > Importar): escolha os arquivos exportados, vários de uma vez, o ZIP inteiro da exportação ou uma PASTA com as subpastas. O Vrumbi entende GPX, TCX, FIT, KML, CSV e JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Saúde, adidas Running, Runkeeper, Komoot e outros. Com o trajeto, os batimentos, o nome e o tipo de cada treino, e sem duplicar o que já está aqui.",
+        "Da Saúde do Android: puxa os treinos que o Samsung Health, o Google, a Fitbit e outros guardaram lá.",
+        "GPX sem horário vira uma rota salva para seguir no treino. No fim, o Vrumbi mostra quantos entraram, quantos já existiam e o que não reconheceu; e dá para mandar um diagnóstico (só a estrutura dos arquivos, sem os seus dados) para melhorarmos a importação.",
+        "Selecionar vários treinos, como no Samsung Health: segure um treino (ou toque no botão de seleção) para marcar; o círculo no canto marca todos; Excluir manda para a lixeira (dá para restaurar)."
+      ],
+      "en": [
+        "Import workouts from other apps (My workouts > Import): pick the exported files, several at once, the whole export ZIP, or a FOLDER with its subfolders. Vrumbi reads GPX, TCX, FIT, KML, CSV and JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Health, adidas Running, Runkeeper, Komoot and more. With the route, heart rate, name and type of each workout, and without duplicating what is already here.",
+        "From Health Connect: brings in the workouts Samsung Health, Google, Fitbit and others saved there.",
+        "GPX without times becomes a saved route to follow in a workout. At the end, Vrumbi shows how many came in, how many already existed and what it did not recognize; you can also send a diagnostic (only the file structure, none of your data) so we can improve the import.",
+        "Select several workouts, like in Samsung Health: hold a workout (or tap the select button) to mark it; the circle in the corner marks them all; Delete sends them to the trash (you can restore them)."
+      ],
+      "es": [
+        "Importar entrenos de otras apps (Mis entrenos > Importar): elige los archivos exportados, varios a la vez, el ZIP entero de la exportación o una CARPETA con sus subcarpetas. Vrumbi entiende GPX, TCX, FIT, KML, CSV y JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Salud, adidas Running, Runkeeper, Komoot y otros. Con el recorrido, el pulso, el nombre y el tipo de cada entreno, y sin duplicar lo que ya está aquí.",
+        "Desde Health Connect: trae los entrenos que Samsung Health, Google, Fitbit y otros guardaron ahí.",
+        "Un GPX sin horas se vuelve una ruta guardada para seguir en el entreno. Al final, Vrumbi muestra cuántos entraron, cuántos ya existían y qué no reconoció; y puedes enviar un diagnóstico (solo la estructura de los archivos, sin tus datos) para mejorar la importación.",
+        "Seleccionar varios entrenos, como en Samsung Health: mantén pulsado un entreno (o toca el botón de selección) para marcarlo; el círculo en la esquina marca todos; Eliminar los manda a la papelera (se pueden restaurar)."
+      ]
+    },
     {
       "versao": "0.66.1",
       "data": "02/11/2026",
@@ -256,25 +279,6 @@
       ],
       "es": [
         "El botón Grabar pasó a la derecha, entre el Menú (☰) y Avisar, vertical y acostado. Acostado, la tarjeta con el nombre de la calle ahora empieza siempre después del último botón de la izquierda: nada queda escondido debajo."
-      ]
-    },
-    {
-      "versao": "0.58.7",
-      "data": "02/11/2026",
-      "itens": [
-        "Tocar num esporte não começa mais na hora: abre a preparação, com o sinal do GPS ao vivo, os batimentos e as calorias, e o botão Start. Apertou Start, já começa. (Os comandos \"começar corrida\" por voz e os atalhos do ícone continuam começando direto.)",
-        "Resumo da atividade: os botões Mapa, Satélite e Animação voltaram a funcionar (o toque caía no fundo da janela e voltava para o mapa). O mapa do resumo e o da gravação ficaram claros, sem o fundo escuro por cima, e dá para mexer neles.",
-        "Atividade curta demais para animar avisa em vez de não fazer nada; a sugestão \"parece caminhada\" só aparece com distância de verdade."
-      ],
-      "en": [
-        "Tapping a sport no longer starts right away: it opens the preparation screen with live GPS signal, heart rate and calories, and a Start button. Press Start and it begins. (Voice \"start a run\" and the icon shortcuts still start directly.)",
-        "Activity summary: the Map, Satellite and Animation buttons work again (the tap was hitting the window background and going back to the map). The summary and recording maps are now bright, without the dark overlay, and can be moved.",
-        "An activity too short to animate now says so instead of doing nothing; the \"looks like walking\" hint only shows with a real distance."
-      ],
-      "es": [
-        "Tocar un deporte ya no empieza al instante: abre la preparación, con la señal del GPS en vivo, las pulsaciones y las calorías, y el botón Start. Tocaste Start y empieza. (Los comandos de voz \"empezar carrera\" y los atajos del ícono siguen empezando directo.)",
-        "Resumen de la actividad: los botones Mapa, Satélite y Animación volvieron a funcionar (el toque caía en el fondo de la ventana y volvía al mapa). El mapa del resumen y el de la grabación quedaron claros, sin el fondo oscuro encima, y se pueden mover.",
-        "Una actividad demasiado corta para animar ahora avisa en vez de no hacer nada; la sugerencia \"parece caminata\" solo aparece con distancia de verdad."
       ]
     }
   ]
