@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.5",
-  "codigo": 189,
+  "versao": "0.58.6",
+  "codigo": 190,
   "data": "02/11/2026",
-  "tamanho": 206459605,
-  "sha256": "848b5d057768b474ec09a693cccfe059d1b0b3d41653df346df6077a4a1ae23b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.5/Vrumbi-0.58.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.5/Vrumbi-relogio-0.58.5.apk",
+  "tamanho": 206527439,
+  "sha256": "d1dbb7c0a4909cfc34111131e156d0d98f44dfa694d8cb4d5b9e850100b3de8e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.6/Vrumbi-0.58.6.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.6/Vrumbi-relogio-0.58.6.apk",
   "notas": [
-    "Crie o seu esporte: no Treino, toque em Criar (ou, na busca sem resultado, em Criar \"nome\"). Escolha o nome, um ícone de uma biblioteca com 67 esportes (golfe, vela, mergulho, kitesurf, luta, beisebol, hóquei, parapente, patinete...), a categoria, se grava o trajeto com GPS e se mostra ritmo ou velocidade. Ele entra no Treino como os outros, dá para pôr na ordem que quiser em Organizar e editar ou apagar com o lápis.",
-    "A fileira de Recentes não tem mais limite: mostra todos os esportes que você já fez, o último primeiro.",
-    "Relógio com GPS em tudo: o relógio liga o GPS dele em toda atividade e manda o trajeto para o celular (até na piscina, com o celular na borda), e a distância que ele mede (voltas na piscina) entra na gravação. Saiu o rótulo \"sem GPS\" dos cartões."
+    "Atualização: o Vrumbi não some mais entre uma animação e outra. O carrinho fica na tela o tempo todo; só a carinha e os enfeites se misturam suavemente, e o movimento muda quando ele volta ao chão, sem tranco.",
+    "Widget do clima: a hora da última atualização e o botão de atualizar no mesmo tamanho dos outros textos."
   ],
   "versoes": [
+    {
+      "versao": "0.58.6",
+      "data": "02/11/2026",
+      "itens": [
+        "Atualização: o Vrumbi não some mais entre uma animação e outra. O carrinho fica na tela o tempo todo; só a carinha e os enfeites se misturam suavemente, e o movimento muda quando ele volta ao chão, sem tranco.",
+        "Widget do clima: a hora da última atualização e o botão de atualizar no mesmo tamanho dos outros textos."
+      ],
+      "en": [
+        "Update screen: Vrumbi no longer disappears between animations. The car stays on screen the whole time; only the face and decorations blend smoothly, and the move changes when it is back on the ground, without jerks.",
+        "Weather widget: the last-update time and the refresh button now match the size of the other texts."
+      ],
+      "es": [
+        "Actualización: Vrumbi ya no desaparece entre una animación y otra. El autito queda en pantalla todo el tiempo; solo la carita y los adornos se mezclan suavemente, y el movimiento cambia cuando vuelve al suelo, sin tirones.",
+        "Widget del clima: la hora de la última actualización y el botón de actualizar con el mismo tamaño que los demás textos."
+      ]
+    },
     {
       "versao": "0.58.5",
       "data": "02/11/2026",
@@ -223,25 +238,6 @@
       ],
       "es": [
         "Rendimiento: pulsaciones en vivo. En Rendimiento > Sensores, conecte una banda cardíaca (Polar, Garmin, Wahoo, Coros...) o un reloj que transmite la frecuencia cardíaca (Garmin, Pixel Watch); aparecen en la grabación, en la notificación y en el resumen (FC media, máxima y la curva en el gráfico)."
-      ]
-    },
-    {
-      "versao": "0.55.0",
-      "data": "01/11/2026",
-      "itens": [
-        "Novo: Desempenho (no Menu). Grave corrida, caminhada, bicicleta, moto, carro ou atividade livre: o Vrumbi grava com a tela apagada, pausa sozinho quando você para e fala a cada quilômetro.",
-        "No fim: o mapa colorido pela velocidade (vermelho devagar, verde rápido), onde você acelerou e onde freou, gráfico de velocidade e altitude, parciais por km, recordes pessoais e os totais da semana e do mês.",
-        "Compartilhe no WhatsApp e nas redes uma imagem no modelo do Vrumbi, com o traçado, os números e o link para baixar o app; ou exporte o GPX."
-      ],
-      "en": [
-        "New: Performance (in the Menu). Record a run, walk, bike, motorbike, car or free activity: Vrumbi records with the screen off, pauses by itself when you stop and talks every kilometer.",
-        "At the end: the map colored by speed (red slow, green fast), where you sped up and slowed down, speed and elevation chart, splits per km, personal records and weekly and monthly totals.",
-        "Share on WhatsApp and social networks an image in the Vrumbi template, with the track, the numbers and the link to download the app; or export the GPX."
-      ],
-      "es": [
-        "Nuevo: Rendimiento (en el Menú). Grabe carrera, caminata, bicicleta, moto, auto o actividad libre: Vrumbi graba con la pantalla apagada, se pausa solo cuando usted se detiene y habla en cada kilómetro.",
-        "Al final: el mapa coloreado por la velocidad (rojo lento, verde rápido), dónde aceleró y dónde frenó, gráfico de velocidad y altitud, parciales por km, récords personales y los totales de la semana y del mes.",
-        "Comparta en WhatsApp y en las redes una imagen con el modelo de Vrumbi, con el trazado, los números y el enlace para descargar la aplicación; o exporte el GPX."
       ]
     }
   ]
