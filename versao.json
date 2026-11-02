@@ -1,21 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.66.0",
-  "codigo": 201,
+  "versao": "0.66.1",
+  "codigo": 202,
   "data": "02/11/2026",
-  "tamanho": 206806653,
-  "sha256": "835f1a1f53bc471f80151907d41e780bf928a0112b63b0dc837ffa5c3c470411",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.0/Vrumbi-0.66.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.0/Vrumbi-relogio-0.66.0.apk",
+  "tamanho": 206820423,
+  "sha256": "610cd54b483f76b8255af23688a1710d0167050a1d901d76a5fc2c7a57a162e6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.1/Vrumbi-0.66.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.1/Vrumbi-relogio-0.66.1.apk",
   "notas": [
-    "Pausa automática por esporte: deixe ligada no dia a dia ou desligue numa prova, para o tempo correr direto.",
-    "Voltar ao início: no meio do treino, um toque e o caminho que você fez, ao contrário, vira a rota de volta (com aviso se sair dela).",
-    "Mapa do resumo colorido por velocidade, batimentos ou elevação, com a legenda de cada um.",
-    "Recortar o treino: esqueceu de encerrar ou começou antes? Tire minutos do começo ou do fim e tudo é recalculado.",
-    "Exportar todos os treinos numa planilha (CSV), para abrir no Excel ou no Google Planilhas.",
-    "Perfil com FC máxima (para as zonas) e passada (para a distância na esteira)."
+    "Mensagens: agora dá para OUVIR os áudios e VER as fotos, vídeos, GIFs e figurinhas que chegam no WhatsApp, ali mesmo na conversa do Vrumbi. Toque em Ouvir ou Ver: o Vrumbi acha o arquivo que o WhatsApp já salvou no celular (na primeira vez, o Android pede a permissão de fotos, vídeos e áudios).",
+    "O áudio toca com a barra de progresso e dá para pausar; foto, figurinha e GIF aparecem na bolha e abrem em tela cheia; vídeo abre em tela cheia (só com o carro parado, como digitar).",
+    "Telegram e outros guardam os arquivos numa pasta só deles: nesses, o Vrumbi oferece abrir a conversa no próprio app."
   ],
   "versoes": [
+    {
+      "versao": "0.66.1",
+      "data": "02/11/2026",
+      "itens": [
+        "Mensagens: agora dá para OUVIR os áudios e VER as fotos, vídeos, GIFs e figurinhas que chegam no WhatsApp, ali mesmo na conversa do Vrumbi. Toque em Ouvir ou Ver: o Vrumbi acha o arquivo que o WhatsApp já salvou no celular (na primeira vez, o Android pede a permissão de fotos, vídeos e áudios).",
+        "O áudio toca com a barra de progresso e dá para pausar; foto, figurinha e GIF aparecem na bolha e abrem em tela cheia; vídeo abre em tela cheia (só com o carro parado, como digitar).",
+        "Telegram e outros guardam os arquivos numa pasta só deles: nesses, o Vrumbi oferece abrir a conversa no próprio app."
+      ],
+      "en": [
+        "Messages: you can now LISTEN to voice notes and SEE photos, videos, GIFs and stickers that arrive on WhatsApp, right in the Vrumbi conversation. Tap Listen or View: Vrumbi finds the file WhatsApp already saved on your phone (the first time, Android asks for photos, videos and audio permission).",
+        "Audio plays with a progress bar and can be paused; photos, stickers and GIFs show in the bubble and open full screen; videos open full screen (only while stopped, like typing).",
+        "Telegram and others keep their files in a private folder: for those, Vrumbi offers to open the conversation in the app itself."
+      ],
+      "es": [
+        "Mensajes: ahora puedes ESCUCHAR los audios y VER las fotos, videos, GIF y stickers que llegan por WhatsApp, ahí mismo en la conversación de Vrumbi. Toca Escuchar o Ver: Vrumbi encuentra el archivo que WhatsApp ya guardó en el móvil (la primera vez, Android pide el permiso de fotos, videos y audio).",
+        "El audio suena con barra de progreso y se puede pausar; fotos, stickers y GIF aparecen en la burbuja y se abren a pantalla completa; el video se abre a pantalla completa (solo con el auto detenido, como escribir).",
+        "Telegram y otros guardan los archivos en una carpeta privada: en esos, Vrumbi ofrece abrir la conversación en la propia app."
+      ]
+    },
     {
       "versao": "0.66.0",
       "data": "02/11/2026",
@@ -259,22 +275,6 @@
         "Tocar un deporte ya no empieza al instante: abre la preparación, con la señal del GPS en vivo, las pulsaciones y las calorías, y el botón Start. Tocaste Start y empieza. (Los comandos de voz \"empezar carrera\" y los atajos del ícono siguen empezando directo.)",
         "Resumen de la actividad: los botones Mapa, Satélite y Animación volvieron a funcionar (el toque caía en el fondo de la ventana y volvía al mapa). El mapa del resumen y el de la grabación quedaron claros, sin el fondo oscuro encima, y se pueden mover.",
         "Una actividad demasiado corta para animar ahora avisa en vez de no hacer nada; la sugerencia \"parece caminata\" solo aparece con distancia de verdad."
-      ]
-    },
-    {
-      "versao": "0.58.6",
-      "data": "02/11/2026",
-      "itens": [
-        "Atualização: o Vrumbi não some mais entre uma animação e outra. O carrinho fica na tela o tempo todo; só a carinha e os enfeites se misturam suavemente, e o movimento muda quando ele volta ao chão, sem tranco.",
-        "Widget do clima: a hora da última atualização e o botão de atualizar no mesmo tamanho dos outros textos."
-      ],
-      "en": [
-        "Update screen: Vrumbi no longer disappears between animations. The car stays on screen the whole time; only the face and decorations blend smoothly, and the move changes when it is back on the ground, without jerks.",
-        "Weather widget: the last-update time and the refresh button now match the size of the other texts."
-      ],
-      "es": [
-        "Actualización: Vrumbi ya no desaparece entre una animación y otra. El autito queda en pantalla todo el tiempo; solo la carita y los adornos se mezclan suavemente, y el movimiento cambia cuando vuelve al suelo, sin tirones.",
-        "Widget del clima: la hora de la última actualización y el botón de actualizar con el mismo tamaño que los demás textos."
       ]
     }
   ]
