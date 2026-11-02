@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.6",
-  "codigo": 190,
+  "versao": "0.58.7",
+  "codigo": 191,
   "data": "02/11/2026",
-  "tamanho": 206527439,
-  "sha256": "d1dbb7c0a4909cfc34111131e156d0d98f44dfa694d8cb4d5b9e850100b3de8e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.6/Vrumbi-0.58.6.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.6/Vrumbi-relogio-0.58.6.apk",
+  "tamanho": 206488115,
+  "sha256": "7d323e1d30b6cc3c22bd4ca0364e68bbdff2e5c84d69f71b3b8ca35516395135",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.7/Vrumbi-0.58.7.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.7/Vrumbi-relogio-0.58.7.apk",
   "notas": [
-    "Atualização: o Vrumbi não some mais entre uma animação e outra. O carrinho fica na tela o tempo todo; só a carinha e os enfeites se misturam suavemente, e o movimento muda quando ele volta ao chão, sem tranco.",
-    "Widget do clima: a hora da última atualização e o botão de atualizar no mesmo tamanho dos outros textos."
+    "Tocar num esporte não começa mais na hora: abre a preparação, com o sinal do GPS ao vivo, os batimentos e as calorias, e o botão Start. Apertou Start, já começa. (Os comandos \"começar corrida\" por voz e os atalhos do ícone continuam começando direto.)",
+    "Resumo da atividade: os botões Mapa, Satélite e Animação voltaram a funcionar (o toque caía no fundo da janela e voltava para o mapa). O mapa do resumo e o da gravação ficaram claros, sem o fundo escuro por cima, e dá para mexer neles.",
+    "Atividade curta demais para animar avisa em vez de não fazer nada; a sugestão \"parece caminhada\" só aparece com distância de verdade."
   ],
   "versoes": [
+    {
+      "versao": "0.58.7",
+      "data": "02/11/2026",
+      "itens": [
+        "Tocar num esporte não começa mais na hora: abre a preparação, com o sinal do GPS ao vivo, os batimentos e as calorias, e o botão Start. Apertou Start, já começa. (Os comandos \"começar corrida\" por voz e os atalhos do ícone continuam começando direto.)",
+        "Resumo da atividade: os botões Mapa, Satélite e Animação voltaram a funcionar (o toque caía no fundo da janela e voltava para o mapa). O mapa do resumo e o da gravação ficaram claros, sem o fundo escuro por cima, e dá para mexer neles.",
+        "Atividade curta demais para animar avisa em vez de não fazer nada; a sugestão \"parece caminhada\" só aparece com distância de verdade."
+      ],
+      "en": [
+        "Tapping a sport no longer starts right away: it opens the preparation screen with live GPS signal, heart rate and calories, and a Start button. Press Start and it begins. (Voice \"start a run\" and the icon shortcuts still start directly.)",
+        "Activity summary: the Map, Satellite and Animation buttons work again (the tap was hitting the window background and going back to the map). The summary and recording maps are now bright, without the dark overlay, and can be moved.",
+        "An activity too short to animate now says so instead of doing nothing; the \"looks like walking\" hint only shows with a real distance."
+      ],
+      "es": [
+        "Tocar un deporte ya no empieza al instante: abre la preparación, con la señal del GPS en vivo, las pulsaciones y las calorías, y el botón Start. Tocaste Start y empieza. (Los comandos de voz \"empezar carrera\" y los atajos del ícono siguen empezando directo.)",
+        "Resumen de la actividad: los botones Mapa, Satélite y Animación volvieron a funcionar (el toque caía en el fondo de la ventana y volvía al mapa). El mapa del resumen y el de la grabación quedaron claros, sin el fondo oscuro encima, y se pueden mover.",
+        "Una actividad demasiado corta para animar ahora avisa en vez de no hacer nada; la sugerencia \"parece caminata\" solo aparece con distancia de verdad."
+      ]
+    },
     {
       "versao": "0.58.6",
       "data": "02/11/2026",
@@ -225,19 +245,6 @@
       "es": [
         "Rendimiento + Salud de Android (Health Connect): conéctela en Rendimiento > Sensores. Las pulsaciones de su reloj (Galaxy Watch por Samsung Health, Pixel Watch, Garmin...) entran en el resumen de cada actividad, y sus carreras, caminatas y paseos en bici van a Samsung Health y Google, con el trazado.",
         "Zonas de frecuencia cardíaca en el resumen (suave, calentamiento, aeróbico, umbral, máximo), según su edad."
-      ]
-    },
-    {
-      "versao": "0.55.1",
-      "data": "01/11/2026",
-      "itens": [
-        "Desempenho: batimentos ao vivo. Em Desempenho > Sensores, conecte uma cinta cardíaca (Polar, Garmin, Wahoo, Coros...) ou um relógio que transmite a frequência cardíaca (Garmin, Pixel Watch); os batimentos aparecem na gravação, na notificação e no resumo (FC média, máxima e a curva no gráfico)."
-      ],
-      "en": [
-        "Performance: live heart rate. In Performance > Sensors, connect a heart rate strap (Polar, Garmin, Wahoo, Coros...) or a watch that broadcasts heart rate (Garmin, Pixel Watch); it shows while recording, in the notification and in the summary (average, max and the curve on the chart)."
-      ],
-      "es": [
-        "Rendimiento: pulsaciones en vivo. En Rendimiento > Sensores, conecte una banda cardíaca (Polar, Garmin, Wahoo, Coros...) o un reloj que transmite la frecuencia cardíaca (Garmin, Pixel Watch); aparecen en la grabación, en la notificación y en el resumen (FC media, máxima y la curva en el gráfico)."
       ]
     }
   ]
