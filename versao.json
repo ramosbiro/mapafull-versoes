@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.4",
-  "codigo": 188,
+  "versao": "0.58.5",
+  "codigo": 189,
   "data": "02/11/2026",
-  "tamanho": 207374706,
-  "sha256": "f84d95d343ba91786c10d803c42070b72f848103bb0bd352b766e313291e9a16",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.4/Vrumbi-0.58.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.4/Vrumbi-relogio-0.58.4.apk",
+  "tamanho": 206459605,
+  "sha256": "848b5d057768b474ec09a693cccfe059d1b0b3d41653df346df6077a4a1ae23b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.5/Vrumbi-0.58.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.5/Vrumbi-relogio-0.58.5.apk",
   "notas": [
-    "Atualização mais divertida: enquanto a nova versão baixa, o Vrumbi faz todas as caras alegres e todos os movimentos (pulo, mola, curva, arrancada, balanço e um giro novo), em ordem aleatória, sem repetir até passar por todos.",
-    "Tudo o que o app baixa aparece na área de notificação, com o carrinho, o que está baixando, os MB e a barra: a atualização (e, no fim, o aviso \"pronto para instalar\" com o botão Instalar), os mapas offline e os dados do mapa e endereços que demoram mais.",
-    "O que faltar liberar no celular (localização, GPS, bateria sem restrição) vira um aviso na área de notificação explicando o porquê; tocar abre a tela certa para liberar. Liberou, o aviso some."
+    "Crie o seu esporte: no Treino, toque em Criar (ou, na busca sem resultado, em Criar \"nome\"). Escolha o nome, um ícone de uma biblioteca com 67 esportes (golfe, vela, mergulho, kitesurf, luta, beisebol, hóquei, parapente, patinete...), a categoria, se grava o trajeto com GPS e se mostra ritmo ou velocidade. Ele entra no Treino como os outros, dá para pôr na ordem que quiser em Organizar e editar ou apagar com o lápis.",
+    "A fileira de Recentes não tem mais limite: mostra todos os esportes que você já fez, o último primeiro.",
+    "Relógio com GPS em tudo: o relógio liga o GPS dele em toda atividade e manda o trajeto para o celular (até na piscina, com o celular na borda), e a distância que ele mede (voltas na piscina) entra na gravação. Saiu o rótulo \"sem GPS\" dos cartões."
   ],
   "versoes": [
+    {
+      "versao": "0.58.5",
+      "data": "02/11/2026",
+      "itens": [
+        "Crie o seu esporte: no Treino, toque em Criar (ou, na busca sem resultado, em Criar \"nome\"). Escolha o nome, um ícone de uma biblioteca com 67 esportes (golfe, vela, mergulho, kitesurf, luta, beisebol, hóquei, parapente, patinete...), a categoria, se grava o trajeto com GPS e se mostra ritmo ou velocidade. Ele entra no Treino como os outros, dá para pôr na ordem que quiser em Organizar e editar ou apagar com o lápis.",
+        "A fileira de Recentes não tem mais limite: mostra todos os esportes que você já fez, o último primeiro.",
+        "Relógio com GPS em tudo: o relógio liga o GPS dele em toda atividade e manda o trajeto para o celular (até na piscina, com o celular na borda), e a distância que ele mede (voltas na piscina) entra na gravação. Saiu o rótulo \"sem GPS\" dos cartões."
+      ],
+      "en": [
+        "Create your own sport: in Workout tap Create (or, when a search finds nothing, Create \"name\"). Pick the name, an icon from a 67-sport library (golf, sailing, diving, kitesurf, fighting, baseball, hockey, paragliding, scooter...), the category, whether it records the route with GPS and whether it shows pace or speed. It joins Workout like the others, can be ordered in Organize and edited or deleted with the pencil.",
+        "The Recent row has no limit anymore: it shows every sport you have done, latest first.",
+        "Watch GPS everywhere: the watch turns on its GPS in every activity and sends the route to the phone (even in the pool, with the phone at the edge), and the distance it measures (pool lengths) goes into the recording. The \"no GPS\" label is gone from the cards."
+      ],
+      "es": [
+        "Crea tu propio deporte: en Entreno toca Crear (o, cuando la búsqueda no encuentra nada, Crear \"nombre\"). Elige el nombre, un ícono de una biblioteca de 67 deportes (golf, vela, buceo, kitesurf, lucha, béisbol, hockey, parapente, patinete...), la categoría, si graba el recorrido con GPS y si muestra ritmo o velocidad. Entra al Entreno como los demás, se ordena en Organizar y se edita o borra con el lápiz.",
+        "La fila de Recientes ya no tiene límite: muestra todos los deportes que hiciste, el último primero.",
+        "Reloj con GPS en todo: el reloj enciende su GPS en cada actividad y manda el recorrido al celular (incluso en la piscina, con el celular en el borde), y la distancia que mide (largos de piscina) entra en la grabación. Se quitó la etiqueta \"sin GPS\" de las tarjetas."
+      ]
+    },
     {
       "versao": "0.58.4",
       "data": "02/11/2026",
@@ -223,19 +242,6 @@
         "Nuevo: Rendimiento (en el Menú). Grabe carrera, caminata, bicicleta, moto, auto o actividad libre: Vrumbi graba con la pantalla apagada, se pausa solo cuando usted se detiene y habla en cada kilómetro.",
         "Al final: el mapa coloreado por la velocidad (rojo lento, verde rápido), dónde aceleró y dónde frenó, gráfico de velocidad y altitud, parciales por km, récords personales y los totales de la semana y del mes.",
         "Comparta en WhatsApp y en las redes una imagen con el modelo de Vrumbi, con el trazado, los números y el enlace para descargar la aplicación; o exporte el GPX."
-      ]
-    },
-    {
-      "versao": "0.54.2",
-      "data": "01/11/2026",
-      "itens": [
-        "Menu: o item Clima e tempo usa o mesmo ícone laranja dos outros itens; o tipo de ícone do tempo (realista, colorido) vale dentro do Clima e tempo."
-      ],
-      "en": [
-        "Menu: the Weather item uses the same orange icon as the other items; the weather icon style (realistic, colored) applies inside Weather."
-      ],
-      "es": [
-        "Menú: el ítem Clima y tiempo usa el mismo ícono naranja de los demás; el tipo de ícono del tiempo (realista, colorido) vale dentro de Clima y tiempo."
       ]
     }
   ]
