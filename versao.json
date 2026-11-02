@@ -1,21 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.0",
-  "codigo": 184,
+  "versao": "0.58.1",
+  "codigo": 185,
   "data": "01/11/2026",
-  "tamanho": 206222182,
-  "sha256": "a74fdddbf42fbd440b00dd2ab49aea95fd8944dd728bca062571c1cbbd550f08",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.0/Vrumbi-0.58.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.0/Vrumbi-relogio-0.58.0.apk",
+  "tamanho": 206288057,
+  "sha256": "e62b638eb700ed9f72d4385c9d2f6985f11a92e72ae5f18f272909468da576c5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.1/Vrumbi-0.58.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.1/Vrumbi-relogio-0.58.1.apk",
   "notas": [
-    "Treino no mapa: o novo botão Treino (o corredor, na coluna da esquerda) abre todas as atividades. São 45, em categorias: corrida (rua, esteira, trilha), caminhada, ciclismo (rua, mountain bike, ergométrica), natação (piscina e águas abertas), academia (musculação, elíptico, remo, escada, HIIT, funcional, calistenia), bem-estar (yoga, pilates, alongamento, meditação, dança), esportes (futebol, futsal, basquete, vôlei, handebol, tênis, beach tennis, padel, artes marciais, boxe), ao ar livre (patins, skate, surf, stand up, caiaque, esqui, escalada), moto, carro e treino livre. Tem busca e as últimas que você usou ficam em cima. Gravando, o botão fica aceso com o tempo.",
-    "Atividades paradas: esteira, academia, piscina, yoga e as quadras gravam sem GPS: o tempo, os batimentos (relógio ou cinta), os passos do celular e as calorias. Na esteira a distância vem dos passos, e no fim dá para corrigir pelo painel do aparelho. Sem distância, o Vrumbi fala a cada 5 minutos.",
-    "Calorias em todas as atividades: com os batimentos e o seu perfil (fórmula de Keytel), ou pelo gasto típico de cada atividade. Novo perfil com idade, peso, altura e sexo; a FC máxima agora pela fórmula de Tanaka. Ao vivo, a zona de batimento aparece ao lado do número. Na rua, também os passos por minuto (cadência).",
-    "No relógio: todas as atividades (as 3 últimas em cima e \"Todas as atividades\"), cada uma com o tipo certo do sensor; e o número de passos nas telas. Na Saúde do Android, cada atividade vai com o tipo certo, as calorias e os passos.",
-    "Contatos: o botão do mapa (antes Mensagens) não some mais quando a caixa fica vazia. Agora junta balão e telefone: Ligar ou Mandar mensagem (WhatsApp ou SMS) para qualquer contato, procurando pelo nome, falando o nome ou pelo teclado; os recentes ficam em cima, e as conversas recebidas continuam lá.",
-    "Voz: \"começar esteira\", \"iniciar natação\", \"gravar musculação\" e qualquer outra atividade pelo nome."
+    "Vrumbi mais esperto na conversa: entende o jeito que a gente fala de verdade, com \"é...\", \"isso\", \"então\", \"por favor\", \"eu queria\", \"você pode\" e outras enrolações no meio. \"Isso, quero ir para o shopping de Mogi das Cruzes\" agora funciona: ele acha os shoppings de lá e pergunta para qual vamos.",
+    "Conversa de verdade: quando o Vrumbi pergunta (\"Vamos?\", \"Para qual deles?\"), ele já fica ouvindo e entende \"sim\", \"não\", \"o segundo\", \"o último\" ou o nome do lugar. \"Repete\" faz ele falar de novo.",
+    "Pedidos novos por voz: \"onde tem um posto mais perto?\" (o mais perto, com a distância), \"vai chover amanhã?\", \"quanto falta?\", \"cancela a rota\", \"fica quieto\" e \"liga a voz\", \"liga para a Maria\", \"manda mensagem pro João dizendo que estou chegando\", \"que dia é hoje?\", \"começar natação\" e muito mais.",
+    "Fala em 18 idiomas: o Vrumbi ouve e entende no idioma escolhido no app."
   ],
   "versoes": [
+    {
+      "versao": "0.58.1",
+      "data": "01/11/2026",
+      "itens": [
+        "Vrumbi mais esperto na conversa: entende o jeito que a gente fala de verdade, com \"é...\", \"isso\", \"então\", \"por favor\", \"eu queria\", \"você pode\" e outras enrolações no meio. \"Isso, quero ir para o shopping de Mogi das Cruzes\" agora funciona: ele acha os shoppings de lá e pergunta para qual vamos.",
+        "Conversa de verdade: quando o Vrumbi pergunta (\"Vamos?\", \"Para qual deles?\"), ele já fica ouvindo e entende \"sim\", \"não\", \"o segundo\", \"o último\" ou o nome do lugar. \"Repete\" faz ele falar de novo.",
+        "Pedidos novos por voz: \"onde tem um posto mais perto?\" (o mais perto, com a distância), \"vai chover amanhã?\", \"quanto falta?\", \"cancela a rota\", \"fica quieto\" e \"liga a voz\", \"liga para a Maria\", \"manda mensagem pro João dizendo que estou chegando\", \"que dia é hoje?\", \"começar natação\" e muito mais.",
+        "Fala em 18 idiomas: o Vrumbi ouve e entende no idioma escolhido no app."
+      ],
+      "en": [
+        "A smarter Vrumbi: it understands how people really talk, with \"uh\", \"so\", \"please\", \"I would like\", \"can you\" and other fillers. \"So, I want to go to the mall in Mogi das Cruzes\" now works: it finds the malls there and asks which one.",
+        "Real conversation: when Vrumbi asks (\"Shall we go?\", \"Which one?\"), it keeps listening and understands \"yes\", \"no\", \"the second one\", \"the last one\" or the place name. \"Repeat\" makes it say it again.",
+        "New voice requests: \"where is the nearest gas station?\" (closest one, with distance), \"will it rain tomorrow?\", \"how long until we arrive?\", \"cancel the route\", \"be quiet\" and \"voice on\", \"call Maria\", \"send a message to John saying I am on my way\", \"what day is it?\", \"start swimming\" and much more.",
+        "Talks in 18 languages: Vrumbi listens and understands in the language chosen in the app."
+      ],
+      "es": [
+        "Un Vrumbi más listo: entiende cómo hablamos de verdad, con \"eh...\", \"este\", \"entonces\", \"por favor\", \"quisiera\", \"¿puedes...?\" y otras muletillas. \"Eh, quiero ir al centro comercial de Mogi das Cruzes\" ya funciona: encuentra los de allí y pregunta a cuál vamos.",
+        "Conversación de verdad: cuando Vrumbi pregunta (\"¿Vamos?\", \"¿A cuál?\"), sigue escuchando y entiende \"sí\", \"no\", \"el segundo\", \"el último\" o el nombre del lugar. \"Repite\" hace que lo diga de nuevo.",
+        "Nuevos pedidos por voz: \"¿dónde hay una gasolinera cerca?\" (la más cercana, con la distancia), \"¿va a llover mañana?\", \"¿cuánto falta?\", \"cancela la ruta\", \"silencio\" y \"activa la voz\", \"llama a María\", \"manda un mensaje a Juan diciendo que ya llego\", \"¿qué día es hoy?\", \"empezar natación\" y mucho más.",
+        "Habla en 18 idiomas: Vrumbi escucha y entiende en el idioma elegido en la app."
+      ]
+    },
     {
       "versao": "0.58.0",
       "data": "01/11/2026",
@@ -205,19 +225,6 @@
       ],
       "es": [
         "La marca Vrumbi igual en todas partes: el autito y el nombre \"vrumbi\" en naranja en el Menú, la Configuración y el Clima, como en el widget; lo demás en el color del texto, después de un punto naranja."
-      ]
-    },
-    {
-      "versao": "0.53.8",
-      "data": "01/11/2026",
-      "itens": [
-        "Clima e tempo: o menu lateral ganhou o carrinho e o nome Vrumbi no alto, como no widget."
-      ],
-      "en": [
-        "Weather: the side menu now shows the Vrumbi car and name at the top, like the widget."
-      ],
-      "es": [
-        "Clima y tiempo: el menú lateral ahora muestra el autito y el nombre Vrumbi arriba, como en el widget."
       ]
     }
   ]
