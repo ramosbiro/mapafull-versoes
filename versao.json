@@ -1,18 +1,49 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.65.0",
-  "codigo": 200,
+  "versao": "0.66.0",
+  "codigo": 201,
   "data": "02/11/2026",
-  "tamanho": 206770406,
-  "sha256": "5ba01676d3487b8c2692a90e396c87b41eacae1f6eded8564d0464acad7d4971",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.65.0/Vrumbi-0.65.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.65.0/Vrumbi-relogio-0.65.0.apk",
+  "tamanho": 206806653,
+  "sha256": "835f1a1f53bc471f80151907d41e780bf928a0112b63b0dc837ffa5c3c470411",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.0/Vrumbi-0.66.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.66.0/Vrumbi-relogio-0.66.0.apk",
   "notas": [
-    "Plano de corrida guiado (no Treino): escolha o objetivo (correr 30 min sem parar, 5 km, 10 km, meia ou maratona), as semanas e os dias de treino. Cada dia tem o treino certo (leve, longão, ritmo forte, tiros ou corre e anda), com os ritmos calculados pelo seu VO2max (método de Jack Daniels) e as últimas semanas mais leves antes da prova.",
-    "Um toque no treino do dia abre o START já com tudo no treinador: ritmo-alvo, meta, aquecimento, tiros e descansos. Sem VO2max ainda, o primeiro treino é um teste de 12 minutos que define o seu nível. Os treinos feitos ficam marcados e os ritmos sobem quando você evolui.",
-    "GPX com batimentos: o arquivo exportado leva a frequência cardíaca de cada ponto e o tipo da atividade, do jeito que o Strava, a Garmin e outros leem."
+    "Pausa automática por esporte: deixe ligada no dia a dia ou desligue numa prova, para o tempo correr direto.",
+    "Voltar ao início: no meio do treino, um toque e o caminho que você fez, ao contrário, vira a rota de volta (com aviso se sair dela).",
+    "Mapa do resumo colorido por velocidade, batimentos ou elevação, com a legenda de cada um.",
+    "Recortar o treino: esqueceu de encerrar ou começou antes? Tire minutos do começo ou do fim e tudo é recalculado.",
+    "Exportar todos os treinos numa planilha (CSV), para abrir no Excel ou no Google Planilhas.",
+    "Perfil com FC máxima (para as zonas) e passada (para a distância na esteira)."
   ],
   "versoes": [
+    {
+      "versao": "0.66.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Pausa automática por esporte: deixe ligada no dia a dia ou desligue numa prova, para o tempo correr direto.",
+        "Voltar ao início: no meio do treino, um toque e o caminho que você fez, ao contrário, vira a rota de volta (com aviso se sair dela).",
+        "Mapa do resumo colorido por velocidade, batimentos ou elevação, com a legenda de cada um.",
+        "Recortar o treino: esqueceu de encerrar ou começou antes? Tire minutos do começo ou do fim e tudo é recalculado.",
+        "Exportar todos os treinos numa planilha (CSV), para abrir no Excel ou no Google Planilhas.",
+        "Perfil com FC máxima (para as zonas) e passada (para a distância na esteira)."
+      ],
+      "en": [
+        "Auto-pause per sport: keep it on day to day or turn it off for a race, so the clock keeps running.",
+        "Back to start: mid-workout, one tap turns the path you took, reversed, into your route back (with an alert if you leave it).",
+        "Summary map colored by speed, heart rate or elevation, with a legend for each.",
+        "Trim a workout: forgot to stop it or started too early? Cut minutes from the start or the end and everything is recalculated.",
+        "Export all your workouts to a spreadsheet (CSV), to open in Excel or Google Sheets.",
+        "Profile with max heart rate (for the zones) and stride length (for treadmill distance)."
+      ],
+      "es": [
+        "Pausa automática por deporte: déjala activa en el día a día o apágala en una carrera, para que el tiempo corra seguido.",
+        "Volver al inicio: en mitad del entreno, un toque y el camino que hiciste, al revés, se vuelve la ruta de regreso (con aviso si te sales).",
+        "Mapa del resumen coloreado por velocidad, pulso o elevación, con la leyenda de cada uno.",
+        "Recortar el entreno: ¿olvidaste terminarlo o empezaste antes? Quita minutos del inicio o del final y todo se recalcula.",
+        "Exportar todos los entrenos a una hoja de cálculo (CSV), para abrir en Excel o Google Sheets.",
+        "Perfil con FC máxima (para las zonas) y zancada (para la distancia en la cinta)."
+      ]
+    },
     {
       "versao": "0.65.0",
       "data": "02/11/2026",
@@ -244,25 +275,6 @@
       "es": [
         "Actualización: Vrumbi ya no desaparece entre una animación y otra. El autito queda en pantalla todo el tiempo; solo la carita y los adornos se mezclan suavemente, y el movimiento cambia cuando vuelve al suelo, sin tirones.",
         "Widget del clima: la hora de la última actualización y el botón de actualizar con el mismo tamaño que los demás textos."
-      ]
-    },
-    {
-      "versao": "0.58.5",
-      "data": "02/11/2026",
-      "itens": [
-        "Crie o seu esporte: no Treino, toque em Criar (ou, na busca sem resultado, em Criar \"nome\"). Escolha o nome, um ícone de uma biblioteca com 67 esportes (golfe, vela, mergulho, kitesurf, luta, beisebol, hóquei, parapente, patinete...), a categoria, se grava o trajeto com GPS e se mostra ritmo ou velocidade. Ele entra no Treino como os outros, dá para pôr na ordem que quiser em Organizar e editar ou apagar com o lápis.",
-        "A fileira de Recentes não tem mais limite: mostra todos os esportes que você já fez, o último primeiro.",
-        "Relógio com GPS em tudo: o relógio liga o GPS dele em toda atividade e manda o trajeto para o celular (até na piscina, com o celular na borda), e a distância que ele mede (voltas na piscina) entra na gravação. Saiu o rótulo \"sem GPS\" dos cartões."
-      ],
-      "en": [
-        "Create your own sport: in Workout tap Create (or, when a search finds nothing, Create \"name\"). Pick the name, an icon from a 67-sport library (golf, sailing, diving, kitesurf, fighting, baseball, hockey, paragliding, scooter...), the category, whether it records the route with GPS and whether it shows pace or speed. It joins Workout like the others, can be ordered in Organize and edited or deleted with the pencil.",
-        "The Recent row has no limit anymore: it shows every sport you have done, latest first.",
-        "Watch GPS everywhere: the watch turns on its GPS in every activity and sends the route to the phone (even in the pool, with the phone at the edge), and the distance it measures (pool lengths) goes into the recording. The \"no GPS\" label is gone from the cards."
-      ],
-      "es": [
-        "Crea tu propio deporte: en Entreno toca Crear (o, cuando la búsqueda no encuentra nada, Crear \"nombre\"). Elige el nombre, un ícono de una biblioteca de 67 deportes (golf, vela, buceo, kitesurf, lucha, béisbol, hockey, parapente, patinete...), la categoría, si graba el recorrido con GPS y si muestra ritmo o velocidad. Entra al Entreno como los demás, se ordena en Organizar y se edita o borra con el lápiz.",
-        "La fila de Recientes ya no tiene límite: muestra todos los deportes que hiciste, el último primero.",
-        "Reloj con GPS en todo: el reloj enciende su GPS en cada actividad y manda el recorrido al celular (incluso en la piscina, con el celular en el borde), y la distancia que mide (largos de piscina) entra en la grabación. Se quitó la etiqueta \"sin GPS\" de las tarjetas."
       ]
     }
   ]
