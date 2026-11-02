@@ -1,20 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.61.0",
-  "codigo": 196,
+  "versao": "0.62.0",
+  "codigo": 197,
   "data": "02/11/2026",
-  "tamanho": 206598782,
-  "sha256": "cbc285afcd529640ef15cdd587c5db73c98bd194fa2fb83fb973f8ea0aa020ba",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.61.0/Vrumbi-0.61.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.61.0/Vrumbi-relogio-0.61.0.apk",
+  "tamanho": 206628870,
+  "sha256": "e136767a750e08aa6869d19d22ee693655f0b89e8ee9331dd2ae579ea1ce883b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.62.0/Vrumbi-0.62.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.62.0/Vrumbi-relogio-0.62.0.apk",
   "notas": [
-    "Metas do dia e da semana em anéis, como nos apps de saúde: minutos de hoje, minutos da semana (a OMS recomenda 150) e treinos na semana. Ficam no alto de Meus treinos e no cartão do Treino; toque para mudar as metas. Mostra também a sequência de dias batendo a meta.",
-    "Medalhas: 20 conquistas (primeiro treino, 10/50/100 treinos, 5 km, 10 km, meia maratona, maratona, 100/500/1.000 km no total, 10 e 100 horas, 7 dias seguidos, 4 semanas na meta, atleta completo, madrugador, coruja, meta batida e intervalado), com o progresso das que faltam. A medalha nova aparece no resumo do treino.",
-    "Resumo da semana: na primeira vez que você abre o Treino numa semana nova, o Vrumbi conta como foi a semana passada (treinos, tempo, distância e a comparação com a anterior).",
-    "Adicionar treino à mão (esqueceu de gravar, aula na academia): esporte, dia, hora, duração, distância, calorias e batimentos opcionais e anotação. Sem as calorias, o Vrumbi calcula.",
-    "Privacidade no compartilhar: esconda 200 m, 500 m ou 1 km do começo e do fim do trajeto (onde você mora, por exemplo). Os números continuam os do treino inteiro."
+    "Seguir uma rota no treino: escolha o trajeto de um treino seu ou importe um arquivo GPX, no sentido normal ou contrário. A rota aparece tracejada no mapa; se você sair dela, o Vrumbi avisa e o celular vibra; voltou, ele confirma; no fim, comemora. Na tela, quanto falta; no guia de voz, também.",
+    "Correr contra um treino (o fantasma): escolha um treino seu do mesmo esporte (o melhor vem marcado). O fantasma anda no mapa e o Vrumbi diz se você está à frente ou atrás, a cada quilômetro ou no guia de voz. No resumo, o resultado: quantos segundos à frente ou atrás."
   ],
   "versoes": [
+    {
+      "versao": "0.62.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Seguir uma rota no treino: escolha o trajeto de um treino seu ou importe um arquivo GPX, no sentido normal ou contrário. A rota aparece tracejada no mapa; se você sair dela, o Vrumbi avisa e o celular vibra; voltou, ele confirma; no fim, comemora. Na tela, quanto falta; no guia de voz, também.",
+        "Correr contra um treino (o fantasma): escolha um treino seu do mesmo esporte (o melhor vem marcado). O fantasma anda no mapa e o Vrumbi diz se você está à frente ou atrás, a cada quilômetro ou no guia de voz. No resumo, o resultado: quantos segundos à frente ou atrás."
+      ],
+      "en": [
+        "Follow a route in your workout: pick the track of one of your workouts or import a GPX file, forward or reversed. The route shows dashed on the map; if you leave it, Vrumbi tells you and the phone vibrates; back on it, it confirms; at the end, it celebrates. The screen shows how much is left, and so does the voice guidance.",
+        "Race a workout (the ghost): pick one of your workouts of the same sport (your best is marked). The ghost moves on the map and Vrumbi says whether you are ahead or behind, every kilometer or in the voice guidance. The summary shows the result: how many seconds ahead or behind."
+      ],
+      "es": [
+        "Seguir una ruta en el entreno: elige el trazado de un entreno tuyo o importa un archivo GPX, en sentido normal o contrario. La ruta aparece punteada en el mapa; si te sales, Vrumbi avisa y el móvil vibra; al volver, lo confirma; al final, celebra. En pantalla, cuánto falta; en la guía de voz, también.",
+        "Correr contra un entreno (el fantasma): elige un entreno tuyo del mismo deporte (el mejor viene marcado). El fantasma se mueve en el mapa y Vrumbi dice si vas adelante o atrás, cada kilómetro o en la guía de voz. En el resumen, el resultado: cuántos segundos adelante o atrás."
+      ]
+    },
     {
       "versao": "0.61.0",
       "data": "02/11/2026",
@@ -249,28 +262,6 @@
         "Cerrar el Entreno deslizando de lado ahora vuelve directo al mapa (antes abría el Menú).",
         "Resumen de la actividad con fondo satelital: cambia entre Mapa y Satélite arriba del mapa y mira el recorrido sobre la imagen real; el botón de al lado muestra todo el circuito.",
         "Menú más limpio: el entreno salió del Menú (está en el botón Entreno del mapa). Sensores, reloj, Health Connect y tu perfil ahora están en Ajustes > Sensores y reloj, junto con el GPS y la brújula."
-      ]
-    },
-    {
-      "versao": "0.58.1",
-      "data": "01/11/2026",
-      "itens": [
-        "Vrumbi mais esperto na conversa: entende o jeito que a gente fala de verdade, com \"é...\", \"isso\", \"então\", \"por favor\", \"eu queria\", \"você pode\" e outras enrolações no meio. \"Isso, quero ir para o shopping de Mogi das Cruzes\" agora funciona: ele acha os shoppings de lá e pergunta para qual vamos.",
-        "Conversa de verdade: quando o Vrumbi pergunta (\"Vamos?\", \"Para qual deles?\"), ele já fica ouvindo e entende \"sim\", \"não\", \"o segundo\", \"o último\" ou o nome do lugar. \"Repete\" faz ele falar de novo.",
-        "Pedidos novos por voz: \"onde tem um posto mais perto?\" (o mais perto, com a distância), \"vai chover amanhã?\", \"quanto falta?\", \"cancela a rota\", \"fica quieto\" e \"liga a voz\", \"liga para a Maria\", \"manda mensagem pro João dizendo que estou chegando\", \"que dia é hoje?\", \"começar natação\" e muito mais.",
-        "Fala em 18 idiomas: o Vrumbi ouve e entende no idioma escolhido no app."
-      ],
-      "en": [
-        "A smarter Vrumbi: it understands how people really talk, with \"uh\", \"so\", \"please\", \"I would like\", \"can you\" and other fillers. \"So, I want to go to the mall in Mogi das Cruzes\" now works: it finds the malls there and asks which one.",
-        "Real conversation: when Vrumbi asks (\"Shall we go?\", \"Which one?\"), it keeps listening and understands \"yes\", \"no\", \"the second one\", \"the last one\" or the place name. \"Repeat\" makes it say it again.",
-        "New voice requests: \"where is the nearest gas station?\" (closest one, with distance), \"will it rain tomorrow?\", \"how long until we arrive?\", \"cancel the route\", \"be quiet\" and \"voice on\", \"call Maria\", \"send a message to John saying I am on my way\", \"what day is it?\", \"start swimming\" and much more.",
-        "Talks in 18 languages: Vrumbi listens and understands in the language chosen in the app."
-      ],
-      "es": [
-        "Un Vrumbi más listo: entiende cómo hablamos de verdad, con \"eh...\", \"este\", \"entonces\", \"por favor\", \"quisiera\", \"¿puedes...?\" y otras muletillas. \"Eh, quiero ir al centro comercial de Mogi das Cruzes\" ya funciona: encuentra los de allí y pregunta a cuál vamos.",
-        "Conversación de verdad: cuando Vrumbi pregunta (\"¿Vamos?\", \"¿A cuál?\"), sigue escuchando y entiende \"sí\", \"no\", \"el segundo\", \"el último\" o el nombre del lugar. \"Repite\" hace que lo diga de nuevo.",
-        "Nuevos pedidos por voz: \"¿dónde hay una gasolinera cerca?\" (la más cercana, con la distancia), \"¿va a llover mañana?\", \"¿cuánto falta?\", \"cancela la ruta\", \"silencio\" y \"activa la voz\", \"llama a María\", \"manda un mensaje a Juan diciendo que ya llego\", \"¿qué día es hoy?\", \"empezar natación\" y mucho más.",
-        "Habla en 18 idiomas: Vrumbi escucha y entiende en el idioma elegido en la app."
       ]
     }
   ]
