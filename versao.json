@@ -1,19 +1,49 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.57.2",
-  "codigo": 183,
+  "versao": "0.58.0",
+  "codigo": 184,
   "data": "01/11/2026",
-  "tamanho": 205540191,
-  "sha256": "203df0cff1cbee12b76c48c042dfc1539fdb9740bf2691d9728fbe6b4d2fc897",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.2/Vrumbi-0.57.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.57.2/Vrumbi-relogio-0.57.2.apk",
+  "tamanho": 206222182,
+  "sha256": "a74fdddbf42fbd440b00dd2ab49aea95fd8944dd728bca062571c1cbbd550f08",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.0/Vrumbi-0.58.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.0/Vrumbi-relogio-0.58.0.apk",
   "notas": [
-    "Correr ficou fácil: no Menu, Correr, Caminhar e Pedalar começam a gravar com um toque; segurando o ícone do Vrumbi na tela inicial aparecem os mesmos atalhos; e dá para pedir ao Vrumbi: \"começar corrida\".",
-    "Notícias da cidade de verdade: buscadas pelo próprio celular no Google Notícias e no Bing Notícias, juntas e sem repetir; a última lista aparece na hora enquanto atualiza.",
-    "Alertas: as cores dos níveis (amarelo, laranja, vermelho) ficaram legíveis no tema claro. Ajustes rápidos: o cartão Avisos de clima mostra quantos avisos estão ligados.",
-    "Busca: o botão do carrinho no mesmo formato do campo."
+    "Treino no mapa: o novo botão Treino (o corredor, na coluna da esquerda) abre todas as atividades. São 45, em categorias: corrida (rua, esteira, trilha), caminhada, ciclismo (rua, mountain bike, ergométrica), natação (piscina e águas abertas), academia (musculação, elíptico, remo, escada, HIIT, funcional, calistenia), bem-estar (yoga, pilates, alongamento, meditação, dança), esportes (futebol, futsal, basquete, vôlei, handebol, tênis, beach tennis, padel, artes marciais, boxe), ao ar livre (patins, skate, surf, stand up, caiaque, esqui, escalada), moto, carro e treino livre. Tem busca e as últimas que você usou ficam em cima. Gravando, o botão fica aceso com o tempo.",
+    "Atividades paradas: esteira, academia, piscina, yoga e as quadras gravam sem GPS: o tempo, os batimentos (relógio ou cinta), os passos do celular e as calorias. Na esteira a distância vem dos passos, e no fim dá para corrigir pelo painel do aparelho. Sem distância, o Vrumbi fala a cada 5 minutos.",
+    "Calorias em todas as atividades: com os batimentos e o seu perfil (fórmula de Keytel), ou pelo gasto típico de cada atividade. Novo perfil com idade, peso, altura e sexo; a FC máxima agora pela fórmula de Tanaka. Ao vivo, a zona de batimento aparece ao lado do número. Na rua, também os passos por minuto (cadência).",
+    "No relógio: todas as atividades (as 3 últimas em cima e \"Todas as atividades\"), cada uma com o tipo certo do sensor; e o número de passos nas telas. Na Saúde do Android, cada atividade vai com o tipo certo, as calorias e os passos.",
+    "Contatos: o botão do mapa (antes Mensagens) não some mais quando a caixa fica vazia. Agora junta balão e telefone: Ligar ou Mandar mensagem (WhatsApp ou SMS) para qualquer contato, procurando pelo nome, falando o nome ou pelo teclado; os recentes ficam em cima, e as conversas recebidas continuam lá.",
+    "Voz: \"começar esteira\", \"iniciar natação\", \"gravar musculação\" e qualquer outra atividade pelo nome."
   ],
   "versoes": [
+    {
+      "versao": "0.58.0",
+      "data": "01/11/2026",
+      "itens": [
+        "Treino no mapa: o novo botão Treino (o corredor, na coluna da esquerda) abre todas as atividades. São 45, em categorias: corrida (rua, esteira, trilha), caminhada, ciclismo (rua, mountain bike, ergométrica), natação (piscina e águas abertas), academia (musculação, elíptico, remo, escada, HIIT, funcional, calistenia), bem-estar (yoga, pilates, alongamento, meditação, dança), esportes (futebol, futsal, basquete, vôlei, handebol, tênis, beach tennis, padel, artes marciais, boxe), ao ar livre (patins, skate, surf, stand up, caiaque, esqui, escalada), moto, carro e treino livre. Tem busca e as últimas que você usou ficam em cima. Gravando, o botão fica aceso com o tempo.",
+        "Atividades paradas: esteira, academia, piscina, yoga e as quadras gravam sem GPS: o tempo, os batimentos (relógio ou cinta), os passos do celular e as calorias. Na esteira a distância vem dos passos, e no fim dá para corrigir pelo painel do aparelho. Sem distância, o Vrumbi fala a cada 5 minutos.",
+        "Calorias em todas as atividades: com os batimentos e o seu perfil (fórmula de Keytel), ou pelo gasto típico de cada atividade. Novo perfil com idade, peso, altura e sexo; a FC máxima agora pela fórmula de Tanaka. Ao vivo, a zona de batimento aparece ao lado do número. Na rua, também os passos por minuto (cadência).",
+        "No relógio: todas as atividades (as 3 últimas em cima e \"Todas as atividades\"), cada uma com o tipo certo do sensor; e o número de passos nas telas. Na Saúde do Android, cada atividade vai com o tipo certo, as calorias e os passos.",
+        "Contatos: o botão do mapa (antes Mensagens) não some mais quando a caixa fica vazia. Agora junta balão e telefone: Ligar ou Mandar mensagem (WhatsApp ou SMS) para qualquer contato, procurando pelo nome, falando o nome ou pelo teclado; os recentes ficam em cima, e as conversas recebidas continuam lá.",
+        "Voz: \"começar esteira\", \"iniciar natação\", \"gravar musculação\" e qualquer outra atividade pelo nome."
+      ],
+      "en": [
+        "Workout on the map: the new Workout button (the runner, on the left column) opens every activity. There are 45, by category: running (road, treadmill, trail), walking, cycling (road, mountain bike, stationary), swimming (pool and open water), gym (strength, elliptical, rowing, stair stepper, HIIT, functional, calisthenics), wellness (yoga, pilates, stretching, meditation, dance), sports (soccer, futsal, basketball, volleyball, handball, tennis, beach tennis, padel, martial arts, boxing), outdoors (inline skating, skateboarding, surfing, SUP, kayak, skiing, climbing), motorcycle, car and free workout. It has search and your latest ones on top. While recording, the button lights up with the time.",
+        "Indoor activities: treadmill, gym, pool, yoga and court sports record without GPS: time, heart rate (watch or strap), phone steps and calories. On the treadmill the distance comes from your steps, and at the end you can fix it from the machine display. Without distance, Vrumbi speaks every 5 minutes.",
+        "Calories in every activity: from heart rate and your profile (Keytel formula), or from the typical effort of each activity. New profile with age, weight, height and sex; max HR now by the Tanaka formula. Live, your heart rate zone shows next to the number. Outdoors, also steps per minute (cadence).",
+        "On the watch: every activity (the last 3 on top and \"All activities\"), each with the right sensor type; and step count on the screens. In Health Connect, each activity goes with the right type, calories and steps.",
+        "Contacts: the map button (formerly Messages) no longer disappears when the inbox is empty. It now combines bubble and phone: Call or Send a message (WhatsApp or SMS) to any contact, searching by name, saying the name or with the keypad; recent ones stay on top, and received conversations are still there.",
+        "Voice: \"start treadmill\", \"start swimming\", \"record strength training\" and any other activity by name."
+      ],
+      "es": [
+        "Entreno en el mapa: el nuevo botón Entreno (el corredor, en la columna izquierda) abre todas las actividades. Son 45, por categorías: carrera (calle, cinta, montaña), caminata, ciclismo (calle, mountain bike, estática), natación (piscina y aguas abiertas), gimnasio (musculación, elíptica, remo, escaladora, HIIT, funcional, calistenia), bienestar (yoga, pilates, estiramientos, meditación, baile), deportes (fútbol, fútbol sala, baloncesto, vóley, balonmano, tenis, beach tennis, pádel, artes marciales, boxeo), al aire libre (patines, skate, surf, stand up, kayak, esquí, escalada), moto, coche y entreno libre. Tiene búsqueda y las últimas que usó quedan arriba. Grabando, el botón se enciende con el tiempo.",
+        "Actividades sin moverse: cinta, gimnasio, piscina, yoga y las canchas graban sin GPS: el tiempo, las pulsaciones (reloj o banda), los pasos del celular y las calorías. En la cinta la distancia sale de los pasos, y al final se puede corregir con el panel de la máquina. Sin distancia, Vrumbi habla cada 5 minutos.",
+        "Calorías en todas las actividades: con las pulsaciones y su perfil (fórmula de Keytel), o por el gasto típico de cada actividad. Nuevo perfil con edad, peso, altura y sexo; la FC máxima ahora por la fórmula de Tanaka. En vivo, la zona de pulsaciones aparece junto al número. En la calle, también los pasos por minuto (cadencia).",
+        "En el reloj: todas las actividades (las 3 últimas arriba y \"Todas las actividades\"), cada una con el tipo correcto del sensor; y los pasos en las pantallas. En Health Connect, cada actividad va con el tipo correcto, las calorías y los pasos.",
+        "Contactos: el botón del mapa (antes Mensajes) ya no desaparece cuando la bandeja queda vacía. Ahora junta globo y teléfono: Llamar o Enviar mensaje (WhatsApp o SMS) a cualquier contacto, buscando por el nombre, diciendo el nombre o con el teclado; los recientes quedan arriba, y las conversaciones recibidas siguen ahí.",
+        "Voz: \"empezar cinta\", \"iniciar natación\", \"grabar musculación\" y cualquier otra actividad por el nombre."
+      ]
+    },
     {
       "versao": "0.57.2",
       "data": "01/11/2026",
@@ -188,28 +218,6 @@
       ],
       "es": [
         "Clima y tiempo: el menú lateral ahora muestra el autito y el nombre Vrumbi arriba, como en el widget."
-      ]
-    },
-    {
-      "versao": "0.53.7",
-      "data": "01/11/2026",
-      "itens": [
-        "Notificação da rota com o carrinho do Vrumbi como ícone (antes era a seta); a seta da manobra continua no painel.",
-        "Mapas offline: a lista rola solta enquanto o mapa baixa (antes ficava agarrando a cada atualização do progresso).",
-        "Mapas offline: os países ficam recolhidos (Brasil mostra quantos mapas e o tamanho); toque para ver os estados. Baixar um estado continua baixando só ele.",
-        "Widget do clima: o botão de atualizar ficou do tamanho da hora ao lado, discreto, à direita."
-      ],
-      "en": [
-        "The route notification now uses the Vrumbi car as its icon (it used to be the arrow); the maneuver arrow stays in the panel.",
-        "Offline maps: the list scrolls smoothly while a map downloads (it used to stick at every progress update).",
-        "Offline maps: countries start collapsed (Brazil shows how many maps and their size); tap to see the states. Downloading a state still downloads only that state.",
-        "Weather widget: the refresh button is now the size of the time next to it, subtle, on the right."
-      ],
-      "es": [
-        "La notificación de la ruta usa el autito de Vrumbi como ícono (antes era la flecha); la flecha de la maniobra sigue en el panel.",
-        "Mapas sin conexión: la lista se desplaza libre mientras el mapa se descarga (antes se trababa en cada actualización del progreso).",
-        "Mapas sin conexión: los países quedan plegados (Brasil muestra cuántos mapas y el tamaño); toque para ver los estados. Descargar un estado sigue descargando solo ese estado.",
-        "Widget del clima: el botón de actualizar quedó del tamaño de la hora al lado, discreto, a la derecha."
       ]
     }
   ]
