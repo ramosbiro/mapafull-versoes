@@ -1,16 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.8",
-  "codigo": 192,
+  "versao": "0.58.9",
+  "codigo": 193,
   "data": "02/11/2026",
-  "tamanho": 206538453,
-  "sha256": "a40a64da67c726d089fe82db9cb1bf56984b24f4733907e0dd7b8fc986521803",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.8/Vrumbi-0.58.8.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.8/Vrumbi-relogio-0.58.8.apk",
+  "tamanho": 206508475,
+  "sha256": "33c15dbe3efca3bfe666467953769230d6b2031a9e2f633126d91d486f9c84c0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.9/Vrumbi-0.58.9.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.9/Vrumbi-relogio-0.58.9.apk",
   "notas": [
-    "O botão Gravar foi para a direita, entre o Menu (☰) e o Avisar, em pé e deitado. Deitado, o cartão com o nome da rua agora começa sempre depois do último botão da esquerda: nada fica escondido embaixo dele."
+    "Compartilhar do seu jeito: antes de enviar, escolha o que vai na imagem e em que ordem (título, sua foto, mapa, distância, tempo, ritmo, velocidade máxima, calorias, batimentos, subida, passos, cadência, gráfico, parciais e zonas de FC), ligando, desligando e subindo ou descendo cada item. A prévia muda na hora e a escolha fica guardada.",
+    "O fundo do mapa no compartilhar segue o que está no resumo: Mapa, Satélite (a foto de verdade com o trajeto) ou o simples escuro. Com Animação, sai um VÍDEO (MP4) de 15 segundos com o percurso, a trilha se pintando e os números.",
+    "Fotos da atividade: tire na hora, pelo botão de câmera da gravação, ou depois, no resumo (câmera ou galeria). Elas podem ir no compartilhamento.",
+    "Parciais em barras, a cada 1 km ou a cada 500 m, no resumo e no compartilhamento.",
+    "Gráfico novo como os apps de saúde: ligue e desligue ritmo, batimentos, elevação e cadência; escala do ritmo de um lado, dos batimentos do outro, o tempo embaixo; e, embaixo, a média e o máximo de cada um. Os números do resumo ganharam o nome colorido."
   ],
   "versoes": [
+    {
+      "versao": "0.58.9",
+      "data": "02/11/2026",
+      "itens": [
+        "Compartilhar do seu jeito: antes de enviar, escolha o que vai na imagem e em que ordem (título, sua foto, mapa, distância, tempo, ritmo, velocidade máxima, calorias, batimentos, subida, passos, cadência, gráfico, parciais e zonas de FC), ligando, desligando e subindo ou descendo cada item. A prévia muda na hora e a escolha fica guardada.",
+        "O fundo do mapa no compartilhar segue o que está no resumo: Mapa, Satélite (a foto de verdade com o trajeto) ou o simples escuro. Com Animação, sai um VÍDEO (MP4) de 15 segundos com o percurso, a trilha se pintando e os números.",
+        "Fotos da atividade: tire na hora, pelo botão de câmera da gravação, ou depois, no resumo (câmera ou galeria). Elas podem ir no compartilhamento.",
+        "Parciais em barras, a cada 1 km ou a cada 500 m, no resumo e no compartilhamento.",
+        "Gráfico novo como os apps de saúde: ligue e desligue ritmo, batimentos, elevação e cadência; escala do ritmo de um lado, dos batimentos do outro, o tempo embaixo; e, embaixo, a média e o máximo de cada um. Os números do resumo ganharam o nome colorido."
+      ],
+      "en": [
+        "Share your way: before sending, choose what goes into the image and in what order (title, your photo, map, distance, time, pace, max speed, calories, heart rate, climb, steps, cadence, chart, splits and HR zones), turning each on or off and moving it up or down. The preview updates instantly and your choice is remembered.",
+        "The map background when sharing follows the summary: Map, Satellite (the real photo with your route) or plain dark. With Animation, you get a 15-second VIDEO (MP4) of the route painting itself with the numbers.",
+        "Activity photos: take one during the workout with the camera button, or later in the summary (camera or gallery). They can go into the shared image.",
+        "Splits as bars, every 1 km or every 500 m, in the summary and when sharing.",
+        "New chart like health apps: turn pace, heart rate, elevation and cadence on or off; pace scale on one side, heart rate on the other, time at the bottom; and below, the average and maximum of each. Summary numbers now have colored labels."
+      ],
+      "es": [
+        "Comparte a tu manera: antes de enviar, elige qué va en la imagen y en qué orden (título, tu foto, mapa, distancia, tiempo, ritmo, velocidad máxima, calorías, pulsaciones, subida, pasos, cadencia, gráfico, parciales y zonas de FC), activando, desactivando y subiendo o bajando cada elemento. La vista previa cambia al instante y la elección queda guardada.",
+        "El fondo del mapa al compartir sigue el resumen: Mapa, Satélite (la foto real con el recorrido) o el simple oscuro. Con Animación sale un VIDEO (MP4) de 15 segundos con el recorrido pintándose y los números.",
+        "Fotos de la actividad: toma una durante el entreno con el botón de cámara, o después en el resumen (cámara o galería). Pueden ir en lo que compartes.",
+        "Parciales en barras, cada 1 km o cada 500 m, en el resumen y al compartir.",
+        "Gráfico nuevo como las apps de salud: activa y desactiva ritmo, pulsaciones, elevación y cadencia; la escala del ritmo de un lado, la de pulsaciones del otro, el tiempo abajo; y debajo, el promedio y el máximo de cada uno. Los números del resumen ahora tienen el nombre en color."
+      ]
+    },
     {
       "versao": "0.58.8",
       "data": "02/11/2026",
@@ -224,22 +253,6 @@
       ],
       "es": [
         "Vrumbi en el reloj: arme sus pantallas. Cada pantalla tiene un formato de cuadrícula (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 franjas) y usted elige el dato de cada espacio (pulsaciones, tiempo, distancia, ritmo, ritmo medio, velocidad, velocidad media, calorías, FC máxima, hora). Varias pantallas, deslizando de lado; toque el número grande para cambiarlo."
-      ]
-    },
-    {
-      "versao": "0.57.0",
-      "data": "01/11/2026",
-      "itens": [
-        "Vrumbi no relógio (Wear OS: Galaxy Watch, Pixel Watch...): batimentos ao vivo no pulso, e começar, pausar e encerrar a corrida, caminhada ou pedalada pelo relógio. O celular grava o caminho e guarda tudo junto, com os batimentos. Veja em Desempenho > App no relógio.",
-        "Atividades começadas e encerradas pelo relógio com o app do celular fechado entram sozinhas no histórico."
-      ],
-      "en": [
-        "Vrumbi on the watch (Wear OS: Galaxy Watch, Pixel Watch...): live heart rate on your wrist, and start, pause and end your run, walk or ride from the watch. The phone records the route and keeps everything together, with the heart rate. See Performance > Watch app.",
-        "Activities started and ended from the watch with the phone app closed go into the history by themselves."
-      ],
-      "es": [
-        "Vrumbi en el reloj (Wear OS: Galaxy Watch, Pixel Watch...): pulsaciones en vivo en la muñeca, y empezar, pausar y terminar la carrera, caminata o paseo en bici desde el reloj. El celular graba el recorrido y guarda todo junto, con las pulsaciones. Vea Rendimiento > App en el reloj.",
-        "Las actividades empezadas y terminadas desde el reloj con la app del celular cerrada entran solas en el historial."
       ]
     }
   ]
