@@ -1,20 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.9",
-  "codigo": 193,
+  "versao": "0.59.0",
+  "codigo": 194,
   "data": "02/11/2026",
-  "tamanho": 206508475,
-  "sha256": "33c15dbe3efca3bfe666467953769230d6b2031a9e2f633126d91d486f9c84c0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.9/Vrumbi-0.58.9.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.9/Vrumbi-relogio-0.58.9.apk",
+  "tamanho": 206527201,
+  "sha256": "7a88a08e5e8772f6baa8bdbc611332fa1b90dcb8c52c15a6fe98a37c36ffdb06",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.59.0/Vrumbi-0.59.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.59.0/Vrumbi-relogio-0.59.0.apk",
   "notas": [
-    "Compartilhar do seu jeito: antes de enviar, escolha o que vai na imagem e em que ordem (título, sua foto, mapa, distância, tempo, ritmo, velocidade máxima, calorias, batimentos, subida, passos, cadência, gráfico, parciais e zonas de FC), ligando, desligando e subindo ou descendo cada item. A prévia muda na hora e a escolha fica guardada.",
-    "O fundo do mapa no compartilhar segue o que está no resumo: Mapa, Satélite (a foto de verdade com o trajeto) ou o simples escuro. Com Animação, sai um VÍDEO (MP4) de 15 segundos com o percurso, a trilha se pintando e os números.",
-    "Fotos da atividade: tire na hora, pelo botão de câmera da gravação, ou depois, no resumo (câmera ou galeria). Elas podem ir no compartilhamento.",
-    "Parciais em barras, a cada 1 km ou a cada 500 m, no resumo e no compartilhamento.",
-    "Gráfico novo como os apps de saúde: ligue e desligue ritmo, batimentos, elevação e cadência; escala do ritmo de um lado, dos batimentos do outro, o tempo embaixo; e, embaixo, a média e o máximo de cada um. Os números do resumo ganharam o nome colorido."
+    "Meus treinos: o lugar para ver tudo o que você já fez. Abas Dias, Semanas e Meses; filtro por esporte; o total grande do período (tempo, ou a distância quando escolhe um esporte), com distância, calorias, FC média, ritmo médio e sessões; barras dos últimos períodos com a linha da média (toque numa barra para ver aquele período); e a lista agrupada por dia, com o tempo e as calorias de cada dia.",
+    "Calendário: o mês com os dias de treino marcados (quanto mais forte a cor, mais tempo de treino); toque no dia para ver as atividades dele.",
+    "O Treino ficou para treinar: no alto, o cartão Meus treinos (com o resumo da semana) abre o histórico."
   ],
   "versoes": [
+    {
+      "versao": "0.59.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Meus treinos: o lugar para ver tudo o que você já fez. Abas Dias, Semanas e Meses; filtro por esporte; o total grande do período (tempo, ou a distância quando escolhe um esporte), com distância, calorias, FC média, ritmo médio e sessões; barras dos últimos períodos com a linha da média (toque numa barra para ver aquele período); e a lista agrupada por dia, com o tempo e as calorias de cada dia.",
+        "Calendário: o mês com os dias de treino marcados (quanto mais forte a cor, mais tempo de treino); toque no dia para ver as atividades dele.",
+        "O Treino ficou para treinar: no alto, o cartão Meus treinos (com o resumo da semana) abre o histórico."
+      ],
+      "en": [
+        "My workouts: the place to see everything you have done. Days, Weeks and Months tabs; filter by sport; the big total for the period (time, or distance when you pick a sport), with distance, calories, average HR, average pace and sessions; bars for recent periods with the average line (tap a bar to see that period); and the list grouped by day, with each day's time and calories.",
+        "Calendar: the month with your workout days highlighted (the stronger the color, the more training time); tap a day to see its activities.",
+        "Workout is now for training: at the top, the My workouts card (with this week's summary) opens the history."
+      ],
+      "es": [
+        "Mis entrenos: el lugar para ver todo lo que hiciste. Pestañas Días, Semanas y Meses; filtro por deporte; el total grande del período (tiempo, o la distancia al elegir un deporte), con distancia, calorías, FC media, ritmo medio y sesiones; barras de los últimos períodos con la línea del promedio (toca una barra para ver ese período); y la lista agrupada por día, con el tiempo y las calorías de cada día.",
+        "Calendario: el mes con los días de entreno marcados (cuanto más fuerte el color, más tiempo de entreno); toca un día para ver sus actividades.",
+        "Entreno quedó para entrenar: arriba, la tarjeta Mis entrenos (con el resumen de la semana) abre el historial."
+      ]
+    },
     {
       "versao": "0.58.9",
       "data": "02/11/2026",
@@ -240,19 +257,6 @@
         "Noticias de la ciudad de verdad: buscadas por el propio celular en Google Noticias y Bing Noticias, juntas y sin repetir; la última lista aparece al instante mientras se actualiza.",
         "Alertas: los colores de los niveles (amarillo, naranja, rojo) se leen bien en el tema claro. Ajustes rápidos: la tarjeta Avisos de clima muestra cuántos avisos están activos.",
         "Búsqueda: el botón del autito con el mismo formato del campo."
-      ]
-    },
-    {
-      "versao": "0.57.1",
-      "data": "01/11/2026",
-      "itens": [
-        "Vrumbi no relógio: monte as suas telas. Cada tela tem um formato de grade (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 faixas) e você escolhe o número de cada espaço (batimentos, tempo, distância, ritmo, ritmo médio, velocidade, velocidade média, calorias, FC máxima, hora). Várias telas, passando com o dedo para o lado; tocar no número grande troca o número dele."
-      ],
-      "en": [
-        "Vrumbi on the watch: build your own screens. Each screen has a grid layout (1 big; 1 big + 2; 1 big + 4; 2 × 2; 3 rows) and you pick the metric of each slot (heart rate, time, distance, pace, avg pace, speed, avg speed, calories, max HR, clock). Several screens, swiping sideways; tap the big number to change it."
-      ],
-      "es": [
-        "Vrumbi en el reloj: arme sus pantallas. Cada pantalla tiene un formato de cuadrícula (1 grande; 1 grande + 2; 1 grande + 4; 2 × 2; 3 franjas) y usted elige el dato de cada espacio (pulsaciones, tiempo, distancia, ritmo, ritmo medio, velocidad, velocidad media, calorías, FC máxima, hora). Varias pantallas, deslizando de lado; toque el número grande para cambiarlo."
       ]
     }
   ]
