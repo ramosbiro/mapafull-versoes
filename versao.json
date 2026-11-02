@@ -1,17 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.62.0",
-  "codigo": 197,
+  "versao": "0.63.0",
+  "codigo": 198,
   "data": "02/11/2026",
-  "tamanho": 206628870,
-  "sha256": "e136767a750e08aa6869d19d22ee693655f0b89e8ee9331dd2ae579ea1ce883b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.62.0/Vrumbi-0.62.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.62.0/Vrumbi-relogio-0.62.0.apk",
+  "tamanho": 206649567,
+  "sha256": "cbf159aeaf4b131147b8d53258aaedf908995512ced1d68516649e00907dca02",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.63.0/Vrumbi-0.63.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.63.0/Vrumbi-relogio-0.63.0.apk",
   "notas": [
-    "Seguir uma rota no treino: escolha o trajeto de um treino seu ou importe um arquivo GPX, no sentido normal ou contrário. A rota aparece tracejada no mapa; se você sair dela, o Vrumbi avisa e o celular vibra; voltou, ele confirma; no fim, comemora. Na tela, quanto falta; no guia de voz, também.",
-    "Correr contra um treino (o fantasma): escolha um treino seu do mesmo esporte (o melhor vem marcado). O fantasma anda no mapa e o Vrumbi diz se você está à frente ou atrás, a cada quilômetro ou no guia de voz. No resumo, o resultado: quantos segundos à frente ou atrás."
+    "Condicionamento (em Meus treinos): o seu VO2max estimado pela melhor corrida dos últimos 90 dias (método VDOT, de Jack Daniels), com a classificação pela idade e a previsão de prova para 5 km, 10 km, meia maratona e maratona.",
+    "Carga de treino: a carga dos últimos 7 dias comparada com o seu normal das últimas 4 semanas, com o conselho do Vrumbi (pode aumentar, na medida, puxada ou hora de descansar).",
+    "Recuperação dos batimentos: com a cinta ou o relógio, fique parado 2 minutos depois de encerrar e o Vrumbi mede quanto os batimentos caem (quanto mais, melhor). No perfil, entrou a FC de repouso.",
+    "Parado há 5 minutos na pausa automática? O Vrumbi pergunta se você terminou e a notificação ganha o botão Encerrar; o treino fica salvo.",
+    "Corrigido: ritmo que aparecia como 4'60\" em vez de 5'00\"."
   ],
   "versoes": [
+    {
+      "versao": "0.63.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Condicionamento (em Meus treinos): o seu VO2max estimado pela melhor corrida dos últimos 90 dias (método VDOT, de Jack Daniels), com a classificação pela idade e a previsão de prova para 5 km, 10 km, meia maratona e maratona.",
+        "Carga de treino: a carga dos últimos 7 dias comparada com o seu normal das últimas 4 semanas, com o conselho do Vrumbi (pode aumentar, na medida, puxada ou hora de descansar).",
+        "Recuperação dos batimentos: com a cinta ou o relógio, fique parado 2 minutos depois de encerrar e o Vrumbi mede quanto os batimentos caem (quanto mais, melhor). No perfil, entrou a FC de repouso.",
+        "Parado há 5 minutos na pausa automática? O Vrumbi pergunta se você terminou e a notificação ganha o botão Encerrar; o treino fica salvo.",
+        "Corrigido: ritmo que aparecia como 4'60\" em vez de 5'00\"."
+      ],
+      "en": [
+        "Fitness (in My workouts): your estimated VO2max from your best run in the last 90 days (Jack Daniels' VDOT method), rated for your age, plus race predictions for 5 km, 10 km, half marathon and marathon.",
+        "Training load: your last 7 days compared with your normal over the last 4 weeks, with Vrumbi's advice (you can add more, just right, tough, or time to rest).",
+        "Heart rate recovery: with a strap or watch, stay still for 2 minutes after finishing and Vrumbi measures how much your heart rate drops (the more, the better). Resting HR is now in your profile.",
+        "Stopped for 5 minutes on auto-pause? Vrumbi asks if you are done and the notification gets a Finish button; the workout is saved.",
+        "Fixed: pace showing as 4'60\" instead of 5'00\"."
+      ],
+      "es": [
+        "Condición física (en Mis entrenos): tu VO2max estimado por tu mejor carrera de los últimos 90 días (método VDOT de Jack Daniels), con la clasificación por edad y la predicción para 5 km, 10 km, media maratón y maratón.",
+        "Carga de entreno: los últimos 7 días comparados con tu normal de las últimas 4 semanas, con el consejo de Vrumbi (puedes aumentar, en su punto, exigente o hora de descansar).",
+        "Recuperación del pulso: con la banda o el reloj, quédate quieto 2 minutos al terminar y Vrumbi mide cuánto baja el pulso (cuanto más, mejor). En el perfil se añadió la FC en reposo.",
+        "¿Parado 5 minutos en pausa automática? Vrumbi pregunta si terminaste y la notificación tiene el botón Terminar; el entreno queda guardado.",
+        "Corregido: ritmo que salía como 4'60\" en vez de 5'00\"."
+      ]
+    },
     {
       "versao": "0.62.0",
       "data": "02/11/2026",
@@ -237,31 +265,6 @@
         "Resumen de la actividad en tres vistas: Mapa (desde arriba, 2D), Satélite (desde arriba, 2D, con todo el recorrido en los colores del rendimiento) y Animación.",
         "Animación del recorrido: la cámara te sigue haciendo el circuito sobre el satélite y el recorrido se va pintando con los colores del rendimiento. Abajo, el cuentarrevoluciones muestra la velocidad (o el ritmo) en ese punto, junto con el tiempo, la distancia, las pulsaciones, la altitud y las calorías hasta ahí. Se puede pausar, volver al inicio, acelerar (×2, ×4) y arrastrar la barra a cualquier punto.",
         "Mapa y Satélite quedan siempre desde arriba (2D) en el resumen: nada inclina la cámara."
-      ]
-    },
-    {
-      "versao": "0.58.2",
-      "data": "02/11/2026",
-      "itens": [
-        "Treino de cara nova: todas as atividades à vista, em fileiras de cartões por categoria (rolam para o lado), sem precisar pesquisar. As que você usou por último ficam em cima; a busca ficou só no fim, para quem não achou a sua.",
-        "Você decide a ordem: em Organizar, coloque em cima o esporte que mais pratica (natação, corrida, bicicleta...) e mude também a ordem dos cartões de cada categoria.",
-        "Fechar o Treino arrastando para o lado volta direto para o mapa (antes abria o Menu).",
-        "Resumo da atividade com fundo de satélite: troque entre Mapa e Satélite em cima do mapa e veja o trajeto sobre a imagem real; o botão ao lado mostra o circuito inteiro.",
-        "Menu mais limpo: o treino saiu do Menu (fica no botão Treino do mapa). Sensores, relógio, Saúde do Android e o seu perfil agora ficam em Configurações > Sensores e relógio, junto com o GPS e a bússola."
-      ],
-      "en": [
-        "A fresh Workout screen: every activity in view, in rows of cards by category (scroll sideways), no searching needed. Your latest ones are on top; search is now just at the end, for anything you didn't find.",
-        "You choose the order: in Organize, put the sport you do most at the top (swimming, running, cycling...) and also reorder the cards in each category.",
-        "Swiping the Workout screen sideways now goes straight back to the map (it used to open the Menu).",
-        "Satellite view in the activity summary: switch between Map and Satellite above the map and see your route over the real imagery; the button next to it shows the whole route.",
-        "A cleaner Menu: workouts left the Menu (they live on the map's Workout button). Sensors, watch, Health Connect and your profile are now in Settings > Sensors and watch, together with GPS and compass."
-      ],
-      "es": [
-        "Entreno renovado: todas las actividades a la vista, en filas de tarjetas por categoría (se deslizan de lado), sin tener que buscar. Las últimas que usaste quedan arriba; la búsqueda quedó al final, para lo que no encuentres.",
-        "Tú eliges el orden: en Organizar, pon arriba el deporte que más practicas (natación, carrera, bicicleta...) y cambia también el orden de las tarjetas de cada categoría.",
-        "Cerrar el Entreno deslizando de lado ahora vuelve directo al mapa (antes abría el Menú).",
-        "Resumen de la actividad con fondo satelital: cambia entre Mapa y Satélite arriba del mapa y mira el recorrido sobre la imagen real; el botón de al lado muestra todo el circuito.",
-        "Menú más limpio: el entreno salió del Menú (está en el botón Entreno del mapa). Sensores, reloj, Health Connect y tu perfil ahora están en Ajustes > Sensores y reloj, junto con el GPS y la brújula."
       ]
     }
   ]
