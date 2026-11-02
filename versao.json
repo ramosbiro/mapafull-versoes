@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.64.0",
-  "codigo": 199,
+  "versao": "0.65.0",
+  "codigo": 200,
   "data": "02/11/2026",
-  "tamanho": 206746599,
-  "sha256": "9d7844ae042e6e7618ee50a124a4552a201d00f9a060dd91eea12ec4d19e9fc8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.64.0/Vrumbi-0.64.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.64.0/Vrumbi-relogio-0.64.0.apk",
+  "tamanho": 206770406,
+  "sha256": "5ba01676d3487b8c2692a90e396c87b41eacae1f6eded8564d0464acad7d4971",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.65.0/Vrumbi-0.65.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.65.0/Vrumbi-relogio-0.65.0.apk",
   "notas": [
-    "Minha rotina: monte o seu circuito (ex.: agachamento, flexão, prancha) com etapas por tempo, por distância ou por repetições, em rodadas. O Vrumbi conduz por voz e vibração; nas repetições, é só tocar em Próxima (na tela ou na notificação). No resumo, o tempo de cada etapa.",
-    "Natação na piscina: escolha o comprimento (25 m, 50 m, 33,3 m...). Ele vai para o app do Vrumbi no relógio, que conta as voltas e calcula a distância.",
-    "Detectar treino (Configurações > Sensores e relógio): andando, correndo ou pedalando por uns 10 minutos sem gravar, o Vrumbi avisa na notificação e um toque abre o treino pronto para o START."
+    "Plano de corrida guiado (no Treino): escolha o objetivo (correr 30 min sem parar, 5 km, 10 km, meia ou maratona), as semanas e os dias de treino. Cada dia tem o treino certo (leve, longão, ritmo forte, tiros ou corre e anda), com os ritmos calculados pelo seu VO2max (método de Jack Daniels) e as últimas semanas mais leves antes da prova.",
+    "Um toque no treino do dia abre o START já com tudo no treinador: ritmo-alvo, meta, aquecimento, tiros e descansos. Sem VO2max ainda, o primeiro treino é um teste de 12 minutos que define o seu nível. Os treinos feitos ficam marcados e os ritmos sobem quando você evolui.",
+    "GPX com batimentos: o arquivo exportado leva a frequência cardíaca de cada ponto e o tipo da atividade, do jeito que o Strava, a Garmin e outros leem."
   ],
   "versoes": [
+    {
+      "versao": "0.65.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Plano de corrida guiado (no Treino): escolha o objetivo (correr 30 min sem parar, 5 km, 10 km, meia ou maratona), as semanas e os dias de treino. Cada dia tem o treino certo (leve, longão, ritmo forte, tiros ou corre e anda), com os ritmos calculados pelo seu VO2max (método de Jack Daniels) e as últimas semanas mais leves antes da prova.",
+        "Um toque no treino do dia abre o START já com tudo no treinador: ritmo-alvo, meta, aquecimento, tiros e descansos. Sem VO2max ainda, o primeiro treino é um teste de 12 minutos que define o seu nível. Os treinos feitos ficam marcados e os ritmos sobem quando você evolui.",
+        "GPX com batimentos: o arquivo exportado leva a frequência cardíaca de cada ponto e o tipo da atividade, do jeito que o Strava, a Garmin e outros leem."
+      ],
+      "en": [
+        "Guided running plan (in Workout): choose your goal (run 30 min non-stop, 5 km, 10 km, half or full marathon), the weeks and your training days. Each day has the right workout (easy, long run, tempo, intervals or run-walk), with paces calculated from your VO2max (Jack Daniels' method) and lighter final weeks before race day.",
+        "One tap on today's workout opens START with everything set in the coach: target pace, goal, warm-up, repeats and rests. Without a VO2max yet, the first workout is a 12-minute test that sets your level. Done workouts get checked and paces go up as you improve.",
+        "GPX with heart rate: the exported file carries the heart rate of every point and the activity type, the way Strava, Garmin and others read it."
+      ],
+      "es": [
+        "Plan de carrera guiado (en Entreno): elige el objetivo (correr 30 min sin parar, 5 km, 10 km, media o maratón), las semanas y los días de entreno. Cada día tiene el entreno adecuado (suave, tirada larga, ritmo, series o correr y caminar), con ritmos calculados por tu VO2max (método de Jack Daniels) y las últimas semanas más suaves antes de la carrera.",
+        "Un toque en el entreno del día abre el START con todo en el entrenador: ritmo objetivo, meta, calentamiento, series y descansos. Sin VO2max aún, el primer entreno es un test de 12 minutos que define tu nivel. Los entrenos hechos quedan marcados y los ritmos suben cuando mejoras.",
+        "GPX con pulso: el archivo exportado lleva la frecuencia cardíaca de cada punto y el tipo de actividad, como lo leen Strava, Garmin y otros."
+      ]
+    },
     {
       "versao": "0.64.0",
       "data": "02/11/2026",
@@ -244,25 +263,6 @@
         "Crea tu propio deporte: en Entreno toca Crear (o, cuando la búsqueda no encuentra nada, Crear \"nombre\"). Elige el nombre, un ícono de una biblioteca de 67 deportes (golf, vela, buceo, kitesurf, lucha, béisbol, hockey, parapente, patinete...), la categoría, si graba el recorrido con GPS y si muestra ritmo o velocidad. Entra al Entreno como los demás, se ordena en Organizar y se edita o borra con el lápiz.",
         "La fila de Recientes ya no tiene límite: muestra todos los deportes que hiciste, el último primero.",
         "Reloj con GPS en todo: el reloj enciende su GPS en cada actividad y manda el recorrido al celular (incluso en la piscina, con el celular en el borde), y la distancia que mide (largos de piscina) entra en la grabación. Se quitó la etiqueta \"sin GPS\" de las tarjetas."
-      ]
-    },
-    {
-      "versao": "0.58.4",
-      "data": "02/11/2026",
-      "itens": [
-        "Atualização mais divertida: enquanto a nova versão baixa, o Vrumbi faz todas as caras alegres e todos os movimentos (pulo, mola, curva, arrancada, balanço e um giro novo), em ordem aleatória, sem repetir até passar por todos.",
-        "Tudo o que o app baixa aparece na área de notificação, com o carrinho, o que está baixando, os MB e a barra: a atualização (e, no fim, o aviso \"pronto para instalar\" com o botão Instalar), os mapas offline e os dados do mapa e endereços que demoram mais.",
-        "O que faltar liberar no celular (localização, GPS, bateria sem restrição) vira um aviso na área de notificação explicando o porquê; tocar abre a tela certa para liberar. Liberou, o aviso some."
-      ],
-      "en": [
-        "A more fun update screen: while the new version downloads, Vrumbi goes through all its happy faces and moves (jump, bounce, turn, launch, sway and a new spin) in random order, without repeating until it has done them all.",
-        "Everything the app downloads shows in the notification area with the car, what is downloading, the MB and a bar: the update (and, at the end, a \"ready to install\" notice with an Install button), offline maps and the larger map data and address files.",
-        "Anything still to be allowed on the phone (location, GPS, unrestricted battery) becomes a notice in the notification area explaining why; tapping opens the right screen. Once allowed, the notice goes away."
-      ],
-      "es": [
-        "Una actualización más divertida: mientras se descarga la nueva versión, Vrumbi hace todas sus caras alegres y movimientos (salto, rebote, curva, arrancada, balanceo y un giro nuevo) en orden aleatorio, sin repetir hasta pasar por todos.",
-        "Todo lo que la app descarga aparece en el área de notificaciones, con el autito, qué se está descargando, los MB y la barra: la actualización (y, al final, el aviso \"listo para instalar\" con el botón Instalar), los mapas sin conexión y los datos del mapa y direcciones que tardan más.",
-        "Lo que falte permitir en el celular (ubicación, GPS, batería sin restricción) se vuelve un aviso en el área de notificaciones explicando por qué; al tocarlo se abre la pantalla correcta. Una vez permitido, el aviso desaparece."
       ]
     }
   ]
