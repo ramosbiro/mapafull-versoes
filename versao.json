@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.58.3",
-  "codigo": 187,
+  "versao": "0.58.4",
+  "codigo": 188,
   "data": "02/11/2026",
-  "tamanho": 207125256,
-  "sha256": "d4d731a6956fdf4ba328170f98b44e0d6748793bb94bc51175d912c4a9956af2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.3/Vrumbi-0.58.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.3/Vrumbi-relogio-0.58.3.apk",
+  "tamanho": 207374706,
+  "sha256": "f84d95d343ba91786c10d803c42070b72f848103bb0bd352b766e313291e9a16",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.4/Vrumbi-0.58.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.58.4/Vrumbi-relogio-0.58.4.apk",
   "notas": [
-    "Resumo da atividade em três visões: Mapa (de cima, 2D), Satélite (de cima, 2D, com a trilha toda na cor do rendimento) e Animação.",
-    "Animação do percurso: a câmera acompanha você fazendo o circuito sobre o satélite, e a trilha vai se pintando na cor do rendimento. Embaixo, o contagiros mostra a velocidade (ou o ritmo) naquele ponto, junto com o tempo, a distância, os batimentos, a altitude e as calorias até ali. Dá para pausar, voltar ao começo, acelerar (×2, ×4) e arrastar a barra para qualquer ponto.",
-    "Mapa e Satélite ficam sempre de cima (2D) no resumo: nada inclina a câmera."
+    "Atualização mais divertida: enquanto a nova versão baixa, o Vrumbi faz todas as caras alegres e todos os movimentos (pulo, mola, curva, arrancada, balanço e um giro novo), em ordem aleatória, sem repetir até passar por todos.",
+    "Tudo o que o app baixa aparece na área de notificação, com o carrinho, o que está baixando, os MB e a barra: a atualização (e, no fim, o aviso \"pronto para instalar\" com o botão Instalar), os mapas offline e os dados do mapa e endereços que demoram mais.",
+    "O que faltar liberar no celular (localização, GPS, bateria sem restrição) vira um aviso na área de notificação explicando o porquê; tocar abre a tela certa para liberar. Liberou, o aviso some."
   ],
   "versoes": [
+    {
+      "versao": "0.58.4",
+      "data": "02/11/2026",
+      "itens": [
+        "Atualização mais divertida: enquanto a nova versão baixa, o Vrumbi faz todas as caras alegres e todos os movimentos (pulo, mola, curva, arrancada, balanço e um giro novo), em ordem aleatória, sem repetir até passar por todos.",
+        "Tudo o que o app baixa aparece na área de notificação, com o carrinho, o que está baixando, os MB e a barra: a atualização (e, no fim, o aviso \"pronto para instalar\" com o botão Instalar), os mapas offline e os dados do mapa e endereços que demoram mais.",
+        "O que faltar liberar no celular (localização, GPS, bateria sem restrição) vira um aviso na área de notificação explicando o porquê; tocar abre a tela certa para liberar. Liberou, o aviso some."
+      ],
+      "en": [
+        "A more fun update screen: while the new version downloads, Vrumbi goes through all its happy faces and moves (jump, bounce, turn, launch, sway and a new spin) in random order, without repeating until it has done them all.",
+        "Everything the app downloads shows in the notification area with the car, what is downloading, the MB and a bar: the update (and, at the end, a \"ready to install\" notice with an Install button), offline maps and the larger map data and address files.",
+        "Anything still to be allowed on the phone (location, GPS, unrestricted battery) becomes a notice in the notification area explaining why; tapping opens the right screen. Once allowed, the notice goes away."
+      ],
+      "es": [
+        "Una actualización más divertida: mientras se descarga la nueva versión, Vrumbi hace todas sus caras alegres y movimientos (salto, rebote, curva, arrancada, balanceo y un giro nuevo) en orden aleatorio, sin repetir hasta pasar por todos.",
+        "Todo lo que la app descarga aparece en el área de notificaciones, con el autito, qué se está descargando, los MB y la barra: la actualización (y, al final, el aviso \"listo para instalar\" con el botón Instalar), los mapas sin conexión y los datos del mapa y direcciones que tardan más.",
+        "Lo que falte permitir en el celular (ubicación, GPS, batería sin restricción) se vuelve un aviso en el área de notificaciones explicando por qué; al tocarlo se abre la pantalla correcta. Una vez permitido, el aviso desaparece."
+      ]
+    },
     {
       "versao": "0.58.3",
       "data": "02/11/2026",
@@ -217,25 +236,6 @@
       ],
       "es": [
         "Menú: el ítem Clima y tiempo usa el mismo ícono naranja de los demás; el tipo de ícono del tiempo (realista, colorido) vale dentro de Clima y tiempo."
-      ]
-    },
-    {
-      "versao": "0.54.1",
-      "data": "01/11/2026",
-      "itens": [
-        "Clima de hora em hora: \"Possibilidade de tempestade\" quando o ar está instável (trovoada prevista, ou pancada com muita energia no ar: CAPE e Lifted Index) e \"Possibilidade de chuva\" quando a chance é baixa; a chance de chuva aparece por extenso em cada hora e em cada dia.",
-        "Clima e tempo: a hora da última atualização ao lado do botão de atualizar, como no widget.",
-        "O ícone do Vrumbi acompanha o tema: claro no tema claro, escuro no tema escuro."
-      ],
-      "en": [
-        "Hourly weather: \"Chance of storms\" when the air is unstable (thunder forecast, or showers with lots of energy in the air: CAPE and Lifted Index) and \"Chance of rain\" when the chance is low; the chance of rain is spelled out for every hour and day.",
-        "Weather: the time of the last update next to the refresh button, like the widget.",
-        "The Vrumbi icon follows the theme: light in light mode, dark in dark mode."
-      ],
-      "es": [
-        "Clima por hora: \"Probabilidad de tormenta\" cuando el aire está inestable (tormenta prevista, o chubascos con mucha energía en el aire: CAPE y Lifted Index) y \"Probabilidad de lluvia\" cuando la chance es baja; la probabilidad de lluvia aparece escrita en cada hora y cada día.",
-        "Clima: la hora de la última actualización al lado del botón de actualizar, como en el widget.",
-        "El ícono de Vrumbi sigue el tema: claro en el tema claro, oscuro en el oscuro."
       ]
     }
   ]
