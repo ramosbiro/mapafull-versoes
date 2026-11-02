@@ -1,20 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.63.0",
-  "codigo": 198,
+  "versao": "0.64.0",
+  "codigo": 199,
   "data": "02/11/2026",
-  "tamanho": 206649567,
-  "sha256": "cbf159aeaf4b131147b8d53258aaedf908995512ced1d68516649e00907dca02",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.63.0/Vrumbi-0.63.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.63.0/Vrumbi-relogio-0.63.0.apk",
+  "tamanho": 206746599,
+  "sha256": "9d7844ae042e6e7618ee50a124a4552a201d00f9a060dd91eea12ec4d19e9fc8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.64.0/Vrumbi-0.64.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.64.0/Vrumbi-relogio-0.64.0.apk",
   "notas": [
-    "Condicionamento (em Meus treinos): o seu VO2max estimado pela melhor corrida dos últimos 90 dias (método VDOT, de Jack Daniels), com a classificação pela idade e a previsão de prova para 5 km, 10 km, meia maratona e maratona.",
-    "Carga de treino: a carga dos últimos 7 dias comparada com o seu normal das últimas 4 semanas, com o conselho do Vrumbi (pode aumentar, na medida, puxada ou hora de descansar).",
-    "Recuperação dos batimentos: com a cinta ou o relógio, fique parado 2 minutos depois de encerrar e o Vrumbi mede quanto os batimentos caem (quanto mais, melhor). No perfil, entrou a FC de repouso.",
-    "Parado há 5 minutos na pausa automática? O Vrumbi pergunta se você terminou e a notificação ganha o botão Encerrar; o treino fica salvo.",
-    "Corrigido: ritmo que aparecia como 4'60\" em vez de 5'00\"."
+    "Minha rotina: monte o seu circuito (ex.: agachamento, flexão, prancha) com etapas por tempo, por distância ou por repetições, em rodadas. O Vrumbi conduz por voz e vibração; nas repetições, é só tocar em Próxima (na tela ou na notificação). No resumo, o tempo de cada etapa.",
+    "Natação na piscina: escolha o comprimento (25 m, 50 m, 33,3 m...). Ele vai para o app do Vrumbi no relógio, que conta as voltas e calcula a distância.",
+    "Detectar treino (Configurações > Sensores e relógio): andando, correndo ou pedalando por uns 10 minutos sem gravar, o Vrumbi avisa na notificação e um toque abre o treino pronto para o START."
   ],
   "versoes": [
+    {
+      "versao": "0.64.0",
+      "data": "02/11/2026",
+      "itens": [
+        "Minha rotina: monte o seu circuito (ex.: agachamento, flexão, prancha) com etapas por tempo, por distância ou por repetições, em rodadas. O Vrumbi conduz por voz e vibração; nas repetições, é só tocar em Próxima (na tela ou na notificação). No resumo, o tempo de cada etapa.",
+        "Natação na piscina: escolha o comprimento (25 m, 50 m, 33,3 m...). Ele vai para o app do Vrumbi no relógio, que conta as voltas e calcula a distância.",
+        "Detectar treino (Configurações > Sensores e relógio): andando, correndo ou pedalando por uns 10 minutos sem gravar, o Vrumbi avisa na notificação e um toque abre o treino pronto para o START."
+      ],
+      "en": [
+        "My routine: build your circuit (e.g. squats, push-ups, plank) with steps by time, distance or reps, in rounds. Vrumbi guides you with voice and vibration; for reps, just tap Next (on screen or in the notification). The summary shows each step's time.",
+        "Pool swimming: choose the pool length (25 m, 50 m, 33.3 m...). It goes to the Vrumbi app on your watch, which counts the lengths and works out the distance.",
+        "Detect workouts (Settings > Sensors and watch): walking, running or cycling for about 10 minutes without recording, Vrumbi lets you know in a notification and one tap opens the workout ready for START."
+      ],
+      "es": [
+        "Mi rutina: arma tu circuito (p. ej., sentadillas, flexiones, plancha) con etapas por tiempo, distancia o repeticiones, en rondas. Vrumbi te guía con voz y vibración; en las repeticiones, solo toca Siguiente (en pantalla o en la notificación). En el resumen, el tiempo de cada etapa.",
+        "Natación en piscina: elige el largo (25 m, 50 m, 33,3 m...). Va a la app de Vrumbi en el reloj, que cuenta los largos y calcula la distancia.",
+        "Detectar entreno (Ajustes > Sensores y reloj): caminando, corriendo o pedaleando unos 10 minutos sin grabar, Vrumbi avisa en la notificación y un toque abre el entreno listo para el START."
+      ]
+    },
     {
       "versao": "0.63.0",
       "data": "02/11/2026",
@@ -246,25 +263,6 @@
         "Una actualización más divertida: mientras se descarga la nueva versión, Vrumbi hace todas sus caras alegres y movimientos (salto, rebote, curva, arrancada, balanceo y un giro nuevo) en orden aleatorio, sin repetir hasta pasar por todos.",
         "Todo lo que la app descarga aparece en el área de notificaciones, con el autito, qué se está descargando, los MB y la barra: la actualización (y, al final, el aviso \"listo para instalar\" con el botón Instalar), los mapas sin conexión y los datos del mapa y direcciones que tardan más.",
         "Lo que falte permitir en el celular (ubicación, GPS, batería sin restricción) se vuelve un aviso en el área de notificaciones explicando por qué; al tocarlo se abre la pantalla correcta. Una vez permitido, el aviso desaparece."
-      ]
-    },
-    {
-      "versao": "0.58.3",
-      "data": "02/11/2026",
-      "itens": [
-        "Resumo da atividade em três visões: Mapa (de cima, 2D), Satélite (de cima, 2D, com a trilha toda na cor do rendimento) e Animação.",
-        "Animação do percurso: a câmera acompanha você fazendo o circuito sobre o satélite, e a trilha vai se pintando na cor do rendimento. Embaixo, o contagiros mostra a velocidade (ou o ritmo) naquele ponto, junto com o tempo, a distância, os batimentos, a altitude e as calorias até ali. Dá para pausar, voltar ao começo, acelerar (×2, ×4) e arrastar a barra para qualquer ponto.",
-        "Mapa e Satélite ficam sempre de cima (2D) no resumo: nada inclina a câmera."
-      ],
-      "en": [
-        "Activity summary in three views: Map (top-down, 2D), Satellite (top-down, 2D, with the whole trail in your performance colors) and Animation.",
-        "Route animation: the camera follows you along the course over satellite imagery while the trail paints itself in your performance colors. Below, the gauge shows your speed (or pace) at that point, with time, distance, heart rate, altitude and calories so far. Pause, restart, speed up (×2, ×4) or drag the bar to any point.",
-        "Map and Satellite always stay top-down (2D) in the summary: nothing tilts the camera."
-      ],
-      "es": [
-        "Resumen de la actividad en tres vistas: Mapa (desde arriba, 2D), Satélite (desde arriba, 2D, con todo el recorrido en los colores del rendimiento) y Animación.",
-        "Animación del recorrido: la cámara te sigue haciendo el circuito sobre el satélite y el recorrido se va pintando con los colores del rendimiento. Abajo, el cuentarrevoluciones muestra la velocidad (o el ritmo) en ese punto, junto con el tiempo, la distancia, las pulsaciones, la altitud y las calorías hasta ahí. Se puede pausar, volver al inicio, acelerar (×2, ×4) y arrastrar la barra a cualquier punto.",
-        "Mapa y Satélite quedan siempre desde arriba (2D) en el resumen: nada inclina la cámara."
       ]
     }
   ]
