@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.72.0",
-  "codigo": 221,
+  "versao": "0.72.1",
+  "codigo": 222,
   "data": "03/11/2026",
-  "tamanho": 206395446,
-  "sha256": "676f762c54c44d5b75f1300568da7d4d43214c2eb9234d832ace0246b047e849",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.0/Vrumbi-0.72.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.0/Vrumbi-relogio-0.72.0.apk",
+  "tamanho": 206395782,
+  "sha256": "b8654fae92506650fce9e3db1543d860290f38827600e6fdd22a0bfdf3a755fe",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.1/Vrumbi-0.72.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.1/Vrumbi-relogio-0.72.1.apk",
   "notas": [
-    "Unidades e Camadas viraram uma tela só: Camadas e locais. Um cartão por assunto (Áreas de atuação, Segurança e justiça, Serviços públicos, saúde e educação, Mobilidade, Comércio e lazer, Riscos e análise) e, dentro, um cartão para cada grupo, com a sua chave de ligar tudo.",
-    "As áreas da polícia, dos bombeiros, da Ambiental, do Trânsito e da Rodoviária ficam cada uma no seu cartão; rodovias, radares, ciclovias, metrô e ônibus foram para Mobilidade, em Vias e linhas."
+    "Camadas e locais: cada assunto (Segurança e justiça, Serviços públicos, Mobilidade, Comércio e lazer, Riscos) tem a sua chave no título para ligar ou desligar tudo o que está dentro; cada grupo continua com a sua."
   ],
   "versoes": [
+    {
+      "versao": "0.72.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Camadas e locais: cada assunto (Segurança e justiça, Serviços públicos, Mobilidade, Comércio e lazer, Riscos) tem a sua chave no título para ligar ou desligar tudo o que está dentro; cada grupo continua com a sua."
+      ],
+      "en": [
+        "Layers and places: each topic (Safety and justice, Public services, Mobility, Shops and leisure, Risks) has its own switch in the title to turn everything inside on or off; each group keeps its own too."
+      ],
+      "es": [
+        "Capas y lugares: cada tema (Seguridad y justicia, Servicios públicos, Movilidad, Comercio y ocio, Riesgos) tiene su interruptor en el título para activar o desactivar todo lo de adentro; cada grupo sigue con el suyo."
+      ]
+    },
     {
       "versao": "0.72.0",
       "data": "03/11/2026",
@@ -234,25 +246,6 @@
         "Detalle de los lugares: además del 3D, ahora también los puntos (comercios, salud, radares, íconos del mapa y las capas activadas) aparecen solo hasta el radio elegido — 1 km, 2 km, 3 km o Completo, con la ★ recomendada para tu celular.",
         "Botón nuevo arriba del mapa: abre los lugares (policía, salud, escuelas, comercios...) para activar y desactivar, con el radio de los lugares arriba.",
         "Los radares en el horizonte también respetan el radio."
-      ]
-    },
-    {
-      "versao": "0.68.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Detalhe do 3D: em Configurações > Veículo e mapa 3D você escolhe até onde aparecem prédios, números das casas e locais — 1 km, 2 km, 3 km ou Completo. O ★ marca o recomendado para o seu celular, e o Vrumbi avisa se a escolha pesa para o aparelho.",
-        "Prioridade dos ícones: quando dois locais caem no mesmo lugar, fica o mais importante (emergência, polícia, combustível, depois farmácia, mercado, banco...) e o outro aparece ao chegar mais perto. Radares e os seus lugares ficam sempre por cima.",
-        "Voltaram às Configurações \"Edifícios em 3D\", \"Números das casas\" e \"Tamanho da letra\", que tinham sumido. O medidor de desempenho ficou em Configurações > Sistema."
-      ],
-      "en": [
-        "3D detail: in Settings > Vehicle and 3D map you choose how far buildings, house numbers and places show — 1 km, 2 km, 3 km or Full. The ★ marks the recommended one for your phone, and Vrumbi warns if the choice is heavy for the device.",
-        "Icon priority: when two places land on the same spot, the most important stays (emergency, police, fuel, then pharmacy, market, bank...) and the other shows when you get closer. Speed cameras and your places are always on top.",
-        "\"3D buildings\", \"House numbers\" and \"Text size\" are back in Settings (they had disappeared). The performance meter is in Settings > System."
-      ],
-      "es": [
-        "Detalle del 3D: en Configuración > Vehículo y mapa 3D eliges hasta dónde aparecen edificios, números de casas y lugares — 1 km, 2 km, 3 km o Completo. La ★ marca el recomendado para tu celular, y Vrumbi avisa si la elección pesa para el aparato.",
-        "Prioridad de íconos: cuando dos lugares caen en el mismo sitio, queda el más importante (emergencia, policía, combustible, luego farmacia, mercado, banco...) y el otro aparece al acercarte. Los radares y tus lugares siempre quedan arriba.",
-        "Volvieron a la Configuración \"Edificios en 3D\", \"Números de las casas\" y \"Tamaño de letra\", que habían desaparecido. El medidor de rendimiento quedó en Configuración > Sistema."
       ]
     }
   ]
