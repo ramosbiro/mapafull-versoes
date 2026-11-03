@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.72.3",
-  "codigo": 224,
+  "versao": "0.72.4",
+  "codigo": 225,
   "data": "03/11/2026",
-  "tamanho": 206397498,
-  "sha256": "3a10c199bd872d5140e9491a0f6aef26dbdc3126ae3816b478b10342fb692a12",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.3/Vrumbi-0.72.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.3/Vrumbi-relogio-0.72.3.apk",
+  "tamanho": 206399018,
+  "sha256": "2a3e785c99dec671e763d932b7785b32c0ac408eb7f8f330087925104671e9b7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.4/Vrumbi-0.72.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.4/Vrumbi-relogio-0.72.4.apk",
   "notas": [
-    "Módulo da polícia: as áreas agora ficam dentro do cartão da própria instituição. Em Segurança e justiça > Polícia Militar, depois das unidades, vêm as Áreas: Territorial (Comandos, Batalhões, Companhias), Bombeiros, Ambiental, Trânsito e Rodoviária, cada um com os seus níveis e a sua chave. A Polícia Civil, do mesmo jeito (Departamentos, Seccionais, DPs).",
-    "Municípios e Estado ficam no assunto Divisas."
+    "Mapa muito mais leve com as áreas ligadas (de 2 para cerca de 60 quadros por segundo): só as áreas em volta de onde você está, sem o preenchimento, e os níveis mais finos (companhias, DPs, postos) só com o mapa mais perto.",
+    "Fim do \"São Paulo\" repetido por todo o mapa: cada área tem o seu nome uma vez só.",
+    "Teclado: a faixa preta que ficava embaixo depois de fechar o teclado não fica mais, e tocar em Enviar na resposta da mensagem não fecha o teclado no meio do toque."
   ],
   "versoes": [
+    {
+      "versao": "0.72.4",
+      "data": "03/11/2026",
+      "itens": [
+        "Mapa muito mais leve com as áreas ligadas (de 2 para cerca de 60 quadros por segundo): só as áreas em volta de onde você está, sem o preenchimento, e os níveis mais finos (companhias, DPs, postos) só com o mapa mais perto.",
+        "Fim do \"São Paulo\" repetido por todo o mapa: cada área tem o seu nome uma vez só.",
+        "Teclado: a faixa preta que ficava embaixo depois de fechar o teclado não fica mais, e tocar em Enviar na resposta da mensagem não fecha o teclado no meio do toque."
+      ],
+      "en": [
+        "A much lighter map with the areas on (from 2 to about 60 frames per second): only the areas around you, without the fill, and the finer levels (companies, precincts, posts) only when zoomed in.",
+        "No more \"São Paulo\" repeated all over the map: each area shows its name only once.",
+        "Keyboard: the black strip left at the bottom after closing the keyboard is gone, and tapping Send in a message reply no longer closes the keyboard mid-tap."
+      ],
+      "es": [
+        "Mapa mucho más liviano con las áreas activadas (de 2 a unos 60 cuadros por segundo): solo las áreas alrededor de donde estás, sin relleno, y los niveles más finos (compañías, distritos, puestos) solo con el mapa más cerca.",
+        "Se acabó el \"São Paulo\" repetido por todo el mapa: cada área muestra su nombre una sola vez.",
+        "Teclado: la franja negra que quedaba abajo al cerrar el teclado ya no queda, y tocar Enviar en la respuesta de un mensaje no cierra el teclado en medio del toque."
+      ]
+    },
     {
       "versao": "0.72.3",
       "data": "03/11/2026",
@@ -216,22 +236,6 @@
         "Volver más natural: lo que abres desde los Ajustes rápidos (Lugares, Capas, Mapa 3D, Clima...) vuelve a ellos, con el botón atrás de Android o deslizando; desde los Ajustes rápidos, vuelve al mapa.",
         "Botones más modernos en toda la app: sin bloques naranjas llenos. Guardar, Iniciar, Ir, Reproducir, Enviar y Recentrar tienen fondo suave y contorno fino en el color de destaque.",
         "Configuración: el grupo \"Más\" salió. Tu perfil, Mis vehículos y Módulo de la policía quedan juntos en el nuevo grupo Usuario, arriba."
-      ]
-    },
-    {
-      "versao": "0.68.4",
-      "data": "03/11/2026",
-      "itens": [
-        "Visual mais leve em todo o app: a opção escolhida (Carro, 3 km, Auto, Padrão, 5%...) agora tem fundo suave e contorno fino na cor de destaque, em vez do bloco laranja cheio, e os botões ficaram mais baixos. A cor cheia ficou só para a ação principal (Salvar, Iniciar navegação).",
-        "Mapa completo, Locais no mapa e Camadas agora ficam juntos nos Ajustes rápidos, seção Mapa; os três botões grandes saíram do Menu."
-      ],
-      "en": [
-        "Lighter look across the app: the chosen option (Car, 3 km, Auto, Default, 5%...) now has a soft background and a thin outline in the accent color instead of the solid orange block, and the buttons are shorter. Solid color is kept only for the main action (Save, Start navigation).",
-        "Full map, Places on the map and Layers are now together in Quick settings, Map section; the three big buttons left the Menu."
-      ],
-      "es": [
-        "Aspecto más liviano en toda la app: la opción elegida (Coche, 3 km, Auto, Estándar, 5%...) ahora tiene fondo suave y contorno fino en el color de destaque, en lugar del bloque naranja lleno, y los botones son más bajos. El color lleno quedó solo para la acción principal (Guardar, Iniciar navegación).",
-        "Mapa completo, Lugares en el mapa y Capas ahora están juntos en los Ajustes rápidos, sección Mapa; los tres botones grandes salieron del Menú."
       ]
     }
   ]
