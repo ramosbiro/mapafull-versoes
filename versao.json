@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.69.0",
-  "codigo": 214,
+  "versao": "0.69.1",
+  "codigo": 215,
   "data": "03/11/2026",
-  "tamanho": 206308690,
-  "sha256": "e05a9f21dcb0077a050005f71efe77587397020f8998e35ec0d0de8ce9469451",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.0/Vrumbi-0.69.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.0/Vrumbi-relogio-0.69.0.apk",
+  "tamanho": 206309198,
+  "sha256": "5629408127d7a00cd79eafc1b4a75b16955e3c24d054cdd51cdd06263bef911b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.1/Vrumbi-0.69.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.1/Vrumbi-relogio-0.69.1.apk",
   "notas": [
-    "Menos menus: o Menu do botão ☰ entrou nos Ajustes rápidos. Minhas viagens, Clima, Alertas, Ajuda por perto, Mapas offline e Novidades viraram atalhos compactos lá dentro, e as Configurações ficam numa linha no fim. Agora são só dois lugares: Ajustes rápidos e Configurações.",
-    "Voltar mais natural: o que você abre a partir dos Ajustes rápidos (Locais, Camadas, Mapa 3D, Clima...) volta para eles, pelo voltar do Android ou deslizando; dos Ajustes rápidos, volta para o mapa.",
-    "Botões mais modernos em todo o app: nada de bloco laranja cheio. Salvar, Iniciar, Ir, Tocar, Enviar e Recentrar têm fundo suave e contorno fino na cor de destaque.",
-    "Configurações: o grupo \"Mais\" saiu. Seu perfil, Meus veículos e Módulo da polícia ficam juntos no novo grupo Usuário, no alto."
+    "Ajustes rápidos organizados por assunto: o grupo Atalhos acabou. Mapas offline, Clima e tempo, Minhas viagens e Ajuda por perto ficam no grupo Mapa, e Alertas e notícias abre o grupo Avisos.",
+    "Novidades agora fica em Configurações > Aplicativo, junto da versão e da atualização."
   ],
   "versoes": [
+    {
+      "versao": "0.69.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Ajustes rápidos organizados por assunto: o grupo Atalhos acabou. Mapas offline, Clima e tempo, Minhas viagens e Ajuda por perto ficam no grupo Mapa, e Alertas e notícias abre o grupo Avisos.",
+        "Novidades agora fica em Configurações > Aplicativo, junto da versão e da atualização."
+      ],
+      "en": [
+        "Quick settings organized by topic: the Shortcuts group is gone. Offline maps, Weather, My trips and Help nearby are in the Map group, and Alerts and news opens the Alerts group.",
+        "What's new is now in Settings > App, next to the version and the update."
+      ],
+      "es": [
+        "Ajustes rápidos organizados por tema: el grupo Atajos salió. Mapas sin conexión, Clima, Mis viajes y Ayuda cercana están en el grupo Mapa, y Alertas y noticias abre el grupo Avisos.",
+        "Novedades ahora está en Configuración > Aplicación, junto a la versión y la actualización."
+      ]
+    },
     {
       "versao": "0.69.0",
       "data": "03/11/2026",
@@ -233,28 +247,6 @@
         "¿Buscaste un local? Un toque y Vrumbi ya calcula las rutas y muestra el mapa desde arriba con todas (antes, solo al segundo toque).",
         "Junto a las rutas, la información del lugar: abierto ahora o cerrado (y cuándo cierra o abre), los horarios de la semana, teléfono, WhatsApp, sitio e Instagram, entrega, para llevar, accesibilidad y formas de pago, del mapa colaborativo.",
         "Y lo que solo Vrumbi tiene: las estrellas de los usuarios, cómo está el movimiento ahora (vacío, tranquilo, concurrido o lleno, contado por quien está ahí) y cuántas personas de Vrumbi van para allá. ¿Estás en el lugar? Cuenta cómo está y deja tu nota."
-      ]
-    },
-    {
-      "versao": "0.67.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Importar treinos de outros apps (Meus treinos > Importar): escolha os arquivos exportados, vários de uma vez, o ZIP inteiro da exportação ou uma PASTA com as subpastas. O Vrumbi entende GPX, TCX, FIT, KML, CSV e JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Saúde, adidas Running, Runkeeper, Komoot e outros. Com o trajeto, os batimentos, o nome e o tipo de cada treino, e sem duplicar o que já está aqui.",
-        "Da Saúde do Android: puxa os treinos que o Samsung Health, o Google, a Fitbit e outros guardaram lá.",
-        "GPX sem horário vira uma rota salva para seguir no treino. No fim, o Vrumbi mostra quantos entraram, quantos já existiam e o que não reconheceu; e dá para mandar um diagnóstico (só a estrutura dos arquivos, sem os seus dados) para melhorarmos a importação.",
-        "Selecionar vários treinos, como no Samsung Health: segure um treino (ou toque no botão de seleção) para marcar; o círculo no canto marca todos; Excluir manda para a lixeira (dá para restaurar)."
-      ],
-      "en": [
-        "Import workouts from other apps (My workouts > Import): pick the exported files, several at once, the whole export ZIP, or a FOLDER with its subfolders. Vrumbi reads GPX, TCX, FIT, KML, CSV and JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Health, adidas Running, Runkeeper, Komoot and more. With the route, heart rate, name and type of each workout, and without duplicating what is already here.",
-        "From Health Connect: brings in the workouts Samsung Health, Google, Fitbit and others saved there.",
-        "GPX without times becomes a saved route to follow in a workout. At the end, Vrumbi shows how many came in, how many already existed and what it did not recognize; you can also send a diagnostic (only the file structure, none of your data) so we can improve the import.",
-        "Select several workouts, like in Samsung Health: hold a workout (or tap the select button) to mark it; the circle in the corner marks them all; Delete sends them to the trash (you can restore them)."
-      ],
-      "es": [
-        "Importar entrenos de otras apps (Mis entrenos > Importar): elige los archivos exportados, varios a la vez, el ZIP entero de la exportación o una CARPETA con sus subcarpetas. Vrumbi entiende GPX, TCX, FIT, KML, CSV y JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Salud, adidas Running, Runkeeper, Komoot y otros. Con el recorrido, el pulso, el nombre y el tipo de cada entreno, y sin duplicar lo que ya está aquí.",
-        "Desde Health Connect: trae los entrenos que Samsung Health, Google, Fitbit y otros guardaron ahí.",
-        "Un GPX sin horas se vuelve una ruta guardada para seguir en el entreno. Al final, Vrumbi muestra cuántos entraron, cuántos ya existían y qué no reconoció; y puedes enviar un diagnóstico (solo la estructura de los archivos, sin tus datos) para mejorar la importación.",
-        "Seleccionar varios entrenos, como en Samsung Health: mantén pulsado un entreno (o toca el botón de selección) para marcarlo; el círculo en la esquina marca todos; Eliminar los manda a la papelera (se pueden restaurar)."
       ]
     }
   ]
