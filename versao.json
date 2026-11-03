@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.68.4",
-  "codigo": 213,
+  "versao": "0.69.0",
+  "codigo": 214,
   "data": "03/11/2026",
-  "tamanho": 206306834,
-  "sha256": "db791546f2649618a470d38d29a18d491753c5752307f63f69017f2fd755a2a4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.4/Vrumbi-0.68.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.4/Vrumbi-relogio-0.68.4.apk",
+  "tamanho": 206308690,
+  "sha256": "e05a9f21dcb0077a050005f71efe77587397020f8998e35ec0d0de8ce9469451",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.0/Vrumbi-0.69.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.0/Vrumbi-relogio-0.69.0.apk",
   "notas": [
-    "Visual mais leve em todo o app: a opção escolhida (Carro, 3 km, Auto, Padrão, 5%...) agora tem fundo suave e contorno fino na cor de destaque, em vez do bloco laranja cheio, e os botões ficaram mais baixos. A cor cheia ficou só para a ação principal (Salvar, Iniciar navegação).",
-    "Mapa completo, Locais no mapa e Camadas agora ficam juntos nos Ajustes rápidos, seção Mapa; os três botões grandes saíram do Menu."
+    "Menos menus: o Menu do botão ☰ entrou nos Ajustes rápidos. Minhas viagens, Clima, Alertas, Ajuda por perto, Mapas offline e Novidades viraram atalhos compactos lá dentro, e as Configurações ficam numa linha no fim. Agora são só dois lugares: Ajustes rápidos e Configurações.",
+    "Voltar mais natural: o que você abre a partir dos Ajustes rápidos (Locais, Camadas, Mapa 3D, Clima...) volta para eles, pelo voltar do Android ou deslizando; dos Ajustes rápidos, volta para o mapa.",
+    "Botões mais modernos em todo o app: nada de bloco laranja cheio. Salvar, Iniciar, Ir, Tocar, Enviar e Recentrar têm fundo suave e contorno fino na cor de destaque.",
+    "Configurações: o grupo \"Mais\" saiu. Seu perfil, Meus veículos e Módulo da polícia ficam juntos no novo grupo Usuário, no alto."
   ],
   "versoes": [
+    {
+      "versao": "0.69.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Menos menus: o Menu do botão ☰ entrou nos Ajustes rápidos. Minhas viagens, Clima, Alertas, Ajuda por perto, Mapas offline e Novidades viraram atalhos compactos lá dentro, e as Configurações ficam numa linha no fim. Agora são só dois lugares: Ajustes rápidos e Configurações.",
+        "Voltar mais natural: o que você abre a partir dos Ajustes rápidos (Locais, Camadas, Mapa 3D, Clima...) volta para eles, pelo voltar do Android ou deslizando; dos Ajustes rápidos, volta para o mapa.",
+        "Botões mais modernos em todo o app: nada de bloco laranja cheio. Salvar, Iniciar, Ir, Tocar, Enviar e Recentrar têm fundo suave e contorno fino na cor de destaque.",
+        "Configurações: o grupo \"Mais\" saiu. Seu perfil, Meus veículos e Módulo da polícia ficam juntos no novo grupo Usuário, no alto."
+      ],
+      "en": [
+        "Fewer menus: the ☰ Menu moved into Quick settings. My trips, Weather, Alerts, Help nearby, Offline maps and What's new became compact shortcuts there, and Settings is a single line at the end. Now there are only two places: Quick settings and Settings.",
+        "More natural back: whatever you open from Quick settings (Places, Layers, 3D map, Weather...) goes back to it, with Android back or a swipe; from Quick settings, back goes to the map.",
+        "Modern buttons across the app: no more solid orange blocks. Save, Start, Go, Play, Send and Recenter have a soft background and a thin outline in the accent color.",
+        "Settings: the \"More\" group is gone. Your profile, My vehicles and Police module are together in the new User group, at the top."
+      ],
+      "es": [
+        "Menos menús: el Menú del botón ☰ entró en los Ajustes rápidos. Mis viajes, Clima, Alertas, Ayuda cercana, Mapas sin conexión y Novedades son atajos compactos allí, y la Configuración es una línea al final. Ahora son solo dos lugares: Ajustes rápidos y Configuración.",
+        "Volver más natural: lo que abres desde los Ajustes rápidos (Lugares, Capas, Mapa 3D, Clima...) vuelve a ellos, con el botón atrás de Android o deslizando; desde los Ajustes rápidos, vuelve al mapa.",
+        "Botones más modernos en toda la app: sin bloques naranjas llenos. Guardar, Iniciar, Ir, Reproducir, Enviar y Recentrar tienen fondo suave y contorno fino en el color de destaque.",
+        "Configuración: el grupo \"Más\" salió. Tu perfil, Mis vehículos y Módulo de la policía quedan juntos en el nuevo grupo Usuario, arriba."
+      ]
+    },
     {
       "versao": "0.68.4",
       "data": "03/11/2026",
@@ -231,25 +255,6 @@
         "Desde Health Connect: trae los entrenos que Samsung Health, Google, Fitbit y otros guardaron ahí.",
         "Un GPX sin horas se vuelve una ruta guardada para seguir en el entreno. Al final, Vrumbi muestra cuántos entraron, cuántos ya existían y qué no reconoció; y puedes enviar un diagnóstico (solo la estructura de los archivos, sin tus datos) para mejorar la importación.",
         "Seleccionar varios entrenos, como en Samsung Health: mantén pulsado un entreno (o toca el botón de selección) para marcarlo; el círculo en la esquina marca todos; Eliminar los manda a la papelera (se pueden restaurar)."
-      ]
-    },
-    {
-      "versao": "0.66.1",
-      "data": "02/11/2026",
-      "itens": [
-        "Mensagens: agora dá para OUVIR os áudios e VER as fotos, vídeos, GIFs e figurinhas que chegam no WhatsApp, ali mesmo na conversa do Vrumbi. Toque em Ouvir ou Ver: o Vrumbi acha o arquivo que o WhatsApp já salvou no celular (na primeira vez, o Android pede a permissão de fotos, vídeos e áudios).",
-        "O áudio toca com a barra de progresso e dá para pausar; foto, figurinha e GIF aparecem na bolha e abrem em tela cheia; vídeo abre em tela cheia (só com o carro parado, como digitar).",
-        "Telegram e outros guardam os arquivos numa pasta só deles: nesses, o Vrumbi oferece abrir a conversa no próprio app."
-      ],
-      "en": [
-        "Messages: you can now LISTEN to voice notes and SEE photos, videos, GIFs and stickers that arrive on WhatsApp, right in the Vrumbi conversation. Tap Listen or View: Vrumbi finds the file WhatsApp already saved on your phone (the first time, Android asks for photos, videos and audio permission).",
-        "Audio plays with a progress bar and can be paused; photos, stickers and GIFs show in the bubble and open full screen; videos open full screen (only while stopped, like typing).",
-        "Telegram and others keep their files in a private folder: for those, Vrumbi offers to open the conversation in the app itself."
-      ],
-      "es": [
-        "Mensajes: ahora puedes ESCUCHAR los audios y VER las fotos, videos, GIF y stickers que llegan por WhatsApp, ahí mismo en la conversación de Vrumbi. Toca Escuchar o Ver: Vrumbi encuentra el archivo que WhatsApp ya guardó en el móvil (la primera vez, Android pide el permiso de fotos, videos y audio).",
-        "El audio suena con barra de progreso y se puede pausar; fotos, stickers y GIF aparecen en la burbuja y se abren a pantalla completa; el video se abre a pantalla completa (solo con el auto detenido, como escribir).",
-        "Telegram y otros guardan los archivos en una carpeta privada: en esos, Vrumbi ofrece abrir la conversación en la propia app."
       ]
     }
   ]
