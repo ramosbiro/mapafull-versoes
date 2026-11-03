@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.73.1",
-  "codigo": 227,
+  "versao": "0.74.0",
+  "codigo": 228,
   "data": "03/11/2026",
-  "tamanho": 206409002,
-  "sha256": "f99e62d608793488fd31ee49cf26e49391b83c420d28035f72b6806ec61536b0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.1/Vrumbi-0.73.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.1/Vrumbi-relogio-0.73.1.apk",
+  "tamanho": 206410114,
+  "sha256": "7a766362d0ddccc954198d38a603ed61007185812a1754f8b58f8659b665147e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.0/Vrumbi-0.74.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.0/Vrumbi-relogio-0.74.0.apk",
   "notas": [
-    "Rodízio em Evitar na rota: a chave \"Desviar do rodízio\" (ligada de fábrica) e os dias e horários do final da placa do seu veículo principal. Desligada, as rotas só avisam, sem desviar. A placa e a isenção continuam em Meus veículos (tem atalho ali mesmo)."
+    "Uma tela de ajustes só: os Ajustes rápidos viraram as Configurações do app (o botão ☰). Ganharam o grupo Navegação (Meus veículos, Ícone da posição, Evitar na rota) e o Módulo da polícia no grupo Mapa.",
+    "O que é do sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões, Aplicativo e Novidades) fica no botão Sistema e aplicativo, no fim. Nada repetido em dois lugares."
   ],
   "versoes": [
+    {
+      "versao": "0.74.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Uma tela de ajustes só: os Ajustes rápidos viraram as Configurações do app (o botão ☰). Ganharam o grupo Navegação (Meus veículos, Ícone da posição, Evitar na rota) e o Módulo da polícia no grupo Mapa.",
+        "O que é do sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões, Aplicativo e Novidades) fica no botão Sistema e aplicativo, no fim. Nada repetido em dois lugares."
+      ],
+      "en": [
+        "One settings screen: Quick settings became the app's Settings (the ☰ button). It gained the Navigation group (My vehicles, Position icon, Avoid on route) and the Police module in the Map group.",
+        "System items (Car screen, GPS and compass, Language, Widgets, Performance meter, Permissions, App and What's new) are under the System and app button at the end. Nothing repeated in two places."
+      ],
+      "es": [
+        "Una sola pantalla de ajustes: los Ajustes rápidos se volvieron la Configuración de la app (el botón ☰). Ganaron el grupo Navegación (Mis vehículos, Icono de posición, Evitar en la ruta) y el Módulo de la policía en el grupo Mapa.",
+        "Lo del sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos, Aplicación y Novedades) queda en el botón Sistema y aplicación, al final. Nada repetido en dos lugares."
+      ]
+    },
     {
       "versao": "0.73.1",
       "data": "03/11/2026",
@@ -203,28 +220,6 @@
         "Organizar ahora elige y ordena tus ejercicios: arriba los elegidos (subir, bajar, quitar), abajo el catálogo por categoría para añadir.",
         "El catálogo completo (recientes, categorías, buscar y crear un deporte) está en la tarjeta Más ejercicios.",
         "Sensores, reloj y perfil quedan al final de Mis entrenamientos; GPS y brújula pasaron a Configuración > Navegación."
-      ]
-    },
-    {
-      "versao": "0.69.2",
-      "data": "03/11/2026",
-      "itens": [
-        "Configurações mais modernas: cada grupo virou um cartão com linhas compactas, ícone num disco leve e texto menor.",
-        "Seu perfil foi para Sensores e relógio e Meus veículos para Navegação, junto de Veículo e mapa 3D.",
-        "Módulo da polícia sem liga/desliga: liberado é ativo. O que se escolhe são as camadas, e nas Camadas agora há uma chave para todas as áreas e uma em cada grupo (Polícia Militar, Bombeiros...).",
-        "A lupa de pesquisar ficou igual aos outros botões do mapa."
-      ],
-      "en": [
-        "More modern Settings: each group is a card with compact rows, the icon on a soft disc and smaller text.",
-        "Your profile moved to Sensors and watch, and My vehicles to Navigation, next to Vehicle and 3D map.",
-        "Police module without on/off: unlocked means active. What you choose are the layers, and Layers now has one switch for all areas and one per group (Military Police, Firefighters...).",
-        "The search button now matches the other map buttons."
-      ],
-      "es": [
-        "Configuración más moderna: cada grupo es una tarjeta con filas compactas, el icono en un disco suave y texto más pequeño.",
-        "Tu perfil pasó a Sensores y reloj, y Mis vehículos a Navegación, junto a Vehículo y mapa 3D.",
-        "Módulo de la policía sin encender/apagar: liberado es activo. Lo que se elige son las capas, y en Capas ahora hay un interruptor para todas las áreas y uno por grupo (Policía Militar, Bomberos...).",
-        "El botón de buscar quedó igual a los demás botones del mapa."
       ]
     }
   ]
