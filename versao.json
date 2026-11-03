@@ -1,19 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.69.2",
-  "codigo": 216,
+  "versao": "0.70.0",
+  "codigo": 217,
   "data": "03/11/2026",
-  "tamanho": 206310414,
-  "sha256": "8e588bfff41de8132b48338b77642798fad00cdc11f108d81bc78f0450779be7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.2/Vrumbi-0.69.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.2/Vrumbi-relogio-0.69.2.apk",
+  "tamanho": 206315478,
+  "sha256": "0854b9c5d258d3773d7da3f3491417f930bed6e4181fba6c2c1f281181864ba1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.0/Vrumbi-0.70.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.0/Vrumbi-relogio-0.70.0.apk",
   "notas": [
-    "Configurações mais modernas: cada grupo virou um cartão com linhas compactas, ícone num disco leve e texto menor.",
-    "Seu perfil foi para Sensores e relógio e Meus veículos para Navegação, junto de Veículo e mapa 3D.",
-    "Módulo da polícia sem liga/desliga: liberado é ativo. O que se escolhe são as camadas, e nas Camadas agora há uma chave para todas as áreas e uma em cada grupo (Polícia Militar, Bombeiros...).",
-    "A lupa de pesquisar ficou igual aos outros botões do mapa."
+    "Treino novo, como o Samsung Health: o botão Treino abre direto em Meus treinos. No alto ficam os seus exercícios (tocar num deles já vai para o Start), depois o plano de corrida, as metas, o condicionamento e os treinos feitos.",
+    "Organizar agora escolhe e ordena os seus exercícios: em cima os escolhidos (subir, descer, tirar), embaixo o catálogo por categoria para acrescentar.",
+    "O catálogo inteiro (recentes, categorias, procurar e criar um esporte) fica no cartão Mais exercícios.",
+    "Sensores, relógio e perfil ficam no fim de Meus treinos; GPS e bússola foram para Configurações > Navegação."
   ],
   "versoes": [
+    {
+      "versao": "0.70.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Treino novo, como o Samsung Health: o botão Treino abre direto em Meus treinos. No alto ficam os seus exercícios (tocar num deles já vai para o Start), depois o plano de corrida, as metas, o condicionamento e os treinos feitos.",
+        "Organizar agora escolhe e ordena os seus exercícios: em cima os escolhidos (subir, descer, tirar), embaixo o catálogo por categoria para acrescentar.",
+        "O catálogo inteiro (recentes, categorias, procurar e criar um esporte) fica no cartão Mais exercícios.",
+        "Sensores, relógio e perfil ficam no fim de Meus treinos; GPS e bússola foram para Configurações > Navegação."
+      ],
+      "en": [
+        "New workout screen, like Samsung Health: the Workout button opens straight into My workouts. At the top are your exercises (tapping one goes to Start), then the running plan, goals, fitness and the workouts done.",
+        "Organize now chooses and orders your exercises: the chosen ones on top (up, down, remove), the catalog by category below to add.",
+        "The full catalog (recent, categories, search and create a sport) is in the More exercises card.",
+        "Sensors, watch and profile are at the end of My workouts; GPS and compass moved to Settings > Navigation."
+      ],
+      "es": [
+        "Entrenamiento nuevo, como Samsung Health: el botón Entrenamiento abre directo en Mis entrenamientos. Arriba están tus ejercicios (tocar uno va al Start), luego el plan de carrera, las metas, la condición y los entrenamientos hechos.",
+        "Organizar ahora elige y ordena tus ejercicios: arriba los elegidos (subir, bajar, quitar), abajo el catálogo por categoría para añadir.",
+        "El catálogo completo (recientes, categorías, buscar y crear un deporte) está en la tarjeta Más ejercicios.",
+        "Sensores, reloj y perfil quedan al final de Mis entrenamientos; GPS y brújula pasaron a Configuración > Navegación."
+      ]
+    },
     {
       "versao": "0.69.2",
       "data": "03/11/2026",
@@ -230,28 +252,6 @@
       "es": [
         "Búsqueda como debe ser: primero las direcciones, luego los comercios y lugares (los mejor calificados arriba). Las unidades de la policía salieron del principio: solo aparecen con el módulo de la policía, al final de la lista.",
         "Escribe lo que quieras: la lista filtra mientras escribes, con más resultados. Y un tipo de lugar (\"farmacia\", \"gasolinera\", \"panadería\", \"supermercado\"...) muestra los más cercanos."
-      ]
-    },
-    {
-      "versao": "0.67.2",
-      "data": "02/11/2026",
-      "itens": [
-        "Chegou ao destino? O Vrumbi comemora e aparece o botão Concluir: um toque e a rota acaba (sem entrar em outra tela nem tocar duas vezes). Foi embora sem concluir ou passaram 3 minutos? A rota encerra sozinha.",
-        "Avalie qualquer estabelecimento, em qualquer país: de 1 a 5 estrelas, o que achou (bom atendimento, rápido, limpo, preço justo, comida boa, acessível, estacionamento, bom para crianças, aceita pet, Wi-Fi...), o comentário e fotos do lugar. Na chegada, o botão \"Avaliar este lugar\".",
-        "As avaliações aparecem junto do lugar: a nota, quantas estrelas cada um deu, as fotos e os comentários com o apelido de quem escreveu. Conteúdo ruim se denuncia na bandeirinha e some com 3 denúncias.",
-        "Os mais bem avaliados sobem: na busca e na lista do shopping ou centro comercial, quem tem as melhores notas fica no topo, com o selo das estrelas."
-      ],
-      "en": [
-        "Arrived? Vrumbi celebrates and shows a Finish button: one tap and the route ends (no other screen, no double tap). Left without finishing, or 3 minutes went by? The route ends on its own.",
-        "Rate any place, in any country: 1 to 5 stars, what you liked (good service, fast, clean, fair price, good food, accessible, parking, kid-friendly, pet-friendly, Wi-Fi...), a comment and photos of the place. On arrival, the \"Rate this place\" button.",
-        "Ratings show with the place: the score, how many gave each star, the photos and the comments with the author's nickname. Bad content can be reported with the flag and disappears after 3 reports.",
-        "The best rated rise to the top: in search and in the mall or shopping center list, the highest-rated places come first, with a star badge."
-      ],
-      "es": [
-        "¿Llegaste? Vrumbi lo celebra y aparece el botón Terminar: un toque y la ruta acaba (sin otra pantalla ni doble toque). ¿Te fuiste sin terminar o pasaron 3 minutos? La ruta termina sola.",
-        "Califica cualquier local, en cualquier país: de 1 a 5 estrellas, lo que te gustó (buena atención, rápido, limpio, precio justo, buena comida, accesible, estacionamiento, para niños, admite mascotas, Wi-Fi...), un comentario y fotos del lugar. Al llegar, el botón \"Calificar este lugar\".",
-        "Las calificaciones aparecen con el lugar: la nota, cuántos dieron cada estrella, las fotos y los comentarios con el apodo de quien escribió. El contenido malo se denuncia con la banderita y desaparece con 3 denuncias.",
-        "Los mejor calificados suben: en la búsqueda y en la lista del centro comercial, los de mejores notas quedan arriba, con el sello de estrellas."
       ]
     }
   ]
