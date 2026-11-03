@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.67.2",
-  "codigo": 205,
+  "versao": "0.67.3",
+  "codigo": 206,
   "data": "02/11/2026",
-  "tamanho": 207623094,
-  "sha256": "7a39b251c797fc47851674c551e8566374a0d8cb5028663782b4615eaa889cce",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.2/Vrumbi-0.67.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.2/Vrumbi-relogio-0.67.2.apk",
+  "tamanho": 206930337,
+  "sha256": "601ae585f479b6081a0c3fcb03aea7ed7b45a49edbd7add235a8cf63b25bd3bc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.3/Vrumbi-0.67.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.3/Vrumbi-relogio-0.67.3.apk",
   "notas": [
-    "Chegou ao destino? O Vrumbi comemora e aparece o botão Concluir: um toque e a rota acaba (sem entrar em outra tela nem tocar duas vezes). Foi embora sem concluir ou passaram 3 minutos? A rota encerra sozinha.",
-    "Avalie qualquer estabelecimento, em qualquer país: de 1 a 5 estrelas, o que achou (bom atendimento, rápido, limpo, preço justo, comida boa, acessível, estacionamento, bom para crianças, aceita pet, Wi-Fi...), o comentário e fotos do lugar. Na chegada, o botão \"Avaliar este lugar\".",
-    "As avaliações aparecem junto do lugar: a nota, quantas estrelas cada um deu, as fotos e os comentários com o apelido de quem escreveu. Conteúdo ruim se denuncia na bandeirinha e some com 3 denúncias.",
-    "Os mais bem avaliados sobem: na busca e na lista do shopping ou centro comercial, quem tem as melhores notas fica no topo, com o selo das estrelas."
+    "Busca do jeito certo: primeiro os endereços, depois os estabelecimentos e lugares (os mais bem avaliados em cima). As unidades da polícia saíram do topo: só aparecem para quem tem o módulo da polícia, no fim da lista.",
+    "Escreva qualquer coisa: a lista vai filtrando enquanto você digita, com mais resultados. E um tipo de lugar (\"farmácia\", \"posto\", \"padaria\", \"mercado\"...) já mostra os mais perto de você."
   ],
   "versoes": [
+    {
+      "versao": "0.67.3",
+      "data": "02/11/2026",
+      "itens": [
+        "Busca do jeito certo: primeiro os endereços, depois os estabelecimentos e lugares (os mais bem avaliados em cima). As unidades da polícia saíram do topo: só aparecem para quem tem o módulo da polícia, no fim da lista.",
+        "Escreva qualquer coisa: a lista vai filtrando enquanto você digita, com mais resultados. E um tipo de lugar (\"farmácia\", \"posto\", \"padaria\", \"mercado\"...) já mostra os mais perto de você."
+      ],
+      "en": [
+        "Search the right way: addresses first, then places and businesses (best rated on top). Police units left the top: they only show for those with the police module, at the end of the list.",
+        "Type anything: the list filters as you type, with more results. And a type of place (\"pharmacy\", \"gas station\", \"bakery\", \"supermarket\"...) shows the nearest ones."
+      ],
+      "es": [
+        "Búsqueda como debe ser: primero las direcciones, luego los comercios y lugares (los mejor calificados arriba). Las unidades de la policía salieron del principio: solo aparecen con el módulo de la policía, al final de la lista.",
+        "Escribe lo que quieras: la lista filtra mientras escribes, con más resultados. Y un tipo de lugar (\"farmacia\", \"gasolinera\", \"panadería\", \"supermercado\"...) muestra los más cercanos."
+      ]
+    },
     {
       "versao": "0.67.2",
       "data": "02/11/2026",
@@ -263,25 +277,6 @@
         "Vueltas: automáticas (400 m a 5 km) y con el botón Vuelta, en la pantalla del entreno y en la notificación. En el resumen, la tabla de vueltas y la de las etapas del intervalo, con la mejor destacada.",
         "Editar el entreno: nombre, nota y deporte. Borrar ahora lo lleva a la Papelera, que lo guarda 30 días para restaurarlo.",
         "Récords por distancia, como en las apps de salud: el tramo más rápido de 5 km, 10 km, media maratón y maratón (en bici, de 5 a 100 km), en Mis entrenos al elegir el deporte."
-      ]
-    },
-    {
-      "versao": "0.59.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Meus treinos: o lugar para ver tudo o que você já fez. Abas Dias, Semanas e Meses; filtro por esporte; o total grande do período (tempo, ou a distância quando escolhe um esporte), com distância, calorias, FC média, ritmo médio e sessões; barras dos últimos períodos com a linha da média (toque numa barra para ver aquele período); e a lista agrupada por dia, com o tempo e as calorias de cada dia.",
-        "Calendário: o mês com os dias de treino marcados (quanto mais forte a cor, mais tempo de treino); toque no dia para ver as atividades dele.",
-        "O Treino ficou para treinar: no alto, o cartão Meus treinos (com o resumo da semana) abre o histórico."
-      ],
-      "en": [
-        "My workouts: the place to see everything you have done. Days, Weeks and Months tabs; filter by sport; the big total for the period (time, or distance when you pick a sport), with distance, calories, average HR, average pace and sessions; bars for recent periods with the average line (tap a bar to see that period); and the list grouped by day, with each day's time and calories.",
-        "Calendar: the month with your workout days highlighted (the stronger the color, the more training time); tap a day to see its activities.",
-        "Workout is now for training: at the top, the My workouts card (with this week's summary) opens the history."
-      ],
-      "es": [
-        "Mis entrenos: el lugar para ver todo lo que hiciste. Pestañas Días, Semanas y Meses; filtro por deporte; el total grande del período (tiempo, o la distancia al elegir un deporte), con distancia, calorías, FC media, ritmo medio y sesiones; barras de los últimos períodos con la línea del promedio (toca una barra para ver ese período); y la lista agrupada por día, con el tiempo y las calorías de cada día.",
-        "Calendario: el mes con los días de entreno marcados (cuanto más fuerte el color, más tiempo de entreno); toca un día para ver sus actividades.",
-        "Entreno quedó para entrenar: arriba, la tarjeta Mis entrenos (con el resumen de la semana) abre el historial."
       ]
     }
   ]
