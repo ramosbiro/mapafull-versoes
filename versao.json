@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.67.0",
-  "codigo": 203,
+  "versao": "0.67.1",
+  "codigo": 204,
   "data": "02/11/2026",
-  "tamanho": 206841785,
-  "sha256": "7b4a80b78eb556e1197a5dd3901d9930a713ae609a9a6efe84a5a0de3c90dc96",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.0/Vrumbi-0.67.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.0/Vrumbi-relogio-0.67.0.apk",
+  "tamanho": 207940037,
+  "sha256": "7ec1bc8ff3eb0efed88143f5c472ad3ffd878c759562beb593844113ccd2b252",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.1/Vrumbi-0.67.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.1/Vrumbi-relogio-0.67.1.apk",
   "notas": [
-    "Importar treinos de outros apps (Meus treinos > Importar): escolha os arquivos exportados, vários de uma vez, o ZIP inteiro da exportação ou uma PASTA com as subpastas. O Vrumbi entende GPX, TCX, FIT, KML, CSV e JSON: Strava, Samsung Health, Garmin, Polar, Suunto, Coros, Wahoo, Google Fit, Apple Saúde, adidas Running, Runkeeper, Komoot e outros. Com o trajeto, os batimentos, o nome e o tipo de cada treino, e sem duplicar o que já está aqui.",
-    "Da Saúde do Android: puxa os treinos que o Samsung Health, o Google, a Fitbit e outros guardaram lá.",
-    "GPX sem horário vira uma rota salva para seguir no treino. No fim, o Vrumbi mostra quantos entraram, quantos já existiam e o que não reconheceu; e dá para mandar um diagnóstico (só a estrutura dos arquivos, sem os seus dados) para melhorarmos a importação.",
-    "Selecionar vários treinos, como no Samsung Health: segure um treino (ou toque no botão de seleção) para marcar; o círculo no canto marca todos; Excluir manda para a lixeira (dá para restaurar)."
+    "Buscou um estabelecimento? Um toque e o Vrumbi já calcula as rotas e mostra o mapa de cima com todas elas (antes só no segundo toque).",
+    "Junto das rotas, as informações do lugar: aberto agora ou fechado (e quando fecha ou abre), os horários da semana, telefone, WhatsApp, site e Instagram, entrega, para viagem, acessibilidade e formas de pagamento, vindos do mapa colaborativo.",
+    "E o que só o Vrumbi tem: as estrelas dadas pelos usuários, como está o movimento agora (vazio, tranquilo, movimentado ou lotado, contado por quem está lá) e quantas pessoas do Vrumbi estão indo para lá. Está no lugar? Conte como está e dê a sua nota."
   ],
   "versoes": [
+    {
+      "versao": "0.67.1",
+      "data": "02/11/2026",
+      "itens": [
+        "Buscou um estabelecimento? Um toque e o Vrumbi já calcula as rotas e mostra o mapa de cima com todas elas (antes só no segundo toque).",
+        "Junto das rotas, as informações do lugar: aberto agora ou fechado (e quando fecha ou abre), os horários da semana, telefone, WhatsApp, site e Instagram, entrega, para viagem, acessibilidade e formas de pagamento, vindos do mapa colaborativo.",
+        "E o que só o Vrumbi tem: as estrelas dadas pelos usuários, como está o movimento agora (vazio, tranquilo, movimentado ou lotado, contado por quem está lá) e quantas pessoas do Vrumbi estão indo para lá. Está no lugar? Conte como está e dê a sua nota."
+      ],
+      "en": [
+        "Searched for a place? One tap and Vrumbi already calculates the routes and shows the top-down map with all of them (before, only on the second tap).",
+        "Next to the routes, the place details: open now or closed (and when it closes or opens), the weekly hours, phone, WhatsApp, website and Instagram, delivery, takeaway, accessibility and payment methods, from the collaborative map.",
+        "And what only Vrumbi has: stars given by users, how busy it is right now (empty, quiet, busy or packed, reported by people who are there) and how many Vrumbi users are heading there. At the place? Say how it is and leave your rating."
+      ],
+      "es": [
+        "¿Buscaste un local? Un toque y Vrumbi ya calcula las rutas y muestra el mapa desde arriba con todas (antes, solo al segundo toque).",
+        "Junto a las rutas, la información del lugar: abierto ahora o cerrado (y cuándo cierra o abre), los horarios de la semana, teléfono, WhatsApp, sitio e Instagram, entrega, para llevar, accesibilidad y formas de pago, del mapa colaborativo.",
+        "Y lo que solo Vrumbi tiene: las estrellas de los usuarios, cómo está el movimiento ahora (vacío, tranquilo, concurrido o lleno, contado por quien está ahí) y cuántas personas de Vrumbi van para allá. ¿Estás en el lugar? Cuenta cómo está y deja tu nota."
+      ]
+    },
     {
       "versao": "0.67.0",
       "data": "02/11/2026",
@@ -266,19 +284,6 @@
         "Fotos de la actividad: toma una durante el entreno con el botón de cámara, o después en el resumen (cámara o galería). Pueden ir en lo que compartes.",
         "Parciales en barras, cada 1 km o cada 500 m, en el resumen y al compartir.",
         "Gráfico nuevo como las apps de salud: activa y desactiva ritmo, pulsaciones, elevación y cadencia; la escala del ritmo de un lado, la de pulsaciones del otro, el tiempo abajo; y debajo, el promedio y el máximo de cada uno. Los números del resumen ahora tienen el nombre en color."
-      ]
-    },
-    {
-      "versao": "0.58.8",
-      "data": "02/11/2026",
-      "itens": [
-        "O botão Gravar foi para a direita, entre o Menu (☰) e o Avisar, em pé e deitado. Deitado, o cartão com o nome da rua agora começa sempre depois do último botão da esquerda: nada fica escondido embaixo dele."
-      ],
-      "en": [
-        "The Record button moved to the right, between the Menu (☰) and Report, in portrait and landscape. In landscape the street name card now always starts after the last button on the left, so nothing hides under it."
-      ],
-      "es": [
-        "El botón Grabar pasó a la derecha, entre el Menú (☰) y Avisar, vertical y acostado. Acostado, la tarjeta con el nombre de la calle ahora empieza siempre después del último botón de la izquierda: nada queda escondido debajo."
       ]
     }
   ]
