@@ -1,20 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.71.0",
-  "codigo": 219,
+  "versao": "0.71.1",
+  "codigo": 220,
   "data": "03/11/2026",
-  "tamanho": 206389770,
-  "sha256": "2486593918f95981b09fb437817aca410af191a8fbffe784171b8e170ee878e8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.0/Vrumbi-0.71.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.0/Vrumbi-relogio-0.71.0.apk",
+  "tamanho": 206391214,
+  "sha256": "e11e80f6a5de464c1592cc8494b209d25a8d9ea21ab722ef3c2f53e589bdff5e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.1/Vrumbi-0.71.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.1/Vrumbi-relogio-0.71.1.apk",
   "notas": [
-    "Rodízio: com a placa no seu veículo, o Vrumbi confere cada rota na hora em que você vai passar. Se cair no rodízio, entra a rota \"sem rodízio\", que contorna a área por fora, e as outras mostram a hora em que dá para sair sem ele.",
-    "São Paulo pelo mapa oficial da CET (as vias do minianel também contam, como manda a regra), Bogotá, Medellín, Cali, Bucaramanga, Cartagena e Quito. Feriados e isenções (elétrico, híbrido, PcD: marque na ficha do veículo) entram na conta.",
-    "Viagens: a rota é conferida no dia e na hora da saída e com o veículo da viagem; se cair no rodízio, a viagem avisa e refaz a rota sem ele.",
-    "Aviso no dia do seu rodízio, antes do horário, e, se estiver dentro da área na hora, a rota mais curta para sair dela.",
-    "Licenciamento: ponha o vencimento na ficha do veículo (em 14 estados o app já sugere a data pelo calendário oficial do Detran). Eu aviso 30 dias, 7 dias e 1 dia antes e no dia."
+    "Unidades e locais: \"Desligar tudo\" e desligar um grupo inteiro agora tiram os pontos do mapa na hora (antes ficavam), e o que fica desligado sai da memória.",
+    "Mensagens: as conversas agrupadas por app (WhatsApp, Telegram, SMS...), cada um no seu cartão. Avisos do próprio app, como \"Procurando novas mensagens\", não entram mais.",
+    "Ouvir a conversa: tocar de novo para de falar, e fechar ou voltar da conversa também cala a voz.",
+    "Arrastar e rolar sem atraso nos Ajustes rápidos, nas Configurações e no Treino.",
+    "\"Saúde do Android\" agora se chama Apps de saúde (Samsung Health, Google Fit e outros, pela Conexão Saúde)."
   ],
   "versoes": [
+    {
+      "versao": "0.71.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Unidades e locais: \"Desligar tudo\" e desligar um grupo inteiro agora tiram os pontos do mapa na hora (antes ficavam), e o que fica desligado sai da memória.",
+        "Mensagens: as conversas agrupadas por app (WhatsApp, Telegram, SMS...), cada um no seu cartão. Avisos do próprio app, como \"Procurando novas mensagens\", não entram mais.",
+        "Ouvir a conversa: tocar de novo para de falar, e fechar ou voltar da conversa também cala a voz.",
+        "Arrastar e rolar sem atraso nos Ajustes rápidos, nas Configurações e no Treino.",
+        "\"Saúde do Android\" agora se chama Apps de saúde (Samsung Health, Google Fit e outros, pela Conexão Saúde)."
+      ],
+      "en": [
+        "Units and places: \"Turn all off\" and turning off a whole group now remove the points from the map right away (they used to stay), and what is off leaves memory.",
+        "Messages: conversations grouped by app (WhatsApp, Telegram, SMS...), each in its own card. The app's own notices, like \"Checking for new messages\", no longer show up.",
+        "Listen to the conversation: tap again to stop, and closing or leaving the conversation also stops the voice.",
+        "Dragging and scrolling without delay in Quick settings, Settings and Workout.",
+        "\"Android Health\" is now called Health apps (Samsung Health, Google Fit and others, through Health Connect)."
+      ],
+      "es": [
+        "Unidades y lugares: \"Desactivar todo\" y desactivar un grupo entero ahora quitan los puntos del mapa al instante (antes se quedaban), y lo desactivado sale de la memoria.",
+        "Mensajes: las conversaciones agrupadas por app (WhatsApp, Telegram, SMS...), cada una en su tarjeta. Los avisos de la propia app, como \"Buscando mensajes nuevos\", ya no aparecen.",
+        "Escuchar la conversación: tocar de nuevo deja de hablar, y cerrar o salir de la conversación también calla la voz.",
+        "Arrastrar y desplazar sin retraso en los Ajustes rápidos, la Configuración y el Entrenamiento.",
+        "\"Salud de Android\" ahora se llama Apps de salud (Samsung Health, Google Fit y otras, por Health Connect)."
+      ]
+    },
     {
       "versao": "0.71.0",
       "data": "03/11/2026",
@@ -234,22 +259,6 @@
         "Mapa más ligero: los números de las casas, las flechas de sentido único y los edificios 3D aparecen solo cerca de ti (hasta 1 km en la vista inclinada); en el horizonte quedan el suelo y las calles.",
         "Las capas de Vrumbi (lugares, salud, escuelas, autobuses, radares...) le dan al mapa solo lo que está alrededor y se completan mientras avanzas — listas para activar mucho más sin trabar el celular.",
         "Nuevo en Configuración > Sistema > Mapa ligero: activar/desactivar el radio de detalle y el medidor de rendimiento (cuadros por segundo, memoria y cuánto se dibuja), para comparar en tu celular."
-      ]
-    },
-    {
-      "versao": "0.67.5",
-      "data": "03/11/2026",
-      "itens": [
-        "Player de mídia: corrigido o player que ficava preso em \"Abrir o player\" (o tamanho Pequeno virava sempre o compacto); agora abre a lista de músicas e os players normalmente.",
-        "Arrastar o player ficou liso: ele acompanha o dedo sem trancos."
-      ],
-      "en": [
-        "Media player: fixed the player stuck on \"Open the player\" (the Small size always turned compact); it now opens the music list and the players normally.",
-        "Dragging the player is smooth: it follows your finger without stutter."
-      ],
-      "es": [
-        "Reproductor: corregido el reproductor que quedaba trabado en \"Abrir el reproductor\" (el tamaño Pequeño siempre se volvía compacto); ahora abre la lista de música y los reproductores normalmente.",
-        "Arrastrar el reproductor quedó suave: sigue el dedo sin tirones."
       ]
     }
   ]
