@@ -1,20 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.68.3",
-  "codigo": 212,
+  "versao": "0.68.4",
+  "codigo": 213,
   "data": "03/11/2026",
-  "tamanho": 206305974,
-  "sha256": "350ad8899705acf5b28cd2a5bfa70e114ae415d3f86625e4d5833c3facac6cdb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.3/Vrumbi-0.68.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.3/Vrumbi-relogio-0.68.3.apk",
+  "tamanho": 206306834,
+  "sha256": "db791546f2649618a470d38d29a18d491753c5752307f63f69017f2fd755a2a4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.4/Vrumbi-0.68.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.4/Vrumbi-relogio-0.68.4.apk",
   "notas": [
-    "Ajustes rápidos mais compactos: ladrilhos pequenos de 4 por linha, como os do Android — ícone e nome, e o ligado fica na cor de destaque. A tela cabe quase inteira sem rolar.",
-    "Nova seção Mapa nos Ajustes rápidos: Locais no mapa, Camadas e Mapa 3D. O botão de camadas saiu do mapa.",
-    "Locais no mapa: \"Ligar tudo / Desligar tudo\" no alto.",
-    "Durante a rota os botões continuam na tela (Mídia, Contatos, Treino, Seguir, menu e Gravar), em pé e deitado — antes sumiam até encerrar a rota.",
-    "A cor do ícone da posição não muda mais sozinha ao trocar a cor da interface; com \"Cor de destaque\", ele acompanha a cor na hora."
+    "Visual mais leve em todo o app: a opção escolhida (Carro, 3 km, Auto, Padrão, 5%...) agora tem fundo suave e contorno fino na cor de destaque, em vez do bloco laranja cheio, e os botões ficaram mais baixos. A cor cheia ficou só para a ação principal (Salvar, Iniciar navegação).",
+    "Mapa completo, Locais no mapa e Camadas agora ficam juntos nos Ajustes rápidos, seção Mapa; os três botões grandes saíram do Menu."
   ],
   "versoes": [
+    {
+      "versao": "0.68.4",
+      "data": "03/11/2026",
+      "itens": [
+        "Visual mais leve em todo o app: a opção escolhida (Carro, 3 km, Auto, Padrão, 5%...) agora tem fundo suave e contorno fino na cor de destaque, em vez do bloco laranja cheio, e os botões ficaram mais baixos. A cor cheia ficou só para a ação principal (Salvar, Iniciar navegação).",
+        "Mapa completo, Locais no mapa e Camadas agora ficam juntos nos Ajustes rápidos, seção Mapa; os três botões grandes saíram do Menu."
+      ],
+      "en": [
+        "Lighter look across the app: the chosen option (Car, 3 km, Auto, Default, 5%...) now has a soft background and a thin outline in the accent color instead of the solid orange block, and the buttons are shorter. Solid color is kept only for the main action (Save, Start navigation).",
+        "Full map, Places on the map and Layers are now together in Quick settings, Map section; the three big buttons left the Menu."
+      ],
+      "es": [
+        "Aspecto más liviano en toda la app: la opción elegida (Coche, 3 km, Auto, Estándar, 5%...) ahora tiene fondo suave y contorno fino en el color de destaque, en lugar del bloque naranja lleno, y los botones son más bajos. El color lleno quedó solo para la acción principal (Guardar, Iniciar navegación).",
+        "Mapa completo, Lugares en el mapa y Capas ahora están juntos en los Ajustes rápidos, sección Mapa; los tres botones grandes salieron del Menú."
+      ]
+    },
     {
       "versao": "0.68.3",
       "data": "03/11/2026",
@@ -237,34 +250,6 @@
         "Mensajes: ahora puedes ESCUCHAR los audios y VER las fotos, videos, GIF y stickers que llegan por WhatsApp, ahí mismo en la conversación de Vrumbi. Toca Escuchar o Ver: Vrumbi encuentra el archivo que WhatsApp ya guardó en el móvil (la primera vez, Android pide el permiso de fotos, videos y audio).",
         "El audio suena con barra de progreso y se puede pausar; fotos, stickers y GIF aparecen en la burbuja y se abren a pantalla completa; el video se abre a pantalla completa (solo con el auto detenido, como escribir).",
         "Telegram y otros guardan los archivos en una carpeta privada: en esos, Vrumbi ofrece abrir la conversación en la propia app."
-      ]
-    },
-    {
-      "versao": "0.66.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Pausa automática por esporte: deixe ligada no dia a dia ou desligue numa prova, para o tempo correr direto.",
-        "Voltar ao início: no meio do treino, um toque e o caminho que você fez, ao contrário, vira a rota de volta (com aviso se sair dela).",
-        "Mapa do resumo colorido por velocidade, batimentos ou elevação, com a legenda de cada um.",
-        "Recortar o treino: esqueceu de encerrar ou começou antes? Tire minutos do começo ou do fim e tudo é recalculado.",
-        "Exportar todos os treinos numa planilha (CSV), para abrir no Excel ou no Google Planilhas.",
-        "Perfil com FC máxima (para as zonas) e passada (para a distância na esteira)."
-      ],
-      "en": [
-        "Auto-pause per sport: keep it on day to day or turn it off for a race, so the clock keeps running.",
-        "Back to start: mid-workout, one tap turns the path you took, reversed, into your route back (with an alert if you leave it).",
-        "Summary map colored by speed, heart rate or elevation, with a legend for each.",
-        "Trim a workout: forgot to stop it or started too early? Cut minutes from the start or the end and everything is recalculated.",
-        "Export all your workouts to a spreadsheet (CSV), to open in Excel or Google Sheets.",
-        "Profile with max heart rate (for the zones) and stride length (for treadmill distance)."
-      ],
-      "es": [
-        "Pausa automática por deporte: déjala activa en el día a día o apágala en una carrera, para que el tiempo corra seguido.",
-        "Volver al inicio: en mitad del entreno, un toque y el camino que hiciste, al revés, se vuelve la ruta de regreso (con aviso si te sales).",
-        "Mapa del resumen coloreado por velocidad, pulso o elevación, con la leyenda de cada uno.",
-        "Recortar el entreno: ¿olvidaste terminarlo o empezaste antes? Quita minutos del inicio o del final y todo se recalcula.",
-        "Exportar todos los entrenos a una hoja de cálculo (CSV), para abrir en Excel o Google Sheets.",
-        "Perfil con FC máxima (para las zonas) y zancada (para la distancia en la cinta)."
       ]
     }
   ]
