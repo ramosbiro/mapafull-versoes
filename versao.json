@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.74.0",
-  "codigo": 228,
+  "versao": "0.74.1",
+  "codigo": 229,
   "data": "03/11/2026",
-  "tamanho": 206410114,
-  "sha256": "7a766362d0ddccc954198d38a603ed61007185812a1754f8b58f8659b665147e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.0/Vrumbi-0.74.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.0/Vrumbi-relogio-0.74.0.apk",
+  "tamanho": 206410506,
+  "sha256": "b75f5fe715f64aaa829874834527bec61b011c76bddde9326c1d8a1883db9d22",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.1/Vrumbi-0.74.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.1/Vrumbi-relogio-0.74.1.apk",
   "notas": [
-    "Uma tela de ajustes só: os Ajustes rápidos viraram as Configurações do app (o botão ☰). Ganharam o grupo Navegação (Meus veículos, Ícone da posição, Evitar na rota) e o Módulo da polícia no grupo Mapa.",
-    "O que é do sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões, Aplicativo e Novidades) fica no botão Sistema e aplicativo, no fim. Nada repetido em dois lugares."
+    "Trem e metrô percebidos mais rápido: viadutos e avenidas coladas na linha não zeram mais a contagem, e a pergunta vem com 20 s e 250 m em cima do trilho.",
+    "Enquanto o app confirma que você está no trem, a seta já segue o trilho, sem pular para as ruas e viadutos por cima."
   ],
   "versoes": [
+    {
+      "versao": "0.74.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Trem e metrô percebidos mais rápido: viadutos e avenidas coladas na linha não zeram mais a contagem, e a pergunta vem com 20 s e 250 m em cima do trilho.",
+        "Enquanto o app confirma que você está no trem, a seta já segue o trilho, sem pular para as ruas e viadutos por cima."
+      ],
+      "en": [
+        "Train and metro detected faster: overpasses and avenues right next to the line no longer reset the count, and the question comes after 20 s and 250 m on the track.",
+        "While the app confirms you are on the train, the arrow already follows the track instead of jumping to the streets and overpasses above."
+      ],
+      "es": [
+        "Tren y metro detectados más rápido: los viaductos y avenidas pegados a la línea ya no reinician la cuenta, y la pregunta llega con 20 s y 250 m sobre la vía.",
+        "Mientras la app confirma que vas en tren, la flecha ya sigue la vía, sin saltar a las calles y viaductos de arriba."
+      ]
+    },
     {
       "versao": "0.74.0",
       "data": "03/11/2026",
@@ -198,28 +214,6 @@
       "es": [
         "Importar entrenamientos de otras apps y exportar la hoja ahora están en Mis entrenamientos > Sensores, reloj y perfil > Importar y exportar entrenamientos (salieron del final de la lista).",
         "Más protección en los deportes que creas: el nombre y el código se revisan al cargar, también desde una copia de seguridad."
-      ]
-    },
-    {
-      "versao": "0.70.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Treino novo, como o Samsung Health: o botão Treino abre direto em Meus treinos. No alto ficam os seus exercícios (tocar num deles já vai para o Start), depois o plano de corrida, as metas, o condicionamento e os treinos feitos.",
-        "Organizar agora escolhe e ordena os seus exercícios: em cima os escolhidos (subir, descer, tirar), embaixo o catálogo por categoria para acrescentar.",
-        "O catálogo inteiro (recentes, categorias, procurar e criar um esporte) fica no cartão Mais exercícios.",
-        "Sensores, relógio e perfil ficam no fim de Meus treinos; GPS e bússola foram para Configurações > Navegação."
-      ],
-      "en": [
-        "New workout screen, like Samsung Health: the Workout button opens straight into My workouts. At the top are your exercises (tapping one goes to Start), then the running plan, goals, fitness and the workouts done.",
-        "Organize now chooses and orders your exercises: the chosen ones on top (up, down, remove), the catalog by category below to add.",
-        "The full catalog (recent, categories, search and create a sport) is in the More exercises card.",
-        "Sensors, watch and profile are at the end of My workouts; GPS and compass moved to Settings > Navigation."
-      ],
-      "es": [
-        "Entrenamiento nuevo, como Samsung Health: el botón Entrenamiento abre directo en Mis entrenamientos. Arriba están tus ejercicios (tocar uno va al Start), luego el plan de carrera, las metas, la condición y los entrenamientos hechos.",
-        "Organizar ahora elige y ordena tus ejercicios: arriba los elegidos (subir, bajar, quitar), abajo el catálogo por categoría para añadir.",
-        "El catálogo completo (recientes, categorías, buscar y crear un deporte) está en la tarjeta Más ejercicios.",
-        "Sensores, reloj y perfil quedan al final de Mis entrenamientos; GPS y brújula pasaron a Configuración > Navegación."
       ]
     }
   ]
