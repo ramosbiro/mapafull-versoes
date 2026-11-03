@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.70.0",
-  "codigo": 217,
+  "versao": "0.70.1",
+  "codigo": 218,
   "data": "03/11/2026",
-  "tamanho": 206315478,
-  "sha256": "0854b9c5d258d3773d7da3f3491417f930bed6e4181fba6c2c1f281181864ba1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.0/Vrumbi-0.70.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.0/Vrumbi-relogio-0.70.0.apk",
+  "tamanho": 206317534,
+  "sha256": "800723c30ea69344af6302029fd29541f9b7fa6e58a26d1aee83158a8e484416",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.1/Vrumbi-0.70.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.1/Vrumbi-relogio-0.70.1.apk",
   "notas": [
-    "Treino novo, como o Samsung Health: o botão Treino abre direto em Meus treinos. No alto ficam os seus exercícios (tocar num deles já vai para o Start), depois o plano de corrida, as metas, o condicionamento e os treinos feitos.",
-    "Organizar agora escolhe e ordena os seus exercícios: em cima os escolhidos (subir, descer, tirar), embaixo o catálogo por categoria para acrescentar.",
-    "O catálogo inteiro (recentes, categorias, procurar e criar um esporte) fica no cartão Mais exercícios.",
-    "Sensores, relógio e perfil ficam no fim de Meus treinos; GPS e bússola foram para Configurações > Navegação."
+    "Importar treinos de outros apps e exportar a planilha agora ficam em Meus treinos > Sensores, relógio e perfil > Importar e exportar treinos (saíram do fim da lista).",
+    "Mais proteção nos esportes criados por você: o nome e o código são conferidos ao carregar, inclusive vindos de um backup."
   ],
   "versoes": [
+    {
+      "versao": "0.70.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Importar treinos de outros apps e exportar a planilha agora ficam em Meus treinos > Sensores, relógio e perfil > Importar e exportar treinos (saíram do fim da lista).",
+        "Mais proteção nos esportes criados por você: o nome e o código são conferidos ao carregar, inclusive vindos de um backup."
+      ],
+      "en": [
+        "Importing workouts from other apps and exporting the spreadsheet are now in My workouts > Sensors, watch and profile > Import and export workouts (they left the end of the list).",
+        "More protection for sports you create: the name and code are checked when loading, including from a backup."
+      ],
+      "es": [
+        "Importar entrenamientos de otras apps y exportar la hoja ahora están en Mis entrenamientos > Sensores, reloj y perfil > Importar y exportar entrenamientos (salieron del final de la lista).",
+        "Más protección en los deportes que creas: el nombre y el código se revisan al cargar, también desde una copia de seguridad."
+      ]
+    },
     {
       "versao": "0.70.0",
       "data": "03/11/2026",
@@ -236,22 +250,6 @@
         "Con el reproductor pegado abajo, el botón Grabar vuelve a su lugar (ya no queda detrás de Avisar).",
         "Girar la pantalla: sin la franja blanca y el mapa vuelve más rápido.",
         "Entrenamiento: la tarjeta del perfil (edad, peso, altura, sexo) alineada; el orden de Organizar se guarda en cada toque."
-      ]
-    },
-    {
-      "versao": "0.67.3",
-      "data": "02/11/2026",
-      "itens": [
-        "Busca do jeito certo: primeiro os endereços, depois os estabelecimentos e lugares (os mais bem avaliados em cima). As unidades da polícia saíram do topo: só aparecem para quem tem o módulo da polícia, no fim da lista.",
-        "Escreva qualquer coisa: a lista vai filtrando enquanto você digita, com mais resultados. E um tipo de lugar (\"farmácia\", \"posto\", \"padaria\", \"mercado\"...) já mostra os mais perto de você."
-      ],
-      "en": [
-        "Search the right way: addresses first, then places and businesses (best rated on top). Police units left the top: they only show for those with the police module, at the end of the list.",
-        "Type anything: the list filters as you type, with more results. And a type of place (\"pharmacy\", \"gas station\", \"bakery\", \"supermarket\"...) shows the nearest ones."
-      ],
-      "es": [
-        "Búsqueda como debe ser: primero las direcciones, luego los comercios y lugares (los mejor calificados arriba). Las unidades de la policía salieron del principio: solo aparecen con el módulo de la policía, al final de la lista.",
-        "Escribe lo que quieras: la lista filtra mientras escribes, con más resultados. Y un tipo de lugar (\"farmacia\", \"gasolinera\", \"panadería\", \"supermercado\"...) muestra los más cercanos."
       ]
     }
   ]
