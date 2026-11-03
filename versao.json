@@ -1,21 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.67.4",
-  "codigo": 207,
+  "versao": "0.67.5",
+  "codigo": 208,
   "data": "03/11/2026",
-  "tamanho": 206274570,
-  "sha256": "cd9e1c1cc92452a7a2cb8ab32b5d0fd8352c84456073131b0fea8b7395b34486",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.4/Vrumbi-0.67.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.4/Vrumbi-relogio-0.67.4.apk",
+  "tamanho": 206274962,
+  "sha256": "fa32fe3ddda4e610cfe5b288d5b93dcb8082d7d66977b8d449c20a0924b30954",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.5/Vrumbi-0.67.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.5/Vrumbi-relogio-0.67.5.apk",
   "notas": [
-    "Transporte público: o Vrumbi percebe o trem/metrô mais rápido e, quando você desce, pergunta \"Você desceu do trem?\" (A pé, De carro ou Ainda no trem) e volta o ícone; sem resposta, volta sozinho.",
-    "No trem e no metrô o ícone segue a direção dos trilhos: não fica mais virando de um lado para o outro em estações, viadutos e cruzamentos.",
-    "Player de mídia: os botões ficam sempre redondos; encolhido, vira o player compacto com a barra da música e todos os controles.",
-    "Com o player colado embaixo, o Gravar volta para o lugar (não some mais atrás do Avisar).",
-    "Girar a tela: sem a faixa branca e o mapa reaparece mais rápido.",
-    "Treino: o cartão do perfil (idade, peso, altura, sexo) alinhado; a ordem do Organizar fica guardada a cada toque."
+    "Player de mídia: corrigido o player que ficava preso em \"Abrir o player\" (o tamanho Pequeno virava sempre o compacto); agora abre a lista de músicas e os players normalmente.",
+    "Arrastar o player ficou liso: ele acompanha o dedo sem trancos."
   ],
   "versoes": [
+    {
+      "versao": "0.67.5",
+      "data": "03/11/2026",
+      "itens": [
+        "Player de mídia: corrigido o player que ficava preso em \"Abrir o player\" (o tamanho Pequeno virava sempre o compacto); agora abre a lista de músicas e os players normalmente.",
+        "Arrastar o player ficou liso: ele acompanha o dedo sem trancos."
+      ],
+      "en": [
+        "Media player: fixed the player stuck on \"Open the player\" (the Small size always turned compact); it now opens the music list and the players normally.",
+        "Dragging the player is smooth: it follows your finger without stutter."
+      ],
+      "es": [
+        "Reproductor: corregido el reproductor que quedaba trabado en \"Abrir el reproductor\" (el tamaño Pequeño siempre se volvía compacto); ahora abre la lista de música y los reproductores normalmente.",
+        "Arrastrar el reproductor quedó suave: sigue el dedo sin tirones."
+      ]
+    },
     {
       "versao": "0.67.4",
       "data": "03/11/2026",
@@ -247,31 +259,6 @@
       "es": [
         "Seguir una ruta en el entreno: elige el trazado de un entreno tuyo o importa un archivo GPX, en sentido normal o contrario. La ruta aparece punteada en el mapa; si te sales, Vrumbi avisa y el móvil vibra; al volver, lo confirma; al final, celebra. En pantalla, cuánto falta; en la guía de voz, también.",
         "Correr contra un entreno (el fantasma): elige un entreno tuyo del mismo deporte (el mejor viene marcado). El fantasma se mueve en el mapa y Vrumbi dice si vas adelante o atrás, cada kilómetro o en la guía de voz. En el resumen, el resultado: cuántos segundos adelante o atrás."
-      ]
-    },
-    {
-      "versao": "0.61.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Metas do dia e da semana em anéis, como nos apps de saúde: minutos de hoje, minutos da semana (a OMS recomenda 150) e treinos na semana. Ficam no alto de Meus treinos e no cartão do Treino; toque para mudar as metas. Mostra também a sequência de dias batendo a meta.",
-        "Medalhas: 20 conquistas (primeiro treino, 10/50/100 treinos, 5 km, 10 km, meia maratona, maratona, 100/500/1.000 km no total, 10 e 100 horas, 7 dias seguidos, 4 semanas na meta, atleta completo, madrugador, coruja, meta batida e intervalado), com o progresso das que faltam. A medalha nova aparece no resumo do treino.",
-        "Resumo da semana: na primeira vez que você abre o Treino numa semana nova, o Vrumbi conta como foi a semana passada (treinos, tempo, distância e a comparação com a anterior).",
-        "Adicionar treino à mão (esqueceu de gravar, aula na academia): esporte, dia, hora, duração, distância, calorias e batimentos opcionais e anotação. Sem as calorias, o Vrumbi calcula.",
-        "Privacidade no compartilhar: esconda 200 m, 500 m ou 1 km do começo e do fim do trajeto (onde você mora, por exemplo). Os números continuam os do treino inteiro."
-      ],
-      "en": [
-        "Daily and weekly goals as rings, like health apps: minutes today, minutes this week (WHO recommends 150) and workouts this week. They sit at the top of My workouts and on the Workout card; tap to change the goals. It also shows your streak of days hitting the goal.",
-        "Medals: 20 achievements (first workout, 10/50/100 workouts, 5 km, 10 km, half marathon, marathon, 100/500/1,000 km total, 10 and 100 hours, 7 days in a row, 4 weeks on target, all-rounder, early bird, night owl, goal reached and intervals), with progress for the ones still to earn. New medals show up in the workout summary.",
-        "Weekly recap: the first time you open Workout in a new week, Vrumbi tells you how last week went (workouts, time, distance and the comparison with the week before).",
-        "Add a workout by hand (forgot to record, gym class): sport, day, time, duration, optional distance, calories and heart rate, and a note. Without calories, Vrumbi works them out.",
-        "Privacy when sharing: hide 200 m, 500 m or 1 km at the start and end of the route (where you live, for example). The numbers stay those of the whole workout."
-      ],
-      "es": [
-        "Metas del día y de la semana en anillos, como en las apps de salud: minutos de hoy, minutos de la semana (la OMS recomienda 150) y entrenos de la semana. Están arriba en Mis entrenos y en la tarjeta de Entreno; toca para cambiar las metas. También muestra la racha de días cumpliendo la meta.",
-        "Medallas: 20 logros (primer entreno, 10/50/100 entrenos, 5 km, 10 km, media maratón, maratón, 100/500/1000 km en total, 10 y 100 horas, 7 días seguidos, 4 semanas en la meta, atleta completo, madrugador, búho, meta cumplida e intervalos), con el progreso de las que faltan. La medalla nueva aparece en el resumen del entreno.",
-        "Resumen de la semana: la primera vez que abres Entreno en una semana nueva, Vrumbi cuenta cómo fue la semana pasada (entrenos, tiempo, distancia y la comparación con la anterior).",
-        "Añadir entreno a mano (olvidaste grabar, clase en el gimnasio): deporte, día, hora, duración, distancia, calorías y pulso opcionales y nota. Sin las calorías, Vrumbi las calcula.",
-        "Privacidad al compartir: oculta 200 m, 500 m o 1 km del inicio y del final del recorrido (donde vives, por ejemplo). Los números siguen siendo los del entreno completo."
       ]
     }
   ]
