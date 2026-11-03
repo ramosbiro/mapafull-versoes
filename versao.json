@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.67.5",
-  "codigo": 208,
+  "versao": "0.68.0",
+  "codigo": 209,
   "data": "03/11/2026",
-  "tamanho": 206274962,
-  "sha256": "fa32fe3ddda4e610cfe5b288d5b93dcb8082d7d66977b8d449c20a0924b30954",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.5/Vrumbi-0.67.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.67.5/Vrumbi-relogio-0.67.5.apk",
+  "tamanho": 206287022,
+  "sha256": "f882e30f88329dbac00e51e4e5061bd6338fa979bb628020f39600c4135e8880",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.0/Vrumbi-0.68.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.0/Vrumbi-relogio-0.68.0.apk",
   "notas": [
-    "Player de mídia: corrigido o player que ficava preso em \"Abrir o player\" (o tamanho Pequeno virava sempre o compacto); agora abre a lista de músicas e os players normalmente.",
-    "Arrastar o player ficou liso: ele acompanha o dedo sem trancos."
+    "Mapa mais leve: os números das casas, as setas de mão única e os prédios 3D aparecem só perto de você (até 1 km na visão inclinada); no horizonte ficam o chão e as ruas.",
+    "As camadas do Vrumbi (locais, saúde, escolas, ônibus, radares...) entregam ao mapa só o que está em volta e vão completando conforme você anda — prontas para ligar muito mais coisa sem travar o celular.",
+    "Novo em Configurações > Sistema > Mapa leve: ligar/desligar o raio de detalhe e o medidor de desempenho (quadros por segundo, memória e quanto está sendo desenhado), para comparar no seu celular."
   ],
   "versoes": [
+    {
+      "versao": "0.68.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Mapa mais leve: os números das casas, as setas de mão única e os prédios 3D aparecem só perto de você (até 1 km na visão inclinada); no horizonte ficam o chão e as ruas.",
+        "As camadas do Vrumbi (locais, saúde, escolas, ônibus, radares...) entregam ao mapa só o que está em volta e vão completando conforme você anda — prontas para ligar muito mais coisa sem travar o celular.",
+        "Novo em Configurações > Sistema > Mapa leve: ligar/desligar o raio de detalhe e o medidor de desempenho (quadros por segundo, memória e quanto está sendo desenhado), para comparar no seu celular."
+      ],
+      "en": [
+        "Lighter map: house numbers, one-way arrows and 3D buildings show only near you (up to 1 km in the tilted view); the horizon keeps just the ground and streets.",
+        "Vrumbi layers (places, health, schools, buses, speed cameras...) hand the map only what is around you and fill in as you move — ready to turn on much more without slowing the phone.",
+        "New in Settings > System > Light map: turn the detail radius and the performance meter (frames per second, memory and how much is drawn) on or off, to compare on your phone."
+      ],
+      "es": [
+        "Mapa más ligero: los números de las casas, las flechas de sentido único y los edificios 3D aparecen solo cerca de ti (hasta 1 km en la vista inclinada); en el horizonte quedan el suelo y las calles.",
+        "Las capas de Vrumbi (lugares, salud, escuelas, autobuses, radares...) le dan al mapa solo lo que está alrededor y se completan mientras avanzas — listas para activar mucho más sin trabar el celular.",
+        "Nuevo en Configuración > Sistema > Mapa ligero: activar/desactivar el radio de detalle y el medidor de rendimiento (cuadros por segundo, memoria y cuánto se dibuja), para comparar en tu celular."
+      ]
+    },
     {
       "versao": "0.67.5",
       "data": "03/11/2026",
@@ -243,22 +263,6 @@
         "Recuperación del pulso: con la banda o el reloj, quédate quieto 2 minutos al terminar y Vrumbi mide cuánto baja el pulso (cuanto más, mejor). En el perfil se añadió la FC en reposo.",
         "¿Parado 5 minutos en pausa automática? Vrumbi pregunta si terminaste y la notificación tiene el botón Terminar; el entreno queda guardado.",
         "Corregido: ritmo que salía como 4'60\" en vez de 5'00\"."
-      ]
-    },
-    {
-      "versao": "0.62.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Seguir uma rota no treino: escolha o trajeto de um treino seu ou importe um arquivo GPX, no sentido normal ou contrário. A rota aparece tracejada no mapa; se você sair dela, o Vrumbi avisa e o celular vibra; voltou, ele confirma; no fim, comemora. Na tela, quanto falta; no guia de voz, também.",
-        "Correr contra um treino (o fantasma): escolha um treino seu do mesmo esporte (o melhor vem marcado). O fantasma anda no mapa e o Vrumbi diz se você está à frente ou atrás, a cada quilômetro ou no guia de voz. No resumo, o resultado: quantos segundos à frente ou atrás."
-      ],
-      "en": [
-        "Follow a route in your workout: pick the track of one of your workouts or import a GPX file, forward or reversed. The route shows dashed on the map; if you leave it, Vrumbi tells you and the phone vibrates; back on it, it confirms; at the end, it celebrates. The screen shows how much is left, and so does the voice guidance.",
-        "Race a workout (the ghost): pick one of your workouts of the same sport (your best is marked). The ghost moves on the map and Vrumbi says whether you are ahead or behind, every kilometer or in the voice guidance. The summary shows the result: how many seconds ahead or behind."
-      ],
-      "es": [
-        "Seguir una ruta en el entreno: elige el trazado de un entreno tuyo o importa un archivo GPX, en sentido normal o contrario. La ruta aparece punteada en el mapa; si te sales, Vrumbi avisa y el móvil vibra; al volver, lo confirma; al final, celebra. En pantalla, cuánto falta; en la guía de voz, también.",
-        "Correr contra un entreno (el fantasma): elige un entreno tuyo del mismo deporte (el mejor viene marcado). El fantasma se mueve en el mapa y Vrumbi dice si vas adelante o atrás, cada kilómetro o en la guía de voz. En el resumen, el resultado: cuántos segundos adelante o atrás."
       ]
     }
   ]
