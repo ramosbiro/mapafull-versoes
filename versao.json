@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.74.4",
-  "codigo": 232,
+  "versao": "0.75.0",
+  "codigo": 233,
   "data": "03/11/2026",
-  "tamanho": 206429890,
-  "sha256": "7b5a8e2ff35f0f5fcce55381d066cbc8557c3a05e5840934f107a7b351a97980",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.4/Vrumbi-0.74.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.4/Vrumbi-relogio-0.74.4.apk",
+  "tamanho": 206444390,
+  "sha256": "403b9c94df24b05b97cfe3ddfe5f5b46cb3b36591ed9b8c7ef00da59eee13a4d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.0/Vrumbi-0.75.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.0/Vrumbi-relogio-0.75.0.apk",
   "notas": [
-    "Importar a pasta da exportação do Samsung Health ficou muito mais rápido: o app lê cada pasta de uma vez e pula os milhares de arquivos de amostras (cada batimento, cada passo), que não são treino. As tabelas de todos os tipos de dado entram, para a tela de Saúde que vem a seguir."
+    "Nova tela Saúde em Meus treinos: ao importar a exportação do Samsung Health, passos, sono, batimentos, oxigênio, estresse, peso, pressão, andares, água e os outros dados entram, cada um com o último dia, a média de 7 dias e as barras dos últimos 14 dias.",
+    "Importar de novo a mesma exportação não soma em dobro: os dias novos substituem os mesmos dias."
   ],
   "versoes": [
+    {
+      "versao": "0.75.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Nova tela Saúde em Meus treinos: ao importar a exportação do Samsung Health, passos, sono, batimentos, oxigênio, estresse, peso, pressão, andares, água e os outros dados entram, cada um com o último dia, a média de 7 dias e as barras dos últimos 14 dias.",
+        "Importar de novo a mesma exportação não soma em dobro: os dias novos substituem os mesmos dias."
+      ],
+      "en": [
+        "New Health screen in My workouts: when you import the Samsung Health export, steps, sleep, heart rate, oxygen, stress, weight, blood pressure, floors, water and the other data come in, each with the latest day, the 7-day average and bars for the last 14 days.",
+        "Importing the same export again does not double count: new days replace the same days."
+      ],
+      "es": [
+        "Nueva pantalla Salud en Mis entrenamientos: al importar la exportación de Samsung Health, entran pasos, sueño, pulso, oxígeno, estrés, peso, presión, pisos, agua y los demás datos, cada uno con el último día, la media de 7 días y las barras de los últimos 14 días.",
+        "Importar de nuevo la misma exportación no suma el doble: los días nuevos reemplazan los mismos días."
+      ]
+    },
     {
       "versao": "0.74.4",
       "data": "03/11/2026",
@@ -176,22 +193,6 @@
       ],
       "es": [
         "Capas y lugares: cada tema (Seguridad y justicia, Servicios públicos, Movilidad, Comercio y ocio, Riesgos) tiene su interruptor en el título para activar o desactivar todo lo de adentro; cada grupo sigue con el suyo."
-      ]
-    },
-    {
-      "versao": "0.72.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Unidades e Camadas viraram uma tela só: Camadas e locais. Um cartão por assunto (Áreas de atuação, Segurança e justiça, Serviços públicos, saúde e educação, Mobilidade, Comércio e lazer, Riscos e análise) e, dentro, um cartão para cada grupo, com a sua chave de ligar tudo.",
-        "As áreas da polícia, dos bombeiros, da Ambiental, do Trânsito e da Rodoviária ficam cada uma no seu cartão; rodovias, radares, ciclovias, metrô e ônibus foram para Mobilidade, em Vias e linhas."
-      ],
-      "en": [
-        "Units and Layers are now a single screen: Layers and places. One card per topic (Coverage areas, Safety and justice, Public services, health and education, Mobility, Shops and leisure, Risks and analysis) and, inside, a card for each group with its own switch.",
-        "Police, fire, Environmental, Traffic and Highway police areas each have their own card; highways, speed cameras, cycle lanes, metro and buses moved to Mobility, under Roads and lines."
-      ],
-      "es": [
-        "Unidades y Capas ahora son una sola pantalla: Capas y lugares. Una tarjeta por tema (Áreas de actuación, Seguridad y justicia, Servicios públicos, salud y educación, Movilidad, Comercio y ocio, Riesgos y análisis) y, dentro, una tarjeta para cada grupo con su interruptor.",
-        "Las áreas de policía, bomberos, Ambiental, Tránsito y Carreteras quedan cada una en su tarjeta; carreteras, radares, ciclovías, metro y buses pasaron a Movilidad, en Vías y líneas."
       ]
     }
   ]
