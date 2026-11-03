@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.72.2",
-  "codigo": 223,
+  "versao": "0.72.3",
+  "codigo": 224,
   "data": "03/11/2026",
-  "tamanho": 206396330,
-  "sha256": "09b9eb88409a90181f67aee4bfb2a02e2fba70227bbe2bcfe9ad986f3f4f2fdd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.2/Vrumbi-0.72.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.2/Vrumbi-relogio-0.72.2.apk",
+  "tamanho": 206397498,
+  "sha256": "3a10c199bd872d5140e9491a0f6aef26dbdc3126ae3816b478b10342fb692a12",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.3/Vrumbi-0.72.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.3/Vrumbi-relogio-0.72.3.apk",
   "notas": [
-    "Camadas e locais mais enxuta: cada assunto abre sempre fechado, com quantos itens estão ligados; toque na setinha para ver os grupos de dentro."
+    "Módulo da polícia: as áreas agora ficam dentro do cartão da própria instituição. Em Segurança e justiça > Polícia Militar, depois das unidades, vêm as Áreas: Territorial (Comandos, Batalhões, Companhias), Bombeiros, Ambiental, Trânsito e Rodoviária, cada um com os seus níveis e a sua chave. A Polícia Civil, do mesmo jeito (Departamentos, Seccionais, DPs).",
+    "Municípios e Estado ficam no assunto Divisas."
   ],
   "versoes": [
+    {
+      "versao": "0.72.3",
+      "data": "03/11/2026",
+      "itens": [
+        "Módulo da polícia: as áreas agora ficam dentro do cartão da própria instituição. Em Segurança e justiça > Polícia Militar, depois das unidades, vêm as Áreas: Territorial (Comandos, Batalhões, Companhias), Bombeiros, Ambiental, Trânsito e Rodoviária, cada um com os seus níveis e a sua chave. A Polícia Civil, do mesmo jeito (Departamentos, Seccionais, DPs).",
+        "Municípios e Estado ficam no assunto Divisas."
+      ],
+      "en": [
+        "Police module: the areas now live inside each institution's card. Under Safety and justice > Military Police, after the units, come the Areas: Territorial (Commands, Battalions, Companies), Fire, Environmental, Traffic and Highway, each with its levels and switch. Civil Police works the same way (Departments, Sections, Precincts).",
+        "Municipalities and State are under Boundaries."
+      ],
+      "es": [
+        "Módulo de policía: las áreas ahora están dentro de la tarjeta de cada institución. En Seguridad y justicia > Policía Militar, después de las unidades, vienen las Áreas: Territorial (Comandos, Batallones, Compañías), Bomberos, Ambiental, Tránsito y Carreteras, cada una con sus niveles y su interruptor. La Policía Civil, igual (Departamentos, Seccionales, Distritos).",
+        "Municipios y Estado quedan en Divisiones."
+      ]
+    },
     {
       "versao": "0.72.2",
       "data": "03/11/2026",
@@ -215,31 +232,6 @@
       "es": [
         "Aspecto más liviano en toda la app: la opción elegida (Coche, 3 km, Auto, Estándar, 5%...) ahora tiene fondo suave y contorno fino en el color de destaque, en lugar del bloque naranja lleno, y los botones son más bajos. El color lleno quedó solo para la acción principal (Guardar, Iniciar navegación).",
         "Mapa completo, Lugares en el mapa y Capas ahora están juntos en los Ajustes rápidos, sección Mapa; los tres botones grandes salieron del Menú."
-      ]
-    },
-    {
-      "versao": "0.68.3",
-      "data": "03/11/2026",
-      "itens": [
-        "Ajustes rápidos mais compactos: ladrilhos pequenos de 4 por linha, como os do Android — ícone e nome, e o ligado fica na cor de destaque. A tela cabe quase inteira sem rolar.",
-        "Nova seção Mapa nos Ajustes rápidos: Locais no mapa, Camadas e Mapa 3D. O botão de camadas saiu do mapa.",
-        "Locais no mapa: \"Ligar tudo / Desligar tudo\" no alto.",
-        "Durante a rota os botões continuam na tela (Mídia, Contatos, Treino, Seguir, menu e Gravar), em pé e deitado — antes sumiam até encerrar a rota.",
-        "A cor do ícone da posição não muda mais sozinha ao trocar a cor da interface; com \"Cor de destaque\", ele acompanha a cor na hora."
-      ],
-      "en": [
-        "More compact Quick settings: small tiles, 4 per row, like Android — icon and name, and what is on shows in the accent color. The screen almost fits without scrolling.",
-        "New Map section in Quick settings: Places on the map, Layers and 3D map. The layers button left the map.",
-        "Places on the map: \"Turn all on / Turn all off\" at the top.",
-        "During a route the buttons stay on screen (Media, Contacts, Workout, Follow, menu and Record), portrait and landscape — before they disappeared until the route ended.",
-        "The position icon color no longer changes by itself when you change the interface color; with \"Accent color\" it follows the color right away."
-      ],
-      "es": [
-        "Ajustes rápidos más compactos: mosaicos pequeños de 4 por fila, como los de Android — ícono y nombre, y lo activado queda en el color de destaque. La pantalla cabe casi entera sin desplazarse.",
-        "Nueva sección Mapa en los Ajustes rápidos: Lugares en el mapa, Capas y Mapa 3D. El botón de capas salió del mapa.",
-        "Lugares en el mapa: \"Activar todo / Desactivar todo\" arriba.",
-        "Durante la ruta los botones siguen en pantalla (Medios, Contactos, Entrenamiento, Seguir, menú y Grabar), vertical y horizontal — antes desaparecían hasta terminar la ruta.",
-        "El color del ícono de la posición ya no cambia solo al cambiar el color de la interfaz; con \"Color de destaque\" lo sigue al instante."
       ]
     }
   ]
