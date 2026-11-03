@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.72.1",
-  "codigo": 222,
+  "versao": "0.72.2",
+  "codigo": 223,
   "data": "03/11/2026",
-  "tamanho": 206395782,
-  "sha256": "b8654fae92506650fce9e3db1543d860290f38827600e6fdd22a0bfdf3a755fe",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.1/Vrumbi-0.72.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.1/Vrumbi-relogio-0.72.1.apk",
+  "tamanho": 206396330,
+  "sha256": "09b9eb88409a90181f67aee4bfb2a02e2fba70227bbe2bcfe9ad986f3f4f2fdd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.2/Vrumbi-0.72.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.2/Vrumbi-relogio-0.72.2.apk",
   "notas": [
-    "Camadas e locais: cada assunto (Segurança e justiça, Serviços públicos, Mobilidade, Comércio e lazer, Riscos) tem a sua chave no título para ligar ou desligar tudo o que está dentro; cada grupo continua com a sua."
+    "Camadas e locais mais enxuta: cada assunto abre sempre fechado, com quantos itens estão ligados; toque na setinha para ver os grupos de dentro."
   ],
   "versoes": [
+    {
+      "versao": "0.72.2",
+      "data": "03/11/2026",
+      "itens": [
+        "Camadas e locais mais enxuta: cada assunto abre sempre fechado, com quantos itens estão ligados; toque na setinha para ver os grupos de dentro."
+      ],
+      "en": [
+        "A tidier Layers and places: each topic always opens collapsed, showing how many items are on; tap the arrow to see the groups inside."
+      ],
+      "es": [
+        "Capas y lugares más compacta: cada tema siempre abre cerrado, con cuántos elementos están activos; toca la flechita para ver los grupos de adentro."
+      ]
+    },
     {
       "versao": "0.72.1",
       "data": "03/11/2026",
@@ -227,25 +240,6 @@
         "Lugares en el mapa: \"Activar todo / Desactivar todo\" arriba.",
         "Durante la ruta los botones siguen en pantalla (Medios, Contactos, Entrenamiento, Seguir, menú y Grabar), vertical y horizontal — antes desaparecían hasta terminar la ruta.",
         "El color del ícono de la posición ya no cambia solo al cambiar el color de la interfaz; con \"Color de destaque\" lo sigue al instante."
-      ]
-    },
-    {
-      "versao": "0.68.2",
-      "data": "03/11/2026",
-      "itens": [
-        "Detalhe dos locais: além do 3D, agora também os pontos (comércio, saúde, radares, ícones do mapa e as camadas ligadas) aparecem só até o raio escolhido — 1 km, 2 km, 3 km ou Completo, com o ★ recomendado para o seu celular.",
-        "Botão novo no canto de cima do mapa: abre os locais (polícia, saúde, escolas, comércio...) para ligar e desligar, já com o raio dos locais no alto.",
-        "As câmeras de radar no horizonte também respeitam o raio."
-      ],
-      "en": [
-        "Places detail: besides 3D, points (shops, health, speed cameras, map icons and the layers you turned on) now show only up to the chosen radius — 1 km, 2 km, 3 km or Full, with the ★ recommended for your phone.",
-        "New button at the top of the map: opens the places (police, health, schools, shops...) to turn on and off, with the places radius at the top.",
-        "Speed cameras on the horizon also respect the radius."
-      ],
-      "es": [
-        "Detalle de los lugares: además del 3D, ahora también los puntos (comercios, salud, radares, íconos del mapa y las capas activadas) aparecen solo hasta el radio elegido — 1 km, 2 km, 3 km o Completo, con la ★ recomendada para tu celular.",
-        "Botón nuevo arriba del mapa: abre los lugares (policía, salud, escuelas, comercios...) para activar y desactivar, con el radio de los lugares arriba.",
-        "Los radares en el horizonte también respetan el radio."
       ]
     }
   ]
