@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.68.0",
-  "codigo": 209,
+  "versao": "0.68.1",
+  "codigo": 210,
   "data": "03/11/2026",
-  "tamanho": 206287022,
-  "sha256": "f882e30f88329dbac00e51e4e5061bd6338fa979bb628020f39600c4135e8880",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.0/Vrumbi-0.68.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.0/Vrumbi-relogio-0.68.0.apk",
+  "tamanho": 206298754,
+  "sha256": "c03ac5160ff29087688bc005c152992a6597e1b82dd1b3e6085a9012326cc871",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.1/Vrumbi-0.68.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.1/Vrumbi-relogio-0.68.1.apk",
   "notas": [
-    "Mapa mais leve: os números das casas, as setas de mão única e os prédios 3D aparecem só perto de você (até 1 km na visão inclinada); no horizonte ficam o chão e as ruas.",
-    "As camadas do Vrumbi (locais, saúde, escolas, ônibus, radares...) entregam ao mapa só o que está em volta e vão completando conforme você anda — prontas para ligar muito mais coisa sem travar o celular.",
-    "Novo em Configurações > Sistema > Mapa leve: ligar/desligar o raio de detalhe e o medidor de desempenho (quadros por segundo, memória e quanto está sendo desenhado), para comparar no seu celular."
+    "Detalhe do 3D: em Configurações > Veículo e mapa 3D você escolhe até onde aparecem prédios, números das casas e locais — 1 km, 2 km, 3 km ou Completo. O ★ marca o recomendado para o seu celular, e o Vrumbi avisa se a escolha pesa para o aparelho.",
+    "Prioridade dos ícones: quando dois locais caem no mesmo lugar, fica o mais importante (emergência, polícia, combustível, depois farmácia, mercado, banco...) e o outro aparece ao chegar mais perto. Radares e os seus lugares ficam sempre por cima.",
+    "Voltaram às Configurações \"Edifícios em 3D\", \"Números das casas\" e \"Tamanho da letra\", que tinham sumido. O medidor de desempenho ficou em Configurações > Sistema."
   ],
   "versoes": [
+    {
+      "versao": "0.68.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Detalhe do 3D: em Configurações > Veículo e mapa 3D você escolhe até onde aparecem prédios, números das casas e locais — 1 km, 2 km, 3 km ou Completo. O ★ marca o recomendado para o seu celular, e o Vrumbi avisa se a escolha pesa para o aparelho.",
+        "Prioridade dos ícones: quando dois locais caem no mesmo lugar, fica o mais importante (emergência, polícia, combustível, depois farmácia, mercado, banco...) e o outro aparece ao chegar mais perto. Radares e os seus lugares ficam sempre por cima.",
+        "Voltaram às Configurações \"Edifícios em 3D\", \"Números das casas\" e \"Tamanho da letra\", que tinham sumido. O medidor de desempenho ficou em Configurações > Sistema."
+      ],
+      "en": [
+        "3D detail: in Settings > Vehicle and 3D map you choose how far buildings, house numbers and places show — 1 km, 2 km, 3 km or Full. The ★ marks the recommended one for your phone, and Vrumbi warns if the choice is heavy for the device.",
+        "Icon priority: when two places land on the same spot, the most important stays (emergency, police, fuel, then pharmacy, market, bank...) and the other shows when you get closer. Speed cameras and your places are always on top.",
+        "\"3D buildings\", \"House numbers\" and \"Text size\" are back in Settings (they had disappeared). The performance meter is in Settings > System."
+      ],
+      "es": [
+        "Detalle del 3D: en Configuración > Vehículo y mapa 3D eliges hasta dónde aparecen edificios, números de casas y lugares — 1 km, 2 km, 3 km o Completo. La ★ marca el recomendado para tu celular, y Vrumbi avisa si la elección pesa para el aparato.",
+        "Prioridad de íconos: cuando dos lugares caen en el mismo sitio, queda el más importante (emergencia, policía, combustible, luego farmacia, mercado, banco...) y el otro aparece al acercarte. Los radares y tus lugares siempre quedan arriba.",
+        "Volvieron a la Configuración \"Edificios en 3D\", \"Números de las casas\" y \"Tamaño de letra\", que habían desaparecido. El medidor de rendimiento quedó en Configuración > Sistema."
+      ]
+    },
     {
       "versao": "0.68.0",
       "data": "03/11/2026",
@@ -238,31 +257,6 @@
         "Mi rutina: arma tu circuito (p. ej., sentadillas, flexiones, plancha) con etapas por tiempo, distancia o repeticiones, en rondas. Vrumbi te guía con voz y vibración; en las repeticiones, solo toca Siguiente (en pantalla o en la notificación). En el resumen, el tiempo de cada etapa.",
         "Natación en piscina: elige el largo (25 m, 50 m, 33,3 m...). Va a la app de Vrumbi en el reloj, que cuenta los largos y calcula la distancia.",
         "Detectar entreno (Ajustes > Sensores y reloj): caminando, corriendo o pedaleando unos 10 minutos sin grabar, Vrumbi avisa en la notificación y un toque abre el entreno listo para el START."
-      ]
-    },
-    {
-      "versao": "0.63.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Condicionamento (em Meus treinos): o seu VO2max estimado pela melhor corrida dos últimos 90 dias (método VDOT, de Jack Daniels), com a classificação pela idade e a previsão de prova para 5 km, 10 km, meia maratona e maratona.",
-        "Carga de treino: a carga dos últimos 7 dias comparada com o seu normal das últimas 4 semanas, com o conselho do Vrumbi (pode aumentar, na medida, puxada ou hora de descansar).",
-        "Recuperação dos batimentos: com a cinta ou o relógio, fique parado 2 minutos depois de encerrar e o Vrumbi mede quanto os batimentos caem (quanto mais, melhor). No perfil, entrou a FC de repouso.",
-        "Parado há 5 minutos na pausa automática? O Vrumbi pergunta se você terminou e a notificação ganha o botão Encerrar; o treino fica salvo.",
-        "Corrigido: ritmo que aparecia como 4'60\" em vez de 5'00\"."
-      ],
-      "en": [
-        "Fitness (in My workouts): your estimated VO2max from your best run in the last 90 days (Jack Daniels' VDOT method), rated for your age, plus race predictions for 5 km, 10 km, half marathon and marathon.",
-        "Training load: your last 7 days compared with your normal over the last 4 weeks, with Vrumbi's advice (you can add more, just right, tough, or time to rest).",
-        "Heart rate recovery: with a strap or watch, stay still for 2 minutes after finishing and Vrumbi measures how much your heart rate drops (the more, the better). Resting HR is now in your profile.",
-        "Stopped for 5 minutes on auto-pause? Vrumbi asks if you are done and the notification gets a Finish button; the workout is saved.",
-        "Fixed: pace showing as 4'60\" instead of 5'00\"."
-      ],
-      "es": [
-        "Condición física (en Mis entrenos): tu VO2max estimado por tu mejor carrera de los últimos 90 días (método VDOT de Jack Daniels), con la clasificación por edad y la predicción para 5 km, 10 km, media maratón y maratón.",
-        "Carga de entreno: los últimos 7 días comparados con tu normal de las últimas 4 semanas, con el consejo de Vrumbi (puedes aumentar, en su punto, exigente o hora de descansar).",
-        "Recuperación del pulso: con la banda o el reloj, quédate quieto 2 minutos al terminar y Vrumbi mide cuánto baja el pulso (cuanto más, mejor). En el perfil se añadió la FC en reposo.",
-        "¿Parado 5 minutos en pausa automática? Vrumbi pregunta si terminaste y la notificación tiene el botón Terminar; el entreno queda guardado.",
-        "Corregido: ritmo que salía como 4'60\" en vez de 5'00\"."
       ]
     }
   ]
