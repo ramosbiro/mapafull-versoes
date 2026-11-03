@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.73.0",
-  "codigo": 226,
+  "versao": "0.73.1",
+  "codigo": 227,
   "data": "03/11/2026",
-  "tamanho": 206402302,
-  "sha256": "b4a8aea2362b7abf26fe96fa5cc5cdff5376e91880122782d3c5c05bf684db05",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.0/Vrumbi-0.73.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.0/Vrumbi-relogio-0.73.0.apk",
+  "tamanho": 206409002,
+  "sha256": "f99e62d608793488fd31ee49cf26e49391b83c420d28035f72b6806ec61536b0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.1/Vrumbi-0.73.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.1/Vrumbi-relogio-0.73.1.apk",
   "notas": [
-    "Camadas e locais > Ordem e opacidade: com áreas ligadas (batalhões, companhias, DPs...), segure a alça e arraste para mudar a ordem no mapa (a de cima fica por cima) e use a barra de cada camada para deixá-la mais clara ou mais forte. A ordem e a opacidade ficam guardadas.",
-    "Corrigido: ligar as áreas de um ramo (Rodoviária, Bombeiros...) não acende mais o cartão Territorial junto."
+    "Rodízio em Evitar na rota: a chave \"Desviar do rodízio\" (ligada de fábrica) e os dias e horários do final da placa do seu veículo principal. Desligada, as rotas só avisam, sem desviar. A placa e a isenção continuam em Meus veículos (tem atalho ali mesmo)."
   ],
   "versoes": [
+    {
+      "versao": "0.73.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Rodízio em Evitar na rota: a chave \"Desviar do rodízio\" (ligada de fábrica) e os dias e horários do final da placa do seu veículo principal. Desligada, as rotas só avisam, sem desviar. A placa e a isenção continuam em Meus veículos (tem atalho ali mesmo)."
+      ],
+      "en": [
+        "Plate restriction in Avoid on route: the \"Avoid the plate restriction\" switch (on by default) and the days and hours for your main vehicle's plate. When off, routes only warn you without detouring. Plate and exemption stay in My vehicles (with a shortcut right there)."
+      ],
+      "es": [
+        "Pico y placa en Evitar en la ruta: el interruptor \"Evitar el pico y placa\" (activado de fábrica) y los días y horarios de la placa de tu vehículo principal. Apagado, las rutas solo avisan, sin desviar. La placa y la exención siguen en Mis vehículos (hay un atajo ahí mismo)."
+      ]
+    },
     {
       "versao": "0.73.0",
       "data": "03/11/2026",
@@ -213,22 +225,6 @@
         "Tu perfil pasó a Sensores y reloj, y Mis vehículos a Navegación, junto a Vehículo y mapa 3D.",
         "Módulo de la policía sin encender/apagar: liberado es activo. Lo que se elige son las capas, y en Capas ahora hay un interruptor para todas las áreas y uno por grupo (Policía Militar, Bomberos...).",
         "El botón de buscar quedó igual a los demás botones del mapa."
-      ]
-    },
-    {
-      "versao": "0.69.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Ajustes rápidos organizados por assunto: o grupo Atalhos acabou. Mapas offline, Clima e tempo, Minhas viagens e Ajuda por perto ficam no grupo Mapa, e Alertas e notícias abre o grupo Avisos.",
-        "Novidades agora fica em Configurações > Aplicativo, junto da versão e da atualização."
-      ],
-      "en": [
-        "Quick settings organized by topic: the Shortcuts group is gone. Offline maps, Weather, My trips and Help nearby are in the Map group, and Alerts and news opens the Alerts group.",
-        "What's new is now in Settings > App, next to the version and the update."
-      ],
-      "es": [
-        "Ajustes rápidos organizados por tema: el grupo Atajos salió. Mapas sin conexión, Clima, Mis viajes y Ayuda cercana están en el grupo Mapa, y Alertas y noticias abre el grupo Avisos.",
-        "Novedades ahora está en Configuración > Aplicación, junto a la versión y la actualización."
       ]
     }
   ]
