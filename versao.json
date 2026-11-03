@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.74.1",
-  "codigo": 229,
+  "versao": "0.74.2",
+  "codigo": 230,
   "data": "03/11/2026",
-  "tamanho": 206410506,
-  "sha256": "b75f5fe715f64aaa829874834527bec61b011c76bddde9326c1d8a1883db9d22",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.1/Vrumbi-0.74.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.1/Vrumbi-relogio-0.74.1.apk",
+  "tamanho": 206410950,
+  "sha256": "e00aec07c9992320c1be0e4ddd4c222a65431935766e2b76a95f586e4ac3ac9c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.2/Vrumbi-0.74.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.2/Vrumbi-relogio-0.74.2.apk",
   "notas": [
-    "Trem e metrô percebidos mais rápido: viadutos e avenidas coladas na linha não zeram mais a contagem, e a pergunta vem com 20 s e 250 m em cima do trilho.",
-    "Enquanto o app confirma que você está no trem, a seta já segue o trilho, sem pular para as ruas e viadutos por cima."
+    "Todos os ajustes num lugar só: o grupo Sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões e Aplicativo) entrou na tela de Configurações, e a janela \"Sistema e aplicativo\" saiu."
   ],
   "versoes": [
+    {
+      "versao": "0.74.2",
+      "data": "03/11/2026",
+      "itens": [
+        "Todos os ajustes num lugar só: o grupo Sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões e Aplicativo) entrou na tela de Configurações, e a janela \"Sistema e aplicativo\" saiu."
+      ],
+      "en": [
+        "All settings in one place: the System group (Car screen, GPS and compass, Language, Widgets, Performance meter, Permissions and App) is now in the Settings screen, and the \"System and app\" window is gone."
+      ],
+      "es": [
+        "Todos los ajustes en un solo lugar: el grupo Sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos y Aplicación) entró en la pantalla de Configuración, y la ventana \"Sistema y aplicación\" salió."
+      ]
+    },
     {
       "versao": "0.74.1",
       "data": "03/11/2026",
@@ -198,22 +210,6 @@
         "Viajes: la ruta se revisa para el día y la hora de salida y con el vehículo del viaje; si cae en la restricción, el viaje avisa y rehace la ruta sin ella.",
         "Aviso el día de tu restricción, antes del horario, y, si estás dentro del área a esa hora, la ruta más corta para salir.",
         "Matrícula: pon el vencimiento en el vehículo (en 14 estados de Brasil la app sugiere la fecha por el calendario oficial del Detran). Aviso 30 días, 7 días y 1 día antes y el mismo día."
-      ]
-    },
-    {
-      "versao": "0.70.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Importar treinos de outros apps e exportar a planilha agora ficam em Meus treinos > Sensores, relógio e perfil > Importar e exportar treinos (saíram do fim da lista).",
-        "Mais proteção nos esportes criados por você: o nome e o código são conferidos ao carregar, inclusive vindos de um backup."
-      ],
-      "en": [
-        "Importing workouts from other apps and exporting the spreadsheet are now in My workouts > Sensors, watch and profile > Import and export workouts (they left the end of the list).",
-        "More protection for sports you create: the name and code are checked when loading, including from a backup."
-      ],
-      "es": [
-        "Importar entrenamientos de otras apps y exportar la hoja ahora están en Mis entrenamientos > Sensores, reloj y perfil > Importar y exportar entrenamientos (salieron del final de la lista).",
-        "Más protección en los deportes que creas: el nombre y el código se revisan al cargar, también desde una copia de seguridad."
       ]
     }
   ]
