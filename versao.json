@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.72.4",
-  "codigo": 225,
+  "versao": "0.73.0",
+  "codigo": 226,
   "data": "03/11/2026",
-  "tamanho": 206399018,
-  "sha256": "2a3e785c99dec671e763d932b7785b32c0ac408eb7f8f330087925104671e9b7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.4/Vrumbi-0.72.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.4/Vrumbi-relogio-0.72.4.apk",
+  "tamanho": 206402302,
+  "sha256": "b4a8aea2362b7abf26fe96fa5cc5cdff5376e91880122782d3c5c05bf684db05",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.0/Vrumbi-0.73.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.73.0/Vrumbi-relogio-0.73.0.apk",
   "notas": [
-    "Mapa muito mais leve com as áreas ligadas (de 2 para cerca de 60 quadros por segundo): só as áreas em volta de onde você está, sem o preenchimento, e os níveis mais finos (companhias, DPs, postos) só com o mapa mais perto.",
-    "Fim do \"São Paulo\" repetido por todo o mapa: cada área tem o seu nome uma vez só.",
-    "Teclado: a faixa preta que ficava embaixo depois de fechar o teclado não fica mais, e tocar em Enviar na resposta da mensagem não fecha o teclado no meio do toque."
+    "Camadas e locais > Ordem e opacidade: com áreas ligadas (batalhões, companhias, DPs...), segure a alça e arraste para mudar a ordem no mapa (a de cima fica por cima) e use a barra de cada camada para deixá-la mais clara ou mais forte. A ordem e a opacidade ficam guardadas.",
+    "Corrigido: ligar as áreas de um ramo (Rodoviária, Bombeiros...) não acende mais o cartão Territorial junto."
   ],
   "versoes": [
+    {
+      "versao": "0.73.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Camadas e locais > Ordem e opacidade: com áreas ligadas (batalhões, companhias, DPs...), segure a alça e arraste para mudar a ordem no mapa (a de cima fica por cima) e use a barra de cada camada para deixá-la mais clara ou mais forte. A ordem e a opacidade ficam guardadas.",
+        "Corrigido: ligar as áreas de um ramo (Rodoviária, Bombeiros...) não acende mais o cartão Territorial junto."
+      ],
+      "en": [
+        "Layers and places > Order and opacity: with areas on (battalions, companies, precincts...), hold the handle and drag to change their order on the map (the top one is drawn on top) and use each layer's slider to make it lighter or stronger. Order and opacity are saved.",
+        "Fixed: turning on one branch's areas (Highway, Fire...) no longer lights up the Territorial card too."
+      ],
+      "es": [
+        "Capas y lugares > Orden y opacidad: con áreas activadas (batallones, compañías, distritos...), mantén la manija y arrastra para cambiar el orden en el mapa (la de arriba queda encima) y usa la barra de cada capa para hacerla más clara o más fuerte. El orden y la opacidad quedan guardados.",
+        "Corregido: activar las áreas de una rama (Carreteras, Bomberos...) ya no enciende también la tarjeta Territorial."
+      ]
+    },
     {
       "versao": "0.72.4",
       "data": "03/11/2026",
@@ -214,28 +229,6 @@
       "es": [
         "Ajustes rápidos organizados por tema: el grupo Atajos salió. Mapas sin conexión, Clima, Mis viajes y Ayuda cercana están en el grupo Mapa, y Alertas y noticias abre el grupo Avisos.",
         "Novedades ahora está en Configuración > Aplicación, junto a la versión y la actualización."
-      ]
-    },
-    {
-      "versao": "0.69.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Menos menus: o Menu do botão ☰ entrou nos Ajustes rápidos. Minhas viagens, Clima, Alertas, Ajuda por perto, Mapas offline e Novidades viraram atalhos compactos lá dentro, e as Configurações ficam numa linha no fim. Agora são só dois lugares: Ajustes rápidos e Configurações.",
-        "Voltar mais natural: o que você abre a partir dos Ajustes rápidos (Locais, Camadas, Mapa 3D, Clima...) volta para eles, pelo voltar do Android ou deslizando; dos Ajustes rápidos, volta para o mapa.",
-        "Botões mais modernos em todo o app: nada de bloco laranja cheio. Salvar, Iniciar, Ir, Tocar, Enviar e Recentrar têm fundo suave e contorno fino na cor de destaque.",
-        "Configurações: o grupo \"Mais\" saiu. Seu perfil, Meus veículos e Módulo da polícia ficam juntos no novo grupo Usuário, no alto."
-      ],
-      "en": [
-        "Fewer menus: the ☰ Menu moved into Quick settings. My trips, Weather, Alerts, Help nearby, Offline maps and What's new became compact shortcuts there, and Settings is a single line at the end. Now there are only two places: Quick settings and Settings.",
-        "More natural back: whatever you open from Quick settings (Places, Layers, 3D map, Weather...) goes back to it, with Android back or a swipe; from Quick settings, back goes to the map.",
-        "Modern buttons across the app: no more solid orange blocks. Save, Start, Go, Play, Send and Recenter have a soft background and a thin outline in the accent color.",
-        "Settings: the \"More\" group is gone. Your profile, My vehicles and Police module are together in the new User group, at the top."
-      ],
-      "es": [
-        "Menos menús: el Menú del botón ☰ entró en los Ajustes rápidos. Mis viajes, Clima, Alertas, Ayuda cercana, Mapas sin conexión y Novedades son atajos compactos allí, y la Configuración es una línea al final. Ahora son solo dos lugares: Ajustes rápidos y Configuración.",
-        "Volver más natural: lo que abres desde los Ajustes rápidos (Lugares, Capas, Mapa 3D, Clima...) vuelve a ellos, con el botón atrás de Android o deslizando; desde los Ajustes rápidos, vuelve al mapa.",
-        "Botones más modernos en toda la app: sin bloques naranjas llenos. Guardar, Iniciar, Ir, Reproducir, Enviar y Recentrar tienen fondo suave y contorno fino en el color de destaque.",
-        "Configuración: el grupo \"Más\" salió. Tu perfil, Mis vehículos y Módulo de la policía quedan juntos en el nuevo grupo Usuario, arriba."
       ]
     }
   ]
