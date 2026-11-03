@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.74.2",
-  "codigo": 230,
+  "versao": "0.74.3",
+  "codigo": 231,
   "data": "03/11/2026",
-  "tamanho": 206410950,
-  "sha256": "e00aec07c9992320c1be0e4ddd4c222a65431935766e2b76a95f586e4ac3ac9c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.2/Vrumbi-0.74.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.2/Vrumbi-relogio-0.74.2.apk",
+  "tamanho": 206412042,
+  "sha256": "dc665dc3f112a4e68809d6c5ea41aa5d79bb5b5f0acfcd9f869901a0819b29f4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.3/Vrumbi-0.74.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.3/Vrumbi-relogio-0.74.3.apk",
   "notas": [
-    "Todos os ajustes num lugar só: o grupo Sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões e Aplicativo) entrou na tela de Configurações, e a janela \"Sistema e aplicativo\" saiu."
+    "Permissões voltou a mostrar o que está liberado (ficava parado em \"Conferindo o que está liberado…\").",
+    "Clima dos seus locais na hora: a última previsão de cada lugar fica guardada e aparece ao tocar na aba, os locais salvos são buscados por trás ao abrir o Clima, e cada busca ficou mais rápida (previsão, ar e aeroporto ao mesmo tempo).",
+    "Corrigido: a aba de outra cidade não mostra mais o tempo de onde você está quando a internet falha."
   ],
   "versoes": [
+    {
+      "versao": "0.74.3",
+      "data": "03/11/2026",
+      "itens": [
+        "Permissões voltou a mostrar o que está liberado (ficava parado em \"Conferindo o que está liberado…\").",
+        "Clima dos seus locais na hora: a última previsão de cada lugar fica guardada e aparece ao tocar na aba, os locais salvos são buscados por trás ao abrir o Clima, e cada busca ficou mais rápida (previsão, ar e aeroporto ao mesmo tempo).",
+        "Corrigido: a aba de outra cidade não mostra mais o tempo de onde você está quando a internet falha."
+      ],
+      "en": [
+        "Permissions shows what is allowed again (it was stuck on \"Checking what is allowed…\").",
+        "Weather for your places right away: each place's latest forecast is saved and shows up as soon as you tap its tab, saved places are fetched in the background when you open Weather, and each search is faster (forecast, air and airport at the same time).",
+        "Fixed: another city's tab no longer shows the weather where you are when the internet fails."
+      ],
+      "es": [
+        "Permisos vuelve a mostrar lo que está liberado (se quedaba en \"Revisando lo que está liberado…\").",
+        "El clima de tus lugares al instante: el último pronóstico de cada lugar queda guardado y aparece al tocar la pestaña, los lugares guardados se buscan por detrás al abrir Clima y cada búsqueda es más rápida (pronóstico, aire y aeropuerto al mismo tiempo).",
+        "Corregido: la pestaña de otra ciudad ya no muestra el clima de donde estás cuando falla internet."
+      ]
+    },
     {
       "versao": "0.74.2",
       "data": "03/11/2026",
@@ -185,31 +206,6 @@
         "Escuchar la conversación: tocar de nuevo deja de hablar, y cerrar o salir de la conversación también calla la voz.",
         "Arrastrar y desplazar sin retraso en los Ajustes rápidos, la Configuración y el Entrenamiento.",
         "\"Salud de Android\" ahora se llama Apps de salud (Samsung Health, Google Fit y otras, por Health Connect)."
-      ]
-    },
-    {
-      "versao": "0.71.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Rodízio: com a placa no seu veículo, o Vrumbi confere cada rota na hora em que você vai passar. Se cair no rodízio, entra a rota \"sem rodízio\", que contorna a área por fora, e as outras mostram a hora em que dá para sair sem ele.",
-        "São Paulo pelo mapa oficial da CET (as vias do minianel também contam, como manda a regra), Bogotá, Medellín, Cali, Bucaramanga, Cartagena e Quito. Feriados e isenções (elétrico, híbrido, PcD: marque na ficha do veículo) entram na conta.",
-        "Viagens: a rota é conferida no dia e na hora da saída e com o veículo da viagem; se cair no rodízio, a viagem avisa e refaz a rota sem ele.",
-        "Aviso no dia do seu rodízio, antes do horário, e, se estiver dentro da área na hora, a rota mais curta para sair dela.",
-        "Licenciamento: ponha o vencimento na ficha do veículo (em 14 estados o app já sugere a data pelo calendário oficial do Detran). Eu aviso 30 dias, 7 dias e 1 dia antes e no dia."
-      ],
-      "en": [
-        "Plate restriction: with the plate on your vehicle, Vrumbi checks every route at the time you will pass. If it hits the restriction, a \"no plate restriction\" route goes around the area, and the others show when you can leave without it.",
-        "São Paulo from the official CET map (the ring roads count too, as the rule says), Bogotá, Medellín, Cali, Bucaramanga, Cartagena and Quito. Holidays and exemptions (electric, hybrid, disability: mark it on the vehicle) are taken into account.",
-        "Trips: the route is checked for the departure day and time and with the trip vehicle; if it hits the restriction, the trip warns you and redoes the route without it.",
-        "A warning on your restriction day, before it starts, and, if you are inside the area at that time, the shortest route out.",
-        "Registration: enter the expiry date on the vehicle (in 14 Brazilian states the app suggests it from the official Detran calendar). I warn you 30 days, 7 days and 1 day before and on the day."
-      ],
-      "es": [
-        "Pico y placa: con la placa en tu vehículo, Vrumbi revisa cada ruta a la hora en que vas a pasar. Si cae en la restricción, entra la ruta \"sin restricción\", que rodea el área por fuera, y las otras muestran a qué hora puedes salir sin ella.",
-        "São Paulo con el mapa oficial de la CET (las vías del anillo también cuentan, como dice la norma), Bogotá, Medellín, Cali, Bucaramanga, Cartagena y Quito. Festivos y exenciones (eléctrico, híbrido, discapacidad: márcalo en el vehículo) se tienen en cuenta.",
-        "Viajes: la ruta se revisa para el día y la hora de salida y con el vehículo del viaje; si cae en la restricción, el viaje avisa y rehace la ruta sin ella.",
-        "Aviso el día de tu restricción, antes del horario, y, si estás dentro del área a esa hora, la ruta más corta para salir.",
-        "Matrícula: pon el vencimiento en el vehículo (en 14 estados de Brasil la app sugiere la fecha por el calendario oficial del Detran). Aviso 30 días, 7 días y 1 día antes y el mismo día."
       ]
     }
   ]
