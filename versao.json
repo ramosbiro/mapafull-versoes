@@ -1,18 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.68.2",
-  "codigo": 211,
+  "versao": "0.68.3",
+  "codigo": 212,
   "data": "03/11/2026",
-  "tamanho": 206301974,
-  "sha256": "40306b9bcaebbd6511adee091abfe43519cdb6feca2b6e7fb3096eb1afec6441",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.2/Vrumbi-0.68.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.2/Vrumbi-relogio-0.68.2.apk",
+  "tamanho": 206305974,
+  "sha256": "350ad8899705acf5b28cd2a5bfa70e114ae415d3f86625e4d5833c3facac6cdb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.3/Vrumbi-0.68.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.3/Vrumbi-relogio-0.68.3.apk",
   "notas": [
-    "Detalhe dos locais: além do 3D, agora também os pontos (comércio, saúde, radares, ícones do mapa e as camadas ligadas) aparecem só até o raio escolhido — 1 km, 2 km, 3 km ou Completo, com o ★ recomendado para o seu celular.",
-    "Botão novo no canto de cima do mapa: abre os locais (polícia, saúde, escolas, comércio...) para ligar e desligar, já com o raio dos locais no alto.",
-    "As câmeras de radar no horizonte também respeitam o raio."
+    "Ajustes rápidos mais compactos: ladrilhos pequenos de 4 por linha, como os do Android — ícone e nome, e o ligado fica na cor de destaque. A tela cabe quase inteira sem rolar.",
+    "Nova seção Mapa nos Ajustes rápidos: Locais no mapa, Camadas e Mapa 3D. O botão de camadas saiu do mapa.",
+    "Locais no mapa: \"Ligar tudo / Desligar tudo\" no alto.",
+    "Durante a rota os botões continuam na tela (Mídia, Contatos, Treino, Seguir, menu e Gravar), em pé e deitado — antes sumiam até encerrar a rota.",
+    "A cor do ícone da posição não muda mais sozinha ao trocar a cor da interface; com \"Cor de destaque\", ele acompanha a cor na hora."
   ],
   "versoes": [
+    {
+      "versao": "0.68.3",
+      "data": "03/11/2026",
+      "itens": [
+        "Ajustes rápidos mais compactos: ladrilhos pequenos de 4 por linha, como os do Android — ícone e nome, e o ligado fica na cor de destaque. A tela cabe quase inteira sem rolar.",
+        "Nova seção Mapa nos Ajustes rápidos: Locais no mapa, Camadas e Mapa 3D. O botão de camadas saiu do mapa.",
+        "Locais no mapa: \"Ligar tudo / Desligar tudo\" no alto.",
+        "Durante a rota os botões continuam na tela (Mídia, Contatos, Treino, Seguir, menu e Gravar), em pé e deitado — antes sumiam até encerrar a rota.",
+        "A cor do ícone da posição não muda mais sozinha ao trocar a cor da interface; com \"Cor de destaque\", ele acompanha a cor na hora."
+      ],
+      "en": [
+        "More compact Quick settings: small tiles, 4 per row, like Android — icon and name, and what is on shows in the accent color. The screen almost fits without scrolling.",
+        "New Map section in Quick settings: Places on the map, Layers and 3D map. The layers button left the map.",
+        "Places on the map: \"Turn all on / Turn all off\" at the top.",
+        "During a route the buttons stay on screen (Media, Contacts, Workout, Follow, menu and Record), portrait and landscape — before they disappeared until the route ended.",
+        "The position icon color no longer changes by itself when you change the interface color; with \"Accent color\" it follows the color right away."
+      ],
+      "es": [
+        "Ajustes rápidos más compactos: mosaicos pequeños de 4 por fila, como los de Android — ícono y nombre, y lo activado queda en el color de destaque. La pantalla cabe casi entera sin desplazarse.",
+        "Nueva sección Mapa en los Ajustes rápidos: Lugares en el mapa, Capas y Mapa 3D. El botón de capas salió del mapa.",
+        "Lugares en el mapa: \"Activar todo / Desactivar todo\" arriba.",
+        "Durante la ruta los botones siguen en pantalla (Medios, Contactos, Entrenamiento, Seguir, menú y Grabar), vertical y horizontal — antes desaparecían hasta terminar la ruta.",
+        "El color del ícono de la posición ya no cambia solo al cambiar el color de la interfaz; con \"Color de destaque\" lo sigue al instante."
+      ]
+    },
     {
       "versao": "0.68.2",
       "data": "03/11/2026",
@@ -238,25 +265,6 @@
         "Recortar el entreno: ¿olvidaste terminarlo o empezaste antes? Quita minutos del inicio o del final y todo se recalcula.",
         "Exportar todos los entrenos a una hoja de cálculo (CSV), para abrir en Excel o Google Sheets.",
         "Perfil con FC máxima (para las zonas) y zancada (para la distancia en la cinta)."
-      ]
-    },
-    {
-      "versao": "0.65.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Plano de corrida guiado (no Treino): escolha o objetivo (correr 30 min sem parar, 5 km, 10 km, meia ou maratona), as semanas e os dias de treino. Cada dia tem o treino certo (leve, longão, ritmo forte, tiros ou corre e anda), com os ritmos calculados pelo seu VO2max (método de Jack Daniels) e as últimas semanas mais leves antes da prova.",
-        "Um toque no treino do dia abre o START já com tudo no treinador: ritmo-alvo, meta, aquecimento, tiros e descansos. Sem VO2max ainda, o primeiro treino é um teste de 12 minutos que define o seu nível. Os treinos feitos ficam marcados e os ritmos sobem quando você evolui.",
-        "GPX com batimentos: o arquivo exportado leva a frequência cardíaca de cada ponto e o tipo da atividade, do jeito que o Strava, a Garmin e outros leem."
-      ],
-      "en": [
-        "Guided running plan (in Workout): choose your goal (run 30 min non-stop, 5 km, 10 km, half or full marathon), the weeks and your training days. Each day has the right workout (easy, long run, tempo, intervals or run-walk), with paces calculated from your VO2max (Jack Daniels' method) and lighter final weeks before race day.",
-        "One tap on today's workout opens START with everything set in the coach: target pace, goal, warm-up, repeats and rests. Without a VO2max yet, the first workout is a 12-minute test that sets your level. Done workouts get checked and paces go up as you improve.",
-        "GPX with heart rate: the exported file carries the heart rate of every point and the activity type, the way Strava, Garmin and others read it."
-      ],
-      "es": [
-        "Plan de carrera guiado (en Entreno): elige el objetivo (correr 30 min sin parar, 5 km, 10 km, media o maratón), las semanas y los días de entreno. Cada día tiene el entreno adecuado (suave, tirada larga, ritmo, series o correr y caminar), con ritmos calculados por tu VO2max (método de Jack Daniels) y las últimas semanas más suaves antes de la carrera.",
-        "Un toque en el entreno del día abre el START con todo en el entrenador: ritmo objetivo, meta, calentamiento, series y descansos. Sin VO2max aún, el primer entreno es un test de 12 minutos que define tu nivel. Los entrenos hechos quedan marcados y los ritmos suben cuando mejoras.",
-        "GPX con pulso: el archivo exportado lleva la frecuencia cardíaca de cada punto y el tipo de actividad, como lo leen Strava, Garmin y otros."
       ]
     }
   ]
