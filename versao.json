@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.68.1",
-  "codigo": 210,
+  "versao": "0.68.2",
+  "codigo": 211,
   "data": "03/11/2026",
-  "tamanho": 206298754,
-  "sha256": "c03ac5160ff29087688bc005c152992a6597e1b82dd1b3e6085a9012326cc871",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.1/Vrumbi-0.68.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.1/Vrumbi-relogio-0.68.1.apk",
+  "tamanho": 206301974,
+  "sha256": "40306b9bcaebbd6511adee091abfe43519cdb6feca2b6e7fb3096eb1afec6441",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.2/Vrumbi-0.68.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.68.2/Vrumbi-relogio-0.68.2.apk",
   "notas": [
-    "Detalhe do 3D: em Configurações > Veículo e mapa 3D você escolhe até onde aparecem prédios, números das casas e locais — 1 km, 2 km, 3 km ou Completo. O ★ marca o recomendado para o seu celular, e o Vrumbi avisa se a escolha pesa para o aparelho.",
-    "Prioridade dos ícones: quando dois locais caem no mesmo lugar, fica o mais importante (emergência, polícia, combustível, depois farmácia, mercado, banco...) e o outro aparece ao chegar mais perto. Radares e os seus lugares ficam sempre por cima.",
-    "Voltaram às Configurações \"Edifícios em 3D\", \"Números das casas\" e \"Tamanho da letra\", que tinham sumido. O medidor de desempenho ficou em Configurações > Sistema."
+    "Detalhe dos locais: além do 3D, agora também os pontos (comércio, saúde, radares, ícones do mapa e as camadas ligadas) aparecem só até o raio escolhido — 1 km, 2 km, 3 km ou Completo, com o ★ recomendado para o seu celular.",
+    "Botão novo no canto de cima do mapa: abre os locais (polícia, saúde, escolas, comércio...) para ligar e desligar, já com o raio dos locais no alto.",
+    "As câmeras de radar no horizonte também respeitam o raio."
   ],
   "versoes": [
+    {
+      "versao": "0.68.2",
+      "data": "03/11/2026",
+      "itens": [
+        "Detalhe dos locais: além do 3D, agora também os pontos (comércio, saúde, radares, ícones do mapa e as camadas ligadas) aparecem só até o raio escolhido — 1 km, 2 km, 3 km ou Completo, com o ★ recomendado para o seu celular.",
+        "Botão novo no canto de cima do mapa: abre os locais (polícia, saúde, escolas, comércio...) para ligar e desligar, já com o raio dos locais no alto.",
+        "As câmeras de radar no horizonte também respeitam o raio."
+      ],
+      "en": [
+        "Places detail: besides 3D, points (shops, health, speed cameras, map icons and the layers you turned on) now show only up to the chosen radius — 1 km, 2 km, 3 km or Full, with the ★ recommended for your phone.",
+        "New button at the top of the map: opens the places (police, health, schools, shops...) to turn on and off, with the places radius at the top.",
+        "Speed cameras on the horizon also respect the radius."
+      ],
+      "es": [
+        "Detalle de los lugares: además del 3D, ahora también los puntos (comercios, salud, radares, íconos del mapa y las capas activadas) aparecen solo hasta el radio elegido — 1 km, 2 km, 3 km o Completo, con la ★ recomendada para tu celular.",
+        "Botón nuevo arriba del mapa: abre los lugares (policía, salud, escuelas, comercios...) para activar y desactivar, con el radio de los lugares arriba.",
+        "Los radares en el horizonte también respetan el radio."
+      ]
+    },
     {
       "versao": "0.68.1",
       "data": "03/11/2026",
@@ -238,25 +257,6 @@
         "Plan de carrera guiado (en Entreno): elige el objetivo (correr 30 min sin parar, 5 km, 10 km, media o maratón), las semanas y los días de entreno. Cada día tiene el entreno adecuado (suave, tirada larga, ritmo, series o correr y caminar), con ritmos calculados por tu VO2max (método de Jack Daniels) y las últimas semanas más suaves antes de la carrera.",
         "Un toque en el entreno del día abre el START con todo en el entrenador: ritmo objetivo, meta, calentamiento, series y descansos. Sin VO2max aún, el primer entreno es un test de 12 minutos que define tu nivel. Los entrenos hechos quedan marcados y los ritmos suben cuando mejoras.",
         "GPX con pulso: el archivo exportado lleva la frecuencia cardíaca de cada punto y el tipo de actividad, como lo leen Strava, Garmin y otros."
-      ]
-    },
-    {
-      "versao": "0.64.0",
-      "data": "02/11/2026",
-      "itens": [
-        "Minha rotina: monte o seu circuito (ex.: agachamento, flexão, prancha) com etapas por tempo, por distância ou por repetições, em rodadas. O Vrumbi conduz por voz e vibração; nas repetições, é só tocar em Próxima (na tela ou na notificação). No resumo, o tempo de cada etapa.",
-        "Natação na piscina: escolha o comprimento (25 m, 50 m, 33,3 m...). Ele vai para o app do Vrumbi no relógio, que conta as voltas e calcula a distância.",
-        "Detectar treino (Configurações > Sensores e relógio): andando, correndo ou pedalando por uns 10 minutos sem gravar, o Vrumbi avisa na notificação e um toque abre o treino pronto para o START."
-      ],
-      "en": [
-        "My routine: build your circuit (e.g. squats, push-ups, plank) with steps by time, distance or reps, in rounds. Vrumbi guides you with voice and vibration; for reps, just tap Next (on screen or in the notification). The summary shows each step's time.",
-        "Pool swimming: choose the pool length (25 m, 50 m, 33.3 m...). It goes to the Vrumbi app on your watch, which counts the lengths and works out the distance.",
-        "Detect workouts (Settings > Sensors and watch): walking, running or cycling for about 10 minutes without recording, Vrumbi lets you know in a notification and one tap opens the workout ready for START."
-      ],
-      "es": [
-        "Mi rutina: arma tu circuito (p. ej., sentadillas, flexiones, plancha) con etapas por tiempo, distancia o repeticiones, en rondas. Vrumbi te guía con voz y vibración; en las repeticiones, solo toca Siguiente (en pantalla o en la notificación). En el resumen, el tiempo de cada etapa.",
-        "Natación en piscina: elige el largo (25 m, 50 m, 33,3 m...). Va a la app de Vrumbi en el reloj, que cuenta los largos y calcula la distancia.",
-        "Detectar entreno (Ajustes > Sensores y reloj): caminando, corriendo o pedaleando unos 10 minutos sin grabar, Vrumbi avisa en la notificación y un toque abre el entreno listo para el START."
       ]
     }
   ]
