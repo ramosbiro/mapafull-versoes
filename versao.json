@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.69.1",
-  "codigo": 215,
+  "versao": "0.69.2",
+  "codigo": 216,
   "data": "03/11/2026",
-  "tamanho": 206309198,
-  "sha256": "5629408127d7a00cd79eafc1b4a75b16955e3c24d054cdd51cdd06263bef911b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.1/Vrumbi-0.69.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.1/Vrumbi-relogio-0.69.1.apk",
+  "tamanho": 206310414,
+  "sha256": "8e588bfff41de8132b48338b77642798fad00cdc11f108d81bc78f0450779be7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.2/Vrumbi-0.69.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.69.2/Vrumbi-relogio-0.69.2.apk",
   "notas": [
-    "Ajustes rápidos organizados por assunto: o grupo Atalhos acabou. Mapas offline, Clima e tempo, Minhas viagens e Ajuda por perto ficam no grupo Mapa, e Alertas e notícias abre o grupo Avisos.",
-    "Novidades agora fica em Configurações > Aplicativo, junto da versão e da atualização."
+    "Configurações mais modernas: cada grupo virou um cartão com linhas compactas, ícone num disco leve e texto menor.",
+    "Seu perfil foi para Sensores e relógio e Meus veículos para Navegação, junto de Veículo e mapa 3D.",
+    "Módulo da polícia sem liga/desliga: liberado é ativo. O que se escolhe são as camadas, e nas Camadas agora há uma chave para todas as áreas e uma em cada grupo (Polícia Militar, Bombeiros...).",
+    "A lupa de pesquisar ficou igual aos outros botões do mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.69.2",
+      "data": "03/11/2026",
+      "itens": [
+        "Configurações mais modernas: cada grupo virou um cartão com linhas compactas, ícone num disco leve e texto menor.",
+        "Seu perfil foi para Sensores e relógio e Meus veículos para Navegação, junto de Veículo e mapa 3D.",
+        "Módulo da polícia sem liga/desliga: liberado é ativo. O que se escolhe são as camadas, e nas Camadas agora há uma chave para todas as áreas e uma em cada grupo (Polícia Militar, Bombeiros...).",
+        "A lupa de pesquisar ficou igual aos outros botões do mapa."
+      ],
+      "en": [
+        "More modern Settings: each group is a card with compact rows, the icon on a soft disc and smaller text.",
+        "Your profile moved to Sensors and watch, and My vehicles to Navigation, next to Vehicle and 3D map.",
+        "Police module without on/off: unlocked means active. What you choose are the layers, and Layers now has one switch for all areas and one per group (Military Police, Firefighters...).",
+        "The search button now matches the other map buttons."
+      ],
+      "es": [
+        "Configuración más moderna: cada grupo es una tarjeta con filas compactas, el icono en un disco suave y texto más pequeño.",
+        "Tu perfil pasó a Sensores y reloj, y Mis vehículos a Navegación, junto a Vehículo y mapa 3D.",
+        "Módulo de la policía sin encender/apagar: liberado es activo. Lo que se elige son las capas, y en Capas ahora hay un interruptor para todas las áreas y uno por grupo (Policía Militar, Bomberos...).",
+        "El botón de buscar quedó igual a los demás botones del mapa."
+      ]
+    },
     {
       "versao": "0.69.1",
       "data": "03/11/2026",
@@ -228,25 +252,6 @@
         "Califica cualquier local, en cualquier país: de 1 a 5 estrellas, lo que te gustó (buena atención, rápido, limpio, precio justo, buena comida, accesible, estacionamiento, para niños, admite mascotas, Wi-Fi...), un comentario y fotos del lugar. Al llegar, el botón \"Calificar este lugar\".",
         "Las calificaciones aparecen con el lugar: la nota, cuántos dieron cada estrella, las fotos y los comentarios con el apodo de quien escribió. El contenido malo se denuncia con la banderita y desaparece con 3 denuncias.",
         "Los mejor calificados suben: en la búsqueda y en la lista del centro comercial, los de mejores notas quedan arriba, con el sello de estrellas."
-      ]
-    },
-    {
-      "versao": "0.67.1",
-      "data": "02/11/2026",
-      "itens": [
-        "Buscou um estabelecimento? Um toque e o Vrumbi já calcula as rotas e mostra o mapa de cima com todas elas (antes só no segundo toque).",
-        "Junto das rotas, as informações do lugar: aberto agora ou fechado (e quando fecha ou abre), os horários da semana, telefone, WhatsApp, site e Instagram, entrega, para viagem, acessibilidade e formas de pagamento, vindos do mapa colaborativo.",
-        "E o que só o Vrumbi tem: as estrelas dadas pelos usuários, como está o movimento agora (vazio, tranquilo, movimentado ou lotado, contado por quem está lá) e quantas pessoas do Vrumbi estão indo para lá. Está no lugar? Conte como está e dê a sua nota."
-      ],
-      "en": [
-        "Searched for a place? One tap and Vrumbi already calculates the routes and shows the top-down map with all of them (before, only on the second tap).",
-        "Next to the routes, the place details: open now or closed (and when it closes or opens), the weekly hours, phone, WhatsApp, website and Instagram, delivery, takeaway, accessibility and payment methods, from the collaborative map.",
-        "And what only Vrumbi has: stars given by users, how busy it is right now (empty, quiet, busy or packed, reported by people who are there) and how many Vrumbi users are heading there. At the place? Say how it is and leave your rating."
-      ],
-      "es": [
-        "¿Buscaste un local? Un toque y Vrumbi ya calcula las rutas y muestra el mapa desde arriba con todas (antes, solo al segundo toque).",
-        "Junto a las rutas, la información del lugar: abierto ahora o cerrado (y cuándo cierra o abre), los horarios de la semana, teléfono, WhatsApp, sitio e Instagram, entrega, para llevar, accesibilidad y formas de pago, del mapa colaborativo.",
-        "Y lo que solo Vrumbi tiene: las estrellas de los usuarios, cómo está el movimiento ahora (vacío, tranquilo, concurrido o lleno, contado por quien está ahí) y cuántas personas de Vrumbi van para allá. ¿Estás en el lugar? Cuenta cómo está y deja tu nota."
       ]
     }
   ]
