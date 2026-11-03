@@ -1,17 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.70.1",
-  "codigo": 218,
+  "versao": "0.71.0",
+  "codigo": 219,
   "data": "03/11/2026",
-  "tamanho": 206317534,
-  "sha256": "800723c30ea69344af6302029fd29541f9b7fa6e58a26d1aee83158a8e484416",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.1/Vrumbi-0.70.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.70.1/Vrumbi-relogio-0.70.1.apk",
+  "tamanho": 206389770,
+  "sha256": "2486593918f95981b09fb437817aca410af191a8fbffe784171b8e170ee878e8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.0/Vrumbi-0.71.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.0/Vrumbi-relogio-0.71.0.apk",
   "notas": [
-    "Importar treinos de outros apps e exportar a planilha agora ficam em Meus treinos > Sensores, relógio e perfil > Importar e exportar treinos (saíram do fim da lista).",
-    "Mais proteção nos esportes criados por você: o nome e o código são conferidos ao carregar, inclusive vindos de um backup."
+    "Rodízio: com a placa no seu veículo, o Vrumbi confere cada rota na hora em que você vai passar. Se cair no rodízio, entra a rota \"sem rodízio\", que contorna a área por fora, e as outras mostram a hora em que dá para sair sem ele.",
+    "São Paulo pelo mapa oficial da CET (as vias do minianel também contam, como manda a regra), Bogotá, Medellín, Cali, Bucaramanga, Cartagena e Quito. Feriados e isenções (elétrico, híbrido, PcD: marque na ficha do veículo) entram na conta.",
+    "Viagens: a rota é conferida no dia e na hora da saída e com o veículo da viagem; se cair no rodízio, a viagem avisa e refaz a rota sem ele.",
+    "Aviso no dia do seu rodízio, antes do horário, e, se estiver dentro da área na hora, a rota mais curta para sair dela.",
+    "Licenciamento: ponha o vencimento na ficha do veículo (em 14 estados o app já sugere a data pelo calendário oficial do Detran). Eu aviso 30 dias, 7 dias e 1 dia antes e no dia."
   ],
   "versoes": [
+    {
+      "versao": "0.71.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Rodízio: com a placa no seu veículo, o Vrumbi confere cada rota na hora em que você vai passar. Se cair no rodízio, entra a rota \"sem rodízio\", que contorna a área por fora, e as outras mostram a hora em que dá para sair sem ele.",
+        "São Paulo pelo mapa oficial da CET (as vias do minianel também contam, como manda a regra), Bogotá, Medellín, Cali, Bucaramanga, Cartagena e Quito. Feriados e isenções (elétrico, híbrido, PcD: marque na ficha do veículo) entram na conta.",
+        "Viagens: a rota é conferida no dia e na hora da saída e com o veículo da viagem; se cair no rodízio, a viagem avisa e refaz a rota sem ele.",
+        "Aviso no dia do seu rodízio, antes do horário, e, se estiver dentro da área na hora, a rota mais curta para sair dela.",
+        "Licenciamento: ponha o vencimento na ficha do veículo (em 14 estados o app já sugere a data pelo calendário oficial do Detran). Eu aviso 30 dias, 7 dias e 1 dia antes e no dia."
+      ],
+      "en": [
+        "Plate restriction: with the plate on your vehicle, Vrumbi checks every route at the time you will pass. If it hits the restriction, a \"no plate restriction\" route goes around the area, and the others show when you can leave without it.",
+        "São Paulo from the official CET map (the ring roads count too, as the rule says), Bogotá, Medellín, Cali, Bucaramanga, Cartagena and Quito. Holidays and exemptions (electric, hybrid, disability: mark it on the vehicle) are taken into account.",
+        "Trips: the route is checked for the departure day and time and with the trip vehicle; if it hits the restriction, the trip warns you and redoes the route without it.",
+        "A warning on your restriction day, before it starts, and, if you are inside the area at that time, the shortest route out.",
+        "Registration: enter the expiry date on the vehicle (in 14 Brazilian states the app suggests it from the official Detran calendar). I warn you 30 days, 7 days and 1 day before and on the day."
+      ],
+      "es": [
+        "Pico y placa: con la placa en tu vehículo, Vrumbi revisa cada ruta a la hora en que vas a pasar. Si cae en la restricción, entra la ruta \"sin restricción\", que rodea el área por fuera, y las otras muestran a qué hora puedes salir sin ella.",
+        "São Paulo con el mapa oficial de la CET (las vías del anillo también cuentan, como dice la norma), Bogotá, Medellín, Cali, Bucaramanga, Cartagena y Quito. Festivos y exenciones (eléctrico, híbrido, discapacidad: márcalo en el vehículo) se tienen en cuenta.",
+        "Viajes: la ruta se revisa para el día y la hora de salida y con el vehículo del viaje; si cae en la restricción, el viaje avisa y rehace la ruta sin ella.",
+        "Aviso el día de tu restricción, antes del horario, y, si estás dentro del área a esa hora, la ruta más corta para salir.",
+        "Matrícula: pon el vencimiento en el vehículo (en 14 estados de Brasil la app sugiere la fecha por el calendario oficial del Detran). Aviso 30 días, 7 días y 1 día antes y el mismo día."
+      ]
+    },
     {
       "versao": "0.70.1",
       "data": "03/11/2026",
@@ -222,34 +250,6 @@
       "es": [
         "Reproductor: corregido el reproductor que quedaba trabado en \"Abrir el reproductor\" (el tamaño Pequeño siempre se volvía compacto); ahora abre la lista de música y los reproductores normalmente.",
         "Arrastrar el reproductor quedó suave: sigue el dedo sin tirones."
-      ]
-    },
-    {
-      "versao": "0.67.4",
-      "data": "03/11/2026",
-      "itens": [
-        "Transporte público: o Vrumbi percebe o trem/metrô mais rápido e, quando você desce, pergunta \"Você desceu do trem?\" (A pé, De carro ou Ainda no trem) e volta o ícone; sem resposta, volta sozinho.",
-        "No trem e no metrô o ícone segue a direção dos trilhos: não fica mais virando de um lado para o outro em estações, viadutos e cruzamentos.",
-        "Player de mídia: os botões ficam sempre redondos; encolhido, vira o player compacto com a barra da música e todos os controles.",
-        "Com o player colado embaixo, o Gravar volta para o lugar (não some mais atrás do Avisar).",
-        "Girar a tela: sem a faixa branca e o mapa reaparece mais rápido.",
-        "Treino: o cartão do perfil (idade, peso, altura, sexo) alinhado; a ordem do Organizar fica guardada a cada toque."
-      ],
-      "en": [
-        "Public transport: Vrumbi detects the train/subway faster and, when you get off, asks \"Did you get off the train?\" (Walking, By car or Still on the train) and switches the icon back; with no answer, it switches back by itself.",
-        "On trains and subways the icon follows the tracks: no more flipping around at stations, overpasses and crossings.",
-        "Media player: buttons are always round; when shrunk, it becomes the compact player with the progress bar and all controls.",
-        "With the player docked at the bottom, the Record button is back in place (no longer hidden behind Report).",
-        "Rotating the screen: no white band and the map comes back faster.",
-        "Workout: the profile card (age, weight, height, sex) is aligned; the Organize order is saved on every tap."
-      ],
-      "es": [
-        "Transporte público: Vrumbi detecta el tren/metro más rápido y, cuando bajas, pregunta \"¿Bajaste del tren?\" (A pie, En coche o Sigo en el tren) y vuelve el ícono; sin respuesta, vuelve solo.",
-        "En el tren y el metro el ícono sigue la dirección de las vías: ya no gira de un lado a otro en estaciones, viaductos y cruces.",
-        "Reproductor: los botones siempre son redondos; achicado, se vuelve el reproductor compacto con la barra y todos los controles.",
-        "Con el reproductor pegado abajo, el botón Grabar vuelve a su lugar (ya no queda detrás de Avisar).",
-        "Girar la pantalla: sin la franja blanca y el mapa vuelve más rápido.",
-        "Entrenamiento: la tarjeta del perfil (edad, peso, altura, sexo) alineada; el orden de Organizar se guarda en cada toque."
       ]
     }
   ]
