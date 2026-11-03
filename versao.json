@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.74.3",
-  "codigo": 231,
+  "versao": "0.74.4",
+  "codigo": 232,
   "data": "03/11/2026",
-  "tamanho": 206412042,
-  "sha256": "dc665dc3f112a4e68809d6c5ea41aa5d79bb5b5f0acfcd9f869901a0819b29f4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.3/Vrumbi-0.74.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.3/Vrumbi-relogio-0.74.3.apk",
+  "tamanho": 206429890,
+  "sha256": "7b5a8e2ff35f0f5fcce55381d066cbc8557c3a05e5840934f107a7b351a97980",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.4/Vrumbi-0.74.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.74.4/Vrumbi-relogio-0.74.4.apk",
   "notas": [
-    "Permissões voltou a mostrar o que está liberado (ficava parado em \"Conferindo o que está liberado…\").",
-    "Clima dos seus locais na hora: a última previsão de cada lugar fica guardada e aparece ao tocar na aba, os locais salvos são buscados por trás ao abrir o Clima, e cada busca ficou mais rápida (previsão, ar e aeroporto ao mesmo tempo).",
-    "Corrigido: a aba de outra cidade não mostra mais o tempo de onde você está quando a internet falha."
+    "Importar a pasta da exportação do Samsung Health ficou muito mais rápido: o app lê cada pasta de uma vez e pula os milhares de arquivos de amostras (cada batimento, cada passo), que não são treino. As tabelas de todos os tipos de dado entram, para a tela de Saúde que vem a seguir."
   ],
   "versoes": [
+    {
+      "versao": "0.74.4",
+      "data": "03/11/2026",
+      "itens": [
+        "Importar a pasta da exportação do Samsung Health ficou muito mais rápido: o app lê cada pasta de uma vez e pula os milhares de arquivos de amostras (cada batimento, cada passo), que não são treino. As tabelas de todos os tipos de dado entram, para a tela de Saúde que vem a seguir."
+      ],
+      "en": [
+        "Importing the Samsung Health export folder is much faster: the app reads each folder at once and skips the thousands of sample files (each heartbeat, each step) that are not workouts. The tables for every data type come in, for the upcoming Health screen."
+      ],
+      "es": [
+        "Importar la carpeta de exportación de Samsung Health es mucho más rápido: la app lee cada carpeta de una vez y salta los miles de archivos de muestras (cada latido, cada paso), que no son entrenamientos. Las tablas de todos los tipos de datos entran, para la pantalla de Salud que viene."
+      ]
+    },
     {
       "versao": "0.74.3",
       "data": "03/11/2026",
@@ -181,31 +192,6 @@
       "es": [
         "Unidades y Capas ahora son una sola pantalla: Capas y lugares. Una tarjeta por tema (Áreas de actuación, Seguridad y justicia, Servicios públicos, salud y educación, Movilidad, Comercio y ocio, Riesgos y análisis) y, dentro, una tarjeta para cada grupo con su interruptor.",
         "Las áreas de policía, bomberos, Ambiental, Tránsito y Carreteras quedan cada una en su tarjeta; carreteras, radares, ciclovías, metro y buses pasaron a Movilidad, en Vías y líneas."
-      ]
-    },
-    {
-      "versao": "0.71.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Unidades e locais: \"Desligar tudo\" e desligar um grupo inteiro agora tiram os pontos do mapa na hora (antes ficavam), e o que fica desligado sai da memória.",
-        "Mensagens: as conversas agrupadas por app (WhatsApp, Telegram, SMS...), cada um no seu cartão. Avisos do próprio app, como \"Procurando novas mensagens\", não entram mais.",
-        "Ouvir a conversa: tocar de novo para de falar, e fechar ou voltar da conversa também cala a voz.",
-        "Arrastar e rolar sem atraso nos Ajustes rápidos, nas Configurações e no Treino.",
-        "\"Saúde do Android\" agora se chama Apps de saúde (Samsung Health, Google Fit e outros, pela Conexão Saúde)."
-      ],
-      "en": [
-        "Units and places: \"Turn all off\" and turning off a whole group now remove the points from the map right away (they used to stay), and what is off leaves memory.",
-        "Messages: conversations grouped by app (WhatsApp, Telegram, SMS...), each in its own card. The app's own notices, like \"Checking for new messages\", no longer show up.",
-        "Listen to the conversation: tap again to stop, and closing or leaving the conversation also stops the voice.",
-        "Dragging and scrolling without delay in Quick settings, Settings and Workout.",
-        "\"Android Health\" is now called Health apps (Samsung Health, Google Fit and others, through Health Connect)."
-      ],
-      "es": [
-        "Unidades y lugares: \"Desactivar todo\" y desactivar un grupo entero ahora quitan los puntos del mapa al instante (antes se quedaban), y lo desactivado sale de la memoria.",
-        "Mensajes: las conversaciones agrupadas por app (WhatsApp, Telegram, SMS...), cada una en su tarjeta. Los avisos de la propia app, como \"Buscando mensajes nuevos\", ya no aparecen.",
-        "Escuchar la conversación: tocar de nuevo deja de hablar, y cerrar o salir de la conversación también calla la voz.",
-        "Arrastrar y desplazar sin retraso en los Ajustes rápidos, la Configuración y el Entrenamiento.",
-        "\"Salud de Android\" ahora se llama Apps de salud (Samsung Health, Google Fit y otras, por Health Connect)."
       ]
     }
   ]
