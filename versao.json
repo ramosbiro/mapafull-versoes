@@ -1,20 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.71.1",
-  "codigo": 220,
+  "versao": "0.72.0",
+  "codigo": 221,
   "data": "03/11/2026",
-  "tamanho": 206391214,
-  "sha256": "e11e80f6a5de464c1592cc8494b209d25a8d9ea21ab722ef3c2f53e589bdff5e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.1/Vrumbi-0.71.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.71.1/Vrumbi-relogio-0.71.1.apk",
+  "tamanho": 206395446,
+  "sha256": "676f762c54c44d5b75f1300568da7d4d43214c2eb9234d832ace0246b047e849",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.0/Vrumbi-0.72.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.72.0/Vrumbi-relogio-0.72.0.apk",
   "notas": [
-    "Unidades e locais: \"Desligar tudo\" e desligar um grupo inteiro agora tiram os pontos do mapa na hora (antes ficavam), e o que fica desligado sai da memória.",
-    "Mensagens: as conversas agrupadas por app (WhatsApp, Telegram, SMS...), cada um no seu cartão. Avisos do próprio app, como \"Procurando novas mensagens\", não entram mais.",
-    "Ouvir a conversa: tocar de novo para de falar, e fechar ou voltar da conversa também cala a voz.",
-    "Arrastar e rolar sem atraso nos Ajustes rápidos, nas Configurações e no Treino.",
-    "\"Saúde do Android\" agora se chama Apps de saúde (Samsung Health, Google Fit e outros, pela Conexão Saúde)."
+    "Unidades e Camadas viraram uma tela só: Camadas e locais. Um cartão por assunto (Áreas de atuação, Segurança e justiça, Serviços públicos, saúde e educação, Mobilidade, Comércio e lazer, Riscos e análise) e, dentro, um cartão para cada grupo, com a sua chave de ligar tudo.",
+    "As áreas da polícia, dos bombeiros, da Ambiental, do Trânsito e da Rodoviária ficam cada uma no seu cartão; rodovias, radares, ciclovias, metrô e ônibus foram para Mobilidade, em Vias e linhas."
   ],
   "versoes": [
+    {
+      "versao": "0.72.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Unidades e Camadas viraram uma tela só: Camadas e locais. Um cartão por assunto (Áreas de atuação, Segurança e justiça, Serviços públicos, saúde e educação, Mobilidade, Comércio e lazer, Riscos e análise) e, dentro, um cartão para cada grupo, com a sua chave de ligar tudo.",
+        "As áreas da polícia, dos bombeiros, da Ambiental, do Trânsito e da Rodoviária ficam cada uma no seu cartão; rodovias, radares, ciclovias, metrô e ônibus foram para Mobilidade, em Vias e linhas."
+      ],
+      "en": [
+        "Units and Layers are now a single screen: Layers and places. One card per topic (Coverage areas, Safety and justice, Public services, health and education, Mobility, Shops and leisure, Risks and analysis) and, inside, a card for each group with its own switch.",
+        "Police, fire, Environmental, Traffic and Highway police areas each have their own card; highways, speed cameras, cycle lanes, metro and buses moved to Mobility, under Roads and lines."
+      ],
+      "es": [
+        "Unidades y Capas ahora son una sola pantalla: Capas y lugares. Una tarjeta por tema (Áreas de actuación, Seguridad y justicia, Servicios públicos, salud y educación, Movilidad, Comercio y ocio, Riesgos y análisis) y, dentro, una tarjeta para cada grupo con su interruptor.",
+        "Las áreas de policía, bomberos, Ambiental, Tránsito y Carreteras quedan cada una en su tarjeta; carreteras, radares, ciclovías, metro y buses pasaron a Movilidad, en Vías y líneas."
+      ]
+    },
     {
       "versao": "0.71.1",
       "data": "03/11/2026",
@@ -240,25 +253,6 @@
         "Detalle del 3D: en Configuración > Vehículo y mapa 3D eliges hasta dónde aparecen edificios, números de casas y lugares — 1 km, 2 km, 3 km o Completo. La ★ marca el recomendado para tu celular, y Vrumbi avisa si la elección pesa para el aparato.",
         "Prioridad de íconos: cuando dos lugares caen en el mismo sitio, queda el más importante (emergencia, policía, combustible, luego farmacia, mercado, banco...) y el otro aparece al acercarte. Los radares y tus lugares siempre quedan arriba.",
         "Volvieron a la Configuración \"Edificios en 3D\", \"Números de las casas\" y \"Tamaño de letra\", que habían desaparecido. El medidor de rendimiento quedó en Configuración > Sistema."
-      ]
-    },
-    {
-      "versao": "0.68.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Mapa mais leve: os números das casas, as setas de mão única e os prédios 3D aparecem só perto de você (até 1 km na visão inclinada); no horizonte ficam o chão e as ruas.",
-        "As camadas do Vrumbi (locais, saúde, escolas, ônibus, radares...) entregam ao mapa só o que está em volta e vão completando conforme você anda — prontas para ligar muito mais coisa sem travar o celular.",
-        "Novo em Configurações > Sistema > Mapa leve: ligar/desligar o raio de detalhe e o medidor de desempenho (quadros por segundo, memória e quanto está sendo desenhado), para comparar no seu celular."
-      ],
-      "en": [
-        "Lighter map: house numbers, one-way arrows and 3D buildings show only near you (up to 1 km in the tilted view); the horizon keeps just the ground and streets.",
-        "Vrumbi layers (places, health, schools, buses, speed cameras...) hand the map only what is around you and fill in as you move — ready to turn on much more without slowing the phone.",
-        "New in Settings > System > Light map: turn the detail radius and the performance meter (frames per second, memory and how much is drawn) on or off, to compare on your phone."
-      ],
-      "es": [
-        "Mapa más ligero: los números de las casas, las flechas de sentido único y los edificios 3D aparecen solo cerca de ti (hasta 1 km en la vista inclinada); en el horizonte quedan el suelo y las calles.",
-        "Las capas de Vrumbi (lugares, salud, escuelas, autobuses, radares...) le dan al mapa solo lo que está alrededor y se completan mientras avanzas — listas para activar mucho más sin trabar el celular.",
-        "Nuevo en Configuración > Sistema > Mapa ligero: activar/desactivar el radio de detalle y el medidor de rendimiento (cuadros por segundo, memoria y cuánto se dibuja), para comparar en tu celular."
       ]
     }
   ]
