@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.75.0",
-  "codigo": 233,
+  "versao": "0.75.1",
+  "codigo": 234,
   "data": "03/11/2026",
-  "tamanho": 206444390,
-  "sha256": "403b9c94df24b05b97cfe3ddfe5f5b46cb3b36591ed9b8c7ef00da59eee13a4d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.0/Vrumbi-0.75.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.0/Vrumbi-relogio-0.75.0.apk",
+  "tamanho": 206444706,
+  "sha256": "0bba7140b66da34b34539c73e6b68ce4dacdda20cd86b5197a0a7f867817a502",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.1/Vrumbi-0.75.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.1/Vrumbi-relogio-0.75.1.apk",
   "notas": [
-    "Nova tela Saúde em Meus treinos: ao importar a exportação do Samsung Health, passos, sono, batimentos, oxigênio, estresse, peso, pressão, andares, água e os outros dados entram, cada um com o último dia, a média de 7 dias e as barras dos últimos 14 dias.",
-    "Importar de novo a mesma exportação não soma em dobro: os dias novos substituem os mesmos dias."
+    "Mais segurança na importação de dados de saúde: nomes de tabelas e colunas vindos dos arquivos são conferidos antes de entrar no app."
   ],
   "versoes": [
+    {
+      "versao": "0.75.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Mais segurança na importação de dados de saúde: nomes de tabelas e colunas vindos dos arquivos são conferidos antes de entrar no app."
+      ],
+      "en": [
+        "Safer health data import: table and column names coming from the files are checked before entering the app."
+      ],
+      "es": [
+        "Importación de datos de salud más segura: los nombres de tablas y columnas que vienen de los archivos se revisan antes de entrar en la app."
+      ]
+    },
     {
       "versao": "0.75.0",
       "data": "03/11/2026",
@@ -180,19 +192,6 @@
       ],
       "es": [
         "Capas y lugares más compacta: cada tema siempre abre cerrado, con cuántos elementos están activos; toca la flechita para ver los grupos de adentro."
-      ]
-    },
-    {
-      "versao": "0.72.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Camadas e locais: cada assunto (Segurança e justiça, Serviços públicos, Mobilidade, Comércio e lazer, Riscos) tem a sua chave no título para ligar ou desligar tudo o que está dentro; cada grupo continua com a sua."
-      ],
-      "en": [
-        "Layers and places: each topic (Safety and justice, Public services, Mobility, Shops and leisure, Risks) has its own switch in the title to turn everything inside on or off; each group keeps its own too."
-      ],
-      "es": [
-        "Capas y lugares: cada tema (Seguridad y justicia, Servicios públicos, Movilidad, Comercio y ocio, Riesgos) tiene su interruptor en el título para activar o desactivar todo lo de adentro; cada grupo sigue con el suyo."
       ]
     }
   ]
