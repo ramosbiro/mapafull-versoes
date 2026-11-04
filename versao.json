@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.81.0",
-  "codigo": 247,
+  "versao": "0.82.0",
+  "codigo": 248,
   "data": "04/11/2026",
-  "tamanho": 207194973,
-  "sha256": "d27dbbfdab5a81bb57e59ca8c4a269b1d24f6bc547286dcb8a138882e853f07d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.81.0/Vrumbi-0.81.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.81.0/Vrumbi-relogio-0.81.0.apk",
+  "tamanho": 206541822,
+  "sha256": "fa7cde9ef271729a3a9d11502c93986bfa741af52a909caf176540c46cb459d3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.82.0/Vrumbi-0.82.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.82.0/Vrumbi-relogio-0.82.0.apk",
   "notas": [
-    "Central de backup: favoritos, treinos e o backup completo com o automático num lugar só.",
-    "Falar com o Vrumbi: ele sempre fala, e o microfone já abre e fica aberto enquanto a janela estiver aberta.",
-    "O carrinho agora se mexe em Configurações e na busca, com o microfone junto."
+    "A marca Vrumbi deu entrada no INPI: o número do pedido de registro está em Configurações > Aplicativo.",
+    "Rodízio de Pequim: aviso pelo final da placa, dentro do 5º Anel."
   ],
   "versoes": [
+    {
+      "versao": "0.82.0",
+      "data": "04/11/2026",
+      "itens": [
+        "A marca Vrumbi deu entrada no INPI: o número do pedido de registro está em Configurações > Aplicativo.",
+        "Rodízio de Pequim: aviso pelo final da placa, dentro do 5º Anel."
+      ],
+      "en": [
+        "The Vrumbi trademark was filed at INPI (Brazil): the application number is in Settings > App.",
+        "Beijing plate restriction: warning by the last digit, inside the 5th Ring Road."
+      ],
+      "es": [
+        "La marca Vrumbi se presentó en el INPI (Brasil): el número de la solicitud está en Ajustes > Aplicación.",
+        "Restricción de Pekín: aviso por el último dígito de la placa, dentro del 5.º Anillo."
+      ]
+    },
     {
       "versao": "0.81.0",
       "data": "04/11/2026",
@@ -190,25 +205,6 @@
       ],
       "es": [
         "Mapa 3D corregido: las calles ya no cruzan por encima de los edificios, y los edificios ahora son sólidos."
-      ]
-    },
-    {
-      "versao": "0.76.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Busca muito maior: mais de 2 milhões de estabelecimentos de São Paulo com nome, rua e número, do cadastro do IBGE: comércio, serviços, escolas, saúde, igrejas e órgãos públicos.",
-        "Procure pelo nome em qualquer ordem, mesmo com erro de digitação. Ao buscar uma rua, aparece também o que existe nela.",
-        "Seus favoritos vêm primeiro na busca e já aparecem como Salvo. Agora dá para ver mais resultados na lista."
-      ],
-      "en": [
-        "A much bigger search: over 2 million São Paulo places with name, street and number from the IBGE registry: shops, services, schools, health, churches and public offices.",
-        "Search by name in any order, even with typos. When you search a street, you also see what is on it.",
-        "Your favorites come first in search and already show as Saved. You can now see more results in the list."
-      ],
-      "es": [
-        "Búsqueda mucho mayor: más de 2 millones de lugares de São Paulo con nombre, calle y número, del registro del IBGE: comercios, servicios, escuelas, salud, iglesias y oficinas públicas.",
-        "Busca por el nombre en cualquier orden, incluso con errores. Al buscar una calle, también aparece lo que hay en ella.",
-        "Tus favoritos salen primero en la búsqueda y ya aparecen como Guardado. Ahora puedes ver más resultados en la lista."
       ]
     }
   ]
