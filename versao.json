@@ -1,20 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.78.0",
-  "codigo": 239,
+  "versao": "0.79.0",
+  "codigo": 240,
   "data": "04/11/2026",
-  "tamanho": 207224075,
-  "sha256": "44f7c409fde4d7a67ed5fc1a4901ee50fdba286b34b7c1273d916c646db1ae16",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.78.0/Vrumbi-0.78.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.78.0/Vrumbi-relogio-0.78.0.apk",
+  "tamanho": 207508876,
+  "sha256": "07a85a8635b051fa9b730ef5e2512564be70b555e1591108fc659847efb9a6e6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.0/Vrumbi-0.79.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.0/Vrumbi-relogio-0.79.0.apk",
   "notas": [
-    "GeoSampa no mapa: as camadas da Prefeitura de São Paulo em Camadas e locais, com busca por nome. Cada camada é baixada ao ligar.",
-    "Busca ainda maior: empresas e órgãos ativos do CNPJ, com atividade e telefone comercial.",
-    "Favoritos em Camadas e locais: um toggle liga ou desliga todos; a seta abre Casa, Trabalho, seus grupos e Geral.",
-    "Organizar: segure e arraste para mudar a ordem dos exercícios. As setinhas continuam.",
-    "Favoritos: Importar e Exportar no gerenciador, pela memória do celular, Google Drive, OneDrive, Proton ou outra nuvem instalada. Lê o Takeout do Google, KML, GPX e planilhas com latitude e longitude. Os arquivos do treino também salvam onde você escolher."
+    "Ficha do lugar: tocar num favorito mostra o lugar no mapa, o que funciona naquele endereço, telefone, site, avaliações e fotos.",
+    "Botões em fila: Rotas, Iniciar (já navega pela mais rápida), Compartilhar e Editar, além de Ver no Google Maps.",
+    "Compartilhe um lugar por link: quem tem o Vrumbi abre direto e salva nos próprios favoritos."
   ],
   "versoes": [
+    {
+      "versao": "0.79.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Ficha do lugar: tocar num favorito mostra o lugar no mapa, o que funciona naquele endereço, telefone, site, avaliações e fotos.",
+        "Botões em fila: Rotas, Iniciar (já navega pela mais rápida), Compartilhar e Editar, além de Ver no Google Maps.",
+        "Compartilhe um lugar por link: quem tem o Vrumbi abre direto e salva nos próprios favoritos."
+      ],
+      "en": [
+        "Place page: tapping a favorite shows it on the map, what operates at that address, phone, website, reviews and photos.",
+        "Buttons in a row: Routes, Start (navigates by the fastest route), Share and Edit, plus View on Google Maps.",
+        "Share a place by link: anyone with Vrumbi opens it directly and saves it to their favorites."
+      ],
+      "es": [
+        "Ficha del lugar: al tocar un favorito se muestra en el mapa, lo que funciona en esa dirección, teléfono, sitio, reseñas y fotos.",
+        "Botones en fila: Rutas, Iniciar (navega por la más rápida), Compartir y Editar, además de Ver en Google Maps.",
+        "Comparte un lugar por enlace: quien tiene Vrumbi lo abre directo y lo guarda en sus favoritos."
+      ]
+    },
     {
       "versao": "0.78.0",
       "data": "04/11/2026",
@@ -192,22 +209,6 @@
       "es": [
         "Tren y metro detectados más rápido: los viaductos y avenidas pegados a la línea ya no reinician la cuenta, y la pregunta llega con 20 s y 250 m sobre la vía.",
         "Mientras la app confirma que vas en tren, la flecha ya sigue la vía, sin saltar a las calles y viaductos de arriba."
-      ]
-    },
-    {
-      "versao": "0.74.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Uma tela de ajustes só: os Ajustes rápidos viraram as Configurações do app (o botão ☰). Ganharam o grupo Navegação (Meus veículos, Ícone da posição, Evitar na rota) e o Módulo da polícia no grupo Mapa.",
-        "O que é do sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões, Aplicativo e Novidades) fica no botão Sistema e aplicativo, no fim. Nada repetido em dois lugares."
-      ],
-      "en": [
-        "One settings screen: Quick settings became the app's Settings (the ☰ button). It gained the Navigation group (My vehicles, Position icon, Avoid on route) and the Police module in the Map group.",
-        "System items (Car screen, GPS and compass, Language, Widgets, Performance meter, Permissions, App and What's new) are under the System and app button at the end. Nothing repeated in two places."
-      ],
-      "es": [
-        "Una sola pantalla de ajustes: los Ajustes rápidos se volvieron la Configuración de la app (el botón ☰). Ganaron el grupo Navegación (Mis vehículos, Icono de posición, Evitar en la ruta) y el Módulo de la policía en el grupo Mapa.",
-        "Lo del sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos, Aplicación y Novedades) queda en el botón Sistema y aplicación, al final. Nada repetido en dos lugares."
       ]
     }
   ]
