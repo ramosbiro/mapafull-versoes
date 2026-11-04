@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.75.2",
-  "codigo": 235,
+  "versao": "0.76.0",
+  "codigo": 236,
   "data": "03/11/2026",
-  "tamanho": 207200789,
-  "sha256": "015a070b0b456277436b7ca1eb04cb448d26aaa6fc1593eddc53b557193c528e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.2/Vrumbi-0.75.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.2/Vrumbi-relogio-0.75.2.apk",
+  "tamanho": 207205513,
+  "sha256": "d455ffb4e5a0d7f7abf9122ca8e2ce17065f07f02187c895ba65634699ed2a12",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.0/Vrumbi-0.76.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.0/Vrumbi-relogio-0.76.0.apk",
   "notas": [
-    "Rodízio mais simples: a ficha do veículo e Evitar na rota mostram só a regra do estado da placa e de onde você está, com o município, o seu dia e como está hoje.",
-    "A isenção (PcD, elétrico, híbrido) virou uma chave só, na cidade que vale para você. O estado da placa fica junto da placa e já vem preenchido pela sua posição."
+    "Busca muito maior: mais de 2 milhões de estabelecimentos de São Paulo com nome, rua e número, do cadastro do IBGE: comércio, serviços, escolas, saúde, igrejas e órgãos públicos.",
+    "Procure pelo nome em qualquer ordem, mesmo com erro de digitação. Ao buscar uma rua, aparece também o que existe nela.",
+    "Seus favoritos vêm primeiro na busca e já aparecem como Salvo. Agora dá para ver mais resultados na lista."
   ],
   "versoes": [
+    {
+      "versao": "0.76.0",
+      "data": "03/11/2026",
+      "itens": [
+        "Busca muito maior: mais de 2 milhões de estabelecimentos de São Paulo com nome, rua e número, do cadastro do IBGE: comércio, serviços, escolas, saúde, igrejas e órgãos públicos.",
+        "Procure pelo nome em qualquer ordem, mesmo com erro de digitação. Ao buscar uma rua, aparece também o que existe nela.",
+        "Seus favoritos vêm primeiro na busca e já aparecem como Salvo. Agora dá para ver mais resultados na lista."
+      ],
+      "en": [
+        "A much bigger search: over 2 million São Paulo places with name, street and number from the IBGE registry: shops, services, schools, health, churches and public offices.",
+        "Search by name in any order, even with typos. When you search a street, you also see what is on it.",
+        "Your favorites come first in search and already show as Saved. You can now see more results in the list."
+      ],
+      "es": [
+        "Búsqueda mucho mayor: más de 2 millones de lugares de São Paulo con nombre, calle y número, del registro del IBGE: comercios, servicios, escuelas, salud, iglesias y oficinas públicas.",
+        "Busca por el nombre en cualquier orden, incluso con errores. Al buscar una calle, también aparece lo que hay en ella.",
+        "Tus favoritos salen primero en la búsqueda y ya aparecen como Guardado. Ahora puedes ver más resultados en la lista."
+      ]
+    },
     {
       "versao": "0.75.2",
       "data": "03/11/2026",
@@ -180,22 +200,6 @@
         "Mapa mucho más liviano con las áreas activadas (de 2 a unos 60 cuadros por segundo): solo las áreas alrededor de donde estás, sin relleno, y los niveles más finos (compañías, distritos, puestos) solo con el mapa más cerca.",
         "Se acabó el \"São Paulo\" repetido por todo el mapa: cada área muestra su nombre una sola vez.",
         "Teclado: la franja negra que quedaba abajo al cerrar el teclado ya no queda, y tocar Enviar en la respuesta de un mensaje no cierra el teclado en medio del toque."
-      ]
-    },
-    {
-      "versao": "0.72.3",
-      "data": "03/11/2026",
-      "itens": [
-        "Módulo da polícia: as áreas agora ficam dentro do cartão da própria instituição. Em Segurança e justiça > Polícia Militar, depois das unidades, vêm as Áreas: Territorial (Comandos, Batalhões, Companhias), Bombeiros, Ambiental, Trânsito e Rodoviária, cada um com os seus níveis e a sua chave. A Polícia Civil, do mesmo jeito (Departamentos, Seccionais, DPs).",
-        "Municípios e Estado ficam no assunto Divisas."
-      ],
-      "en": [
-        "Police module: the areas now live inside each institution's card. Under Safety and justice > Military Police, after the units, come the Areas: Territorial (Commands, Battalions, Companies), Fire, Environmental, Traffic and Highway, each with its levels and switch. Civil Police works the same way (Departments, Sections, Precincts).",
-        "Municipalities and State are under Boundaries."
-      ],
-      "es": [
-        "Módulo de policía: las áreas ahora están dentro de la tarjeta de cada institución. En Seguridad y justicia > Policía Militar, después de las unidades, vienen las Áreas: Territorial (Comandos, Batallones, Compañías), Bomberos, Ambiental, Tránsito y Carreteras, cada una con sus niveles y su interruptor. La Policía Civil, igual (Departamentos, Seccionales, Distritos).",
-        "Municipios y Estado quedan en Divisiones."
       ]
     }
   ]
