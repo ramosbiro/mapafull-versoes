@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.80.1",
-  "codigo": 245,
+  "versao": "0.80.2",
+  "codigo": 246,
   "data": "04/11/2026",
-  "tamanho": 206530622,
-  "sha256": "3615958dd5f1e7e14dac063c15508e427488652b0541e9083d214faeb8ac53c0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.1/Vrumbi-0.80.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.1/Vrumbi-relogio-0.80.1.apk",
+  "tamanho": 206530742,
+  "sha256": "4bcaf78d754766cb59ca03662e5a5267036e38b49f8d8d4dfc82a3fa7af24ab5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.2/Vrumbi-0.80.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.2/Vrumbi-relogio-0.80.2.apk",
   "notas": [
-    "Mensagens: a resposta escrita no app não sai mais repetida."
+    "Mensagens: mais uma correção para a resposta não sair repetida em apps com mais de um campo de resposta."
   ],
   "versoes": [
+    {
+      "versao": "0.80.2",
+      "data": "04/11/2026",
+      "itens": [
+        "Mensagens: mais uma correção para a resposta não sair repetida em apps com mais de um campo de resposta."
+      ],
+      "en": [
+        "Messages: one more fix so replies are not sent twice in apps with more than one reply field."
+      ],
+      "es": [
+        "Mensajes: una corrección más para que la respuesta no salga repetida en apps con más de un campo de respuesta."
+      ]
+    },
     {
       "versao": "0.80.1",
       "data": "04/11/2026",
@@ -191,19 +204,6 @@
       "es": [
         "Pico y placa más simple: la ficha del vehículo y Evitar en la ruta muestran solo la regla del estado de la placa y de donde estás, con el municipio, tu día y cómo está hoy.",
         "La exención (discapacidad, eléctrico, híbrido) es ahora un solo interruptor, en la ciudad que te aplica. El estado de la placa va junto a la placa y se rellena con tu posición."
-      ]
-    },
-    {
-      "versao": "0.75.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Mais segurança na importação de dados de saúde: nomes de tabelas e colunas vindos dos arquivos são conferidos antes de entrar no app."
-      ],
-      "en": [
-        "Safer health data import: table and column names coming from the files are checked before entering the app."
-      ],
-      "es": [
-        "Importación de datos de salud más segura: los nombres de tablas y columnas que vienen de los archivos se revisan antes de entrar en la app."
       ]
     }
   ]
