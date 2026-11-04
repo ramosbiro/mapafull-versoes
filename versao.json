@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.80.2",
-  "codigo": 246,
+  "versao": "0.81.0",
+  "codigo": 247,
   "data": "04/11/2026",
-  "tamanho": 206530742,
-  "sha256": "4bcaf78d754766cb59ca03662e5a5267036e38b49f8d8d4dfc82a3fa7af24ab5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.2/Vrumbi-0.80.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.2/Vrumbi-relogio-0.80.2.apk",
+  "tamanho": 207194973,
+  "sha256": "d27dbbfdab5a81bb57e59ca8c4a269b1d24f6bc547286dcb8a138882e853f07d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.81.0/Vrumbi-0.81.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.81.0/Vrumbi-relogio-0.81.0.apk",
   "notas": [
-    "Mensagens: mais uma correção para a resposta não sair repetida em apps com mais de um campo de resposta."
+    "Central de backup: favoritos, treinos e o backup completo com o automático num lugar só.",
+    "Falar com o Vrumbi: ele sempre fala, e o microfone já abre e fica aberto enquanto a janela estiver aberta.",
+    "O carrinho agora se mexe em Configurações e na busca, com o microfone junto."
   ],
   "versoes": [
+    {
+      "versao": "0.81.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Central de backup: favoritos, treinos e o backup completo com o automático num lugar só.",
+        "Falar com o Vrumbi: ele sempre fala, e o microfone já abre e fica aberto enquanto a janela estiver aberta.",
+        "O carrinho agora se mexe em Configurações e na busca, com o microfone junto."
+      ],
+      "en": [
+        "Backup center: favorites, workouts and the full backup with the automatic one, all in one place.",
+        "Talk to Vrumbi: it always speaks, and the microphone opens by itself and stays open while the window is open.",
+        "The little car now moves in Settings and in search, with the microphone next to it."
+      ],
+      "es": [
+        "Central de copias: favoritos, entrenamientos y la copia completa con la automática en un solo lugar.",
+        "Hablar con Vrumbi: siempre habla, y el micrófono se abre solo y sigue abierto mientras la ventana esté abierta.",
+        "El carrito ahora se mueve en Ajustes y en la búsqueda, con el micrófono al lado."
+      ]
+    },
     {
       "versao": "0.80.2",
       "data": "04/11/2026",
@@ -188,22 +209,6 @@
         "Búsqueda mucho mayor: más de 2 millones de lugares de São Paulo con nombre, calle y número, del registro del IBGE: comercios, servicios, escuelas, salud, iglesias y oficinas públicas.",
         "Busca por el nombre en cualquier orden, incluso con errores. Al buscar una calle, también aparece lo que hay en ella.",
         "Tus favoritos salen primero en la búsqueda y ya aparecen como Guardado. Ahora puedes ver más resultados en la lista."
-      ]
-    },
-    {
-      "versao": "0.75.2",
-      "data": "03/11/2026",
-      "itens": [
-        "Rodízio mais simples: a ficha do veículo e Evitar na rota mostram só a regra do estado da placa e de onde você está, com o município, o seu dia e como está hoje.",
-        "A isenção (PcD, elétrico, híbrido) virou uma chave só, na cidade que vale para você. O estado da placa fica junto da placa e já vem preenchido pela sua posição."
-      ],
-      "en": [
-        "Simpler plate restriction: the vehicle page and Avoid on route now show only the rule for the plate's state and where you are, with the city, your day and today's status.",
-        "The exemption (disability, electric, hybrid) is now a single switch for the city that applies to you. The plate's state sits next to the plate and is filled in from your location."
-      ],
-      "es": [
-        "Pico y placa más simple: la ficha del vehículo y Evitar en la ruta muestran solo la regla del estado de la placa y de donde estás, con el municipio, tu día y cómo está hoy.",
-        "La exención (discapacidad, eléctrico, híbrido) es ahora un solo interruptor, en la ciudad que te aplica. El estado de la placa va junto a la placa y se rellena con tu posición."
       ]
     }
   ]
