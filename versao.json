@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.83.0",
-  "codigo": 249,
+  "versao": "0.83.1",
+  "codigo": 250,
   "data": "04/11/2026",
-  "tamanho": 206558978,
-  "sha256": "3eaf150e815f5cf543eb3a1ad9ce4652ef3e6b7a7fe2ffeb476c5f9281c2287a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.0/Vrumbi-0.83.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.0/Vrumbi-relogio-0.83.0.apk",
+  "tamanho": 206559370,
+  "sha256": "f6988d0bf6dc97043b2077d9c6f5d83c5252d4d3e32adf944984c379e5b3d760",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.1/Vrumbi-0.83.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.1/Vrumbi-relogio-0.83.1.apk",
   "notas": [
-    "Rodízio da Cidade do México: escolha o holograma na ficha do veículo e o aviso vem com os dias e os sábados certos."
+    "O app abre mais leve e para de reler um arquivo sem necessidade enquanto está aberto."
   ],
   "versoes": [
+    {
+      "versao": "0.83.1",
+      "data": "04/11/2026",
+      "itens": [
+        "O app abre mais leve e para de reler um arquivo sem necessidade enquanto está aberto."
+      ],
+      "en": [
+        "The app opens lighter and no longer rereads a file needlessly while it is open."
+      ],
+      "es": [
+        "La aplicación abre más ligera y ya no vuelve a leer un archivo sin necesidad mientras está abierta."
+      ]
+    },
     {
       "versao": "0.83.0",
       "data": "04/11/2026",
@@ -188,22 +201,6 @@
         "Favoritos en Capas y lugares: un interruptor activa o desactiva todos; la flecha abre Casa, Trabajo, tus grupos y General.",
         "Organizar: mantén pulsado y arrastra para cambiar el orden de los ejercicios. Las flechas siguen ahí.",
         "Favoritos: Importar y Exportar en el gestor, con la memoria del teléfono, Google Drive, OneDrive, Proton u otra nube instalada. Lee Google Takeout, KML, GPX y hojas con latitud y longitud. Los archivos de entrenamiento también se guardan donde elijas."
-      ]
-    },
-    {
-      "versao": "0.77.0",
-      "data": "04/11/2026",
-      "itens": [
-        "A busca agora cobre o Brasil inteiro e o mundo: quase 11 milhões de estabelecimentos do IBGE e 70 milhões de lugares no planeta.",
-        "Muito mais lugares com telefone e site: ligue ou abra o site direto do cartão do lugar."
-      ],
-      "en": [
-        "Search now covers all of Brazil and the world: almost 11 million places from IBGE and 70 million places worldwide.",
-        "Many more places with phone and website: call or open the site right from the place card."
-      ],
-      "es": [
-        "La búsqueda ahora cubre todo Brasil y el mundo: casi 11 millones de lugares del IBGE y 70 millones en el planeta.",
-        "Muchos más lugares con teléfono y sitio web: llama o abre el sitio desde la tarjeta del lugar."
       ]
     }
   ]
