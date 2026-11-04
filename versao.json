@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.79.1",
-  "codigo": 241,
+  "versao": "0.79.2",
+  "codigo": 242,
   "data": "04/11/2026",
-  "tamanho": 207162783,
-  "sha256": "d8604a8d53585b94cfa8a75db3a5516f7027b9727e85fd07a4cba5226d6ee617",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.1/Vrumbi-0.79.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.1/Vrumbi-relogio-0.79.1.apk",
+  "tamanho": 206510498,
+  "sha256": "8cbc4b2f0fe566357fa26501ea9201b1d73709418d5ef1794a6ee950b0a9333a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.2/Vrumbi-0.79.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.2/Vrumbi-relogio-0.79.2.apk",
   "notas": [
-    "Ficha do lugar com abas Geral, Avaliações e Fotos, e as palavras mais citadas nos comentários.",
-    "Menu Mais: postar foto, sugerir alteração e pedir a propriedade do estabelecimento."
+    "Favoritos: filtros por Área e Categoria.",
+    "Ficha do lugar: correções aprovadas aparecem na hora, e o estabelecimento confirmado ganha o selo Verificado."
   ],
   "versoes": [
+    {
+      "versao": "0.79.2",
+      "data": "04/11/2026",
+      "itens": [
+        "Favoritos: filtros por Área e Categoria.",
+        "Ficha do lugar: correções aprovadas aparecem na hora, e o estabelecimento confirmado ganha o selo Verificado."
+      ],
+      "en": [
+        "Favorites: filters by Area and Category.",
+        "Place page: approved corrections show up right away, and confirmed businesses get the Verified badge."
+      ],
+      "es": [
+        "Favoritos: filtros por Área y Categoría.",
+        "Ficha del lugar: las correcciones aprobadas aparecen al momento, y el negocio confirmado recibe el sello Verificado."
+      ]
+    },
     {
       "versao": "0.79.1",
       "data": "04/11/2026",
@@ -195,19 +211,6 @@
         "Permisos vuelve a mostrar lo que está liberado (se quedaba en \"Revisando lo que está liberado…\").",
         "El clima de tus lugares al instante: el último pronóstico de cada lugar queda guardado y aparece al tocar la pestaña, los lugares guardados se buscan por detrás al abrir Clima y cada búsqueda es más rápida (pronóstico, aire y aeropuerto al mismo tiempo).",
         "Corregido: la pestaña de otra ciudad ya no muestra el clima de donde estás cuando falla internet."
-      ]
-    },
-    {
-      "versao": "0.74.2",
-      "data": "03/11/2026",
-      "itens": [
-        "Todos os ajustes num lugar só: o grupo Sistema (Tela do carro, GPS e bússola, Idioma, Widgets, Medidor de desempenho, Permissões e Aplicativo) entrou na tela de Configurações, e a janela \"Sistema e aplicativo\" saiu."
-      ],
-      "en": [
-        "All settings in one place: the System group (Car screen, GPS and compass, Language, Widgets, Performance meter, Permissions and App) is now in the Settings screen, and the \"System and app\" window is gone."
-      ],
-      "es": [
-        "Todos los ajustes en un solo lugar: el grupo Sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos y Aplicación) entró en la pantalla de Configuración, y la ventana \"Sistema y aplicación\" salió."
       ]
     }
   ]
