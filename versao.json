@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.80.0",
-  "codigo": 244,
+  "versao": "0.80.1",
+  "codigo": 245,
   "data": "04/11/2026",
-  "tamanho": 207181352,
-  "sha256": "113e4dd70625dff07b47eabff332157f184bc6323346d446796e1d867cac340f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.0/Vrumbi-0.80.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.0/Vrumbi-relogio-0.80.0.apk",
+  "tamanho": 206530622,
+  "sha256": "3615958dd5f1e7e14dac063c15508e427488652b0541e9083d214faeb8ac53c0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.1/Vrumbi-0.80.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.1/Vrumbi-relogio-0.80.1.apk",
   "notas": [
-    "Backup automático: todo dia ou toda semana, num arquivo no aparelho, no Google Drive ou em outra nuvem, com favoritos, camadas, veículos, ajustes e treinos com os percursos.",
-    "Se o celular for roubado, quebrar ou molhar, restaure esse arquivo no novo aparelho. O backup na conta Google também foi corrigido."
+    "Mensagens: a resposta escrita no app não sai mais repetida."
   ],
   "versoes": [
+    {
+      "versao": "0.80.1",
+      "data": "04/11/2026",
+      "itens": [
+        "Mensagens: a resposta escrita no app não sai mais repetida."
+      ],
+      "en": [
+        "Messages: replies written in the app are no longer sent twice."
+      ],
+      "es": [
+        "Mensajes: las respuestas escritas en la app ya no se envían repetidas."
+      ]
+    },
     {
       "versao": "0.80.0",
       "data": "04/11/2026",
@@ -192,22 +204,6 @@
       ],
       "es": [
         "Importación de datos de salud más segura: los nombres de tablas y columnas que vienen de los archivos se revisan antes de entrar en la app."
-      ]
-    },
-    {
-      "versao": "0.75.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Nova tela Saúde em Meus treinos: ao importar a exportação do Samsung Health, passos, sono, batimentos, oxigênio, estresse, peso, pressão, andares, água e os outros dados entram, cada um com o último dia, a média de 7 dias e as barras dos últimos 14 dias.",
-        "Importar de novo a mesma exportação não soma em dobro: os dias novos substituem os mesmos dias."
-      ],
-      "en": [
-        "New Health screen in My workouts: when you import the Samsung Health export, steps, sleep, heart rate, oxygen, stress, weight, blood pressure, floors, water and the other data come in, each with the latest day, the 7-day average and bars for the last 14 days.",
-        "Importing the same export again does not double count: new days replace the same days."
-      ],
-      "es": [
-        "Nueva pantalla Salud en Mis entrenamientos: al importar la exportación de Samsung Health, entran pasos, sueño, pulso, oxígeno, estrés, peso, presión, pisos, agua y los demás datos, cada uno con el último día, la media de 7 días y las barras de los últimos 14 días.",
-        "Importar de nuevo la misma exportación no suma el doble: los días nuevos reemplazan los mismos días."
       ]
     }
   ]
