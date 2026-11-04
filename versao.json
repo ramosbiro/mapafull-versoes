@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.83.1",
-  "codigo": 250,
+  "versao": "0.83.2",
+  "codigo": 251,
   "data": "04/11/2026",
-  "tamanho": 206559370,
-  "sha256": "f6988d0bf6dc97043b2077d9c6f5d83c5252d4d3e32adf944984c379e5b3d760",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.1/Vrumbi-0.83.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.1/Vrumbi-relogio-0.83.1.apk",
+  "tamanho": 206571878,
+  "sha256": "755041c78fdaed8d32531df5f50c9ddc939702154e1fd8f54791324eecfaa0bf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.2/Vrumbi-0.83.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.2/Vrumbi-relogio-0.83.2.apk",
   "notas": [
-    "O app abre mais leve e para de reler um arquivo sem necessidade enquanto está aberto."
+    "Mais telas traduzidas nos 18 idiomas: calibrar a bússola, mapas offline e outros textos que ainda vinham em português."
   ],
   "versoes": [
+    {
+      "versao": "0.83.2",
+      "data": "04/11/2026",
+      "itens": [
+        "Mais telas traduzidas nos 18 idiomas: calibrar a bússola, mapas offline e outros textos que ainda vinham em português."
+      ],
+      "en": [
+        "More screens translated into all 18 languages: compass calibration, offline maps and other text still in Portuguese."
+      ],
+      "es": [
+        "Más pantallas traducidas a los 18 idiomas: calibrar la brújula, mapas sin conexión y otros textos que seguían en portugués."
+      ]
+    },
     {
       "versao": "0.83.1",
       "data": "04/11/2026",
@@ -176,31 +189,6 @@
         "Ficha del lugar: al tocar un favorito se muestra en el mapa, lo que funciona en esa dirección, teléfono, sitio, reseñas y fotos.",
         "Botones en fila: Rutas, Iniciar (navega por la más rápida), Compartir y Editar, además de Ver en Google Maps.",
         "Comparte un lugar por enlace: quien tiene Vrumbi lo abre directo y lo guarda en sus favoritos."
-      ]
-    },
-    {
-      "versao": "0.78.0",
-      "data": "04/11/2026",
-      "itens": [
-        "GeoSampa no mapa: as camadas da Prefeitura de São Paulo em Camadas e locais, com busca por nome. Cada camada é baixada ao ligar.",
-        "Busca ainda maior: empresas e órgãos ativos do CNPJ, com atividade e telefone comercial.",
-        "Favoritos em Camadas e locais: um toggle liga ou desliga todos; a seta abre Casa, Trabalho, seus grupos e Geral.",
-        "Organizar: segure e arraste para mudar a ordem dos exercícios. As setinhas continuam.",
-        "Favoritos: Importar e Exportar no gerenciador, pela memória do celular, Google Drive, OneDrive, Proton ou outra nuvem instalada. Lê o Takeout do Google, KML, GPX e planilhas com latitude e longitude. Os arquivos do treino também salvam onde você escolher."
-      ],
-      "en": [
-        "GeoSampa on the map: São Paulo City layers in Layers and places, with search by name. Each layer downloads when you turn it on.",
-        "An even bigger search: active companies and public bodies from the CNPJ registry, with activity and business phone.",
-        "Favorites in Layers and places: one switch turns all on or off; the arrow opens Home, Work, your groups and General.",
-        "Organize: hold and drag to reorder your exercises. The arrows are still there.",
-        "Favorites: Import and Export in the manager, using phone storage, Google Drive, OneDrive, Proton or any installed cloud. Reads Google Takeout, KML, GPX and spreadsheets with latitude and longitude. Workout files also save wherever you choose."
-      ],
-      "es": [
-        "GeoSampa en el mapa: las capas de la Alcaldía de São Paulo en Capas y lugares, con búsqueda por nombre. Cada capa se descarga al activarla.",
-        "Búsqueda aún mayor: empresas y organismos activos del CNPJ, con actividad y teléfono comercial.",
-        "Favoritos en Capas y lugares: un interruptor activa o desactiva todos; la flecha abre Casa, Trabajo, tus grupos y General.",
-        "Organizar: mantén pulsado y arrastra para cambiar el orden de los ejercicios. Las flechas siguen ahí.",
-        "Favoritos: Importar y Exportar en el gestor, con la memoria del teléfono, Google Drive, OneDrive, Proton u otra nube instalada. Lee Google Takeout, KML, GPX y hojas con latitud y longitud. Los archivos de entrenamiento también se guardan donde elijas."
       ]
     }
   ]
