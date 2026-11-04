@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.79.2",
-  "codigo": 242,
+  "versao": "0.79.3",
+  "codigo": 243,
   "data": "04/11/2026",
-  "tamanho": 206510498,
-  "sha256": "8cbc4b2f0fe566357fa26501ea9201b1d73709418d5ef1794a6ee950b0a9333a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.2/Vrumbi-0.79.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.2/Vrumbi-relogio-0.79.2.apk",
+  "tamanho": 207279350,
+  "sha256": "3b16530f2f9df8655939c3127b8faa6507a81589395c7267a78a84231709b3b1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.3/Vrumbi-0.79.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.3/Vrumbi-relogio-0.79.3.apk",
   "notas": [
-    "Favoritos: filtros por Área e Categoria.",
-    "Ficha do lugar: correções aprovadas aparecem na hora, e o estabelecimento confirmado ganha o selo Verificado."
+    "Favoritos mais limpos: importar, exportar e o backup do aplicativo ficam juntos em Backup e arquivos."
   ],
   "versoes": [
+    {
+      "versao": "0.79.3",
+      "data": "04/11/2026",
+      "itens": [
+        "Favoritos mais limpos: importar, exportar e o backup do aplicativo ficam juntos em Backup e arquivos."
+      ],
+      "en": [
+        "Cleaner favorites: import, export and the app backup are now together in Backup and files."
+      ],
+      "es": [
+        "Favoritos más limpios: importar, exportar y la copia de la aplicación están juntos en Copia y archivos."
+      ]
+    },
     {
       "versao": "0.79.2",
       "data": "04/11/2026",
@@ -192,25 +204,6 @@
       ],
       "es": [
         "Importar la carpeta de exportación de Samsung Health es mucho más rápido: la app lee cada carpeta de una vez y salta los miles de archivos de muestras (cada latido, cada paso), que no son entrenamientos. Las tablas de todos los tipos de datos entran, para la pantalla de Salud que viene."
-      ]
-    },
-    {
-      "versao": "0.74.3",
-      "data": "03/11/2026",
-      "itens": [
-        "Permissões voltou a mostrar o que está liberado (ficava parado em \"Conferindo o que está liberado…\").",
-        "Clima dos seus locais na hora: a última previsão de cada lugar fica guardada e aparece ao tocar na aba, os locais salvos são buscados por trás ao abrir o Clima, e cada busca ficou mais rápida (previsão, ar e aeroporto ao mesmo tempo).",
-        "Corrigido: a aba de outra cidade não mostra mais o tempo de onde você está quando a internet falha."
-      ],
-      "en": [
-        "Permissions shows what is allowed again (it was stuck on \"Checking what is allowed…\").",
-        "Weather for your places right away: each place's latest forecast is saved and shows up as soon as you tap its tab, saved places are fetched in the background when you open Weather, and each search is faster (forecast, air and airport at the same time).",
-        "Fixed: another city's tab no longer shows the weather where you are when the internet fails."
-      ],
-      "es": [
-        "Permisos vuelve a mostrar lo que está liberado (se quedaba en \"Revisando lo que está liberado…\").",
-        "El clima de tus lugares al instante: el último pronóstico de cada lugar queda guardado y aparece al tocar la pestaña, los lugares guardados se buscan por detrás al abrir Clima y cada búsqueda es más rápida (pronóstico, aire y aeropuerto al mismo tiempo).",
-        "Corregido: la pestaña de otra ciudad ya no muestra el clima de donde estás cuando falla internet."
       ]
     }
   ]
