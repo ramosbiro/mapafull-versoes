@@ -1,17 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.77.0",
-  "codigo": 238,
+  "versao": "0.78.0",
+  "codigo": 239,
   "data": "04/11/2026",
-  "tamanho": 207207840,
-  "sha256": "09a29aa347386e2c5404167d2cb7e86ec3ed472880c8dc2174394037ac946450",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.77.0/Vrumbi-0.77.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.77.0/Vrumbi-relogio-0.77.0.apk",
+  "tamanho": 207224075,
+  "sha256": "44f7c409fde4d7a67ed5fc1a4901ee50fdba286b34b7c1273d916c646db1ae16",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.78.0/Vrumbi-0.78.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.78.0/Vrumbi-relogio-0.78.0.apk",
   "notas": [
-    "A busca agora cobre o Brasil inteiro e o mundo: quase 11 milhões de estabelecimentos do IBGE e 70 milhões de lugares no planeta.",
-    "Muito mais lugares com telefone e site: ligue ou abra o site direto do cartão do lugar."
+    "GeoSampa no mapa: as camadas da Prefeitura de São Paulo em Camadas e locais, com busca por nome. Cada camada é baixada ao ligar.",
+    "Busca ainda maior: empresas e órgãos ativos do CNPJ, com atividade e telefone comercial.",
+    "Favoritos em Camadas e locais: um toggle liga ou desliga todos; a seta abre Casa, Trabalho, seus grupos e Geral.",
+    "Organizar: segure e arraste para mudar a ordem dos exercícios. As setinhas continuam.",
+    "Favoritos: Importar e Exportar no gerenciador, pela memória do celular, Google Drive, OneDrive, Proton ou outra nuvem instalada. Lê o Takeout do Google, KML, GPX e planilhas com latitude e longitude. Os arquivos do treino também salvam onde você escolher."
   ],
   "versoes": [
+    {
+      "versao": "0.78.0",
+      "data": "04/11/2026",
+      "itens": [
+        "GeoSampa no mapa: as camadas da Prefeitura de São Paulo em Camadas e locais, com busca por nome. Cada camada é baixada ao ligar.",
+        "Busca ainda maior: empresas e órgãos ativos do CNPJ, com atividade e telefone comercial.",
+        "Favoritos em Camadas e locais: um toggle liga ou desliga todos; a seta abre Casa, Trabalho, seus grupos e Geral.",
+        "Organizar: segure e arraste para mudar a ordem dos exercícios. As setinhas continuam.",
+        "Favoritos: Importar e Exportar no gerenciador, pela memória do celular, Google Drive, OneDrive, Proton ou outra nuvem instalada. Lê o Takeout do Google, KML, GPX e planilhas com latitude e longitude. Os arquivos do treino também salvam onde você escolher."
+      ],
+      "en": [
+        "GeoSampa on the map: São Paulo City layers in Layers and places, with search by name. Each layer downloads when you turn it on.",
+        "An even bigger search: active companies and public bodies from the CNPJ registry, with activity and business phone.",
+        "Favorites in Layers and places: one switch turns all on or off; the arrow opens Home, Work, your groups and General.",
+        "Organize: hold and drag to reorder your exercises. The arrows are still there.",
+        "Favorites: Import and Export in the manager, using phone storage, Google Drive, OneDrive, Proton or any installed cloud. Reads Google Takeout, KML, GPX and spreadsheets with latitude and longitude. Workout files also save wherever you choose."
+      ],
+      "es": [
+        "GeoSampa en el mapa: las capas de la Alcaldía de São Paulo en Capas y lugares, con búsqueda por nombre. Cada capa se descarga al activarla.",
+        "Búsqueda aún mayor: empresas y organismos activos del CNPJ, con actividad y teléfono comercial.",
+        "Favoritos en Capas y lugares: un interruptor activa o desactiva todos; la flecha abre Casa, Trabajo, tus grupos y General.",
+        "Organizar: mantén pulsado y arrastra para cambiar el orden de los ejercicios. Las flechas siguen ahí.",
+        "Favoritos: Importar y Exportar en el gestor, con la memoria del teléfono, Google Drive, OneDrive, Proton u otra nube instalada. Lee Google Takeout, KML, GPX y hojas con latitud y longitud. Los archivos de entrenamiento también se guardan donde elijas."
+      ]
+    },
     {
       "versao": "0.77.0",
       "data": "04/11/2026",
@@ -180,19 +208,6 @@
       "es": [
         "Una sola pantalla de ajustes: los Ajustes rápidos se volvieron la Configuración de la app (el botón ☰). Ganaron el grupo Navegación (Mis vehículos, Icono de posición, Evitar en la ruta) y el Módulo de la policía en el grupo Mapa.",
         "Lo del sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos, Aplicación y Novedades) queda en el botón Sistema y aplicación, al final. Nada repetido en dos lugares."
-      ]
-    },
-    {
-      "versao": "0.73.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Rodízio em Evitar na rota: a chave \"Desviar do rodízio\" (ligada de fábrica) e os dias e horários do final da placa do seu veículo principal. Desligada, as rotas só avisam, sem desviar. A placa e a isenção continuam em Meus veículos (tem atalho ali mesmo)."
-      ],
-      "en": [
-        "Plate restriction in Avoid on route: the \"Avoid the plate restriction\" switch (on by default) and the days and hours for your main vehicle's plate. When off, routes only warn you without detouring. Plate and exemption stay in My vehicles (with a shortcut right there)."
-      ],
-      "es": [
-        "Pico y placa en Evitar en la ruta: el interruptor \"Evitar el pico y placa\" (activado de fábrica) y los días y horarios de la placa de tu vehículo principal. Apagado, las rutas solo avisan, sin desviar. La placa y la exención siguen en Mis vehículos (hay un atajo ahí mismo)."
       ]
     }
   ]
