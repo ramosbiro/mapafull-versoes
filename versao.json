@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.82.0",
-  "codigo": 248,
+  "versao": "0.83.0",
+  "codigo": 249,
   "data": "04/11/2026",
-  "tamanho": 206541822,
-  "sha256": "fa7cde9ef271729a3a9d11502c93986bfa741af52a909caf176540c46cb459d3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.82.0/Vrumbi-0.82.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.82.0/Vrumbi-relogio-0.82.0.apk",
+  "tamanho": 206558978,
+  "sha256": "3eaf150e815f5cf543eb3a1ad9ce4652ef3e6b7a7fe2ffeb476c5f9281c2287a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.0/Vrumbi-0.83.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.0/Vrumbi-relogio-0.83.0.apk",
   "notas": [
-    "A marca Vrumbi deu entrada no INPI: o número do pedido de registro está em Configurações > Aplicativo.",
-    "Rodízio de Pequim: aviso pelo final da placa, dentro do 5º Anel."
+    "Rodízio da Cidade do México: escolha o holograma na ficha do veículo e o aviso vem com os dias e os sábados certos."
   ],
   "versoes": [
+    {
+      "versao": "0.83.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Rodízio da Cidade do México: escolha o holograma na ficha do veículo e o aviso vem com os dias e os sábados certos."
+      ],
+      "en": [
+        "Mexico City driving restriction: choose the hologram on the vehicle card and the warning shows the right days and Saturdays."
+      ],
+      "es": [
+        "Hoy No Circula en Ciudad de México: elige el holograma en la ficha del vehículo y el aviso llega con los días y sábados correctos."
+      ]
+    },
     {
       "versao": "0.82.0",
       "data": "04/11/2026",
@@ -192,19 +204,6 @@
       "es": [
         "La búsqueda ahora cubre todo Brasil y el mundo: casi 11 millones de lugares del IBGE y 70 millones en el planeta.",
         "Muchos más lugares con teléfono y sitio web: llama o abre el sitio desde la tarjeta del lugar."
-      ]
-    },
-    {
-      "versao": "0.76.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Mapa 3D corrigido: as ruas não cruzam mais por cima dos prédios, e os prédios ficaram sólidos."
-      ],
-      "en": [
-        "3D map fixed: streets no longer cross over buildings, and buildings are now solid."
-      ],
-      "es": [
-        "Mapa 3D corregido: las calles ya no cruzan por encima de los edificios, y los edificios ahora son sólidos."
       ]
     }
   ]
