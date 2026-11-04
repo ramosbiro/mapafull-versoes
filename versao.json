@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.76.1",
-  "codigo": 237,
-  "data": "03/11/2026",
-  "tamanho": 206459166,
-  "sha256": "2af64a1df8308b7ae7dd14bfdf041ec9ea31fde25747c666734c8755a1346f68",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.1/Vrumbi-0.76.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.1/Vrumbi-relogio-0.76.1.apk",
+  "versao": "0.77.0",
+  "codigo": 238,
+  "data": "04/11/2026",
+  "tamanho": 207207840,
+  "sha256": "09a29aa347386e2c5404167d2cb7e86ec3ed472880c8dc2174394037ac946450",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.77.0/Vrumbi-0.77.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.77.0/Vrumbi-relogio-0.77.0.apk",
   "notas": [
-    "Mapa 3D corrigido: as ruas não cruzam mais por cima dos prédios, e os prédios ficaram sólidos."
+    "A busca agora cobre o Brasil inteiro e o mundo: quase 11 milhões de estabelecimentos do IBGE e 70 milhões de lugares no planeta.",
+    "Muito mais lugares com telefone e site: ligue ou abra o site direto do cartão do lugar."
   ],
   "versoes": [
+    {
+      "versao": "0.77.0",
+      "data": "04/11/2026",
+      "itens": [
+        "A busca agora cobre o Brasil inteiro e o mundo: quase 11 milhões de estabelecimentos do IBGE e 70 milhões de lugares no planeta.",
+        "Muito mais lugares com telefone e site: ligue ou abra o site direto do cartão do lugar."
+      ],
+      "en": [
+        "Search now covers all of Brazil and the world: almost 11 million places from IBGE and 70 million places worldwide.",
+        "Many more places with phone and website: call or open the site right from the place card."
+      ],
+      "es": [
+        "La búsqueda ahora cubre todo Brasil y el mundo: casi 11 millones de lugares del IBGE y 70 millones en el planeta.",
+        "Muchos más lugares con teléfono y sitio web: llama o abre el sitio desde la tarjeta del lugar."
+      ]
+    },
     {
       "versao": "0.76.1",
       "data": "03/11/2026",
@@ -176,22 +193,6 @@
       ],
       "es": [
         "Pico y placa en Evitar en la ruta: el interruptor \"Evitar el pico y placa\" (activado de fábrica) y los días y horarios de la placa de tu vehículo principal. Apagado, las rutas solo avisan, sin desviar. La placa y la exención siguen en Mis vehículos (hay un atajo ahí mismo)."
-      ]
-    },
-    {
-      "versao": "0.73.0",
-      "data": "03/11/2026",
-      "itens": [
-        "Camadas e locais > Ordem e opacidade: com áreas ligadas (batalhões, companhias, DPs...), segure a alça e arraste para mudar a ordem no mapa (a de cima fica por cima) e use a barra de cada camada para deixá-la mais clara ou mais forte. A ordem e a opacidade ficam guardadas.",
-        "Corrigido: ligar as áreas de um ramo (Rodoviária, Bombeiros...) não acende mais o cartão Territorial junto."
-      ],
-      "en": [
-        "Layers and places > Order and opacity: with areas on (battalions, companies, precincts...), hold the handle and drag to change their order on the map (the top one is drawn on top) and use each layer's slider to make it lighter or stronger. Order and opacity are saved.",
-        "Fixed: turning on one branch's areas (Highway, Fire...) no longer lights up the Territorial card too."
-      ],
-      "es": [
-        "Capas y lugares > Orden y opacidad: con áreas activadas (batallones, compañías, distritos...), mantén la manija y arrastra para cambiar el orden en el mapa (la de arriba queda encima) y usa la barra de cada capa para hacerla más clara o más fuerte. El orden y la opacidad quedan guardados.",
-        "Corregido: activar las áreas de una rama (Carreteras, Bomberos...) ya no enciende también la tarjeta Territorial."
       ]
     }
   ]
