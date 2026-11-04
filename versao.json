@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.79.0",
-  "codigo": 240,
+  "versao": "0.79.1",
+  "codigo": 241,
   "data": "04/11/2026",
-  "tamanho": 207508876,
-  "sha256": "07a85a8635b051fa9b730ef5e2512564be70b555e1591108fc659847efb9a6e6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.0/Vrumbi-0.79.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.0/Vrumbi-relogio-0.79.0.apk",
+  "tamanho": 207162783,
+  "sha256": "d8604a8d53585b94cfa8a75db3a5516f7027b9727e85fd07a4cba5226d6ee617",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.1/Vrumbi-0.79.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.1/Vrumbi-relogio-0.79.1.apk",
   "notas": [
-    "Ficha do lugar: tocar num favorito mostra o lugar no mapa, o que funciona naquele endereço, telefone, site, avaliações e fotos.",
-    "Botões em fila: Rotas, Iniciar (já navega pela mais rápida), Compartilhar e Editar, além de Ver no Google Maps.",
-    "Compartilhe um lugar por link: quem tem o Vrumbi abre direto e salva nos próprios favoritos."
+    "Ficha do lugar com abas Geral, Avaliações e Fotos, e as palavras mais citadas nos comentários.",
+    "Menu Mais: postar foto, sugerir alteração e pedir a propriedade do estabelecimento."
   ],
   "versoes": [
+    {
+      "versao": "0.79.1",
+      "data": "04/11/2026",
+      "itens": [
+        "Ficha do lugar com abas Geral, Avaliações e Fotos, e as palavras mais citadas nos comentários.",
+        "Menu Mais: postar foto, sugerir alteração e pedir a propriedade do estabelecimento."
+      ],
+      "en": [
+        "Place page with General, Reviews and Photos tabs, and the most mentioned words in reviews.",
+        "More menu: post a photo, suggest a change and claim your business."
+      ],
+      "es": [
+        "Ficha del lugar con pestañas General, Reseñas y Fotos, y las palabras más citadas en los comentarios.",
+        "Menú Más: publicar foto, sugerir un cambio y reclamar tu negocio."
+      ]
+    },
     {
       "versao": "0.79.0",
       "data": "04/11/2026",
@@ -193,22 +208,6 @@
       ],
       "es": [
         "Todos los ajustes en un solo lugar: el grupo Sistema (Pantalla del coche, GPS y brújula, Idioma, Widgets, Medidor de rendimiento, Permisos y Aplicación) entró en la pantalla de Configuración, y la ventana \"Sistema y aplicación\" salió."
-      ]
-    },
-    {
-      "versao": "0.74.1",
-      "data": "03/11/2026",
-      "itens": [
-        "Trem e metrô percebidos mais rápido: viadutos e avenidas coladas na linha não zeram mais a contagem, e a pergunta vem com 20 s e 250 m em cima do trilho.",
-        "Enquanto o app confirma que você está no trem, a seta já segue o trilho, sem pular para as ruas e viadutos por cima."
-      ],
-      "en": [
-        "Train and metro detected faster: overpasses and avenues right next to the line no longer reset the count, and the question comes after 20 s and 250 m on the track.",
-        "While the app confirms you are on the train, the arrow already follows the track instead of jumping to the streets and overpasses above."
-      ],
-      "es": [
-        "Tren y metro detectados más rápido: los viaductos y avenidas pegados a la línea ya no reinician la cuenta, y la pregunta llega con 20 s y 250 m sobre la vía.",
-        "Mientras la app confirma que vas en tren, la flecha ya sigue la vía, sin saltar a las calles y viaductos de arriba."
       ]
     }
   ]
