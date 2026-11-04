@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.75.1",
-  "codigo": 234,
+  "versao": "0.75.2",
+  "codigo": 235,
   "data": "03/11/2026",
-  "tamanho": 206444706,
-  "sha256": "0bba7140b66da34b34539c73e6b68ce4dacdda20cd86b5197a0a7f867817a502",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.1/Vrumbi-0.75.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.1/Vrumbi-relogio-0.75.1.apk",
+  "tamanho": 207200789,
+  "sha256": "015a070b0b456277436b7ca1eb04cb448d26aaa6fc1593eddc53b557193c528e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.2/Vrumbi-0.75.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.75.2/Vrumbi-relogio-0.75.2.apk",
   "notas": [
-    "Mais segurança na importação de dados de saúde: nomes de tabelas e colunas vindos dos arquivos são conferidos antes de entrar no app."
+    "Rodízio mais simples: a ficha do veículo e Evitar na rota mostram só a regra do estado da placa e de onde você está, com o município, o seu dia e como está hoje.",
+    "A isenção (PcD, elétrico, híbrido) virou uma chave só, na cidade que vale para você. O estado da placa fica junto da placa e já vem preenchido pela sua posição."
   ],
   "versoes": [
+    {
+      "versao": "0.75.2",
+      "data": "03/11/2026",
+      "itens": [
+        "Rodízio mais simples: a ficha do veículo e Evitar na rota mostram só a regra do estado da placa e de onde você está, com o município, o seu dia e como está hoje.",
+        "A isenção (PcD, elétrico, híbrido) virou uma chave só, na cidade que vale para você. O estado da placa fica junto da placa e já vem preenchido pela sua posição."
+      ],
+      "en": [
+        "Simpler plate restriction: the vehicle page and Avoid on route now show only the rule for the plate's state and where you are, with the city, your day and today's status.",
+        "The exemption (disability, electric, hybrid) is now a single switch for the city that applies to you. The plate's state sits next to the plate and is filled in from your location."
+      ],
+      "es": [
+        "Pico y placa más simple: la ficha del vehículo y Evitar en la ruta muestran solo la regla del estado de la placa y de donde estás, con el municipio, tu día y cómo está hoy.",
+        "La exención (discapacidad, eléctrico, híbrido) es ahora un solo interruptor, en la ciudad que te aplica. El estado de la placa va junto a la placa y se rellena con tu posición."
+      ]
+    },
     {
       "versao": "0.75.1",
       "data": "03/11/2026",
@@ -179,19 +196,6 @@
       "es": [
         "Módulo de policía: las áreas ahora están dentro de la tarjeta de cada institución. En Seguridad y justicia > Policía Militar, después de las unidades, vienen las Áreas: Territorial (Comandos, Batallones, Compañías), Bomberos, Ambiental, Tránsito y Carreteras, cada una con sus niveles y su interruptor. La Policía Civil, igual (Departamentos, Seccionales, Distritos).",
         "Municipios y Estado quedan en Divisiones."
-      ]
-    },
-    {
-      "versao": "0.72.2",
-      "data": "03/11/2026",
-      "itens": [
-        "Camadas e locais mais enxuta: cada assunto abre sempre fechado, com quantos itens estão ligados; toque na setinha para ver os grupos de dentro."
-      ],
-      "en": [
-        "A tidier Layers and places: each topic always opens collapsed, showing how many items are on; tap the arrow to see the groups inside."
-      ],
-      "es": [
-        "Capas y lugares más compacta: cada tema siempre abre cerrado, con cuántos elementos están activos; toca la flechita para ver los grupos de adentro."
       ]
     }
   ]
