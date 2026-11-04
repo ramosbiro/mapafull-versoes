@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.79.3",
-  "codigo": 243,
+  "versao": "0.80.0",
+  "codigo": 244,
   "data": "04/11/2026",
-  "tamanho": 207279350,
-  "sha256": "3b16530f2f9df8655939c3127b8faa6507a81589395c7267a78a84231709b3b1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.3/Vrumbi-0.79.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.79.3/Vrumbi-relogio-0.79.3.apk",
+  "tamanho": 207181352,
+  "sha256": "113e4dd70625dff07b47eabff332157f184bc6323346d446796e1d867cac340f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.0/Vrumbi-0.80.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.80.0/Vrumbi-relogio-0.80.0.apk",
   "notas": [
-    "Favoritos mais limpos: importar, exportar e o backup do aplicativo ficam juntos em Backup e arquivos."
+    "Backup automático: todo dia ou toda semana, num arquivo no aparelho, no Google Drive ou em outra nuvem, com favoritos, camadas, veículos, ajustes e treinos com os percursos.",
+    "Se o celular for roubado, quebrar ou molhar, restaure esse arquivo no novo aparelho. O backup na conta Google também foi corrigido."
   ],
   "versoes": [
+    {
+      "versao": "0.80.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Backup automático: todo dia ou toda semana, num arquivo no aparelho, no Google Drive ou em outra nuvem, com favoritos, camadas, veículos, ajustes e treinos com os percursos.",
+        "Se o celular for roubado, quebrar ou molhar, restaure esse arquivo no novo aparelho. O backup na conta Google também foi corrigido."
+      ],
+      "en": [
+        "Automatic backup: daily or weekly, to a file on the device, Google Drive or another cloud, with favorites, layers, vehicles, settings and workouts with their tracks.",
+        "If your phone is stolen, broken or wet, restore this file on the new device. The Google account backup was also fixed."
+      ],
+      "es": [
+        "Copia automática: cada día o cada semana, en un archivo en el dispositivo, Google Drive u otra nube, con favoritos, capas, vehículos, ajustes y entrenamientos con sus recorridos.",
+        "Si te roban el teléfono, se rompe o se moja, restaura este archivo en el nuevo. También se corrigió la copia en la cuenta de Google."
+      ]
+    },
     {
       "versao": "0.79.3",
       "data": "04/11/2026",
@@ -191,19 +208,6 @@
       "es": [
         "Nueva pantalla Salud en Mis entrenamientos: al importar la exportación de Samsung Health, entran pasos, sueño, pulso, oxígeno, estrés, peso, presión, pisos, agua y los demás datos, cada uno con el último día, la media de 7 días y las barras de los últimos 14 días.",
         "Importar de nuevo la misma exportación no suma el doble: los días nuevos reemplazan los mismos días."
-      ]
-    },
-    {
-      "versao": "0.74.4",
-      "data": "03/11/2026",
-      "itens": [
-        "Importar a pasta da exportação do Samsung Health ficou muito mais rápido: o app lê cada pasta de uma vez e pula os milhares de arquivos de amostras (cada batimento, cada passo), que não são treino. As tabelas de todos os tipos de dado entram, para a tela de Saúde que vem a seguir."
-      ],
-      "en": [
-        "Importing the Samsung Health export folder is much faster: the app reads each folder at once and skips the thousands of sample files (each heartbeat, each step) that are not workouts. The tables for every data type come in, for the upcoming Health screen."
-      ],
-      "es": [
-        "Importar la carpeta de exportación de Samsung Health es mucho más rápido: la app lee cada carpeta de una vez y salta los miles de archivos de muestras (cada latido, cada paso), que no son entrenamientos. Las tablas de todos los tipos de datos entran, para la pantalla de Salud que viene."
       ]
     }
   ]
