@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.76.0",
-  "codigo": 236,
+  "versao": "0.76.1",
+  "codigo": 237,
   "data": "03/11/2026",
-  "tamanho": 207205513,
-  "sha256": "d455ffb4e5a0d7f7abf9122ca8e2ce17065f07f02187c895ba65634699ed2a12",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.0/Vrumbi-0.76.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.0/Vrumbi-relogio-0.76.0.apk",
+  "tamanho": 206459166,
+  "sha256": "2af64a1df8308b7ae7dd14bfdf041ec9ea31fde25747c666734c8755a1346f68",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.1/Vrumbi-0.76.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.76.1/Vrumbi-relogio-0.76.1.apk",
   "notas": [
-    "Busca muito maior: mais de 2 milhões de estabelecimentos de São Paulo com nome, rua e número, do cadastro do IBGE: comércio, serviços, escolas, saúde, igrejas e órgãos públicos.",
-    "Procure pelo nome em qualquer ordem, mesmo com erro de digitação. Ao buscar uma rua, aparece também o que existe nela.",
-    "Seus favoritos vêm primeiro na busca e já aparecem como Salvo. Agora dá para ver mais resultados na lista."
+    "Mapa 3D corrigido: as ruas não cruzam mais por cima dos prédios, e os prédios ficaram sólidos."
   ],
   "versoes": [
+    {
+      "versao": "0.76.1",
+      "data": "03/11/2026",
+      "itens": [
+        "Mapa 3D corrigido: as ruas não cruzam mais por cima dos prédios, e os prédios ficaram sólidos."
+      ],
+      "en": [
+        "3D map fixed: streets no longer cross over buildings, and buildings are now solid."
+      ],
+      "es": [
+        "Mapa 3D corregido: las calles ya no cruzan por encima de los edificios, y los edificios ahora son sólidos."
+      ]
+    },
     {
       "versao": "0.76.0",
       "data": "03/11/2026",
@@ -181,25 +192,6 @@
       "es": [
         "Capas y lugares > Orden y opacidad: con áreas activadas (batallones, compañías, distritos...), mantén la manija y arrastra para cambiar el orden en el mapa (la de arriba queda encima) y usa la barra de cada capa para hacerla más clara o más fuerte. El orden y la opacidad quedan guardados.",
         "Corregido: activar las áreas de una rama (Carreteras, Bomberos...) ya no enciende también la tarjeta Territorial."
-      ]
-    },
-    {
-      "versao": "0.72.4",
-      "data": "03/11/2026",
-      "itens": [
-        "Mapa muito mais leve com as áreas ligadas (de 2 para cerca de 60 quadros por segundo): só as áreas em volta de onde você está, sem o preenchimento, e os níveis mais finos (companhias, DPs, postos) só com o mapa mais perto.",
-        "Fim do \"São Paulo\" repetido por todo o mapa: cada área tem o seu nome uma vez só.",
-        "Teclado: a faixa preta que ficava embaixo depois de fechar o teclado não fica mais, e tocar em Enviar na resposta da mensagem não fecha o teclado no meio do toque."
-      ],
-      "en": [
-        "A much lighter map with the areas on (from 2 to about 60 frames per second): only the areas around you, without the fill, and the finer levels (companies, precincts, posts) only when zoomed in.",
-        "No more \"São Paulo\" repeated all over the map: each area shows its name only once.",
-        "Keyboard: the black strip left at the bottom after closing the keyboard is gone, and tapping Send in a message reply no longer closes the keyboard mid-tap."
-      ],
-      "es": [
-        "Mapa mucho más liviano con las áreas activadas (de 2 a unos 60 cuadros por segundo): solo las áreas alrededor de donde estás, sin relleno, y los niveles más finos (compañías, distritos, puestos) solo con el mapa más cerca.",
-        "Se acabó el \"São Paulo\" repetido por todo el mapa: cada área muestra su nombre una sola vez.",
-        "Teclado: la franja negra que quedaba abajo al cerrar el teclado ya no queda, y tocar Enviar en la respuesta de un mensaje no cierra el teclado en medio del toque."
       ]
     }
   ]
