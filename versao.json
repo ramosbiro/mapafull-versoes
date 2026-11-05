@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.1",
-  "codigo": 257,
+  "versao": "0.88.2",
+  "codigo": 258,
   "data": "05/11/2026",
-  "tamanho": 206616078,
-  "sha256": "1d2b1d732d29e57d12f0a45dbaa780bb55e5c9edb8f8a6a439372e2c003b1a1b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.1/Vrumbi-0.88.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.1/Vrumbi-relogio-0.88.1.apk",
+  "tamanho": 206621358,
+  "sha256": "dbbfbea4f7edba43ae2eb40822dcf1b2d240a860fb5a3475a6aeb5704b01ce98",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.2/Vrumbi-0.88.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.2/Vrumbi-relogio-0.88.2.apk",
   "notas": [
-    "Zoom solto: a pinça acompanha o dedo do planeta à rua, sem travar no meio e com o deslizar depois de soltar.",
-    "Pinçar não desliga mais o Seguir: o mapa continua acompanhando você."
+    "Atualização sem parar o app: segure e arraste o aviso de atualização para qualquer borda. Ele vira uma faixa discreta com o Vrumbi, a versão nova e a barra do download, e o app fica livre para usar.",
+    "Quando o download termina, a barra dá lugar ao botão Instalar na própria faixa. Tocar na faixa abre o aviso inteiro; o X só esconde, e o download continua.",
+    "O botão Usar o app manda o aviso para a borda, e a borda escolhida fica guardada para a próxima atualização."
   ],
   "versoes": [
+    {
+      "versao": "0.88.2",
+      "data": "05/11/2026",
+      "itens": [
+        "Atualização sem parar o app: segure e arraste o aviso de atualização para qualquer borda. Ele vira uma faixa discreta com o Vrumbi, a versão nova e a barra do download, e o app fica livre para usar.",
+        "Quando o download termina, a barra dá lugar ao botão Instalar na própria faixa. Tocar na faixa abre o aviso inteiro; o X só esconde, e o download continua.",
+        "O botão Usar o app manda o aviso para a borda, e a borda escolhida fica guardada para a próxima atualização."
+      ],
+      "en": [
+        "Updates without stopping the app: hold and drag the update notice to any edge. It turns into a discreet strip with Vrumbi, the new version and the download bar, and the app stays free to use.",
+        "When the download finishes, the bar gives way to an Install button on the strip itself. Tapping the strip opens the full notice; the X only hides it, and the download continues.",
+        "The Use the app button sends the notice to the edge, and the chosen edge is remembered for the next update."
+      ],
+      "es": [
+        "Actualizar sin detener la app: mantén pulsado y arrastra el aviso de actualización a cualquier borde. Se convierte en una franja discreta con Vrumbi, la versión nueva y la barra de descarga, y la app queda libre para usar.",
+        "Cuando termina la descarga, la barra da lugar al botón Instalar en la propia franja. Al tocar la franja se abre el aviso completo; la X solo la oculta y la descarga continúa.",
+        "El botón Usar la app manda el aviso al borde, y el borde elegido queda guardado para la próxima actualización."
+      ]
+    },
     {
       "versao": "0.88.1",
       "data": "05/11/2026",
@@ -189,19 +209,6 @@
         "Central de copias: favoritos, entrenamientos y la copia completa con la automática en un solo lugar.",
         "Hablar con Vrumbi: siempre habla, y el micrófono se abre solo y sigue abierto mientras la ventana esté abierta.",
         "El carrito ahora se mueve en Ajustes y en la búsqueda, con el micrófono al lado."
-      ]
-    },
-    {
-      "versao": "0.80.2",
-      "data": "04/11/2026",
-      "itens": [
-        "Mensagens: mais uma correção para a resposta não sair repetida em apps com mais de um campo de resposta."
-      ],
-      "en": [
-        "Messages: one more fix so replies are not sent twice in apps with more than one reply field."
-      ],
-      "es": [
-        "Mensajes: una corrección más para que la respuesta no salga repetida en apps con más de un campo de respuesta."
       ]
     }
   ]
