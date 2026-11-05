@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.84.0",
-  "codigo": 252,
+  "versao": "0.85.0",
+  "codigo": 253,
   "data": "04/11/2026",
-  "tamanho": 207354086,
-  "sha256": "8f6efa733d432c14f497b46c1ceb9405c5ae0f046375eb0362237f31326e3a30",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.84.0/Vrumbi-0.84.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.84.0/Vrumbi-relogio-0.84.0.apk",
+  "tamanho": 206589790,
+  "sha256": "f8f17ef3c6ae4ba28fa91d2ef2cb13ca65c21ea1c6bfa25781ea4863038b84bb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.85.0/Vrumbi-0.85.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.85.0/Vrumbi-relogio-0.85.0.apk",
   "notas": [
-    "Tela do mapa mais limpa: o botão de menu entrou no velocímetro. Toque nele para abrir as configurações.",
-    "Mais telas traduzidas e dados de lugares do mundo inteiro conferidos."
+    "Importar favoritos, importar treinos, fazer e restaurar backup agora mostram uma janela com barra e o que está acontecendo, até o resultado.",
+    "Importar treinos pela Central de backup volta a abrir.",
+    "Na ficha de qualquer lugar: botão Salvar. Já salvo, você edita, usa como Casa ou Trabalho e remove ali mesmo."
   ],
   "versoes": [
+    {
+      "versao": "0.85.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Importar favoritos, importar treinos, fazer e restaurar backup agora mostram uma janela com barra e o que está acontecendo, até o resultado.",
+        "Importar treinos pela Central de backup volta a abrir.",
+        "Na ficha de qualquer lugar: botão Salvar. Já salvo, você edita, usa como Casa ou Trabalho e remove ali mesmo."
+      ],
+      "en": [
+        "Importing favorites and workouts, and making or restoring a backup, now show a window with a bar and what is happening, right up to the result.",
+        "Importing workouts from the Backup center opens again.",
+        "On any place card: a Save button. Once saved, you can edit it, use it as Home or Work, and remove it right there."
+      ],
+      "es": [
+        "Importar favoritos y entrenamientos, y hacer o restaurar la copia, ahora muestran una ventana con barra y lo que está pasando, hasta el resultado.",
+        "Importar entrenamientos desde la Central de copias vuelve a abrirse.",
+        "En la ficha de cualquier lugar: botón Guardar. Ya guardado, lo editas, lo usas como Casa o Trabajo y lo quitas ahí mismo."
+      ]
+    },
     {
       "versao": "0.84.0",
       "data": "04/11/2026",
@@ -171,22 +191,6 @@
       "es": [
         "Favoritos: filtros por Área y Categoría.",
         "Ficha del lugar: las correcciones aprobadas aparecen al momento, y el negocio confirmado recibe el sello Verificado."
-      ]
-    },
-    {
-      "versao": "0.79.1",
-      "data": "04/11/2026",
-      "itens": [
-        "Ficha do lugar com abas Geral, Avaliações e Fotos, e as palavras mais citadas nos comentários.",
-        "Menu Mais: postar foto, sugerir alteração e pedir a propriedade do estabelecimento."
-      ],
-      "en": [
-        "Place page with General, Reviews and Photos tabs, and the most mentioned words in reviews.",
-        "More menu: post a photo, suggest a change and claim your business."
-      ],
-      "es": [
-        "Ficha del lugar con pestañas General, Reseñas y Fotos, y las palabras más citadas en los comentarios.",
-        "Menú Más: publicar foto, sugerir un cambio y reclamar tu negocio."
       ]
     }
   ]
