@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.91.3",
-  "codigo": 269,
+  "versao": "0.92.0",
+  "codigo": 270,
   "data": "05/11/2026",
-  "tamanho": 274649203,
-  "sha256": "39c8bb6e5d2750641252085a71bc6c51c096cb5018a55e0fa31bee9ba2e700ab",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.3/Vrumbi-0.91.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.3/Vrumbi-relogio-0.91.3.apk",
+  "tamanho": 276161767,
+  "sha256": "fde8e4b9f9a4e85747ba2e384c3213ac668e3fc86ed3d9b306b67237713b976b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.92.0/Vrumbi-0.92.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.92.0/Vrumbi-relogio-0.92.0.apk",
   "notas": [
-    "Download do cérebro do Vrumbi mais de duas vezes mais rápido: agora ele baixa por várias conexões ao mesmo tempo e continua com a tela apagada.",
-    "A tela mostra a velocidade e quanto falta. Se parar, o botão continua de onde estava, inclusive um download começado na versão anterior.",
-    "No final, o app confere o arquivo: se chegar com defeito, ele descarta e avisa."
+    "Nova chave Radares e câmeras em Camadas e locais: liga e desliga todos os radares do mapa, ou só um país, um estado ou uma cidade. Os países dos seus mapas baixados aparecem no alto da lista.",
+    "Frota nova: carros, picape, perua, SUV, viaturas, ambulância, bombeiros, ônibus, van, caminhão, trem, metrô e helicóptero redesenhados no mesmo estilo moderno.",
+    "A sirene agora pisca nas luzes do próprio veículo, no lugar e no ângulo certos, em todos os veículos oficiais.",
+    "O seletor de ícones mostra a foto de cada veículo. Tocar num radar do mapa abre os dados dele."
   ],
   "versoes": [
+    {
+      "versao": "0.92.0",
+      "data": "05/11/2026",
+      "itens": [
+        "Nova chave Radares e câmeras em Camadas e locais: liga e desliga todos os radares do mapa, ou só um país, um estado ou uma cidade. Os países dos seus mapas baixados aparecem no alto da lista.",
+        "Frota nova: carros, picape, perua, SUV, viaturas, ambulância, bombeiros, ônibus, van, caminhão, trem, metrô e helicóptero redesenhados no mesmo estilo moderno.",
+        "A sirene agora pisca nas luzes do próprio veículo, no lugar e no ângulo certos, em todos os veículos oficiais.",
+        "O seletor de ícones mostra a foto de cada veículo. Tocar num radar do mapa abre os dados dele."
+      ],
+      "en": [
+        "New Speed cameras switch in Layers and places: turn all map cameras on or off, or just one country, state or city. Countries of your downloaded maps come first on the list.",
+        "New fleet: cars, pickup, wagon, SUV, police cars, ambulance, fire truck, bus, van, truck, train, subway and helicopter redrawn in one modern style.",
+        "The siren now flashes on the vehicle lights themselves, in the right place and angle, on every official vehicle.",
+        "The icon picker shows a picture of each vehicle. Tap a camera on the map to see its details."
+      ],
+      "es": [
+        "Nuevo interruptor Radares y cámaras en Capas y lugares: enciende y apaga todos los radares del mapa, o solo un país, un estado o una ciudad. Los países de tus mapas descargados aparecen primero en la lista.",
+        "Flota nueva: autos, camioneta, familiar, SUV, patrullas, ambulancia, bomberos, autobús, furgoneta, camión, tren, metro y helicóptero rediseñados en un mismo estilo moderno.",
+        "La sirena ahora parpadea en las luces del propio vehículo, en el lugar y ángulo correctos, en todos los vehículos oficiales.",
+        "El selector de íconos muestra la foto de cada vehículo. Toca un radar del mapa para ver sus datos."
+      ]
+    },
     {
       "versao": "0.91.3",
       "data": "05/11/2026",
@@ -205,25 +228,6 @@
       "es": [
         "Océanos de verdad en el planeta: de lejos se ven el fondo del mar, la plataforma cerca de la costa y el azul profundo de alta mar, sin descargar nada más.",
         "Girar con dos dedos ahora también funciona de lejos, en el globo: el mapa mantiene el rumbo que elijas."
-      ]
-    },
-    {
-      "versao": "0.88.2",
-      "data": "05/11/2026",
-      "itens": [
-        "Atualização sem parar o app: segure e arraste o aviso de atualização para qualquer borda. Ele vira uma faixa discreta com o Vrumbi, a versão nova e a barra do download, e o app fica livre para usar.",
-        "Quando o download termina, a barra dá lugar ao botão Instalar na própria faixa. Tocar na faixa abre o aviso inteiro; o X só esconde, e o download continua.",
-        "O botão Usar o app manda o aviso para a borda, e a borda escolhida fica guardada para a próxima atualização."
-      ],
-      "en": [
-        "Updates without stopping the app: hold and drag the update notice to any edge. It turns into a discreet strip with Vrumbi, the new version and the download bar, and the app stays free to use.",
-        "When the download finishes, the bar gives way to an Install button on the strip itself. Tapping the strip opens the full notice; the X only hides it, and the download continues.",
-        "The Use the app button sends the notice to the edge, and the chosen edge is remembered for the next update."
-      ],
-      "es": [
-        "Actualizar sin detener la app: mantén pulsado y arrastra el aviso de actualización a cualquier borde. Se convierte en una franja discreta con Vrumbi, la versión nueva y la barra de descarga, y la app queda libre para usar.",
-        "Cuando termina la descarga, la barra da lugar al botón Instalar en la propia franja. Al tocar la franja se abre el aviso completo; la X solo la oculta y la descarga continúa.",
-        "El botón Usar la app manda el aviso al borde, y el borde elegido queda guardado para la próxima actualización."
       ]
     }
   ]
