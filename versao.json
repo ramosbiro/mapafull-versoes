@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.86.0",
-  "codigo": 254,
+  "versao": "0.87.0",
+  "codigo": 255,
   "data": "05/11/2026",
-  "tamanho": 208043850,
-  "sha256": "27c434b6e7127a265df272959cdfbf9ede158c2eeb545dd7c999b81c4981ed71",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.86.0/Vrumbi-0.86.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.86.0/Vrumbi-relogio-0.86.0.apk",
+  "tamanho": 206604570,
+  "sha256": "d3cb75748e869cc13db6bc811a4fd556a36d7da13332da3d4ae3c0318efdc90c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.87.0/Vrumbi-0.87.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.87.0/Vrumbi-relogio-0.87.0.apk",
   "notas": [
-    "Favoritos numa tela só: cada linha tem o lápis para editar e a seta para ir. Segure e arraste para a pasta, que fica presa no topo.",
-    "A lista carrega aos poucos enquanto você rola, sem pesar com centenas de favoritos.",
-    "GeoSampa: chave em cada assunto e uma para tudo, com aviso do tamanho antes de baixar e barra de progresso."
+    "Zoom do planeta à rua: afastando, o mapa vira 2D e depois o globo; aproximando, volta ao 3D perto da rua, sem travar.",
+    "De longe aparecem as rodovias do Brasil como veias, com o número de cada uma. Ícones e camadas só aparecem mais perto.",
+    "Rosa dos ventos no canto da tela: mostra o norte e troca entre 2D e 3D."
   ],
   "versoes": [
+    {
+      "versao": "0.87.0",
+      "data": "05/11/2026",
+      "itens": [
+        "Zoom do planeta à rua: afastando, o mapa vira 2D e depois o globo; aproximando, volta ao 3D perto da rua, sem travar.",
+        "De longe aparecem as rodovias do Brasil como veias, com o número de cada uma. Ícones e camadas só aparecem mais perto.",
+        "Rosa dos ventos no canto da tela: mostra o norte e troca entre 2D e 3D."
+      ],
+      "en": [
+        "Zoom from the planet to the street: zooming out, the map turns 2D and then a globe; zooming in, it returns to 3D near the street, without freezing.",
+        "From afar you see Brazil's highways like veins, each with its number. Icons and layers only appear closer in.",
+        "Compass rose in the corner: it shows north and switches between 2D and 3D."
+      ],
+      "es": [
+        "Zoom del planeta a la calle: al alejar, el mapa pasa a 2D y luego al globo; al acercar, vuelve al 3D cerca de la calle, sin trabarse.",
+        "De lejos se ven las carreteras de Brasil como venas, cada una con su número. Los iconos y las capas aparecen más cerca.",
+        "Rosa de los vientos en la esquina: muestra el norte y cambia entre 2D y 3D."
+      ]
+    },
     {
       "versao": "0.86.0",
       "data": "05/11/2026",
@@ -181,19 +200,6 @@
       "es": [
         "Copia automática: cada día o cada semana, en un archivo en el dispositivo, Google Drive u otra nube, con favoritos, capas, vehículos, ajustes y entrenamientos con sus recorridos.",
         "Si te roban el teléfono, se rompe o se moja, restaura este archivo en el nuevo. También se corrigió la copia en la cuenta de Google."
-      ]
-    },
-    {
-      "versao": "0.79.3",
-      "data": "04/11/2026",
-      "itens": [
-        "Favoritos mais limpos: importar, exportar e o backup do aplicativo ficam juntos em Backup e arquivos."
-      ],
-      "en": [
-        "Cleaner favorites: import, export and the app backup are now together in Backup and files."
-      ],
-      "es": [
-        "Favoritos más limpios: importar, exportar y la copia de la aplicación están juntos en Copia y archivos."
       ]
     }
   ]
