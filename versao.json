@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.90.0",
-  "codigo": 265,
+  "versao": "0.91.0",
+  "codigo": 266,
   "data": "05/11/2026",
-  "tamanho": 223640064,
-  "sha256": "1ae6c52e2c465ef489740c38f6591ce4bd38620d13c0e37461e9a2c0dbea2603",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.90.0/Vrumbi-0.90.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.90.0/Vrumbi-relogio-0.90.0.apk",
+  "tamanho": 274643339,
+  "sha256": "7b56b3deb777ab1a68cc7c33b91379f8bd3fbc8f70b1e79e6574c60b492e0454",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.0/Vrumbi-0.91.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.0/Vrumbi-relogio-0.91.0.apk",
   "notas": [
-    "\"Ei, Vrumbi\": com o app aberto, é só chamar pelo nome que ele aparece, sem tocar em nada. Quem fica atento à palavra é o próprio celular, sem internet: o som não é gravado nem enviado.",
-    "Liga e desliga nos Ajustes rápidos, no cartão Voz, ou falando: \"para de me ouvir\", \"liga o Ei, Vrumbi\"."
+    "O cérebro do Vrumbi: baixe um modelo de inteligência aberto e gratuito (Gemma 4) que roda no seu próprio celular, sem internet e sem custo. Ele fica nas Configurações, no cartão Voz.",
+    "Com o cérebro, o Vrumbi entende pedidos do seu jeito (\"tem um carro quebrado no acostamento\", \"troca esse bonequinho por uma motoca\") e conversa sobre qualquer coisa: curiosidades, contas, piadas, papo, lembrando do que vocês falaram.",
+    "Dois tamanhos: Esperto (2,6 GB, celular com 6 GB de memória) e Gênio (3,7 GB, com 8 GB de memória, sabe muito mais). O app recomenda o que cabe no seu celular. O download aparece na notificação e continua de onde parou se a internet cair.",
+    "Tudo fica no celular: o que você fala para o cérebro não vai para servidor nenhum."
   ],
   "versoes": [
+    {
+      "versao": "0.91.0",
+      "data": "05/11/2026",
+      "itens": [
+        "O cérebro do Vrumbi: baixe um modelo de inteligência aberto e gratuito (Gemma 4) que roda no seu próprio celular, sem internet e sem custo. Ele fica nas Configurações, no cartão Voz.",
+        "Com o cérebro, o Vrumbi entende pedidos do seu jeito (\"tem um carro quebrado no acostamento\", \"troca esse bonequinho por uma motoca\") e conversa sobre qualquer coisa: curiosidades, contas, piadas, papo, lembrando do que vocês falaram.",
+        "Dois tamanhos: Esperto (2,6 GB, celular com 6 GB de memória) e Gênio (3,7 GB, com 8 GB de memória, sabe muito mais). O app recomenda o que cabe no seu celular. O download aparece na notificação e continua de onde parou se a internet cair.",
+        "Tudo fica no celular: o que você fala para o cérebro não vai para servidor nenhum."
+      ],
+      "en": [
+        "Vrumbi's brain: download an open, free AI model (Gemma 4) that runs on your own phone, offline and at no cost. It is in Settings, Voice card.",
+        "With the brain, Vrumbi understands requests your way (\"there is a broken-down car on the shoulder\", \"swap this little guy for a motorbike\") and chats about anything: fun facts, math, jokes, small talk, remembering what you said.",
+        "Two sizes: Smart (2.6 GB, phones with 6 GB of memory) and Genius (3.7 GB, 8 GB of memory, knows much more). The app recommends the one that fits your phone. The download shows in the notification and resumes if the connection drops.",
+        "Everything stays on the phone: what you tell the brain goes to no server."
+      ],
+      "es": [
+        "El cerebro de Vrumbi: descarga un modelo de inteligencia abierto y gratuito (Gemma 4) que funciona en tu propio celular, sin internet y sin costo. Está en Configuración, tarjeta Voz.",
+        "Con el cerebro, Vrumbi entiende los pedidos a tu manera (\"hay un auto averiado en el arcén\", \"cambia este muñequito por una moto\") y charla de cualquier cosa: curiosidades, cuentas, chistes, charla, recordando lo que hablaron.",
+        "Dos tamaños: Listo (2,6 GB, celulares con 6 GB de memoria) y Genio (3,7 GB, con 8 GB de memoria, sabe mucho más). La app recomienda el que cabe en tu celular. La descarga aparece en la notificación y sigue desde donde paró si se cae internet.",
+        "Todo queda en el celular: lo que le dices al cerebro no va a ningún servidor."
+      ]
+    },
     {
       "versao": "0.90.0",
       "data": "05/11/2026",
@@ -204,25 +228,6 @@
         "Zoom del planeta a la calle: al alejar, el mapa pasa a 2D y luego al globo; al acercar, vuelve al 3D cerca de la calle, sin trabarse.",
         "De lejos se ven las carreteras de Brasil como venas, cada una con su número. Los iconos y las capas aparecen más cerca.",
         "Rosa de los vientos en la esquina: muestra el norte y cambia entre 2D y 3D."
-      ]
-    },
-    {
-      "versao": "0.86.0",
-      "data": "05/11/2026",
-      "itens": [
-        "Favoritos numa tela só: cada linha tem o lápis para editar e a seta para ir. Segure e arraste para a pasta, que fica presa no topo.",
-        "A lista carrega aos poucos enquanto você rola, sem pesar com centenas de favoritos.",
-        "GeoSampa: chave em cada assunto e uma para tudo, com aviso do tamanho antes de baixar e barra de progresso."
-      ],
-      "en": [
-        "Favorites on one screen: each row has the pencil to edit and the arrow to go. Hold and drag to a folder, which stays pinned at the top.",
-        "The list loads as you scroll, so hundreds of favorites stay light.",
-        "GeoSampa: a switch for each topic and one for everything, with the size shown before downloading and a progress bar."
-      ],
-      "es": [
-        "Favoritos en una sola pantalla: cada fila tiene el lápiz para editar y la flecha para ir. Mantén pulsado y arrastra a la carpeta, que queda fija arriba.",
-        "La lista carga poco a poco mientras te desplazas, sin pesar con cientos de favoritos.",
-        "GeoSampa: un interruptor por tema y uno para todo, con aviso del tamaño antes de descargar y barra de progreso."
       ]
     }
   ]
