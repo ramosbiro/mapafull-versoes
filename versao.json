@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.83.2",
-  "codigo": 251,
+  "versao": "0.84.0",
+  "codigo": 252,
   "data": "04/11/2026",
-  "tamanho": 206571878,
-  "sha256": "755041c78fdaed8d32531df5f50c9ddc939702154e1fd8f54791324eecfaa0bf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.2/Vrumbi-0.83.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.83.2/Vrumbi-relogio-0.83.2.apk",
+  "tamanho": 207354086,
+  "sha256": "8f6efa733d432c14f497b46c1ceb9405c5ae0f046375eb0362237f31326e3a30",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.84.0/Vrumbi-0.84.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.84.0/Vrumbi-relogio-0.84.0.apk",
   "notas": [
-    "Mais telas traduzidas nos 18 idiomas: calibrar a bússola, mapas offline e outros textos que ainda vinham em português."
+    "Tela do mapa mais limpa: o botão de menu entrou no velocímetro. Toque nele para abrir as configurações.",
+    "Mais telas traduzidas e dados de lugares do mundo inteiro conferidos."
   ],
   "versoes": [
+    {
+      "versao": "0.84.0",
+      "data": "04/11/2026",
+      "itens": [
+        "Tela do mapa mais limpa: o botão de menu entrou no velocímetro. Toque nele para abrir as configurações.",
+        "Mais telas traduzidas e dados de lugares do mundo inteiro conferidos."
+      ],
+      "en": [
+        "Cleaner map screen: the menu button moved into the speedometer. Tap it to open the settings.",
+        "More screens translated, and worldwide place data checked."
+      ],
+      "es": [
+        "Pantalla del mapa más limpia: el botón de menú pasó al velocímetro. Tócalo para abrir los ajustes.",
+        "Más pantallas traducidas y datos de lugares de todo el mundo comprobados."
+      ]
+    },
     {
       "versao": "0.83.2",
       "data": "04/11/2026",
@@ -170,25 +187,6 @@
       "es": [
         "Ficha del lugar con pestañas General, Reseñas y Fotos, y las palabras más citadas en los comentarios.",
         "Menú Más: publicar foto, sugerir un cambio y reclamar tu negocio."
-      ]
-    },
-    {
-      "versao": "0.79.0",
-      "data": "04/11/2026",
-      "itens": [
-        "Ficha do lugar: tocar num favorito mostra o lugar no mapa, o que funciona naquele endereço, telefone, site, avaliações e fotos.",
-        "Botões em fila: Rotas, Iniciar (já navega pela mais rápida), Compartilhar e Editar, além de Ver no Google Maps.",
-        "Compartilhe um lugar por link: quem tem o Vrumbi abre direto e salva nos próprios favoritos."
-      ],
-      "en": [
-        "Place page: tapping a favorite shows it on the map, what operates at that address, phone, website, reviews and photos.",
-        "Buttons in a row: Routes, Start (navigates by the fastest route), Share and Edit, plus View on Google Maps.",
-        "Share a place by link: anyone with Vrumbi opens it directly and saves it to their favorites."
-      ],
-      "es": [
-        "Ficha del lugar: al tocar un favorito se muestra en el mapa, lo que funciona en esa dirección, teléfono, sitio, reseñas y fotos.",
-        "Botones en fila: Rutas, Iniciar (navega por la más rápida), Compartir y Editar, además de Ver en Google Maps.",
-        "Comparte un lugar por enlace: quien tiene Vrumbi lo abre directo y lo guarda en sus favoritos."
       ]
     }
   ]
