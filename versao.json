@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.3",
-  "codigo": 259,
+  "versao": "0.88.4",
+  "codigo": 260,
   "data": "05/11/2026",
-  "tamanho": 206621862,
-  "sha256": "762e954ff2f0d1b6055fcfb3aef2f87db6a7a75b819c15dd1ea03668a9060436",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.3/Vrumbi-0.88.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.3/Vrumbi-relogio-0.88.3.apk",
+  "tamanho": 206622766,
+  "sha256": "7bedc3cbbc6d58b6d2380fa102a77e8e91359afbdf4f5fff659ab3484bf7554a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.4/Vrumbi-0.88.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.4/Vrumbi-relogio-0.88.4.apk",
   "notas": [
-    "Oceanos de verdade no planeta: de longe aparecem o fundo do mar, a plataforma perto da costa e o azul profundo do alto-mar, sem baixar nada a mais.",
-    "Girar com dois dedos agora funciona também de longe, no globo: o mapa fica no rumo que você escolher."
+    "Rosa dos ventos nova: sem o círculo, em 3D, com a agulha em relevo. Com o mapa em 3D ela deita junto; em 2D fica de frente. Tocar nela troca entre 2D e 3D.",
+    "A faixa da atualização ficou mais limpa: o carrinho solto, sem o quadradinho."
   ],
   "versoes": [
+    {
+      "versao": "0.88.4",
+      "data": "05/11/2026",
+      "itens": [
+        "Rosa dos ventos nova: sem o círculo, em 3D, com a agulha em relevo. Com o mapa em 3D ela deita junto; em 2D fica de frente. Tocar nela troca entre 2D e 3D.",
+        "A faixa da atualização ficou mais limpa: o carrinho solto, sem o quadradinho."
+      ],
+      "en": [
+        "New compass rose: no circle, in 3D, with a raised needle. With the map in 3D it lies down too; in 2D it faces you. Tap it to switch between 2D and 3D.",
+        "The update strip is cleaner: the little car on its own, without the square."
+      ],
+      "es": [
+        "Nueva rosa de los vientos: sin el círculo, en 3D, con la aguja en relieve. Con el mapa en 3D se inclina con él; en 2D queda de frente. Tócala para cambiar entre 2D y 3D.",
+        "La franja de actualización quedó más limpia: el carrito suelto, sin el cuadradito."
+      ]
+    },
     {
       "versao": "0.88.3",
       "data": "05/11/2026",
@@ -189,22 +205,6 @@
       ],
       "es": [
         "Hoy No Circula en Ciudad de México: elige el holograma en la ficha del vehículo y el aviso llega con los días y sábados correctos."
-      ]
-    },
-    {
-      "versao": "0.82.0",
-      "data": "04/11/2026",
-      "itens": [
-        "A marca Vrumbi deu entrada no INPI: o número do pedido de registro está em Configurações > Aplicativo.",
-        "Rodízio de Pequim: aviso pelo final da placa, dentro do 5º Anel."
-      ],
-      "en": [
-        "The Vrumbi trademark was filed at INPI (Brazil): the application number is in Settings > App.",
-        "Beijing plate restriction: warning by the last digit, inside the 5th Ring Road."
-      ],
-      "es": [
-        "La marca Vrumbi se presentó en el INPI (Brasil): el número de la solicitud está en Ajustes > Aplicación.",
-        "Restricción de Pekín: aviso por el último dígito de la placa, dentro del 5.º Anillo."
       ]
     }
   ]
