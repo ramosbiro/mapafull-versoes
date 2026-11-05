@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.91.2",
-  "codigo": 268,
+  "versao": "0.91.3",
+  "codigo": 269,
   "data": "05/11/2026",
-  "tamanho": 274645719,
-  "sha256": "50a9f49ce8d23e80531e6abc4baefc615c2fd1f8b021d9ef78331fb80c25fb19",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.2/Vrumbi-0.91.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.2/Vrumbi-relogio-0.91.2.apk",
+  "tamanho": 274649203,
+  "sha256": "39c8bb6e5d2750641252085a71bc6c51c096cb5018a55e0fa31bee9ba2e700ab",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.3/Vrumbi-0.91.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.3/Vrumbi-relogio-0.91.3.apk",
   "notas": [
-    "Cérebro do Vrumbi: o Gênio agora pode ser escolhido nos celulares de 8 GB (o Android informa um pouco menos de memória e ele ficava apagado). Em celulares no limite, dá para baixar com o aviso de que pode ficar lento."
+    "Download do cérebro do Vrumbi mais de duas vezes mais rápido: agora ele baixa por várias conexões ao mesmo tempo e continua com a tela apagada.",
+    "A tela mostra a velocidade e quanto falta. Se parar, o botão continua de onde estava, inclusive um download começado na versão anterior.",
+    "No final, o app confere o arquivo: se chegar com defeito, ele descarta e avisa."
   ],
   "versoes": [
+    {
+      "versao": "0.91.3",
+      "data": "05/11/2026",
+      "itens": [
+        "Download do cérebro do Vrumbi mais de duas vezes mais rápido: agora ele baixa por várias conexões ao mesmo tempo e continua com a tela apagada.",
+        "A tela mostra a velocidade e quanto falta. Se parar, o botão continua de onde estava, inclusive um download começado na versão anterior.",
+        "No final, o app confere o arquivo: se chegar com defeito, ele descarta e avisa."
+      ],
+      "en": [
+        "Vrumbi's brain downloads more than twice as fast: it now uses several connections at once and keeps going with the screen off.",
+        "The screen shows the speed and the time left. If it stops, the button resumes where it was, even a download started on the previous version.",
+        "At the end, the app checks the file: if it arrives damaged, it discards it and lets you know."
+      ],
+      "es": [
+        "La descarga del cerebro de Vrumbi es más del doble de rápida: ahora usa varias conexiones a la vez y sigue con la pantalla apagada.",
+        "La pantalla muestra la velocidad y cuánto falta. Si se detiene, el botón sigue desde donde estaba, incluso una descarga iniciada en la versión anterior.",
+        "Al final, la app revisa el archivo: si llega dañado, lo descarta y avisa."
+      ]
+    },
     {
       "versao": "0.91.2",
       "data": "05/11/2026",
@@ -203,22 +224,6 @@
         "Actualizar sin detener la app: mantén pulsado y arrastra el aviso de actualización a cualquier borde. Se convierte en una franja discreta con Vrumbi, la versión nueva y la barra de descarga, y la app queda libre para usar.",
         "Cuando termina la descarga, la barra da lugar al botón Instalar en la propia franja. Al tocar la franja se abre el aviso completo; la X solo la oculta y la descarga continúa.",
         "El botón Usar la app manda el aviso al borde, y el borde elegido queda guardado para la próxima actualización."
-      ]
-    },
-    {
-      "versao": "0.88.1",
-      "data": "05/11/2026",
-      "itens": [
-        "Zoom solto: a pinça acompanha o dedo do planeta à rua, sem travar no meio e com o deslizar depois de soltar.",
-        "Pinçar não desliga mais o Seguir: o mapa continua acompanhando você."
-      ],
-      "en": [
-        "Free zoom: the pinch follows your fingers from the planet to the street, without stalling midway and gliding after you let go.",
-        "Pinching no longer turns off Follow: the map keeps tracking you."
-      ],
-      "es": [
-        "Zoom suelto: el pellizco sigue los dedos del planeta a la calle, sin trabarse a mitad y deslizándose al soltar.",
-        "Pellizcar ya no desactiva Seguir: el mapa sigue acompañándote."
       ]
     }
   ]
