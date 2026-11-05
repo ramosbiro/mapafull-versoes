@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.6",
-  "codigo": 262,
+  "versao": "0.88.7",
+  "codigo": 263,
   "data": "05/11/2026",
-  "tamanho": 206628930,
-  "sha256": "6fa34a2b7d73aea87dbea3648fd0aa76588b91fd9eea1e8e94e8a0b844ad2b93",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.6/Vrumbi-0.88.6.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.6/Vrumbi-relogio-0.88.6.apk",
+  "tamanho": 206619006,
+  "sha256": "5187416ed241e78fc40a3cfd8a94411115f2589f8fcc1b1a0bbacc819a6e41bc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.7/Vrumbi-0.88.7.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.7/Vrumbi-relogio-0.88.7.apk",
   "notas": [
-    "Rótulos das rodovias (BR, SP...) num estilo só: no mapa claro, fundo branco com contorno laranja; no escuro, fundo escuro. Acabou a mistura com os rótulos cinza do mapa de fundo e os pares repetidos nas pistas de ida e volta.",
-    "O mapa claro passou a usar as cores certas das rodovias (antes ele pegava as do escuro), e os rótulos não somem mais ao trocar entre dia e noite."
+    "Seta de navegação no estilo da rosa dos ventos: pontas afiadas (as de trás não ficam mais arredondadas) e uma crista no meio, com um lado na luz e o outro na sombra."
   ],
   "versoes": [
+    {
+      "versao": "0.88.7",
+      "data": "05/11/2026",
+      "itens": [
+        "Seta de navegação no estilo da rosa dos ventos: pontas afiadas (as de trás não ficam mais arredondadas) e uma crista no meio, com um lado na luz e o outro na sombra."
+      ],
+      "en": [
+        "Navigation arrow in the style of the compass rose: sharp points (the rear ones are no longer rounded) and a ridge down the middle, one side in the light and the other in shadow."
+      ],
+      "es": [
+        "Flecha de navegación al estilo de la rosa de los vientos: puntas afiladas (las de atrás ya no quedan redondeadas) y una cresta en el medio, con un lado a la luz y el otro a la sombra."
+      ]
+    },
     {
       "versao": "0.88.6",
       "data": "05/11/2026",
@@ -204,19 +216,6 @@
       "es": [
         "Pantalla del mapa más limpia: el botón de menú pasó al velocímetro. Tócalo para abrir los ajustes.",
         "Más pantallas traducidas y datos de lugares de todo el mundo comprobados."
-      ]
-    },
-    {
-      "versao": "0.83.2",
-      "data": "04/11/2026",
-      "itens": [
-        "Mais telas traduzidas nos 18 idiomas: calibrar a bússola, mapas offline e outros textos que ainda vinham em português."
-      ],
-      "en": [
-        "More screens translated into all 18 languages: compass calibration, offline maps and other text still in Portuguese."
-      ],
-      "es": [
-        "Más pantallas traducidas a los 18 idiomas: calibrar la brújula, mapas sin conexión y otros textos que seguían en portugués."
       ]
     }
   ]
