@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.4",
-  "codigo": 260,
+  "versao": "0.88.5",
+  "codigo": 261,
   "data": "05/11/2026",
-  "tamanho": 206622766,
-  "sha256": "7bedc3cbbc6d58b6d2380fa102a77e8e91359afbdf4f5fff659ab3484bf7554a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.4/Vrumbi-0.88.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.4/Vrumbi-relogio-0.88.4.apk",
+  "tamanho": 206628122,
+  "sha256": "b4b880722e9f9995a3c0192d2d51d84953ca238e5972286bab824daca9bbf0f6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.5/Vrumbi-0.88.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.5/Vrumbi-relogio-0.88.5.apk",
   "notas": [
-    "Rosa dos ventos nova: sem o círculo, em 3D, com a agulha em relevo. Com o mapa em 3D ela deita junto; em 2D fica de frente. Tocar nela troca entre 2D e 3D.",
-    "A faixa da atualização ficou mais limpa: o carrinho solto, sem o quadradinho."
+    "Rosa dos ventos em 3D de verdade: só a rosa, sem o círculo, como uma peça com relevo, luz e sombra no mapa. Deita junto com o mapa no 3D; tocar troca 2D e 3D.",
+    "Atualização sem esforço: feche o aviso quando quiser, o download continua em segundo plano. Se a internet cair, ele continua de onde parou, e o que já baixou fica guardado.",
+    "Com a atualização pronta, basta fechar o app: em alguns minutos ela se instala sozinha (Android 12 ou mais novo) e avisa na notificação. Nunca no meio de uma rota, treino, gravação ou música.",
+    "A faixa da atualização tem o Vrumbi animado enquanto baixa, uma seta para abrir o aviso inteiro e a largura dos botões da lateral."
   ],
   "versoes": [
+    {
+      "versao": "0.88.5",
+      "data": "05/11/2026",
+      "itens": [
+        "Rosa dos ventos em 3D de verdade: só a rosa, sem o círculo, como uma peça com relevo, luz e sombra no mapa. Deita junto com o mapa no 3D; tocar troca 2D e 3D.",
+        "Atualização sem esforço: feche o aviso quando quiser, o download continua em segundo plano. Se a internet cair, ele continua de onde parou, e o que já baixou fica guardado.",
+        "Com a atualização pronta, basta fechar o app: em alguns minutos ela se instala sozinha (Android 12 ou mais novo) e avisa na notificação. Nunca no meio de uma rota, treino, gravação ou música.",
+        "A faixa da atualização tem o Vrumbi animado enquanto baixa, uma seta para abrir o aviso inteiro e a largura dos botões da lateral."
+      ],
+      "en": [
+        "A true 3D compass rose: just the rose, no circle, like a raised piece with light and shadow on the map. It tilts with the map in 3D; tap it to switch 2D and 3D.",
+        "Effortless updates: close the notice whenever you want, the download keeps going in the background. If the connection drops, it resumes where it stopped, and what was downloaded is kept.",
+        "With the update ready, just close the app: in a few minutes it installs itself (Android 12 or newer) and lets you know in a notification. Never in the middle of a route, workout, recording or music.",
+        "The update strip shows Vrumbi animated while downloading, an arrow to open the full notice and the width of the side buttons."
+      ],
+      "es": [
+        "Rosa de los vientos en 3D de verdad: solo la rosa, sin el círculo, como una pieza con relieve, luz y sombra en el mapa. Se inclina con el mapa en 3D; tócala para cambiar 2D y 3D.",
+        "Actualizar sin esfuerzo: cierra el aviso cuando quieras, la descarga sigue en segundo plano. Si se cae la conexión, continúa donde se detuvo, y lo descargado queda guardado.",
+        "Con la actualización lista, basta con cerrar la app: en unos minutos se instala sola (Android 12 o más nuevo) y avisa en la notificación. Nunca en medio de una ruta, entrenamiento, grabación o música.",
+        "La franja de actualización muestra a Vrumbi animado mientras descarga, una flecha para abrir el aviso completo y el ancho de los botones laterales."
+      ]
+    },
     {
       "versao": "0.88.4",
       "data": "05/11/2026",
@@ -192,19 +216,6 @@
       ],
       "es": [
         "La aplicación abre más ligera y ya no vuelve a leer un archivo sin necesidad mientras está abierta."
-      ]
-    },
-    {
-      "versao": "0.83.0",
-      "data": "04/11/2026",
-      "itens": [
-        "Rodízio da Cidade do México: escolha o holograma na ficha do veículo e o aviso vem com os dias e os sábados certos."
-      ],
-      "en": [
-        "Mexico City driving restriction: choose the hologram on the vehicle card and the warning shows the right days and Saturdays."
-      ],
-      "es": [
-        "Hoy No Circula en Ciudad de México: elige el holograma en la ficha del vehículo y el aviso llega con los días y sábados correctos."
       ]
     }
   ]
