@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.2",
-  "codigo": 258,
+  "versao": "0.88.3",
+  "codigo": 259,
   "data": "05/11/2026",
-  "tamanho": 206621358,
-  "sha256": "dbbfbea4f7edba43ae2eb40822dcf1b2d240a860fb5a3475a6aeb5704b01ce98",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.2/Vrumbi-0.88.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.2/Vrumbi-relogio-0.88.2.apk",
+  "tamanho": 206621862,
+  "sha256": "762e954ff2f0d1b6055fcfb3aef2f87db6a7a75b819c15dd1ea03668a9060436",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.3/Vrumbi-0.88.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.3/Vrumbi-relogio-0.88.3.apk",
   "notas": [
-    "Atualização sem parar o app: segure e arraste o aviso de atualização para qualquer borda. Ele vira uma faixa discreta com o Vrumbi, a versão nova e a barra do download, e o app fica livre para usar.",
-    "Quando o download termina, a barra dá lugar ao botão Instalar na própria faixa. Tocar na faixa abre o aviso inteiro; o X só esconde, e o download continua.",
-    "O botão Usar o app manda o aviso para a borda, e a borda escolhida fica guardada para a próxima atualização."
+    "Oceanos de verdade no planeta: de longe aparecem o fundo do mar, a plataforma perto da costa e o azul profundo do alto-mar, sem baixar nada a mais.",
+    "Girar com dois dedos agora funciona também de longe, no globo: o mapa fica no rumo que você escolher."
   ],
   "versoes": [
+    {
+      "versao": "0.88.3",
+      "data": "05/11/2026",
+      "itens": [
+        "Oceanos de verdade no planeta: de longe aparecem o fundo do mar, a plataforma perto da costa e o azul profundo do alto-mar, sem baixar nada a mais.",
+        "Girar com dois dedos agora funciona também de longe, no globo: o mapa fica no rumo que você escolher."
+      ],
+      "en": [
+        "Real oceans on the planet: from afar you see the sea floor, the shelf near the coast and the deep blue of the open sea, without downloading anything more.",
+        "Rotating with two fingers now also works from afar, on the globe: the map keeps the heading you choose."
+      ],
+      "es": [
+        "Océanos de verdad en el planeta: de lejos se ven el fondo del mar, la plataforma cerca de la costa y el azul profundo de alta mar, sin descargar nada más.",
+        "Girar con dos dedos ahora también funciona de lejos, en el globo: el mapa mantiene el rumbo que elijas."
+      ]
+    },
     {
       "versao": "0.88.2",
       "data": "05/11/2026",
@@ -190,25 +205,6 @@
       "es": [
         "La marca Vrumbi se presentó en el INPI (Brasil): el número de la solicitud está en Ajustes > Aplicación.",
         "Restricción de Pekín: aviso por el último dígito de la placa, dentro del 5.º Anillo."
-      ]
-    },
-    {
-      "versao": "0.81.0",
-      "data": "04/11/2026",
-      "itens": [
-        "Central de backup: favoritos, treinos e o backup completo com o automático num lugar só.",
-        "Falar com o Vrumbi: ele sempre fala, e o microfone já abre e fica aberto enquanto a janela estiver aberta.",
-        "O carrinho agora se mexe em Configurações e na busca, com o microfone junto."
-      ],
-      "en": [
-        "Backup center: favorites, workouts and the full backup with the automatic one, all in one place.",
-        "Talk to Vrumbi: it always speaks, and the microphone opens by itself and stays open while the window is open.",
-        "The little car now moves in Settings and in search, with the microphone next to it."
-      ],
-      "es": [
-        "Central de copias: favoritos, entrenamientos y la copia completa con la automática en un solo lugar.",
-        "Hablar con Vrumbi: siempre habla, y el micrófono se abre solo y sigue abierto mientras la ventana esté abierta.",
-        "El carrito ahora se mueve en Ajustes y en la búsqueda, con el micrófono al lado."
       ]
     }
   ]
