@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.5",
-  "codigo": 261,
+  "versao": "0.88.6",
+  "codigo": 262,
   "data": "05/11/2026",
-  "tamanho": 206628122,
-  "sha256": "b4b880722e9f9995a3c0192d2d51d84953ca238e5972286bab824daca9bbf0f6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.5/Vrumbi-0.88.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.5/Vrumbi-relogio-0.88.5.apk",
+  "tamanho": 206628930,
+  "sha256": "6fa34a2b7d73aea87dbea3648fd0aa76588b91fd9eea1e8e94e8a0b844ad2b93",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.6/Vrumbi-0.88.6.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.6/Vrumbi-relogio-0.88.6.apk",
   "notas": [
-    "Rosa dos ventos em 3D de verdade: só a rosa, sem o círculo, como uma peça com relevo, luz e sombra no mapa. Deita junto com o mapa no 3D; tocar troca 2D e 3D.",
-    "Atualização sem esforço: feche o aviso quando quiser, o download continua em segundo plano. Se a internet cair, ele continua de onde parou, e o que já baixou fica guardado.",
-    "Com a atualização pronta, basta fechar o app: em alguns minutos ela se instala sozinha (Android 12 ou mais novo) e avisa na notificação. Nunca no meio de uma rota, treino, gravação ou música.",
-    "A faixa da atualização tem o Vrumbi animado enquanto baixa, uma seta para abrir o aviso inteiro e a largura dos botões da lateral."
+    "Rótulos das rodovias (BR, SP...) num estilo só: no mapa claro, fundo branco com contorno laranja; no escuro, fundo escuro. Acabou a mistura com os rótulos cinza do mapa de fundo e os pares repetidos nas pistas de ida e volta.",
+    "O mapa claro passou a usar as cores certas das rodovias (antes ele pegava as do escuro), e os rótulos não somem mais ao trocar entre dia e noite."
   ],
   "versoes": [
+    {
+      "versao": "0.88.6",
+      "data": "05/11/2026",
+      "itens": [
+        "Rótulos das rodovias (BR, SP...) num estilo só: no mapa claro, fundo branco com contorno laranja; no escuro, fundo escuro. Acabou a mistura com os rótulos cinza do mapa de fundo e os pares repetidos nas pistas de ida e volta.",
+        "O mapa claro passou a usar as cores certas das rodovias (antes ele pegava as do escuro), e os rótulos não somem mais ao trocar entre dia e noite."
+      ],
+      "en": [
+        "Highway labels (BR, SP...) in a single style: on the light map, white with an orange outline; on the dark map, dark. No more mix with the grey labels of the base map or repeated pairs on both carriageways.",
+        "The light map now uses the right highway colors (it used to take the dark ones), and the labels no longer disappear when switching between day and night."
+      ],
+      "es": [
+        "Etiquetas de las carreteras (BR, SP...) en un solo estilo: en el mapa claro, fondo blanco con contorno naranja; en el oscuro, fondo oscuro. Se acabó la mezcla con las etiquetas grises del mapa de fondo y los pares repetidos en ambos sentidos.",
+        "El mapa claro ahora usa los colores correctos de las carreteras (antes tomaba los del oscuro), y las etiquetas ya no desaparecen al cambiar entre día y noche."
+      ]
+    },
     {
       "versao": "0.88.5",
       "data": "05/11/2026",
@@ -203,19 +217,6 @@
       ],
       "es": [
         "Más pantallas traducidas a los 18 idiomas: calibrar la brújula, mapas sin conexión y otros textos que seguían en portugués."
-      ]
-    },
-    {
-      "versao": "0.83.1",
-      "data": "04/11/2026",
-      "itens": [
-        "O app abre mais leve e para de reler um arquivo sem necessidade enquanto está aberto."
-      ],
-      "en": [
-        "The app opens lighter and no longer rereads a file needlessly while it is open."
-      ],
-      "es": [
-        "La aplicación abre más ligera y ya no vuelve a leer un archivo sin necesidad mientras está abierta."
       ]
     }
   ]
