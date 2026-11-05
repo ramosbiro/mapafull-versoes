@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.88.0",
-  "codigo": 256,
+  "versao": "0.88.1",
+  "codigo": 257,
   "data": "05/11/2026",
-  "tamanho": 206615326,
-  "sha256": "96f8ad6aeb4b855d8686ccdf0d3594dba0f0848c7d5934935688f765592e7ec0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.0/Vrumbi-0.88.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.0/Vrumbi-relogio-0.88.0.apk",
+  "tamanho": 206616078,
+  "sha256": "1d2b1d732d29e57d12f0a45dbaa780bb55e5c9edb8f8a6a439372e2c003b1a1b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.1/Vrumbi-0.88.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.1/Vrumbi-relogio-0.88.1.apk",
   "notas": [
-    "Divisas do mundo inteiro em Camadas e locais: países, estados e cidades, com chave em cada nível, por continente e com busca.",
-    "Países e estados já vêm ligados, e as cidades do Brasil também."
+    "Zoom solto: a pinça acompanha o dedo do planeta à rua, sem travar no meio e com o deslizar depois de soltar.",
+    "Pinçar não desliga mais o Seguir: o mapa continua acompanhando você."
   ],
   "versoes": [
+    {
+      "versao": "0.88.1",
+      "data": "05/11/2026",
+      "itens": [
+        "Zoom solto: a pinça acompanha o dedo do planeta à rua, sem travar no meio e com o deslizar depois de soltar.",
+        "Pinçar não desliga mais o Seguir: o mapa continua acompanhando você."
+      ],
+      "en": [
+        "Free zoom: the pinch follows your fingers from the planet to the street, without stalling midway and gliding after you let go.",
+        "Pinching no longer turns off Follow: the map keeps tracking you."
+      ],
+      "es": [
+        "Zoom suelto: el pellizco sigue los dedos del planeta a la calle, sin trabarse a mitad y deslizándose al soltar.",
+        "Pellizcar ya no desactiva Seguir: el mapa sigue acompañándote."
+      ]
+    },
     {
       "versao": "0.88.0",
       "data": "05/11/2026",
@@ -186,19 +202,6 @@
       ],
       "es": [
         "Mensajes: una corrección más para que la respuesta no salga repetida en apps con más de un campo de respuesta."
-      ]
-    },
-    {
-      "versao": "0.80.1",
-      "data": "04/11/2026",
-      "itens": [
-        "Mensagens: a resposta escrita no app não sai mais repetida."
-      ],
-      "en": [
-        "Messages: replies written in the app are no longer sent twice."
-      ],
-      "es": [
-        "Mensajes: las respuestas escritas en la app ya no se envían repetidas."
       ]
     }
   ]
