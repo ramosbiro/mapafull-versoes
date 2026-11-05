@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.91.1",
-  "codigo": 267,
+  "versao": "0.91.2",
+  "codigo": 268,
   "data": "05/11/2026",
-  "tamanho": 274644563,
-  "sha256": "b2b1c13a8b0588f22241e4c7902dfccf516103f4e346a04a1690d455e6023211",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.1/Vrumbi-0.91.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.1/Vrumbi-relogio-0.91.1.apk",
+  "tamanho": 274645719,
+  "sha256": "50a9f49ce8d23e80531e6abc4baefc615c2fd1f8b021d9ef78331fb80c25fb19",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.2/Vrumbi-0.91.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.2/Vrumbi-relogio-0.91.2.apk",
   "notas": [
-    "Escolha da rota mais rápida e direta: as rotas e o botão Iniciar ficam logo no alto do cartão; as informações do lugar (horários, avaliações, fotos) vêm embaixo.",
-    "A primeira rota aparece assim que fica pronta, já com o Iniciar; as outras opções (alternativas, sem pedágio, mais curta) entram no cartão enquanto você olha."
+    "Cérebro do Vrumbi: o Gênio agora pode ser escolhido nos celulares de 8 GB (o Android informa um pouco menos de memória e ele ficava apagado). Em celulares no limite, dá para baixar com o aviso de que pode ficar lento."
   ],
   "versoes": [
+    {
+      "versao": "0.91.2",
+      "data": "05/11/2026",
+      "itens": [
+        "Cérebro do Vrumbi: o Gênio agora pode ser escolhido nos celulares de 8 GB (o Android informa um pouco menos de memória e ele ficava apagado). Em celulares no limite, dá para baixar com o aviso de que pode ficar lento."
+      ],
+      "en": [
+        "Vrumbi's brain: Genius can now be chosen on 8 GB phones (Android reports a bit less memory and it was greyed out). On phones near the limit, you can download it with a warning that it may be slow."
+      ],
+      "es": [
+        "Cerebro de Vrumbi: ahora se puede elegir Genio en celulares de 8 GB (Android informa un poco menos de memoria y quedaba apagado). En celulares al límite, se puede descargar con el aviso de que puede ir lento."
+      ]
+    },
     {
       "versao": "0.91.1",
       "data": "05/11/2026",
@@ -207,22 +219,6 @@
       "es": [
         "Zoom suelto: el pellizco sigue los dedos del planeta a la calle, sin trabarse a mitad y deslizándose al soltar.",
         "Pellizcar ya no desactiva Seguir: el mapa sigue acompañándote."
-      ]
-    },
-    {
-      "versao": "0.88.0",
-      "data": "05/11/2026",
-      "itens": [
-        "Divisas do mundo inteiro em Camadas e locais: países, estados e cidades, com chave em cada nível, por continente e com busca.",
-        "Países e estados já vêm ligados, e as cidades do Brasil também."
-      ],
-      "en": [
-        "Borders of the whole world in Layers and places: countries, states and cities, with a switch at each level, by continent and with search.",
-        "Countries and states come turned on, and so do the cities of Brazil."
-      ],
-      "es": [
-        "Fronteras de todo el mundo en Capas y lugares: países, estados y ciudades, con interruptor en cada nivel, por continente y con búsqueda.",
-        "Países y estados ya vienen activados, y también las ciudades de Brasil."
       ]
     }
   ]
