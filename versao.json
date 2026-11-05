@@ -1,20 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.89.0",
-  "codigo": 264,
+  "versao": "0.90.0",
+  "codigo": 265,
   "data": "05/11/2026",
-  "tamanho": 206796854,
-  "sha256": "391d0b801c971220ce075bb05304d4f8ee59e1706d7b1d1bd5bddfb44e2d19e8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.89.0/Vrumbi-0.89.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.89.0/Vrumbi-relogio-0.89.0.apk",
+  "tamanho": 223640064,
+  "sha256": "1ae6c52e2c465ef489740c38f6591ce4bd38620d13c0e37461e9a2c0dbea2603",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.90.0/Vrumbi-0.90.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.90.0/Vrumbi-relogio-0.90.0.apk",
   "notas": [
-    "O Vrumbi ganhou vida na tela: o carrinho aparece solto em cima do mapa, sem fundo, piscando, respirando, olhando em volta e mexendo a boca junto com a voz. Toque nele para falar, arraste para onde quiser.",
-    "Peça do seu jeito que ele faz: \"deixa o app roxo\", \"quero ser uma moto\", \"tem um buraco aqui\", \"mostra os hospitais no mapa\", \"modo escuro\", \"evita pedágio\", \"próxima música\", \"começa a gravar\", \"salva aqui como favorito\". Se não tiver o que você pediu, ele sugere parecidos.",
-    "Navegue falando: \"abre as configurações e depois aparência\". Ele fica encostado na lateral, ouvindo, e toca nos botões pelo nome; \"volta\", \"desce\" e \"sobe\" também valem.",
-    "O tempo de qualquer cidade e de qualquer dia: \"vai chover em Campinas no sábado?\", \"e no fim de semana?\".",
-    "Mais conversa: curiosidades, dicas de direção, ânimo nos dias difíceis, piadas novas e o seu nome (\"me chama de...\")."
+    "\"Ei, Vrumbi\": com o app aberto, é só chamar pelo nome que ele aparece, sem tocar em nada. Quem fica atento à palavra é o próprio celular, sem internet: o som não é gravado nem enviado.",
+    "Liga e desliga nos Ajustes rápidos, no cartão Voz, ou falando: \"para de me ouvir\", \"liga o Ei, Vrumbi\"."
   ],
   "versoes": [
+    {
+      "versao": "0.90.0",
+      "data": "05/11/2026",
+      "itens": [
+        "\"Ei, Vrumbi\": com o app aberto, é só chamar pelo nome que ele aparece, sem tocar em nada. Quem fica atento à palavra é o próprio celular, sem internet: o som não é gravado nem enviado.",
+        "Liga e desliga nos Ajustes rápidos, no cartão Voz, ou falando: \"para de me ouvir\", \"liga o Ei, Vrumbi\"."
+      ],
+      "en": [
+        "\"Hey, Vrumbi\": with the app open, just call it by name and it shows up, no tapping. The phone itself listens for the word, offline: the sound is not recorded or sent anywhere.",
+        "Turn it on and off in Quick settings, Voice card, or by voice: \"stop listening\", \"turn on Hey Vrumbi\"."
+      ],
+      "es": [
+        "\"Ey, Vrumbi\": con la app abierta, solo llámalo por su nombre y aparece, sin tocar nada. El propio celular está atento a la palabra, sin internet: el sonido no se graba ni se envía.",
+        "Se activa y desactiva en Ajustes rápidos, tarjeta Voz, o hablando: \"deja de escucharme\", \"activa Ey Vrumbi\"."
+      ]
+    },
     {
       "versao": "0.89.0",
       "data": "05/11/2026",
@@ -210,25 +223,6 @@
         "Favoritos en una sola pantalla: cada fila tiene el lápiz para editar y la flecha para ir. Mantén pulsado y arrastra a la carpeta, que queda fija arriba.",
         "La lista carga poco a poco mientras te desplazas, sin pesar con cientos de favoritos.",
         "GeoSampa: un interruptor por tema y uno para todo, con aviso del tamaño antes de descargar y barra de progreso."
-      ]
-    },
-    {
-      "versao": "0.85.0",
-      "data": "04/11/2026",
-      "itens": [
-        "Importar favoritos, importar treinos, fazer e restaurar backup agora mostram uma janela com barra e o que está acontecendo, até o resultado.",
-        "Importar treinos pela Central de backup volta a abrir.",
-        "Na ficha de qualquer lugar: botão Salvar. Já salvo, você edita, usa como Casa ou Trabalho e remove ali mesmo."
-      ],
-      "en": [
-        "Importing favorites and workouts, and making or restoring a backup, now show a window with a bar and what is happening, right up to the result.",
-        "Importing workouts from the Backup center opens again.",
-        "On any place card: a Save button. Once saved, you can edit it, use it as Home or Work, and remove it right there."
-      ],
-      "es": [
-        "Importar favoritos y entrenamientos, y hacer o restaurar la copia, ahora muestran una ventana con barra y lo que está pasando, hasta el resultado.",
-        "Importar entrenamientos desde la Central de copias vuelve a abrirse.",
-        "En la ficha de cualquier lugar: botón Guardar. Ya guardado, lo editas, lo usas como Casa o Trabajo y lo quitas ahí mismo."
       ]
     }
   ]
