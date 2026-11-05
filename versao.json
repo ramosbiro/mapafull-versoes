@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.87.0",
-  "codigo": 255,
+  "versao": "0.88.0",
+  "codigo": 256,
   "data": "05/11/2026",
-  "tamanho": 206604570,
-  "sha256": "d3cb75748e869cc13db6bc811a4fd556a36d7da13332da3d4ae3c0318efdc90c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.87.0/Vrumbi-0.87.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.87.0/Vrumbi-relogio-0.87.0.apk",
+  "tamanho": 206615326,
+  "sha256": "96f8ad6aeb4b855d8686ccdf0d3594dba0f0848c7d5934935688f765592e7ec0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.0/Vrumbi-0.88.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.88.0/Vrumbi-relogio-0.88.0.apk",
   "notas": [
-    "Zoom do planeta à rua: afastando, o mapa vira 2D e depois o globo; aproximando, volta ao 3D perto da rua, sem travar.",
-    "De longe aparecem as rodovias do Brasil como veias, com o número de cada uma. Ícones e camadas só aparecem mais perto.",
-    "Rosa dos ventos no canto da tela: mostra o norte e troca entre 2D e 3D."
+    "Divisas do mundo inteiro em Camadas e locais: países, estados e cidades, com chave em cada nível, por continente e com busca.",
+    "Países e estados já vêm ligados, e as cidades do Brasil também."
   ],
   "versoes": [
+    {
+      "versao": "0.88.0",
+      "data": "05/11/2026",
+      "itens": [
+        "Divisas do mundo inteiro em Camadas e locais: países, estados e cidades, com chave em cada nível, por continente e com busca.",
+        "Países e estados já vêm ligados, e as cidades do Brasil também."
+      ],
+      "en": [
+        "Borders of the whole world in Layers and places: countries, states and cities, with a switch at each level, by continent and with search.",
+        "Countries and states come turned on, and so do the cities of Brazil."
+      ],
+      "es": [
+        "Fronteras de todo el mundo en Capas y lugares: países, estados y ciudades, con interruptor en cada nivel, por continente y con búsqueda.",
+        "Países y estados ya vienen activados, y también las ciudades de Brasil."
+      ]
+    },
     {
       "versao": "0.87.0",
       "data": "05/11/2026",
@@ -184,22 +199,6 @@
       ],
       "es": [
         "Mensajes: las respuestas escritas en la app ya no se envían repetidas."
-      ]
-    },
-    {
-      "versao": "0.80.0",
-      "data": "04/11/2026",
-      "itens": [
-        "Backup automático: todo dia ou toda semana, num arquivo no aparelho, no Google Drive ou em outra nuvem, com favoritos, camadas, veículos, ajustes e treinos com os percursos.",
-        "Se o celular for roubado, quebrar ou molhar, restaure esse arquivo no novo aparelho. O backup na conta Google também foi corrigido."
-      ],
-      "en": [
-        "Automatic backup: daily or weekly, to a file on the device, Google Drive or another cloud, with favorites, layers, vehicles, settings and workouts with their tracks.",
-        "If your phone is stolen, broken or wet, restore this file on the new device. The Google account backup was also fixed."
-      ],
-      "es": [
-        "Copia automática: cada día o cada semana, en un archivo en el dispositivo, Google Drive u otra nube, con favoritos, capas, vehículos, ajustes y entrenamientos con sus recorridos.",
-        "Si te roban el teléfono, se rompe o se moja, restaura este archivo en el nuevo. También se corrigió la copia en la cuenta de Google."
       ]
     }
   ]
