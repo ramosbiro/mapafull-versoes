@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.91.0",
-  "codigo": 266,
+  "versao": "0.91.1",
+  "codigo": 267,
   "data": "05/11/2026",
-  "tamanho": 274643339,
-  "sha256": "7b56b3deb777ab1a68cc7c33b91379f8bd3fbc8f70b1e79e6574c60b492e0454",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.0/Vrumbi-0.91.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.0/Vrumbi-relogio-0.91.0.apk",
+  "tamanho": 274644563,
+  "sha256": "b2b1c13a8b0588f22241e4c7902dfccf516103f4e346a04a1690d455e6023211",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.1/Vrumbi-0.91.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.91.1/Vrumbi-relogio-0.91.1.apk",
   "notas": [
-    "O cérebro do Vrumbi: baixe um modelo de inteligência aberto e gratuito (Gemma 4) que roda no seu próprio celular, sem internet e sem custo. Ele fica nas Configurações, no cartão Voz.",
-    "Com o cérebro, o Vrumbi entende pedidos do seu jeito (\"tem um carro quebrado no acostamento\", \"troca esse bonequinho por uma motoca\") e conversa sobre qualquer coisa: curiosidades, contas, piadas, papo, lembrando do que vocês falaram.",
-    "Dois tamanhos: Esperto (2,6 GB, celular com 6 GB de memória) e Gênio (3,7 GB, com 8 GB de memória, sabe muito mais). O app recomenda o que cabe no seu celular. O download aparece na notificação e continua de onde parou se a internet cair.",
-    "Tudo fica no celular: o que você fala para o cérebro não vai para servidor nenhum."
+    "Escolha da rota mais rápida e direta: as rotas e o botão Iniciar ficam logo no alto do cartão; as informações do lugar (horários, avaliações, fotos) vêm embaixo.",
+    "A primeira rota aparece assim que fica pronta, já com o Iniciar; as outras opções (alternativas, sem pedágio, mais curta) entram no cartão enquanto você olha."
   ],
   "versoes": [
+    {
+      "versao": "0.91.1",
+      "data": "05/11/2026",
+      "itens": [
+        "Escolha da rota mais rápida e direta: as rotas e o botão Iniciar ficam logo no alto do cartão; as informações do lugar (horários, avaliações, fotos) vêm embaixo.",
+        "A primeira rota aparece assim que fica pronta, já com o Iniciar; as outras opções (alternativas, sem pedágio, mais curta) entram no cartão enquanto você olha."
+      ],
+      "en": [
+        "Faster, more direct route choice: the routes and the Start button sit at the top of the card; the place info (hours, reviews, photos) comes below.",
+        "The first route shows up as soon as it is ready, with Start right there; the other options (alternatives, toll-free, shortest) join the card while you look."
+      ],
+      "es": [
+        "Elección de ruta más rápida y directa: las rutas y el botón Iniciar quedan arriba en la tarjeta; la información del lugar (horarios, reseñas, fotos) va debajo.",
+        "La primera ruta aparece en cuanto está lista, ya con Iniciar; las demás opciones (alternativas, sin peaje, más corta) entran en la tarjeta mientras miras."
+      ]
+    },
     {
       "versao": "0.91.0",
       "data": "05/11/2026",
@@ -209,25 +223,6 @@
       "es": [
         "Fronteras de todo el mundo en Capas y lugares: países, estados y ciudades, con interruptor en cada nivel, por continente y con búsqueda.",
         "Países y estados ya vienen activados, y también las ciudades de Brasil."
-      ]
-    },
-    {
-      "versao": "0.87.0",
-      "data": "05/11/2026",
-      "itens": [
-        "Zoom do planeta à rua: afastando, o mapa vira 2D e depois o globo; aproximando, volta ao 3D perto da rua, sem travar.",
-        "De longe aparecem as rodovias do Brasil como veias, com o número de cada uma. Ícones e camadas só aparecem mais perto.",
-        "Rosa dos ventos no canto da tela: mostra o norte e troca entre 2D e 3D."
-      ],
-      "en": [
-        "Zoom from the planet to the street: zooming out, the map turns 2D and then a globe; zooming in, it returns to 3D near the street, without freezing.",
-        "From afar you see Brazil's highways like veins, each with its number. Icons and layers only appear closer in.",
-        "Compass rose in the corner: it shows north and switches between 2D and 3D."
-      ],
-      "es": [
-        "Zoom del planeta a la calle: al alejar, el mapa pasa a 2D y luego al globo; al acercar, vuelve al 3D cerca de la calle, sin trabarse.",
-        "De lejos se ven las carreteras de Brasil como venas, cada una con su número. Los iconos y las capas aparecen más cerca.",
-        "Rosa de los vientos en la esquina: muestra el norte y cambia entre 2D y 3D."
       ]
     }
   ]
