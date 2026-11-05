@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.85.0",
-  "codigo": 253,
-  "data": "04/11/2026",
-  "tamanho": 206589790,
-  "sha256": "f8f17ef3c6ae4ba28fa91d2ef2cb13ca65c21ea1c6bfa25781ea4863038b84bb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.85.0/Vrumbi-0.85.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.85.0/Vrumbi-relogio-0.85.0.apk",
+  "versao": "0.86.0",
+  "codigo": 254,
+  "data": "05/11/2026",
+  "tamanho": 208043850,
+  "sha256": "27c434b6e7127a265df272959cdfbf9ede158c2eeb545dd7c999b81c4981ed71",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.86.0/Vrumbi-0.86.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.86.0/Vrumbi-relogio-0.86.0.apk",
   "notas": [
-    "Importar favoritos, importar treinos, fazer e restaurar backup agora mostram uma janela com barra e o que está acontecendo, até o resultado.",
-    "Importar treinos pela Central de backup volta a abrir.",
-    "Na ficha de qualquer lugar: botão Salvar. Já salvo, você edita, usa como Casa ou Trabalho e remove ali mesmo."
+    "Favoritos numa tela só: cada linha tem o lápis para editar e a seta para ir. Segure e arraste para a pasta, que fica presa no topo.",
+    "A lista carrega aos poucos enquanto você rola, sem pesar com centenas de favoritos.",
+    "GeoSampa: chave em cada assunto e uma para tudo, com aviso do tamanho antes de baixar e barra de progresso."
   ],
   "versoes": [
+    {
+      "versao": "0.86.0",
+      "data": "05/11/2026",
+      "itens": [
+        "Favoritos numa tela só: cada linha tem o lápis para editar e a seta para ir. Segure e arraste para a pasta, que fica presa no topo.",
+        "A lista carrega aos poucos enquanto você rola, sem pesar com centenas de favoritos.",
+        "GeoSampa: chave em cada assunto e uma para tudo, com aviso do tamanho antes de baixar e barra de progresso."
+      ],
+      "en": [
+        "Favorites on one screen: each row has the pencil to edit and the arrow to go. Hold and drag to a folder, which stays pinned at the top.",
+        "The list loads as you scroll, so hundreds of favorites stay light.",
+        "GeoSampa: a switch for each topic and one for everything, with the size shown before downloading and a progress bar."
+      ],
+      "es": [
+        "Favoritos en una sola pantalla: cada fila tiene el lápiz para editar y la flecha para ir. Mantén pulsado y arrastra a la carpeta, que queda fija arriba.",
+        "La lista carga poco a poco mientras te desplazas, sin pesar con cientos de favoritos.",
+        "GeoSampa: un interruptor por tema y uno para todo, con aviso del tamaño antes de descargar y barra de progreso."
+      ]
+    },
     {
       "versao": "0.85.0",
       "data": "04/11/2026",
@@ -175,22 +194,6 @@
       ],
       "es": [
         "Favoritos más limpios: importar, exportar y la copia de la aplicación están juntos en Copia y archivos."
-      ]
-    },
-    {
-      "versao": "0.79.2",
-      "data": "04/11/2026",
-      "itens": [
-        "Favoritos: filtros por Área e Categoria.",
-        "Ficha do lugar: correções aprovadas aparecem na hora, e o estabelecimento confirmado ganha o selo Verificado."
-      ],
-      "en": [
-        "Favorites: filters by Area and Category.",
-        "Place page: approved corrections show up right away, and confirmed businesses get the Verified badge."
-      ],
-      "es": [
-        "Favoritos: filtros por Área y Categoría.",
-        "Ficha del lugar: las correcciones aprobadas aparecen al momento, y el negocio confirmado recibe el sello Verificado."
       ]
     }
   ]
