@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.95.2",
-  "codigo": 279,
+  "versao": "0.96.0",
+  "codigo": 280,
   "data": "06/11/2026",
-  "tamanho": 106333816,
-  "sha256": "d7f278e576c3a845cd03b087c744a1b6b41d247fd0996f02a2242853cc466a15",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.2/Vrumbi-0.95.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.2/Vrumbi-relogio-0.95.2.apk",
+  "tamanho": 108175253,
+  "sha256": "6a63807cef1393eeab2cff0d658cb231995f58da35da760b7fa9e3fbc1ae84b3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.0/Vrumbi-0.96.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.0/Vrumbi-relogio-0.96.0.apk",
   "notas": [
-    "Ícone da posição: as duas barras agora dizem o que controlam, a cor de dentro e a borda.",
-    "Com as duas opacidades quase em zero, o Vrumbi avisa que o ícone vai sumir do mapa."
+    "Suíte de ícones: agora são 80, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
+    "Viaturas com a pintura de cada estado, das forças federais e de 15 países, e seis modelos, incluindo a SUV alta.",
+    "Pessoas: homem e mulher com várias roupas. Escolha a cor da pele e a cor da roupa.",
+    "A prévia do ícone agora se mexe: rodas girando, farol piscando, sirene e a pessoa andando."
   ],
   "versoes": [
+    {
+      "versao": "0.96.0",
+      "data": "06/11/2026",
+      "itens": [
+        "Suíte de ícones: agora são 80, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
+        "Viaturas com a pintura de cada estado, das forças federais e de 15 países, e seis modelos, incluindo a SUV alta.",
+        "Pessoas: homem e mulher com várias roupas. Escolha a cor da pele e a cor da roupa.",
+        "A prévia do ícone agora se mexe: rodas girando, farol piscando, sirene e a pessoa andando."
+      ],
+      "en": [
+        "Icon suite: 80 icons now, with new cars, motorcycles, bicycles, trucks, buses and people.",
+        "Police cars with the livery of each Brazilian state, federal forces and 15 countries, in six models, including the tall SUV.",
+        "People: men and women with many outfits. Choose the skin color and the clothes color.",
+        "The icon preview now moves: spinning wheels, blinking headlights, sirens and the person walking."
+      ],
+      "es": [
+        "Suite de íconos: ahora son 80, con nuevos autos, motos, bicicletas, camiones, buses y personas.",
+        "Patrullas con la pintura de cada estado de Brasil, de las fuerzas federales y de 15 países, en seis modelos, incluida la SUV alta.",
+        "Personas: hombre y mujer con varias ropas. Elija el color de la piel y el de la ropa.",
+        "La vista previa del ícono ahora se mueve: ruedas girando, faro parpadeando, sirena y la persona caminando."
+      ]
+    },
     {
       "versao": "0.95.2",
       "data": "06/11/2026",
@@ -207,22 +231,6 @@
       ],
       "es": [
         "Cerebro de Vrumbi: ahora se puede elegir Genio en celulares de 8 GB (Android informa un poco menos de memoria y quedaba apagado). En celulares al límite, se puede descargar con el aviso de que puede ir lento."
-      ]
-    },
-    {
-      "versao": "0.91.1",
-      "data": "05/11/2026",
-      "itens": [
-        "Escolha da rota mais rápida e direta: as rotas e o botão Iniciar ficam logo no alto do cartão; as informações do lugar (horários, avaliações, fotos) vêm embaixo.",
-        "A primeira rota aparece assim que fica pronta, já com o Iniciar; as outras opções (alternativas, sem pedágio, mais curta) entram no cartão enquanto você olha."
-      ],
-      "en": [
-        "Faster, more direct route choice: the routes and the Start button sit at the top of the card; the place info (hours, reviews, photos) comes below.",
-        "The first route shows up as soon as it is ready, with Start right there; the other options (alternatives, toll-free, shortest) join the card while you look."
-      ],
-      "es": [
-        "Elección de ruta más rápida y directa: las rutas y el botón Iniciar quedan arriba en la tarjeta; la información del lugar (horarios, reseñas, fotos) va debajo.",
-        "La primera ruta aparece en cuanto está lista, ya con Iniciar; las demás opciones (alternativas, sin peaje, más corta) entran en la tarjeta mientras miras."
       ]
     }
   ]
