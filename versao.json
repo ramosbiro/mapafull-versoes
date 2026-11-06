@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.93.0",
-  "codigo": 271,
+  "versao": "0.94.0",
+  "codigo": 272,
   "data": "06/11/2026",
-  "tamanho": 276068098,
-  "sha256": "f7716e8fb7af2fcbb1a920d8db0474fa2aeaabfec1b125ff4e05760fa4ddeebd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.93.0/Vrumbi-0.93.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.93.0/Vrumbi-relogio-0.93.0.apk",
+  "tamanho": 276068554,
+  "sha256": "9a82e2df80c775439fde8586a73512b442d2bcb3eb613d8bf1a3e045fef9b224",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.0/Vrumbi-0.94.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.0/Vrumbi-relogio-0.94.0.apk",
   "notas": [
-    "O Vrumbi responde mais rápido: fala cada frase assim que ela fica pronta, avisa enquanto pensa e a boca só mexe com a voz.",
-    "O cérebro usa a placa de vídeo do celular quando ela aguenta, e a voz já fica carregada.",
-    "Trem e metrô com 3 carros, que fazem a curva um atrás do outro, e o ícone não sai mais do trilho."
+    "Postos confiáveis: 39 mil postos do Brasil com a nota de 0 a 5 da ANP, bandeira e tempo de autorização, em Camadas e locais.",
+    "É só pedir ao Vrumbi: \"mostra os postos confiáveis\"."
   ],
   "versoes": [
+    {
+      "versao": "0.94.0",
+      "data": "06/11/2026",
+      "itens": [
+        "Postos confiáveis: 39 mil postos do Brasil com a nota de 0 a 5 da ANP, bandeira e tempo de autorização, em Camadas e locais.",
+        "É só pedir ao Vrumbi: \"mostra os postos confiáveis\"."
+      ],
+      "en": [
+        "Reliable gas stations: 39 thousand stations in Brazil with the ANP score from 0 to 5, brand and years of authorization, in Layers and places.",
+        "Just ask Vrumbi: \"show the reliable gas stations\"."
+      ],
+      "es": [
+        "Gasolineras confiables: 39 mil gasolineras de Brasil con la nota de 0 a 5 de la ANP, marca y años de autorización, en Capas y lugares.",
+        "Solo pídelo a Vrumbi: \"muestra las gasolineras confiables\"."
+      ]
+    },
     {
       "versao": "0.93.0",
       "data": "06/11/2026",
@@ -214,22 +229,6 @@
         "Actualizar sin esfuerzo: cierra el aviso cuando quieras, la descarga sigue en segundo plano. Si se cae la conexión, continúa donde se detuvo, y lo descargado queda guardado.",
         "Con la actualización lista, basta con cerrar la app: en unos minutos se instala sola (Android 12 o más nuevo) y avisa en la notificación. Nunca en medio de una ruta, entrenamiento, grabación o música.",
         "La franja de actualización muestra a Vrumbi animado mientras descarga, una flecha para abrir el aviso completo y el ancho de los botones laterales."
-      ]
-    },
-    {
-      "versao": "0.88.4",
-      "data": "05/11/2026",
-      "itens": [
-        "Rosa dos ventos nova: sem o círculo, em 3D, com a agulha em relevo. Com o mapa em 3D ela deita junto; em 2D fica de frente. Tocar nela troca entre 2D e 3D.",
-        "A faixa da atualização ficou mais limpa: o carrinho solto, sem o quadradinho."
-      ],
-      "en": [
-        "New compass rose: no circle, in 3D, with a raised needle. With the map in 3D it lies down too; in 2D it faces you. Tap it to switch between 2D and 3D.",
-        "The update strip is cleaner: the little car on its own, without the square."
-      ],
-      "es": [
-        "Nueva rosa de los vientos: sin el círculo, en 3D, con la aguja en relieve. Con el mapa en 3D se inclina con él; en 2D queda de frente. Tócala para cambiar entre 2D y 3D.",
-        "La franja de actualización quedó más limpia: el carrito suelto, sin el cuadradito."
       ]
     }
   ]
