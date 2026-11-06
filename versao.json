@@ -1,36 +1,46 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.96.0",
-  "codigo": 280,
+  "versao": "0.96.1",
+  "codigo": 281,
   "data": "06/11/2026",
-  "tamanho": 108175253,
-  "sha256": "6a63807cef1393eeab2cff0d658cb231995f58da35da760b7fa9e3fbc1ae84b3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.0/Vrumbi-0.96.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.0/Vrumbi-relogio-0.96.0.apk",
+  "tamanho": 108175573,
+  "sha256": "55fe2979efcb6367b49863b56f17503fcd3abb41517ae16603d4cdd1ef251f73",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.1/Vrumbi-0.96.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.1/Vrumbi-relogio-0.96.1.apk",
   "notas": [
-    "Suíte de ícones: agora são 80, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
-    "Viaturas com a pintura de cada estado, das forças federais e de 15 países, e seis modelos, incluindo a SUV alta.",
-    "Pessoas: homem e mulher com várias roupas. Escolha a cor da pele e a cor da roupa.",
-    "A prévia do ícone agora se mexe: rodas girando, farol piscando, sirene e a pessoa andando."
+    "Ícone da posição com o celular deitado: a prévia fica à esquerda e as opções rolam à direita."
   ],
   "versoes": [
+    {
+      "versao": "0.96.1",
+      "data": "06/11/2026",
+      "itens": [
+        "Ícone da posição com o celular deitado: a prévia fica à esquerda e as opções rolam à direita."
+      ],
+      "en": [
+        "Position icon with the phone in landscape: the preview stays on the left and the options scroll on the right."
+      ],
+      "es": [
+        "Ícono de la posición con el celular en horizontal: la vista previa queda a la izquierda y las opciones se desplazan a la derecha."
+      ]
+    },
     {
       "versao": "0.96.0",
       "data": "06/11/2026",
       "itens": [
-        "Suíte de ícones: agora são 80, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
+        "Suíte de ícones: agora são 79, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
         "Viaturas com a pintura de cada estado, das forças federais e de 15 países, e seis modelos, incluindo a SUV alta.",
         "Pessoas: homem e mulher com várias roupas. Escolha a cor da pele e a cor da roupa.",
         "A prévia do ícone agora se mexe: rodas girando, farol piscando, sirene e a pessoa andando."
       ],
       "en": [
-        "Icon suite: 80 icons now, with new cars, motorcycles, bicycles, trucks, buses and people.",
+        "Icon suite: 79 icons now, with new cars, motorcycles, bicycles, trucks, buses and people.",
         "Police cars with the livery of each Brazilian state, federal forces and 15 countries, in six models, including the tall SUV.",
         "People: men and women with many outfits. Choose the skin color and the clothes color.",
         "The icon preview now moves: spinning wheels, blinking headlights, sirens and the person walking."
       ],
       "es": [
-        "Suite de íconos: ahora son 80, con nuevos autos, motos, bicicletas, camiones, buses y personas.",
+        "Suite de íconos: ahora son 79, con nuevos autos, motos, bicicletas, camiones, buses y personas.",
         "Patrullas con la pintura de cada estado de Brasil, de las fuerzas federales y de 15 países, en seis modelos, incluida la SUV alta.",
         "Personas: hombre y mujer con varias ropas. Elija el color de la piel y el de la ropa.",
         "La vista previa del ícono ahora se mueve: ruedas girando, faro parpadeando, sirena y la persona caminando."
@@ -218,19 +228,6 @@
         "La descarga del cerebro de Vrumbi es más del doble de rápida: ahora usa varias conexiones a la vez y sigue con la pantalla apagada.",
         "La pantalla muestra la velocidad y cuánto falta. Si se detiene, el botón sigue desde donde estaba, incluso una descarga iniciada en la versión anterior.",
         "Al final, la app revisa el archivo: si llega dañado, lo descarta y avisa."
-      ]
-    },
-    {
-      "versao": "0.91.2",
-      "data": "05/11/2026",
-      "itens": [
-        "Cérebro do Vrumbi: o Gênio agora pode ser escolhido nos celulares de 8 GB (o Android informa um pouco menos de memória e ele ficava apagado). Em celulares no limite, dá para baixar com o aviso de que pode ficar lento."
-      ],
-      "en": [
-        "Vrumbi's brain: Genius can now be chosen on 8 GB phones (Android reports a bit less memory and it was greyed out). On phones near the limit, you can download it with a warning that it may be slow."
-      ],
-      "es": [
-        "Cerebro de Vrumbi: ahora se puede elegir Genio en celulares de 8 GB (Android informa un poco menos de memoria y quedaba apagado). En celulares al límite, se puede descargar con el aviso de que puede ir lento."
       ]
     }
   ]
