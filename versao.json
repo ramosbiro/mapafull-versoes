@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.94.4",
-  "codigo": 276,
+  "versao": "0.95.0",
+  "codigo": 277,
   "data": "06/11/2026",
-  "tamanho": 106324704,
-  "sha256": "727fb4eceec2d79d571370ec71caa9eb58fb7c5dd900aab4b1641e16dcac0436",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.4/Vrumbi-0.94.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.4/Vrumbi-relogio-0.94.4.apk",
+  "tamanho": 106330424,
+  "sha256": "03d2fdab9d19ec8e24b20080a003e63e1889db469f1fc853688b4f6033f49153",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.0/Vrumbi-0.95.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.0/Vrumbi-relogio-0.95.0.apk",
   "notas": [
-    "Recálculo refeito: responde em segundos, sai no sentido em que você está andando e não larga mais a rota que você escolheu.",
-    "Mudar o destino no caminho ficou mais rápido: a primeira rota aparece sem esperar as outras.",
-    "Cartão da rota maior, com a via em que você está de verdade e a chegada, o tempo e a distância bem à vista.",
-    "O trecho já percorrido fica bem apagado, e a seta 3D recebe luz por trás, por igual."
+    "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
+    "Opacidade nas duas cores. Com a de dentro translúcida, aparece a estrutura do ícone em linhas, na cor da borda, em qualquer veículo.",
+    "Prévia girando na própria tela: você vê o ícone mudar antes de voltar ao mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.95.0",
+      "data": "06/11/2026",
+      "itens": [
+        "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
+        "Opacidade nas duas cores. Com a de dentro translúcida, aparece a estrutura do ícone em linhas, na cor da borda, em qualquer veículo.",
+        "Prévia girando na própria tela: você vê o ícone mudar antes de voltar ao mapa."
+      ],
+      "en": [
+        "Position icon: the palette now opens, for the inner color and the border. Pick any color.",
+        "Opacity on both colors. With a see-through inner color, the icon structure shows in lines of the border color, on any vehicle.",
+        "A spinning preview on the same screen: see the icon change before going back to the map."
+      ],
+      "es": [
+        "Ícono de la posición: la paleta ahora se abre, en el color interior y en el del borde. Elija cualquier color.",
+        "Opacidad en los dos colores. Con el interior translúcido, aparece la estructura del ícono en líneas del color del borde, en cualquier vehículo.",
+        "Vista previa girando en la misma pantalla: vea el ícono cambiar antes de volver al mapa."
+      ]
+    },
     {
       "versao": "0.94.4",
       "data": "06/11/2026",
@@ -212,22 +230,6 @@
         "Con el cerebro, Vrumbi entiende los pedidos a tu manera (\"hay un auto averiado en el arcén\", \"cambia este muñequito por una moto\") y charla de cualquier cosa: curiosidades, cuentas, chistes, charla, recordando lo que hablaron.",
         "Dos tamaños: Listo (2,6 GB, celulares con 6 GB de memoria) y Genio (3,7 GB, con 8 GB de memoria, sabe mucho más). La app recomienda el que cabe en tu celular. La descarga aparece en la notificación y sigue desde donde paró si se cae internet.",
         "Todo queda en el celular: lo que le dices al cerebro no va a ningún servidor."
-      ]
-    },
-    {
-      "versao": "0.90.0",
-      "data": "05/11/2026",
-      "itens": [
-        "\"Ei, Vrumbi\": com o app aberto, é só chamar pelo nome que ele aparece, sem tocar em nada. Quem fica atento à palavra é o próprio celular, sem internet: o som não é gravado nem enviado.",
-        "Liga e desliga nos Ajustes rápidos, no cartão Voz, ou falando: \"para de me ouvir\", \"liga o Ei, Vrumbi\"."
-      ],
-      "en": [
-        "\"Hey, Vrumbi\": with the app open, just call it by name and it shows up, no tapping. The phone itself listens for the word, offline: the sound is not recorded or sent anywhere.",
-        "Turn it on and off in Quick settings, Voice card, or by voice: \"stop listening\", \"turn on Hey Vrumbi\"."
-      ],
-      "es": [
-        "\"Ey, Vrumbi\": con la app abierta, solo llámalo por su nombre y aparece, sin tocar nada. El propio celular está atento a la palabra, sin internet: el sonido no se graba ni se envía.",
-        "Se activa y desactiva en Ajustes rápidos, tarjeta Voz, o hablando: \"deja de escucharme\", \"activa Ey Vrumbi\"."
       ]
     }
   ]
