@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.94.1",
-  "codigo": 273,
+  "versao": "0.94.2",
+  "codigo": 274,
   "data": "06/11/2026",
-  "tamanho": 276069082,
-  "sha256": "bd2f2a91c44a0a75350e7b611e950073a992810356c0f01a4c695d1babe14a20",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.1/Vrumbi-0.94.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.1/Vrumbi-relogio-0.94.1.apk",
+  "tamanho": 276867758,
+  "sha256": "7fe8988becd5e9db193be35e82ab2cc4dc0e440335634f567b0ae7a45fb491dd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.2/Vrumbi-0.94.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.2/Vrumbi-relogio-0.94.2.apk",
   "notas": [
-    "O aviso de privacidade da Saúde agora explica onde fica a cópia quando você usa backup."
+    "Na rota, agora tem o botão Encerrar à vista, em pé e deitado. É só tocar duas vezes.",
+    "Celular deitado: a placa da via não fica mais em cima do Gravar, e os botões da direita ficam alinhados numa fileira.",
+    "Saiu do trajeto mexendo no mapa? O botão Seguir apaga; toque nele para voltar. O Recentrar, que fazia a mesma coisa, saiu."
   ],
   "versoes": [
+    {
+      "versao": "0.94.2",
+      "data": "06/11/2026",
+      "itens": [
+        "Na rota, agora tem o botão Encerrar à vista, em pé e deitado. É só tocar duas vezes.",
+        "Celular deitado: a placa da via não fica mais em cima do Gravar, e os botões da direita ficam alinhados numa fileira.",
+        "Saiu do trajeto mexendo no mapa? O botão Seguir apaga; toque nele para voltar. O Recentrar, que fazia a mesma coisa, saiu."
+      ],
+      "en": [
+        "During a route, the End button is now in plain sight, in portrait and landscape. Just tap it twice.",
+        "Phone in landscape: the road sign no longer covers Record, and the buttons on the right sit in one aligned row.",
+        "Moved the map away from the route? The Follow button goes dark; tap it to come back. Recenter, which did the same thing, is gone."
+      ],
+      "es": [
+        "En la ruta, ahora el botón Terminar está a la vista, en vertical y en horizontal. Solo toque dos veces.",
+        "Celular en horizontal: la placa de la vía ya no tapa Grabar, y los botones de la derecha quedan alineados en una fila.",
+        "¿Movió el mapa fuera de la ruta? El botón Seguir se apaga; tóquelo para volver. Recentrar, que hacía lo mismo, ya no está."
+      ]
+    },
     {
       "versao": "0.94.1",
       "data": "06/11/2026",
@@ -203,22 +224,6 @@
       ],
       "es": [
         "Flecha de navegación al estilo de la rosa de los vientos: puntas afiladas (las de atrás ya no quedan redondeadas) y una cresta en el medio, con un lado a la luz y el otro a la sombra."
-      ]
-    },
-    {
-      "versao": "0.88.6",
-      "data": "05/11/2026",
-      "itens": [
-        "Rótulos das rodovias (BR, SP...) num estilo só: no mapa claro, fundo branco com contorno laranja; no escuro, fundo escuro. Acabou a mistura com os rótulos cinza do mapa de fundo e os pares repetidos nas pistas de ida e volta.",
-        "O mapa claro passou a usar as cores certas das rodovias (antes ele pegava as do escuro), e os rótulos não somem mais ao trocar entre dia e noite."
-      ],
-      "en": [
-        "Highway labels (BR, SP...) in a single style: on the light map, white with an orange outline; on the dark map, dark. No more mix with the grey labels of the base map or repeated pairs on both carriageways.",
-        "The light map now uses the right highway colors (it used to take the dark ones), and the labels no longer disappear when switching between day and night."
-      ],
-      "es": [
-        "Etiquetas de las carreteras (BR, SP...) en un solo estilo: en el mapa claro, fondo blanco con contorno naranja; en el oscuro, fondo oscuro. Se acabó la mezcla con las etiquetas grises del mapa de fondo y los pares repetidos en ambos sentidos.",
-        "El mapa claro ahora usa los colores correctos de las carreteras (antes tomaba los del oscuro), y las etiquetas ya no desaparecen al cambiar entre día y noche."
       ]
     }
   ]
