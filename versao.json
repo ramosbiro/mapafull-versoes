@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.96.2",
-  "codigo": 282,
+  "versao": "0.96.3",
+  "codigo": 283,
   "data": "06/11/2026",
-  "tamanho": 108176693,
-  "sha256": "8be84a255ebf2e94b129ac02e781b484851f85267267e7b734b584cbc2e9c3ea",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.2/Vrumbi-0.96.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.2/Vrumbi-relogio-0.96.2.apk",
+  "tamanho": 108193441,
+  "sha256": "7ba7369472607da37f7c704ac171a642d0c012644403695d0bd88338ed0f2fc2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.3/Vrumbi-0.96.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.3/Vrumbi-relogio-0.96.3.apk",
   "notas": [
-    "Cartão do endereço mais completo: rua, bairro, cidade e CEP, com ou sem rota."
+    "CEP em todo endereço do Brasil, pela posição: acompanha a rua longa e não pega mais o CEP da rua vizinha.",
+    "Bairro e cidade em negrito no cartão do endereço, para ler de mais longe.",
+    "Ícone da posição: a opacidade da borda não mexe mais na cor de dentro, nem a de dentro na borda.",
+    "Ícones sem o círculo no chão, e a prévia acompanha a barra de tamanho."
   ],
   "versoes": [
+    {
+      "versao": "0.96.3",
+      "data": "06/11/2026",
+      "itens": [
+        "CEP em todo endereço do Brasil, pela posição: acompanha a rua longa e não pega mais o CEP da rua vizinha.",
+        "Bairro e cidade em negrito no cartão do endereço, para ler de mais longe.",
+        "Ícone da posição: a opacidade da borda não mexe mais na cor de dentro, nem a de dentro na borda.",
+        "Ícones sem o círculo no chão, e a prévia acompanha a barra de tamanho."
+      ],
+      "en": [
+        "Postal code on every address in Brazil, from your position: it follows long streets and no longer picks the one from the next street.",
+        "Neighborhood and city in bold on the address card, easier to read from a distance.",
+        "Position icon: border opacity no longer changes the inner color, and inner opacity no longer changes the border.",
+        "Icons without the circle on the ground, and the preview follows the size bar."
+      ],
+      "es": [
+        "Código postal en toda dirección de Brasil, según la posición: sigue las calles largas y ya no toma el de la calle vecina.",
+        "Barrio y ciudad en negrita en la tarjeta de dirección, para leer desde más lejos.",
+        "Icono de la posición: la opacidad del borde ya no cambia el color interior, ni la interior el borde.",
+        "Iconos sin el círculo en el suelo, y la vista previa sigue la barra de tamaño."
+      ]
+    },
     {
       "versao": "0.96.2",
       "data": "06/11/2026",
@@ -200,28 +225,6 @@
         "Vrumbi responde más rápido: dice cada frase en cuanto está lista, avisa mientras piensa y la boca solo se mueve con la voz.",
         "El cerebro usa la tarjeta gráfica del celular cuando puede, y la voz queda cargada.",
         "Tren y metro con 3 vagones que toman la curva uno detrás del otro, y el icono ya no se sale de la vía."
-      ]
-    },
-    {
-      "versao": "0.92.0",
-      "data": "05/11/2026",
-      "itens": [
-        "Nova chave Radares e câmeras em Camadas e locais: liga e desliga todos os radares do mapa, ou só um país, um estado ou uma cidade. Os países dos seus mapas baixados aparecem no alto da lista.",
-        "Frota nova: carros, picape, perua, SUV, viaturas, ambulância, bombeiros, ônibus, van, caminhão, trem, metrô e helicóptero redesenhados no mesmo estilo moderno.",
-        "A sirene agora pisca nas luzes do próprio veículo, no lugar e no ângulo certos, em todos os veículos oficiais.",
-        "O seletor de ícones mostra a foto de cada veículo. Tocar num radar do mapa abre os dados dele."
-      ],
-      "en": [
-        "New Speed cameras switch in Layers and places: turn all map cameras on or off, or just one country, state or city. Countries of your downloaded maps come first on the list.",
-        "New fleet: cars, pickup, wagon, SUV, police cars, ambulance, fire truck, bus, van, truck, train, subway and helicopter redrawn in one modern style.",
-        "The siren now flashes on the vehicle lights themselves, in the right place and angle, on every official vehicle.",
-        "The icon picker shows a picture of each vehicle. Tap a camera on the map to see its details."
-      ],
-      "es": [
-        "Nuevo interruptor Radares y cámaras en Capas y lugares: enciende y apaga todos los radares del mapa, o solo un país, un estado o una ciudad. Los países de tus mapas descargados aparecen primero en la lista.",
-        "Flota nueva: autos, camioneta, familiar, SUV, patrullas, ambulancia, bomberos, autobús, furgoneta, camión, tren, metro y helicóptero rediseñados en un mismo estilo moderno.",
-        "La sirena ahora parpadea en las luces del propio vehículo, en el lugar y ángulo correctos, en todos los vehículos oficiales.",
-        "El selector de íconos muestra la foto de cada vehículo. Toca un radar del mapa para ver sus datos."
       ]
     }
   ]
