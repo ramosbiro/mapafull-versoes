@@ -1,19 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.96.3",
-  "codigo": 283,
+  "versao": "0.97.0",
+  "codigo": 284,
   "data": "06/11/2026",
-  "tamanho": 108193441,
-  "sha256": "7ba7369472607da37f7c704ac171a642d0c012644403695d0bd88338ed0f2fc2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.3/Vrumbi-0.96.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.3/Vrumbi-relogio-0.96.3.apk",
+  "tamanho": 108593540,
+  "sha256": "43c7d854f7a105b8b2eb8c2560328b92ba8aeed94eb50e1549fd1917dc8ea226",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.0/Vrumbi-0.97.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.0/Vrumbi-relogio-0.97.0.apk",
   "notas": [
-    "CEP em todo endereço do Brasil, pela posição: acompanha a rua longa e não pega mais o CEP da rua vizinha.",
-    "Bairro e cidade em negrito no cartão do endereço, para ler de mais longe.",
-    "Ícone da posição: a opacidade da borda não mexe mais na cor de dentro, nem a de dentro na borda.",
-    "Ícones sem o círculo no chão, e a prévia acompanha a barra de tamanho."
+    "Quatro widgets novos de treino para a tela inicial: Treino do dia, Passos, Treinos da semana e Iniciar treino.",
+    "Treino do dia: um conta-giros com as metas de hoje e a semana em barras de LED, com passos, minutos e calorias.",
+    "Iniciar treino: um toque no widget e a corrida, a caminhada ou o esporte que você escolher já começa.",
+    "Metas de passos e de calorias por dia, em Minhas metas."
   ],
   "versoes": [
+    {
+      "versao": "0.97.0",
+      "data": "06/11/2026",
+      "itens": [
+        "Quatro widgets novos de treino para a tela inicial: Treino do dia, Passos, Treinos da semana e Iniciar treino.",
+        "Treino do dia: um conta-giros com as metas de hoje e a semana em barras de LED, com passos, minutos e calorias.",
+        "Iniciar treino: um toque no widget e a corrida, a caminhada ou o esporte que você escolher já começa.",
+        "Metas de passos e de calorias por dia, em Minhas metas."
+      ],
+      "en": [
+        "Four new workout widgets for the home screen: Today's training, Steps, Weekly workouts and Start workout.",
+        "Today's training: a rev counter with today's goals and the week in LED bars, with steps, minutes and calories.",
+        "Start workout: one tap on the widget and your run, walk or chosen sport begins.",
+        "Daily step and calorie goals, in My goals."
+      ],
+      "es": [
+        "Cuatro widgets nuevos de entreno para la pantalla de inicio: Entreno del día, Pasos, Entrenos de la semana e Iniciar entreno.",
+        "Entreno del día: un cuentarrevoluciones con las metas de hoy y la semana en barras LED, con pasos, minutos y calorías.",
+        "Iniciar entreno: un toque en el widget y empieza la carrera, la caminata o el deporte que elijas.",
+        "Metas diarias de pasos y calorías, en Mis metas."
+      ]
+    },
     {
       "versao": "0.96.3",
       "data": "06/11/2026",
@@ -206,25 +228,6 @@
       "es": [
         "Gasolineras confiables: 39 mil gasolineras de Brasil con la nota de 0 a 5 de la ANP, marca y años de autorización, en Capas y lugares.",
         "Solo pídelo a Vrumbi: \"muestra las gasolineras confiables\"."
-      ]
-    },
-    {
-      "versao": "0.93.0",
-      "data": "06/11/2026",
-      "itens": [
-        "O Vrumbi responde mais rápido: fala cada frase assim que ela fica pronta, avisa enquanto pensa e a boca só mexe com a voz.",
-        "O cérebro usa a placa de vídeo do celular quando ela aguenta, e a voz já fica carregada.",
-        "Trem e metrô com 3 carros, que fazem a curva um atrás do outro, e o ícone não sai mais do trilho."
-      ],
-      "en": [
-        "Vrumbi answers faster: it speaks each sentence as soon as it is ready, lets you know while it thinks, and its mouth only moves with the voice.",
-        "The brain uses the phone graphics chip when it can, and the voice stays loaded.",
-        "Trains and subways have 3 cars that follow each other around curves, and the icon no longer leaves the track."
-      ],
-      "es": [
-        "Vrumbi responde más rápido: dice cada frase en cuanto está lista, avisa mientras piensa y la boca solo se mueve con la voz.",
-        "El cerebro usa la tarjeta gráfica del celular cuando puede, y la voz queda cargada.",
-        "Tren y metro con 3 vagones que toman la curva uno detrás del otro, y el icono ya no se sale de la vía."
       ]
     }
   ]
