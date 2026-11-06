@@ -1,12 +1,12 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.95.0",
-  "codigo": 277,
+  "versao": "0.95.1",
+  "codigo": 278,
   "data": "06/11/2026",
-  "tamanho": 106330424,
-  "sha256": "03d2fdab9d19ec8e24b20080a003e63e1889db469f1fc853688b4f6033f49153",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.0/Vrumbi-0.95.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.0/Vrumbi-relogio-0.95.0.apk",
+  "tamanho": 106330900,
+  "sha256": "9cc15a3d890cd753793c0a2ebf0b29fa81a789531a0fc77958250f15ad0fe939",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.1/Vrumbi-0.95.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.1/Vrumbi-relogio-0.95.1.apk",
   "notas": [
     "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
     "Opacidade nas duas cores. Com a de dentro translúcida, aparece a estrutura do ícone em linhas, na cor da borda, em qualquer veículo.",
@@ -14,7 +14,7 @@
   ],
   "versoes": [
     {
-      "versao": "0.95.0",
+      "versao": "0.95.1",
       "data": "06/11/2026",
       "itens": [
         "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
