@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.95.1",
-  "codigo": 278,
+  "versao": "0.95.2",
+  "codigo": 279,
   "data": "06/11/2026",
-  "tamanho": 106330900,
-  "sha256": "9cc15a3d890cd753793c0a2ebf0b29fa81a789531a0fc77958250f15ad0fe939",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.1/Vrumbi-0.95.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.1/Vrumbi-relogio-0.95.1.apk",
+  "tamanho": 106333816,
+  "sha256": "d7f278e576c3a845cd03b087c744a1b6b41d247fd0996f02a2242853cc466a15",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.2/Vrumbi-0.95.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.95.2/Vrumbi-relogio-0.95.2.apk",
   "notas": [
-    "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
-    "Opacidade nas duas cores. Com a de dentro translúcida, aparece a estrutura do ícone em linhas, na cor da borda, em qualquer veículo.",
-    "Prévia girando na própria tela: você vê o ícone mudar antes de voltar ao mapa."
+    "Ícone da posição: as duas barras agora dizem o que controlam, a cor de dentro e a borda.",
+    "Com as duas opacidades quase em zero, o Vrumbi avisa que o ícone vai sumir do mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.95.2",
+      "data": "06/11/2026",
+      "itens": [
+        "Ícone da posição: as duas barras agora dizem o que controlam, a cor de dentro e a borda.",
+        "Com as duas opacidades quase em zero, o Vrumbi avisa que o ícone vai sumir do mapa."
+      ],
+      "en": [
+        "Position icon: the two sliders now say what they control, the inner color and the border.",
+        "With both opacities almost at zero, Vrumbi warns you that the icon will disappear from the map."
+      ],
+      "es": [
+        "Ícono de la posición: las dos barras ahora dicen qué controlan, el color interior y el borde.",
+        "Con las dos opacidades casi en cero, Vrumbi avisa que el ícono va a desaparecer del mapa."
+      ]
+    },
     {
       "versao": "0.95.1",
       "data": "06/11/2026",
@@ -208,28 +223,6 @@
       "es": [
         "Elección de ruta más rápida y directa: las rutas y el botón Iniciar quedan arriba en la tarjeta; la información del lugar (horarios, reseñas, fotos) va debajo.",
         "La primera ruta aparece en cuanto está lista, ya con Iniciar; las demás opciones (alternativas, sin peaje, más corta) entran en la tarjeta mientras miras."
-      ]
-    },
-    {
-      "versao": "0.91.0",
-      "data": "05/11/2026",
-      "itens": [
-        "O cérebro do Vrumbi: baixe um modelo de inteligência aberto e gratuito (Gemma 4) que roda no seu próprio celular, sem internet e sem custo. Ele fica nas Configurações, no cartão Voz.",
-        "Com o cérebro, o Vrumbi entende pedidos do seu jeito (\"tem um carro quebrado no acostamento\", \"troca esse bonequinho por uma motoca\") e conversa sobre qualquer coisa: curiosidades, contas, piadas, papo, lembrando do que vocês falaram.",
-        "Dois tamanhos: Esperto (2,6 GB, celular com 6 GB de memória) e Gênio (3,7 GB, com 8 GB de memória, sabe muito mais). O app recomenda o que cabe no seu celular. O download aparece na notificação e continua de onde parou se a internet cair.",
-        "Tudo fica no celular: o que você fala para o cérebro não vai para servidor nenhum."
-      ],
-      "en": [
-        "Vrumbi's brain: download an open, free AI model (Gemma 4) that runs on your own phone, offline and at no cost. It is in Settings, Voice card.",
-        "With the brain, Vrumbi understands requests your way (\"there is a broken-down car on the shoulder\", \"swap this little guy for a motorbike\") and chats about anything: fun facts, math, jokes, small talk, remembering what you said.",
-        "Two sizes: Smart (2.6 GB, phones with 6 GB of memory) and Genius (3.7 GB, 8 GB of memory, knows much more). The app recommends the one that fits your phone. The download shows in the notification and resumes if the connection drops.",
-        "Everything stays on the phone: what you tell the brain goes to no server."
-      ],
-      "es": [
-        "El cerebro de Vrumbi: descarga un modelo de inteligencia abierto y gratuito (Gemma 4) que funciona en tu propio celular, sin internet y sin costo. Está en Configuración, tarjeta Voz.",
-        "Con el cerebro, Vrumbi entiende los pedidos a tu manera (\"hay un auto averiado en el arcén\", \"cambia este muñequito por una moto\") y charla de cualquier cosa: curiosidades, cuentas, chistes, charla, recordando lo que hablaron.",
-        "Dos tamaños: Listo (2,6 GB, celulares con 6 GB de memoria) y Genio (3,7 GB, con 8 GB de memoria, sabe mucho más). La app recomienda el que cabe en tu celular. La descarga aparece en la notificación y sigue desde donde paró si se cae internet.",
-        "Todo queda en el celular: lo que le dices al cerebro no va a ningún servidor."
       ]
     }
   ]
