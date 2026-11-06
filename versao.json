@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.96.1",
-  "codigo": 281,
+  "versao": "0.96.2",
+  "codigo": 282,
   "data": "06/11/2026",
-  "tamanho": 108175573,
-  "sha256": "55fe2979efcb6367b49863b56f17503fcd3abb41517ae16603d4cdd1ef251f73",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.1/Vrumbi-0.96.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.1/Vrumbi-relogio-0.96.1.apk",
+  "tamanho": 108176693,
+  "sha256": "8be84a255ebf2e94b129ac02e781b484851f85267267e7b734b584cbc2e9c3ea",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.2/Vrumbi-0.96.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.96.2/Vrumbi-relogio-0.96.2.apk",
   "notas": [
-    "Ícone da posição com o celular deitado: a prévia fica à esquerda e as opções rolam à direita."
+    "Cartão do endereço mais completo: rua, bairro, cidade e CEP, com ou sem rota."
   ],
   "versoes": [
+    {
+      "versao": "0.96.2",
+      "data": "06/11/2026",
+      "itens": [
+        "Cartão do endereço mais completo: rua, bairro, cidade e CEP, com ou sem rota."
+      ],
+      "en": [
+        "More complete address card: street, neighborhood, city and postal code, with or without a route."
+      ],
+      "es": [
+        "Tarjeta de dirección más completa: calle, barrio, ciudad y código postal, con o sin ruta."
+      ]
+    },
     {
       "versao": "0.96.1",
       "data": "06/11/2026",
@@ -209,25 +222,6 @@
         "Flota nueva: autos, camioneta, familiar, SUV, patrullas, ambulancia, bomberos, autobús, furgoneta, camión, tren, metro y helicóptero rediseñados en un mismo estilo moderno.",
         "La sirena ahora parpadea en las luces del propio vehículo, en el lugar y ángulo correctos, en todos los vehículos oficiales.",
         "El selector de íconos muestra la foto de cada vehículo. Toca un radar del mapa para ver sus datos."
-      ]
-    },
-    {
-      "versao": "0.91.3",
-      "data": "05/11/2026",
-      "itens": [
-        "Download do cérebro do Vrumbi mais de duas vezes mais rápido: agora ele baixa por várias conexões ao mesmo tempo e continua com a tela apagada.",
-        "A tela mostra a velocidade e quanto falta. Se parar, o botão continua de onde estava, inclusive um download começado na versão anterior.",
-        "No final, o app confere o arquivo: se chegar com defeito, ele descarta e avisa."
-      ],
-      "en": [
-        "Vrumbi's brain downloads more than twice as fast: it now uses several connections at once and keeps going with the screen off.",
-        "The screen shows the speed and the time left. If it stops, the button resumes where it was, even a download started on the previous version.",
-        "At the end, the app checks the file: if it arrives damaged, it discards it and lets you know."
-      ],
-      "es": [
-        "La descarga del cerebro de Vrumbi es más del doble de rápida: ahora usa varias conexiones a la vez y sigue con la pantalla apagada.",
-        "La pantalla muestra la velocidad y cuánto falta. Si se detiene, el botón sigue desde donde estaba, incluso una descarga iniciada en la versión anterior.",
-        "Al final, la app revisa el archivo: si llega dañado, lo descarta y avisa."
       ]
     }
   ]
