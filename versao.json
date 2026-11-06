@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.94.2",
-  "codigo": 274,
+  "versao": "0.94.3",
+  "codigo": 275,
   "data": "06/11/2026",
-  "tamanho": 276867758,
-  "sha256": "7fe8988becd5e9db193be35e82ab2cc4dc0e440335634f567b0ae7a45fb491dd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.2/Vrumbi-0.94.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.2/Vrumbi-relogio-0.94.2.apk",
+  "tamanho": 106322192,
+  "sha256": "de0fd1a9ab650a8ce030587c2f8de5076f806089b48c0bd62ebfaf604a9c7992",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.3/Vrumbi-0.94.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.3/Vrumbi-relogio-0.94.3.apk",
   "notas": [
-    "Na rota, agora tem o botão Encerrar à vista, em pé e deitado. É só tocar duas vezes.",
-    "Celular deitado: a placa da via não fica mais em cima do Gravar, e os botões da direita ficam alinhados numa fileira.",
-    "Saiu do trajeto mexendo no mapa? O botão Seguir apaga; toque nele para voltar. O Recentrar, que fazia a mesma coisa, saiu."
+    "Rota bem mais leve: o mapa faz muito menos trabalho a cada quadro, e o celular esquenta e trava menos.",
+    "Na rota, o cartão de baixo volta a mostrar onde você está, e o destino fica na linha de baixo.",
+    "Atualização bem menor: o download caiu de 264 MB para cerca de 100 MB."
   ],
   "versoes": [
+    {
+      "versao": "0.94.3",
+      "data": "06/11/2026",
+      "itens": [
+        "Rota bem mais leve: o mapa faz muito menos trabalho a cada quadro, e o celular esquenta e trava menos.",
+        "Na rota, o cartão de baixo volta a mostrar onde você está, e o destino fica na linha de baixo.",
+        "Atualização bem menor: o download caiu de 264 MB para cerca de 100 MB."
+      ],
+      "en": [
+        "Much lighter navigation: the map does far less work on each frame, so the phone heats up and freezes less.",
+        "During a route, the bottom card shows where you are again, and the destination sits on the line below.",
+        "Much smaller update: the download went from 264 MB to about 100 MB."
+      ],
+      "es": [
+        "Ruta mucho más ligera: el mapa hace mucho menos trabajo en cada cuadro, y el celular se calienta y se traba menos.",
+        "En la ruta, la tarjeta de abajo vuelve a mostrar dónde está, y el destino queda en la línea de abajo.",
+        "Actualización mucho menor: la descarga bajó de 264 MB a cerca de 100 MB."
+      ]
+    },
     {
       "versao": "0.94.2",
       "data": "06/11/2026",
@@ -211,19 +230,6 @@
         "Navega hablando: \"abre la configuración y después apariencia\". Se queda a un lado, escuchando, y toca los botones por su nombre; \"vuelve\", \"baja\" y \"sube\" también valen.",
         "El tiempo de cualquier ciudad y cualquier día: \"¿va a llover en Campinas el sábado?\", \"¿y el fin de semana?\".",
         "Más conversación: curiosidades, consejos de manejo, ánimo en los días difíciles, chistes nuevos y tu nombre (\"llámame...\")."
-      ]
-    },
-    {
-      "versao": "0.88.7",
-      "data": "05/11/2026",
-      "itens": [
-        "Seta de navegação no estilo da rosa dos ventos: pontas afiadas (as de trás não ficam mais arredondadas) e uma crista no meio, com um lado na luz e o outro na sombra."
-      ],
-      "en": [
-        "Navigation arrow in the style of the compass rose: sharp points (the rear ones are no longer rounded) and a ridge down the middle, one side in the light and the other in shadow."
-      ],
-      "es": [
-        "Flecha de navegación al estilo de la rosa de los vientos: puntas afiladas (las de atrás ya no quedan redondeadas) y una cresta en el medio, con un lado a la luz y el otro a la sombra."
       ]
     }
   ]
