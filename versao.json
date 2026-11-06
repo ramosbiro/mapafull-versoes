@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.92.0",
-  "codigo": 270,
-  "data": "05/11/2026",
-  "tamanho": 276161767,
-  "sha256": "fde8e4b9f9a4e85747ba2e384c3213ac668e3fc86ed3d9b306b67237713b976b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.92.0/Vrumbi-0.92.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.92.0/Vrumbi-relogio-0.92.0.apk",
+  "versao": "0.93.0",
+  "codigo": 271,
+  "data": "06/11/2026",
+  "tamanho": 276068098,
+  "sha256": "f7716e8fb7af2fcbb1a920d8db0474fa2aeaabfec1b125ff4e05760fa4ddeebd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.93.0/Vrumbi-0.93.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.93.0/Vrumbi-relogio-0.93.0.apk",
   "notas": [
-    "Nova chave Radares e câmeras em Camadas e locais: liga e desliga todos os radares do mapa, ou só um país, um estado ou uma cidade. Os países dos seus mapas baixados aparecem no alto da lista.",
-    "Frota nova: carros, picape, perua, SUV, viaturas, ambulância, bombeiros, ônibus, van, caminhão, trem, metrô e helicóptero redesenhados no mesmo estilo moderno.",
-    "A sirene agora pisca nas luzes do próprio veículo, no lugar e no ângulo certos, em todos os veículos oficiais.",
-    "O seletor de ícones mostra a foto de cada veículo. Tocar num radar do mapa abre os dados dele."
+    "O Vrumbi responde mais rápido: fala cada frase assim que ela fica pronta, avisa enquanto pensa e a boca só mexe com a voz.",
+    "O cérebro usa a placa de vídeo do celular quando ela aguenta, e a voz já fica carregada.",
+    "Trem e metrô com 3 carros, que fazem a curva um atrás do outro, e o ícone não sai mais do trilho."
   ],
   "versoes": [
+    {
+      "versao": "0.93.0",
+      "data": "06/11/2026",
+      "itens": [
+        "O Vrumbi responde mais rápido: fala cada frase assim que ela fica pronta, avisa enquanto pensa e a boca só mexe com a voz.",
+        "O cérebro usa a placa de vídeo do celular quando ela aguenta, e a voz já fica carregada.",
+        "Trem e metrô com 3 carros, que fazem a curva um atrás do outro, e o ícone não sai mais do trilho."
+      ],
+      "en": [
+        "Vrumbi answers faster: it speaks each sentence as soon as it is ready, lets you know while it thinks, and its mouth only moves with the voice.",
+        "The brain uses the phone graphics chip when it can, and the voice stays loaded.",
+        "Trains and subways have 3 cars that follow each other around curves, and the icon no longer leaves the track."
+      ],
+      "es": [
+        "Vrumbi responde más rápido: dice cada frase en cuanto está lista, avisa mientras piensa y la boca solo se mueve con la voz.",
+        "El cerebro usa la tarjeta gráfica del celular cuando puede, y la voz queda cargada.",
+        "Tren y metro con 3 vagones que toman la curva uno detrás del otro, y el icono ya no se sale de la vía."
+      ]
+    },
     {
       "versao": "0.92.0",
       "data": "05/11/2026",
@@ -212,22 +230,6 @@
       "es": [
         "Nueva rosa de los vientos: sin el círculo, en 3D, con la aguja en relieve. Con el mapa en 3D se inclina con él; en 2D queda de frente. Tócala para cambiar entre 2D y 3D.",
         "La franja de actualización quedó más limpia: el carrito suelto, sin el cuadradito."
-      ]
-    },
-    {
-      "versao": "0.88.3",
-      "data": "05/11/2026",
-      "itens": [
-        "Oceanos de verdade no planeta: de longe aparecem o fundo do mar, a plataforma perto da costa e o azul profundo do alto-mar, sem baixar nada a mais.",
-        "Girar com dois dedos agora funciona também de longe, no globo: o mapa fica no rumo que você escolher."
-      ],
-      "en": [
-        "Real oceans on the planet: from afar you see the sea floor, the shelf near the coast and the deep blue of the open sea, without downloading anything more.",
-        "Rotating with two fingers now also works from afar, on the globe: the map keeps the heading you choose."
-      ],
-      "es": [
-        "Océanos de verdad en el planeta: de lejos se ven el fondo del mar, la plataforma cerca de la costa y el azul profundo de alta mar, sin descargar nada más.",
-        "Girar con dos dedos ahora también funciona de lejos, en el globo: el mapa mantiene el rumbo que elijas."
       ]
     }
   ]
