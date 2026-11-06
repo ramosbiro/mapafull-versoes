@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.97.0",
-  "codigo": 284,
+  "versao": "0.97.1",
+  "codigo": 285,
   "data": "06/11/2026",
-  "tamanho": 108593540,
-  "sha256": "43c7d854f7a105b8b2eb8c2560328b92ba8aeed94eb50e1549fd1917dc8ea226",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.0/Vrumbi-0.97.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.0/Vrumbi-relogio-0.97.0.apk",
+  "tamanho": 108602536,
+  "sha256": "669d81df8966aa9fe42516392e902d1f2c30da0265cea071a93d3c4577634c7e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.1/Vrumbi-0.97.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.1/Vrumbi-relogio-0.97.1.apk",
   "notas": [
-    "Quatro widgets novos de treino para a tela inicial: Treino do dia, Passos, Treinos da semana e Iniciar treino.",
-    "Treino do dia: um conta-giros com as metas de hoje e a semana em barras de LED, com passos, minutos e calorias.",
-    "Iniciar treino: um toque no widget e a corrida, a caminhada ou o esporte que você escolher já começa.",
-    "Metas de passos e de calorias por dia, em Minhas metas."
+    "Acesso às notificações: se o Android mostrar \"Configuração restrita\", o Vrumbi explica o caminho para liberar."
   ],
   "versoes": [
+    {
+      "versao": "0.97.1",
+      "data": "06/11/2026",
+      "itens": [
+        "Acesso às notificações: se o Android mostrar \"Configuração restrita\", o Vrumbi explica o caminho para liberar."
+      ],
+      "en": [
+        "Notification access: if Android shows \"Restricted setting\", Vrumbi explains how to allow it."
+      ],
+      "es": [
+        "Acceso a las notificaciones: si Android muestra \"Ajuste restringido\", Vrumbi explica cómo permitirlo."
+      ]
+    },
     {
       "versao": "0.97.0",
       "data": "06/11/2026",
@@ -212,22 +222,6 @@
       ],
       "es": [
         "El aviso de privacidad de Salud ahora explica dónde queda la copia cuando usa copia de seguridad."
-      ]
-    },
-    {
-      "versao": "0.94.0",
-      "data": "06/11/2026",
-      "itens": [
-        "Postos confiáveis: 39 mil postos do Brasil com a nota de 0 a 5 da ANP, bandeira e tempo de autorização, em Camadas e locais.",
-        "É só pedir ao Vrumbi: \"mostra os postos confiáveis\"."
-      ],
-      "en": [
-        "Reliable gas stations: 39 thousand stations in Brazil with the ANP score from 0 to 5, brand and years of authorization, in Layers and places.",
-        "Just ask Vrumbi: \"show the reliable gas stations\"."
-      ],
-      "es": [
-        "Gasolineras confiables: 39 mil gasolineras de Brasil con la nota de 0 a 5 de la ANP, marca y años de autorización, en Capas y lugares.",
-        "Solo pídelo a Vrumbi: \"muestra las gasolineras confiables\"."
       ]
     }
   ]
