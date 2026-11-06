@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.94.0",
-  "codigo": 272,
+  "versao": "0.94.1",
+  "codigo": 273,
   "data": "06/11/2026",
-  "tamanho": 276068554,
-  "sha256": "9a82e2df80c775439fde8586a73512b442d2bcb3eb613d8bf1a3e045fef9b224",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.0/Vrumbi-0.94.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.0/Vrumbi-relogio-0.94.0.apk",
+  "tamanho": 276069082,
+  "sha256": "bd2f2a91c44a0a75350e7b611e950073a992810356c0f01a4c695d1babe14a20",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.1/Vrumbi-0.94.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.1/Vrumbi-relogio-0.94.1.apk",
   "notas": [
-    "Postos confiáveis: 39 mil postos do Brasil com a nota de 0 a 5 da ANP, bandeira e tempo de autorização, em Camadas e locais.",
-    "É só pedir ao Vrumbi: \"mostra os postos confiáveis\"."
+    "O aviso de privacidade da Saúde agora explica onde fica a cópia quando você usa backup."
   ],
   "versoes": [
+    {
+      "versao": "0.94.1",
+      "data": "06/11/2026",
+      "itens": [
+        "O aviso de privacidade da Saúde agora explica onde fica a cópia quando você usa backup."
+      ],
+      "en": [
+        "The Health privacy notice now explains where the copy stays when you use backup."
+      ],
+      "es": [
+        "El aviso de privacidad de Salud ahora explica dónde queda la copia cuando usa copia de seguridad."
+      ]
+    },
     {
       "versao": "0.94.0",
       "data": "06/11/2026",
@@ -207,28 +219,6 @@
       "es": [
         "Etiquetas de las carreteras (BR, SP...) en un solo estilo: en el mapa claro, fondo blanco con contorno naranja; en el oscuro, fondo oscuro. Se acabó la mezcla con las etiquetas grises del mapa de fondo y los pares repetidos en ambos sentidos.",
         "El mapa claro ahora usa los colores correctos de las carreteras (antes tomaba los del oscuro), y las etiquetas ya no desaparecen al cambiar entre día y noche."
-      ]
-    },
-    {
-      "versao": "0.88.5",
-      "data": "05/11/2026",
-      "itens": [
-        "Rosa dos ventos em 3D de verdade: só a rosa, sem o círculo, como uma peça com relevo, luz e sombra no mapa. Deita junto com o mapa no 3D; tocar troca 2D e 3D.",
-        "Atualização sem esforço: feche o aviso quando quiser, o download continua em segundo plano. Se a internet cair, ele continua de onde parou, e o que já baixou fica guardado.",
-        "Com a atualização pronta, basta fechar o app: em alguns minutos ela se instala sozinha (Android 12 ou mais novo) e avisa na notificação. Nunca no meio de uma rota, treino, gravação ou música.",
-        "A faixa da atualização tem o Vrumbi animado enquanto baixa, uma seta para abrir o aviso inteiro e a largura dos botões da lateral."
-      ],
-      "en": [
-        "A true 3D compass rose: just the rose, no circle, like a raised piece with light and shadow on the map. It tilts with the map in 3D; tap it to switch 2D and 3D.",
-        "Effortless updates: close the notice whenever you want, the download keeps going in the background. If the connection drops, it resumes where it stopped, and what was downloaded is kept.",
-        "With the update ready, just close the app: in a few minutes it installs itself (Android 12 or newer) and lets you know in a notification. Never in the middle of a route, workout, recording or music.",
-        "The update strip shows Vrumbi animated while downloading, an arrow to open the full notice and the width of the side buttons."
-      ],
-      "es": [
-        "Rosa de los vientos en 3D de verdad: solo la rosa, sin el círculo, como una pieza con relieve, luz y sombra en el mapa. Se inclina con el mapa en 3D; tócala para cambiar 2D y 3D.",
-        "Actualizar sin esfuerzo: cierra el aviso cuando quieras, la descarga sigue en segundo plano. Si se cae la conexión, continúa donde se detuvo, y lo descargado queda guardado.",
-        "Con la actualización lista, basta con cerrar la app: en unos minutos se instala sola (Android 12 o más nuevo) y avisa en la notificación. Nunca en medio de una ruta, entrenamiento, grabación o música.",
-        "La franja de actualización muestra a Vrumbi animado mientras descarga, una flecha para abrir el aviso completo y el ancho de los botones laterales."
       ]
     }
   ]
