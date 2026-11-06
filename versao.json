@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.94.3",
-  "codigo": 275,
+  "versao": "0.94.4",
+  "codigo": 276,
   "data": "06/11/2026",
-  "tamanho": 106322192,
-  "sha256": "de0fd1a9ab650a8ce030587c2f8de5076f806089b48c0bd62ebfaf604a9c7992",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.3/Vrumbi-0.94.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.3/Vrumbi-relogio-0.94.3.apk",
+  "tamanho": 106324704,
+  "sha256": "727fb4eceec2d79d571370ec71caa9eb58fb7c5dd900aab4b1641e16dcac0436",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.4/Vrumbi-0.94.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.94.4/Vrumbi-relogio-0.94.4.apk",
   "notas": [
-    "Rota bem mais leve: o mapa faz muito menos trabalho a cada quadro, e o celular esquenta e trava menos.",
-    "Na rota, o cartão de baixo volta a mostrar onde você está, e o destino fica na linha de baixo.",
-    "Atualização bem menor: o download caiu de 264 MB para cerca de 100 MB."
+    "Recálculo refeito: responde em segundos, sai no sentido em que você está andando e não larga mais a rota que você escolheu.",
+    "Mudar o destino no caminho ficou mais rápido: a primeira rota aparece sem esperar as outras.",
+    "Cartão da rota maior, com a via em que você está de verdade e a chegada, o tempo e a distância bem à vista.",
+    "O trecho já percorrido fica bem apagado, e a seta 3D recebe luz por trás, por igual."
   ],
   "versoes": [
+    {
+      "versao": "0.94.4",
+      "data": "06/11/2026",
+      "itens": [
+        "Recálculo refeito: responde em segundos, sai no sentido em que você está andando e não larga mais a rota que você escolheu.",
+        "Mudar o destino no caminho ficou mais rápido: a primeira rota aparece sem esperar as outras.",
+        "Cartão da rota maior, com a via em que você está de verdade e a chegada, o tempo e a distância bem à vista.",
+        "O trecho já percorrido fica bem apagado, e a seta 3D recebe luz por trás, por igual."
+      ],
+      "en": [
+        "Rerouting rebuilt: it answers in seconds, starts in the direction you are driving and no longer drops the route you chose.",
+        "Changing the destination on the way is faster: the first route shows up without waiting for the others.",
+        "Bigger route card, with the road you are really on and the arrival time, duration and distance in plain sight.",
+        "The stretch already driven fades out, and the 3D arrow is lit evenly from behind."
+      ],
+      "es": [
+        "Recálculo rehecho: responde en segundos, sale en el sentido en que usted va y ya no abandona la ruta que eligió.",
+        "Cambiar el destino en el camino es más rápido: la primera ruta aparece sin esperar a las demás.",
+        "Tarjeta de la ruta más grande, con la vía en la que realmente está y la llegada, el tiempo y la distancia bien a la vista.",
+        "El tramo ya recorrido queda bien apagado, y la flecha 3D recibe luz por detrás, de forma pareja."
+      ]
+    },
     {
       "versao": "0.94.3",
       "data": "06/11/2026",
@@ -205,31 +228,6 @@
       "es": [
         "\"Ey, Vrumbi\": con la app abierta, solo llámalo por su nombre y aparece, sin tocar nada. El propio celular está atento a la palabra, sin internet: el sonido no se graba ni se envía.",
         "Se activa y desactiva en Ajustes rápidos, tarjeta Voz, o hablando: \"deja de escucharme\", \"activa Ey Vrumbi\"."
-      ]
-    },
-    {
-      "versao": "0.89.0",
-      "data": "05/11/2026",
-      "itens": [
-        "O Vrumbi ganhou vida na tela: o carrinho aparece solto em cima do mapa, sem fundo, piscando, respirando, olhando em volta e mexendo a boca junto com a voz. Toque nele para falar, arraste para onde quiser.",
-        "Peça do seu jeito que ele faz: \"deixa o app roxo\", \"quero ser uma moto\", \"tem um buraco aqui\", \"mostra os hospitais no mapa\", \"modo escuro\", \"evita pedágio\", \"próxima música\", \"começa a gravar\", \"salva aqui como favorito\". Se não tiver o que você pediu, ele sugere parecidos.",
-        "Navegue falando: \"abre as configurações e depois aparência\". Ele fica encostado na lateral, ouvindo, e toca nos botões pelo nome; \"volta\", \"desce\" e \"sobe\" também valem.",
-        "O tempo de qualquer cidade e de qualquer dia: \"vai chover em Campinas no sábado?\", \"e no fim de semana?\".",
-        "Mais conversa: curiosidades, dicas de direção, ânimo nos dias difíceis, piadas novas e o seu nome (\"me chama de...\")."
-      ],
-      "en": [
-        "Vrumbi came to life on screen: the little car appears right on the map, no background, blinking, breathing, looking around and moving its mouth with the voice. Tap it to talk, drag it anywhere.",
-        "Ask your way and it does it: \"make the app purple\", \"I want to be a motorcycle\", \"there is a pothole here\", \"show hospitals on the map\", \"dark mode\", \"avoid tolls\", \"next song\", \"start recording\", \"save this place\". If it does not have what you asked for, it suggests similar ones.",
-        "Navigate by voice: \"open settings and then appearance\". It stays docked on the side, listening, and taps buttons by name; \"back\", \"scroll down\" and \"scroll up\" work too.",
-        "Weather for any city and any day: \"will it rain in Campinas on Saturday?\", \"and on the weekend?\".",
-        "More conversation: fun facts, driving tips, a lift on hard days, new jokes and your name (\"call me...\")."
-      ],
-      "es": [
-        "Vrumbi cobró vida en la pantalla: el carrito aparece suelto sobre el mapa, sin fondo, parpadeando, respirando, mirando alrededor y moviendo la boca con la voz. Tócalo para hablar, arrástralo a donde quieras.",
-        "Pide a tu manera y lo hace: \"pon la app morada\", \"quiero ser una moto\", \"hay un bache aquí\", \"muestra los hospitales en el mapa\", \"modo oscuro\", \"evita peajes\", \"siguiente canción\", \"empieza a grabar\", \"guarda este lugar\". Si no tiene lo que pediste, sugiere parecidos.",
-        "Navega hablando: \"abre la configuración y después apariencia\". Se queda a un lado, escuchando, y toca los botones por su nombre; \"vuelve\", \"baja\" y \"sube\" también valen.",
-        "El tiempo de cualquier ciudad y cualquier día: \"¿va a llover en Campinas el sábado?\", \"¿y el fin de semana?\".",
-        "Más conversación: curiosidades, consejos de manejo, ánimo en los días difíciles, chistes nuevos y tu nombre (\"llámame...\")."
       ]
     }
   ]
