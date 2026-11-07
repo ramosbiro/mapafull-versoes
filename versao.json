@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.102.0",
-  "codigo": 299,
+  "versao": "0.103.0",
+  "codigo": 300,
   "data": "07/11/2026",
-  "tamanho": 108755640,
-  "sha256": "6f35eb468b8dfbcee33edd28e5c7c341b08824fc484d1fca2b4a05712aa718c6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.102.0/Vrumbi-0.102.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.102.0/Vrumbi-relogio-0.102.0.apk",
+  "tamanho": 108798616,
+  "sha256": "f91d2a3222f8c6f6b7178530ac858da2ef8a5b623327fbfa9a6bc589fef7f7fb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.103.0/Vrumbi-0.103.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.103.0/Vrumbi-relogio-0.103.0.apk",
   "notas": [
-    "Saúde completa: tudo o que o Samsung Health exporta aparece no Vrumbi com nome e unidade certos: sono por noite (pontuação, eficiência, fases, recuperação mental e física, ciclos, cochilos), FC em repouso, variabilidade cardíaca (HRV), pontuação de energia, índice AGEs, composição corporal, pressão, ECG e nutrição.",
-    "Acompanhamento: cada medida é comparada com a referência e com a sua própria média dos 30 dias (FC em repouso subindo, HRV caindo, oxigênio baixo, pressão alta, sono curto...). As medidas recentes que saem da faixa avisam no celular.",
-    "Toque em qualquer medida para ver a situação, a referência, as médias de 7 e 30 dias, o gráfico por dia, mês ou ano e os registros dia a dia; dá para escolher o que acompanhar."
+    "Saúde sem depender da exportação: o acompanhamento roda também com o app fechado, a cada hora, lendo a Conexão Saúde, e avisa no celular quando uma medida de hoje sai da faixa.",
+    "Nova seção \"De onde vem cada medida\": o que chega sozinho pela Conexão Saúde (e de qual app), o que o Vrumbi calcula, o que você anota e o que só vem pela exportação do Samsung Health. Cada medida mostra a origem e o último registro.",
+    "FC em repouso calculada pelo Vrumbi a partir dos batimentos (funciona com qualquer relógio) e a temperatura da pele, quando o aparelho tiver."
   ],
   "versoes": [
+    {
+      "versao": "0.103.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Saúde sem depender da exportação: o acompanhamento roda também com o app fechado, a cada hora, lendo a Conexão Saúde, e avisa no celular quando uma medida de hoje sai da faixa.",
+        "Nova seção \"De onde vem cada medida\": o que chega sozinho pela Conexão Saúde (e de qual app), o que o Vrumbi calcula, o que você anota e o que só vem pela exportação do Samsung Health. Cada medida mostra a origem e o último registro.",
+        "FC em repouso calculada pelo Vrumbi a partir dos batimentos (funciona com qualquer relógio) e a temperatura da pele, quando o aparelho tiver."
+      ],
+      "en": [
+        "Health without depending on the export: monitoring also runs with the app closed, every hour, reading Health Connect, and alerts on the phone when a measure from today goes out of range.",
+        "New \"Where each measure comes from\" section: what arrives automatically via Health Connect (and from which app), what Vrumbi calculates, what you log and what only comes from the Samsung Health export. Each measure shows its source and last record.",
+        "Resting heart rate calculated by Vrumbi from heart rate data (works with any watch) and skin temperature, when the device has it."
+      ],
+      "es": [
+        "Salud sin depender de la exportación: el seguimiento funciona también con la app cerrada, cada hora, leyendo Health Connect, y avisa en el celular cuando una medida de hoy sale del rango.",
+        "Nueva sección \"De dónde viene cada medida\": lo que llega solo por Health Connect (y de qué app), lo que Vrumbi calcula, lo que anotas y lo que solo viene por la exportación de Samsung Health. Cada medida muestra su origen y el último registro.",
+        "FC en reposo calculada por Vrumbi a partir del pulso (funciona con cualquier reloj) y la temperatura de la piel, cuando el dispositivo la tenga."
+      ]
+    },
     {
       "versao": "0.102.0",
       "data": "07/11/2026",
@@ -196,22 +215,6 @@
       "es": [
         "Salud con diario del día: agua, cafeína, alimentación, peso y sueño con un toque.",
         "Pantalla Salud organizada por tema, con la última noche por fases y barras por días, meses o años."
-      ]
-    },
-    {
-      "versao": "0.98.1",
-      "data": "06/11/2026",
-      "itens": [
-        "Parado, o mapa fica imantado: não balança mais com a bússola nem com a tremida do GPS, e gasta menos bateria. Solta quando você anda de verdade.",
-        "Widgets de treino editáveis: números de hoje, semana, mês, ano ou total, gráfico por semana, 14 dias, meses ou anos, e estilo LED, barras, linha ou área."
-      ],
-      "en": [
-        "When stopped, the map stays locked: no more swaying from the compass or GPS jitter, and it uses less battery. It lets go when you really move.",
-        "Editable workout widgets: numbers for today, week, month, year or total, chart by week, 14 days, months or years, and LED, bars, line or area style."
-      ],
-      "es": [
-        "Parado, el mapa queda fijo: ya no se balancea con la brújula ni con el temblor del GPS, y gasta menos batería. Se suelta cuando te mueves de verdad.",
-        "Widgets de entreno editables: números de hoy, semana, mes, año o total, gráfico por semana, 14 días, meses o años, y estilo LED, barras, línea o área."
       ]
     }
   ]
