@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.5",
-  "codigo": 298,
+  "versao": "0.102.0",
+  "codigo": 299,
   "data": "07/11/2026",
-  "tamanho": 108724704,
-  "sha256": "5de70e4139a549c5d26a912d1a32c0a99fdcffc648e541cf44f0667f7ad9731f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.5/Vrumbi-0.101.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.5/Vrumbi-relogio-0.101.5.apk",
+  "tamanho": 108755640,
+  "sha256": "6f35eb468b8dfbcee33edd28e5c7c341b08824fc484d1fca2b4a05712aa718c6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.102.0/Vrumbi-0.102.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.102.0/Vrumbi-relogio-0.102.0.apk",
   "notas": [
-    "Importação do Samsung Health refeita e conferida com uma exportação real: entram todos os treinos (antes parava no meio), com a distância, o tempo e as calorias iguais aos do Samsung Health, o trajeto no mapa e os batimentos.",
-    "Vem tudo o que o Samsung Health guarda de cada treino: FC máxima e mínima, cadência, subida e descida, VO2 máx., suor, potência, repetições (barra fixa, flexão), braçadas e o clima do treino.",
-    "Os treinos detectados sozinhos aparecem como \"(autom.)\" e as cópias do mesmo treino ficam de fora, como no Samsung Health. Importar de novo completa o que veio errado antes e nunca duplica."
+    "Saúde completa: tudo o que o Samsung Health exporta aparece no Vrumbi com nome e unidade certos: sono por noite (pontuação, eficiência, fases, recuperação mental e física, ciclos, cochilos), FC em repouso, variabilidade cardíaca (HRV), pontuação de energia, índice AGEs, composição corporal, pressão, ECG e nutrição.",
+    "Acompanhamento: cada medida é comparada com a referência e com a sua própria média dos 30 dias (FC em repouso subindo, HRV caindo, oxigênio baixo, pressão alta, sono curto...). As medidas recentes que saem da faixa avisam no celular.",
+    "Toque em qualquer medida para ver a situação, a referência, as médias de 7 e 30 dias, o gráfico por dia, mês ou ano e os registros dia a dia; dá para escolher o que acompanhar."
   ],
   "versoes": [
+    {
+      "versao": "0.102.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Saúde completa: tudo o que o Samsung Health exporta aparece no Vrumbi com nome e unidade certos: sono por noite (pontuação, eficiência, fases, recuperação mental e física, ciclos, cochilos), FC em repouso, variabilidade cardíaca (HRV), pontuação de energia, índice AGEs, composição corporal, pressão, ECG e nutrição.",
+        "Acompanhamento: cada medida é comparada com a referência e com a sua própria média dos 30 dias (FC em repouso subindo, HRV caindo, oxigênio baixo, pressão alta, sono curto...). As medidas recentes que saem da faixa avisam no celular.",
+        "Toque em qualquer medida para ver a situação, a referência, as médias de 7 e 30 dias, o gráfico por dia, mês ou ano e os registros dia a dia; dá para escolher o que acompanhar."
+      ],
+      "en": [
+        "Complete health: everything Samsung Health exports shows in Vrumbi with the right names and units: sleep per night (score, efficiency, stages, mental and physical recovery, cycles, naps), resting HR, heart rate variability (HRV), energy score, AGEs index, body composition, blood pressure, ECG and nutrition.",
+        "Monitoring: each measure is compared with the reference and with your own 30-day average (resting HR rising, HRV dropping, low oxygen, high blood pressure, short sleep...). Recent measures that go out of range send a phone alert.",
+        "Tap any measure to see its status, the reference, the 7- and 30-day averages, the chart by day, month or year and the daily records; you choose what to monitor."
+      ],
+      "es": [
+        "Salud completa: todo lo que exporta Samsung Health aparece en Vrumbi con el nombre y la unidad correctos: sueño por noche (puntuación, eficiencia, fases, recuperación mental y física, ciclos, siestas), FC en reposo, variabilidad cardíaca (HRV), puntuación de energía, índice AGEs, composición corporal, presión, ECG y nutrición.",
+        "Seguimiento: cada medida se compara con la referencia y con tu propio promedio de 30 días (FC en reposo subiendo, HRV bajando, oxígeno bajo, presión alta, sueño corto...). Las medidas recientes que salen del rango avisan en el celular.",
+        "Toca cualquier medida para ver la situación, la referencia, los promedios de 7 y 30 días, el gráfico por día, mes o año y los registros diarios; tú eliges qué seguir."
+      ]
+    },
     {
       "versao": "0.101.5",
       "data": "07/11/2026",
@@ -193,28 +212,6 @@
       "es": [
         "Parado, el mapa queda fijo: ya no se balancea con la brújula ni con el temblor del GPS, y gasta menos batería. Se suelta cuando te mueves de verdad.",
         "Widgets de entreno editables: números de hoy, semana, mes, año o total, gráfico por semana, 14 días, meses o años, y estilo LED, barras, línea o área."
-      ]
-    },
-    {
-      "versao": "0.98.0",
-      "data": "06/11/2026",
-      "itens": [
-        "O que veio do Samsung Health agora soma: passos, minutos e calorias entram nas metas, no histórico e nos widgets.",
-        "Conexão Saúde completa: sono com as fases, peso, pressão, glicose, alimentação, ciclo e mais, sincronizados sozinhos.",
-        "Treinos dos outros apps entram sozinhos em Meus treinos.",
-        "Meus treinos com o mesmo painel do widget: conta-giros e semana em barras."
-      ],
-      "en": [
-        "Samsung Health data now adds up: steps, minutes and calories count in goals, history and widgets.",
-        "Full Health Connect: sleep with stages, weight, blood pressure, glucose, nutrition, cycle and more, synced automatically.",
-        "Workouts from other apps arrive in My workouts on their own.",
-        "My workouts with the same panel as the widget: rev counter and week in bars."
-      ],
-      "es": [
-        "Los datos de Samsung Health ahora suman: pasos, minutos y calorías cuentan en metas, historial y widgets.",
-        "Health Connect completo: sueño con fases, peso, presión, glucosa, alimentación, ciclo y más, sincronizados solos.",
-        "Los entrenos de otras apps entran solos en Mis entrenos.",
-        "Mis entrenos con el mismo panel del widget: cuentarrevoluciones y semana en barras."
       ]
     }
   ]
