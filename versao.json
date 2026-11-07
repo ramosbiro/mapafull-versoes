@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.99.0",
-  "codigo": 289,
+  "versao": "0.99.1",
+  "codigo": 290,
   "data": "06/11/2026",
-  "tamanho": 108670852,
-  "sha256": "ea5a97c68d7a7515f7b6d3f7f7b11041f54193ab03578e5b49c25a52ea9218ea",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.0/Vrumbi-0.99.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.0/Vrumbi-relogio-0.99.0.apk",
+  "tamanho": 108672336,
+  "sha256": "be16182019b1cb8f2a77ec2883601fa3101909f1c1f01691fb73dcae8e2e2f39",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.1/Vrumbi-0.99.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.1/Vrumbi-relogio-0.99.1.apk",
   "notas": [
-    "Saúde com diário do dia: água, cafeína, alimentação, peso e sono em um toque.",
-    "Tela Saúde organizada por assunto, com a última noite por fases e barras por dias, meses ou anos."
+    "Tocar num ícone agora abre aquele ícone, mesmo com o dedo um pouco ao lado: radar, favorito, estabelecimento, unidade, posto e rodovia.",
+    "Ponto escolhido com rua, número, bairro, cidade, CEP e coordenadas, e o que funciona naquele ponto.",
+    "Saiu a nota sobre batalhão e companhia no cartão do lugar."
   ],
   "versoes": [
+    {
+      "versao": "0.99.1",
+      "data": "06/11/2026",
+      "itens": [
+        "Tocar num ícone agora abre aquele ícone, mesmo com o dedo um pouco ao lado: radar, favorito, estabelecimento, unidade, posto e rodovia.",
+        "Ponto escolhido com rua, número, bairro, cidade, CEP e coordenadas, e o que funciona naquele ponto.",
+        "Saiu a nota sobre batalhão e companhia no cartão do lugar."
+      ],
+      "en": [
+        "Tapping an icon now opens that icon, even with your finger slightly off: speed camera, favorite, business, unit, gas station and highway.",
+        "Chosen point with street, number, neighborhood, city, postal code and coordinates, plus what operates at that point.",
+        "The note about police units was removed from the place card."
+      ],
+      "es": [
+        "Tocar un icono ahora abre ese icono, aunque el dedo quede un poco al lado: radar, favorito, comercio, unidad, gasolinera y carretera.",
+        "Punto elegido con calle, número, barrio, ciudad, código postal y coordenadas, y lo que funciona en ese punto.",
+        "Se quitó la nota sobre batallón y compañía en la tarjeta del lugar."
+      ]
+    },
     {
       "versao": "0.99.0",
       "data": "06/11/2026",
@@ -198,25 +218,6 @@
       "es": [
         "Ícono de la posición: las dos barras ahora dicen qué controlan, el color interior y el borde.",
         "Con las dos opacidades casi en cero, Vrumbi avisa que el ícono va a desaparecer del mapa."
-      ]
-    },
-    {
-      "versao": "0.95.1",
-      "data": "06/11/2026",
-      "itens": [
-        "Ícone da posição: a paleta agora abre, na cor de dentro e na da borda. Escolha qualquer cor.",
-        "Opacidade nas duas cores. Com a de dentro translúcida, aparece a estrutura do ícone em linhas, na cor da borda, em qualquer veículo.",
-        "Prévia girando na própria tela: você vê o ícone mudar antes de voltar ao mapa."
-      ],
-      "en": [
-        "Position icon: the palette now opens, for the inner color and the border. Pick any color.",
-        "Opacity on both colors. With a see-through inner color, the icon structure shows in lines of the border color, on any vehicle.",
-        "A spinning preview on the same screen: see the icon change before going back to the map."
-      ],
-      "es": [
-        "Ícono de la posición: la paleta ahora se abre, en el color interior y en el del borde. Elija cualquier color.",
-        "Opacidad en los dos colores. Con el interior translúcido, aparece la estructura del ícono en líneas del color del borde, en cualquier vehículo.",
-        "Vista previa girando en la misma pantalla: vea el ícono cambiar antes de volver al mapa."
       ]
     }
   ]
