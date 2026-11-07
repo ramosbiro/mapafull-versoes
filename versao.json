@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.0",
-  "codigo": 293,
+  "versao": "0.101.1",
+  "codigo": 294,
   "data": "07/11/2026",
-  "tamanho": 108688832,
-  "sha256": "315afaa039d97a6258b0d05651b7ac751775cec4511f75712d8f21fb80c50fb0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.0/Vrumbi-0.101.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.0/Vrumbi-relogio-0.101.0.apk",
+  "tamanho": 108694040,
+  "sha256": "0e6a7e15cc86306ad7a9b32aec50dbdd4ff8fb68e9832485a70d4aaacfbdbc5e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.1/Vrumbi-0.101.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.1/Vrumbi-relogio-0.101.1.apk",
   "notas": [
-    "Resumo da manhã novo: o ícone do tempo e a linha do dia igual à da tela Clima (mínima, barra e máxima, chuva); aberta, mostra manhã, tarde e noite, o sol, o UV e o vento.",
-    "Em Configurações > Clima e tempo, \"Ver como fica agora\" mostra o resumo na hora."
+    "Rotas mais certas: a melhor (ex.: Mogi-Dutra + Ayrton Senna direto até a Marginal) vem primeiro. Com \"Evitar favelas\" ligado, rodovia, marginal, viaduto e ponte que passam ao lado de uma comunidade não contam mais como entrar nela.",
+    "Menos opções sem sentido: caminhos quase iguais viram um só, e as voltas muito mais demoradas saem da lista. No empate, vem a rota com menos manobras.",
+    "Pedágios free flow entram na conta da rota (ex.: pórticos da Mogi-Dutra), com a base de pedágios atualizada."
   ],
   "versoes": [
+    {
+      "versao": "0.101.1",
+      "data": "07/11/2026",
+      "itens": [
+        "Rotas mais certas: a melhor (ex.: Mogi-Dutra + Ayrton Senna direto até a Marginal) vem primeiro. Com \"Evitar favelas\" ligado, rodovia, marginal, viaduto e ponte que passam ao lado de uma comunidade não contam mais como entrar nela.",
+        "Menos opções sem sentido: caminhos quase iguais viram um só, e as voltas muito mais demoradas saem da lista. No empate, vem a rota com menos manobras.",
+        "Pedágios free flow entram na conta da rota (ex.: pórticos da Mogi-Dutra), com a base de pedágios atualizada."
+      ],
+      "en": [
+        "Better routes: the best one (e.g. Mogi-Dutra + Ayrton Senna straight to the Marginal) comes first. With \"Avoid favelas\" on, highways, expressways, overpasses and bridges passing next to a community no longer count as entering it.",
+        "Fewer pointless options: nearly identical paths become one, and much slower detours leave the list. On a tie, the route with fewer turns comes first.",
+        "Free-flow tolls now count in the route (e.g. the Mogi-Dutra gantries), with an updated toll database."
+      ],
+      "es": [
+        "Rutas más acertadas: la mejor (p. ej. Mogi-Dutra + Ayrton Senna directo a la Marginal) aparece primero. Con \"Evitar favelas\" activado, autopistas, vías rápidas, viaductos y puentes que pasan junto a una comunidad ya no cuentan como entrar en ella.",
+        "Menos opciones sin sentido: caminos casi iguales se unen en uno, y los desvíos mucho más lentos salen de la lista. En empate, va primero la ruta con menos maniobras.",
+        "Los peajes free flow entran en la cuenta de la ruta (p. ej. los pórticos de la Mogi-Dutra), con la base de peajes actualizada."
+      ]
+    },
     {
       "versao": "0.101.0",
       "data": "07/11/2026",
@@ -201,19 +221,6 @@
         "Barrio y ciudad en negrita en la tarjeta de dirección, para leer desde más lejos.",
         "Icono de la posición: la opacidad del borde ya no cambia el color interior, ni la interior el borde.",
         "Iconos sin el círculo en el suelo, y la vista previa sigue la barra de tamaño."
-      ]
-    },
-    {
-      "versao": "0.96.2",
-      "data": "06/11/2026",
-      "itens": [
-        "Cartão do endereço mais completo: rua, bairro, cidade e CEP, com ou sem rota."
-      ],
-      "en": [
-        "More complete address card: street, neighborhood, city and postal code, with or without a route."
-      ],
-      "es": [
-        "Tarjeta de dirección más completa: calle, barrio, ciudad y código postal, con o sin ruta."
       ]
     }
   ]
