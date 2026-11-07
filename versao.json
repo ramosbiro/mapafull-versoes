@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.106.3",
-  "codigo": 306,
+  "versao": "0.106.4",
+  "codigo": 307,
   "data": "07/11/2026",
-  "tamanho": 108828060,
-  "sha256": "edfae5a3b3bf57fbf142d5517b23bbdb0bfa4e1aff58733728cfe218f1f979fa",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.3/Vrumbi-0.106.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.3/Vrumbi-relogio-0.106.3.apk",
+  "tamanho": 108828880,
+  "sha256": "a02550df2fcd9ab8af8f3fc1a672ba80657ddef98b9fb5a8e64b30dc49766b2a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.4/Vrumbi-0.106.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.4/Vrumbi-relogio-0.106.4.apk",
   "notas": [
-    "Relógio: cada bloco do Vrumbi aparece na lista de adicionar com a prévia do que mostra (o anel dos passos, os batimentos, a lua do sono, a gota da água, as pontuações, os exercícios) e com um nome que diz a função: Iniciar treino, Passos de hoje, Batimentos, Sono, Água e Pontuações Vrumbi."
+    "Relógio: blocos novos no formato do Galaxy Watch: 13 meios blocos (cartões em pílula que encaixam dois por página: Atividade de hoje, Passos, Batimentos, FC em repouso, Sono, Água com +250 ml no toque, Energia, Recuperação, Começar treino, Último treino, Treino da semana, Peso e Acompanhamento) e 6 blocos cheios (Iniciar treino, Hoje, Batimentos, Sono, Água e Pontuações).",
+    "Cada bloco aparece agrupado por categoria (Atividade, Exercício, Coração, Sono, Nutrição, Bem-estar, Corpo) e com a prévia igual ao bloco de verdade."
   ],
   "versoes": [
+    {
+      "versao": "0.106.4",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio: blocos novos no formato do Galaxy Watch: 13 meios blocos (cartões em pílula que encaixam dois por página: Atividade de hoje, Passos, Batimentos, FC em repouso, Sono, Água com +250 ml no toque, Energia, Recuperação, Começar treino, Último treino, Treino da semana, Peso e Acompanhamento) e 6 blocos cheios (Iniciar treino, Hoje, Batimentos, Sono, Água e Pontuações).",
+        "Cada bloco aparece agrupado por categoria (Atividade, Exercício, Coração, Sono, Nutrição, Bem-estar, Corpo) e com a prévia igual ao bloco de verdade."
+      ],
+      "en": [
+        "Watch: new tiles in the Galaxy Watch format: 13 half tiles (pill cards that fit two per page: Today's activity, Steps, Heart rate, Resting HR, Sleep, Water with +250 ml on tap, Energy, Recovery, Start workout, Last workout, Workouts this week, Weight and Monitoring) and 6 full tiles (Start workout, Today, Heart rate, Sleep, Water and Scores).",
+        "Each tile is grouped by category (Activity, Exercise, Heart, Sleep, Nutrition, Wellness, Body) and has a preview that matches the real tile."
+      ],
+      "es": [
+        "Reloj: bloques nuevos en el formato del Galaxy Watch: 13 medios bloques (tarjetas en píldora que caben dos por página: Actividad de hoy, Pasos, Pulso, FC en reposo, Sueño, Agua con +250 ml al tocar, Energía, Recuperación, Empezar entreno, Último entreno, Entreno de la semana, Peso y Seguimiento) y 6 bloques completos (Iniciar entreno, Hoy, Pulso, Sueño, Agua y Puntuaciones).",
+        "Cada bloque aparece agrupado por categoría (Actividad, Ejercicio, Corazón, Sueño, Nutrición, Bienestar, Cuerpo) y con la vista previa igual al bloque real."
+      ]
+    },
     {
       "versao": "0.106.3",
       "data": "07/11/2026",
@@ -206,19 +223,6 @@
         "Dentro de un supermercado, tienda grande, gasolinera, hospital o facultad (incluso en su estacionamiento), la tarjeta de la dirección muestra el nombre del lugar; al tocar abre su ficha, como el ícono del mapa.",
         "Vía sin señal de velocidad en el mapa: aparece el límite probable por el tipo de vía (código de tránsito), en gris con \"≈\", solo con aviso en pantalla.",
         "Importar y sincronizar sin bloquear la app: el progreso queda en una píldora pequeña arriba, con el conteo (sin nombres de archivo); al tocarla muestra los detalles."
-      ]
-    },
-    {
-      "versao": "0.101.2",
-      "data": "07/11/2026",
-      "itens": [
-        "Mapa claro mais leve: as rodovias vistas de longe ganharam tons suaves, sem a borda escura. Com uma rota na tela, elas ficam ainda mais apagadas e o azul da rota fica em evidência. No escuro e no satélite, nada muda."
-      ],
-      "en": [
-        "Lighter light map: highways seen from afar now use soft tones, without the dark outline. With a route on screen, they fade even more and the blue route stands out. Dark and satellite maps are unchanged."
-      ],
-      "es": [
-        "Mapa claro más liviano: las carreteras vistas de lejos tienen tonos suaves, sin el borde oscuro. Con una ruta en pantalla se atenúan aún más y el azul de la ruta queda en evidencia. En oscuro y satélite, nada cambia."
       ]
     }
   ]
