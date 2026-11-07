@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.100.1",
-  "codigo": 292,
+  "versao": "0.101.0",
+  "codigo": 293,
   "data": "07/11/2026",
-  "tamanho": 108676908,
-  "sha256": "a14e00d6e5f33fa4f4b346dfb496dbe9f8070f33e7308fc0806cbdaaf838cf12",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.1/Vrumbi-0.100.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.1/Vrumbi-relogio-0.100.1.apk",
+  "tamanho": 108688832,
+  "sha256": "315afaa039d97a6258b0d05651b7ac751775cec4511f75712d8f21fb80c50fb0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.0/Vrumbi-0.101.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.0/Vrumbi-relogio-0.101.0.apk",
   "notas": [
-    "Evitar na rota mais limpo: a regra do rodízio de cada cidade fica só na ficha do veículo."
+    "Resumo da manhã novo: o ícone do tempo e a linha do dia igual à da tela Clima (mínima, barra e máxima, chuva); aberta, mostra manhã, tarde e noite, o sol, o UV e o vento.",
+    "Em Configurações > Clima e tempo, \"Ver como fica agora\" mostra o resumo na hora."
   ],
   "versoes": [
+    {
+      "versao": "0.101.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Resumo da manhã novo: o ícone do tempo e a linha do dia igual à da tela Clima (mínima, barra e máxima, chuva); aberta, mostra manhã, tarde e noite, o sol, o UV e o vento.",
+        "Em Configurações > Clima e tempo, \"Ver como fica agora\" mostra o resumo na hora."
+      ],
+      "en": [
+        "New morning summary: the weather icon and the day row just like the Weather screen (low, bar and high, rain); expanded, it shows morning, afternoon and night, sun, UV and wind.",
+        "In Settings > Weather, \"See how it looks now\" shows the summary right away."
+      ],
+      "es": [
+        "Nuevo resumen de la mañana: el ícono del tiempo y la fila del día igual que en la pantalla Clima (mínima, barra y máxima, lluvia); abierta, muestra mañana, tarde y noche, el sol, el UV y el viento.",
+        "En Configuración > Clima, \"Ver cómo queda ahora\" muestra el resumen al instante."
+      ]
+    },
     {
       "versao": "0.100.1",
       "data": "07/11/2026",
@@ -197,19 +214,6 @@
       ],
       "es": [
         "Tarjeta de dirección más completa: calle, barrio, ciudad y código postal, con o sin ruta."
-      ]
-    },
-    {
-      "versao": "0.96.1",
-      "data": "06/11/2026",
-      "itens": [
-        "Ícone da posição com o celular deitado: a prévia fica à esquerda e as opções rolam à direita."
-      ],
-      "en": [
-        "Position icon with the phone in landscape: the preview stays on the left and the options scroll on the right."
-      ],
-      "es": [
-        "Ícono de la posición con el celular en horizontal: la vista previa queda a la izquierda y las opciones se desplazan a la derecha."
       ]
     }
   ]
