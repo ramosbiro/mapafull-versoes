@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.103.0",
-  "codigo": 300,
+  "versao": "0.104.0",
+  "codigo": 301,
   "data": "07/11/2026",
-  "tamanho": 108798616,
-  "sha256": "f91d2a3222f8c6f6b7178530ac858da2ef8a5b623327fbfa9a6bc589fef7f7fb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.103.0/Vrumbi-0.103.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.103.0/Vrumbi-relogio-0.103.0.apk",
+  "tamanho": 108803736,
+  "sha256": "26a1f01259986be7286e8da0a72583307029c312b1a6a572d63a4591620c7cd3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.104.0/Vrumbi-0.104.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.104.0/Vrumbi-relogio-0.104.0.apk",
   "notas": [
-    "Saúde sem depender da exportação: o acompanhamento roda também com o app fechado, a cada hora, lendo a Conexão Saúde, e avisa no celular quando uma medida de hoje sai da faixa.",
-    "Nova seção \"De onde vem cada medida\": o que chega sozinho pela Conexão Saúde (e de qual app), o que o Vrumbi calcula, o que você anota e o que só vem pela exportação do Samsung Health. Cada medida mostra a origem e o último registro.",
-    "FC em repouso calculada pelo Vrumbi a partir dos batimentos (funciona com qualquer relógio) e a temperatura da pele, quando o aparelho tiver."
+    "Pontuações do Vrumbi: Sono, Recuperação e Energia (0 a 100), calculadas com os seus dados, inclusive os que chegam sozinhos pela Conexão Saúde, sem depender das pontuações fechadas do Samsung Health.",
+    "Cada pontuação mostra como foi calculada: as partes (duração, fases e tempo acordado no sono; variabilidade, FC em repouso e sono na recuperação; recuperação e carga de treino na energia) e quantos pontos cada uma deu.",
+    "As três entram no acompanhamento e nos avisos, como as outras medidas."
   ],
   "versoes": [
+    {
+      "versao": "0.104.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Pontuações do Vrumbi: Sono, Recuperação e Energia (0 a 100), calculadas com os seus dados, inclusive os que chegam sozinhos pela Conexão Saúde, sem depender das pontuações fechadas do Samsung Health.",
+        "Cada pontuação mostra como foi calculada: as partes (duração, fases e tempo acordado no sono; variabilidade, FC em repouso e sono na recuperação; recuperação e carga de treino na energia) e quantos pontos cada uma deu.",
+        "As três entram no acompanhamento e nos avisos, como as outras medidas."
+      ],
+      "en": [
+        "Vrumbi scores: Sleep, Recovery and Energy (0 to 100), calculated from your data, including what arrives automatically via Health Connect, without depending on Samsung Health's closed scores.",
+        "Each score shows how it was calculated: the parts (duration, stages and time awake for sleep; variability, resting heart rate and sleep for recovery; recovery and training load for energy) and the points each one gave.",
+        "All three join monitoring and alerts, like the other measures."
+      ],
+      "es": [
+        "Puntuaciones de Vrumbi: Sueño, Recuperación y Energía (0 a 100), calculadas con tus datos, incluso los que llegan solos por Health Connect, sin depender de las puntuaciones cerradas de Samsung Health.",
+        "Cada puntuación muestra cómo se calculó: las partes (duración, fases y tiempo despierto en el sueño; variabilidad, FC en reposo y sueño en la recuperación; recuperación y carga de entrenamiento en la energía) y cuántos puntos dio cada una.",
+        "Las tres entran en el seguimiento y los avisos, como las demás medidas."
+      ]
+    },
     {
       "versao": "0.103.0",
       "data": "07/11/2026",
@@ -199,22 +218,6 @@
         "Tocar un icono ahora abre ese icono, aunque el dedo quede un poco al lado: radar, favorito, comercio, unidad, gasolinera y carretera.",
         "Punto elegido con calle, número, barrio, ciudad, código postal y coordenadas, y lo que funciona en ese punto.",
         "Se quitó la nota sobre batallón y compañía en la tarjeta del lugar."
-      ]
-    },
-    {
-      "versao": "0.99.0",
-      "data": "06/11/2026",
-      "itens": [
-        "Saúde com diário do dia: água, cafeína, alimentação, peso e sono em um toque.",
-        "Tela Saúde organizada por assunto, com a última noite por fases e barras por dias, meses ou anos."
-      ],
-      "en": [
-        "Health with a daily log: water, caffeine, food, weight and sleep in one tap.",
-        "Health screen organized by topic, with last night by stages and bars by days, months or years."
-      ],
-      "es": [
-        "Salud con diario del día: agua, cafeína, alimentación, peso y sueño con un toque.",
-        "Pantalla Salud organizada por tema, con la última noche por fases y barras por días, meses o años."
       ]
     }
   ]
