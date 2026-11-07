@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.2",
-  "codigo": 295,
+  "versao": "0.101.3",
+  "codigo": 296,
   "data": "07/11/2026",
-  "tamanho": 108695268,
-  "sha256": "3d589d6568653ffe44386a38f352a323243a147abd789bf45c7d9066ca8c8316",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.2/Vrumbi-0.101.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.2/Vrumbi-relogio-0.101.2.apk",
+  "tamanho": 108709292,
+  "sha256": "8875f1773e21ae29bbbfc175a811bd63a294b9acd6fee3fc1996cd901ba5bfe3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.3/Vrumbi-0.101.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.3/Vrumbi-relogio-0.101.3.apk",
   "notas": [
-    "Mapa claro mais leve: as rodovias vistas de longe ganharam tons suaves, sem a borda escura. Com uma rota na tela, elas ficam ainda mais apagadas e o azul da rota fica em evidência. No escuro e no satélite, nada muda."
+    "Dentro de um mercado, loja grande, posto, hospital ou faculdade (inclusive no estacionamento dele), o cartão do endereço mostra o nome do lugar; tocar abre a ficha dele, como no ícone do mapa.",
+    "Via sem placa de velocidade no mapa: aparece o limite provável pelo tipo da via (regra do CTB), em cinza com \"≈\", só com aviso na tela.",
+    "Importar e sincronizar sem travar o app: o progresso fica numa pílula pequena no alto, com a contagem (sem nomes de arquivo); tocar nela mostra os detalhes."
   ],
   "versoes": [
+    {
+      "versao": "0.101.3",
+      "data": "07/11/2026",
+      "itens": [
+        "Dentro de um mercado, loja grande, posto, hospital ou faculdade (inclusive no estacionamento dele), o cartão do endereço mostra o nome do lugar; tocar abre a ficha dele, como no ícone do mapa.",
+        "Via sem placa de velocidade no mapa: aparece o limite provável pelo tipo da via (regra do CTB), em cinza com \"≈\", só com aviso na tela.",
+        "Importar e sincronizar sem travar o app: o progresso fica numa pílula pequena no alto, com a contagem (sem nomes de arquivo); tocar nela mostra os detalhes."
+      ],
+      "en": [
+        "Inside a supermarket, big store, gas station, hospital or college (including its parking lot), the address card shows the place name; tap to open its details, like a map icon.",
+        "Road without a speed sign on the map: the likely limit by road type (traffic code) shows in gray with \"≈\", with an on-screen warning only.",
+        "Import and sync without blocking the app: progress stays in a small pill at the top, with a count (no file names); tap it for details."
+      ],
+      "es": [
+        "Dentro de un supermercado, tienda grande, gasolinera, hospital o facultad (incluso en su estacionamiento), la tarjeta de la dirección muestra el nombre del lugar; al tocar abre su ficha, como el ícono del mapa.",
+        "Vía sin señal de velocidad en el mapa: aparece el límite probable por el tipo de vía (código de tránsito), en gris con \"≈\", solo con aviso en pantalla.",
+        "Importar y sincronizar sin bloquear la app: el progreso queda en una píldora pequeña arriba, con el conteo (sin nombres de archivo); al tocarla muestra los detalles."
+      ]
+    },
     {
       "versao": "0.101.2",
       "data": "07/11/2026",
@@ -188,28 +209,6 @@
       ],
       "es": [
         "Acceso a las notificaciones: si Android muestra \"Ajuste restringido\", Vrumbi explica cómo permitirlo."
-      ]
-    },
-    {
-      "versao": "0.97.0",
-      "data": "06/11/2026",
-      "itens": [
-        "Quatro widgets novos de treino para a tela inicial: Treino do dia, Passos, Treinos da semana e Iniciar treino.",
-        "Treino do dia: um conta-giros com as metas de hoje e a semana em barras de LED, com passos, minutos e calorias.",
-        "Iniciar treino: um toque no widget e a corrida, a caminhada ou o esporte que você escolher já começa.",
-        "Metas de passos e de calorias por dia, em Minhas metas."
-      ],
-      "en": [
-        "Four new workout widgets for the home screen: Today's training, Steps, Weekly workouts and Start workout.",
-        "Today's training: a rev counter with today's goals and the week in LED bars, with steps, minutes and calories.",
-        "Start workout: one tap on the widget and your run, walk or chosen sport begins.",
-        "Daily step and calorie goals, in My goals."
-      ],
-      "es": [
-        "Cuatro widgets nuevos de entreno para la pantalla de inicio: Entreno del día, Pasos, Entrenos de la semana e Iniciar entreno.",
-        "Entreno del día: un cuentarrevoluciones con las metas de hoy y la semana en barras LED, con pasos, minutos y calorías.",
-        "Iniciar entreno: un toque en el widget y empieza la carrera, la caminata o el deporte que elijas.",
-        "Metas diarias de pasos y calorías, en Mis metas."
       ]
     }
   ]
