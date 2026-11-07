@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.106.1",
-  "codigo": 304,
+  "versao": "0.106.2",
+  "codigo": 305,
   "data": "07/11/2026",
-  "tamanho": 108826952,
-  "sha256": "44e49042d43951b341efd11c53276386c6576ddd3f0d376a8104baa52f4c8444",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.1/Vrumbi-0.106.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.1/Vrumbi-relogio-0.106.1.apk",
+  "tamanho": 108827716,
+  "sha256": "d7014378a204330e7ed8b2a5b7223da67f24811883b704bf11ca901951fd1e23",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.2/Vrumbi-0.106.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.2/Vrumbi-relogio-0.106.2.apk",
   "notas": [
-    "Relógio: o Encerrar agora encerra na hora (antes podia ficar preso esperando o celular) e um treino que ficou aberto é fechado antes de começar outro.",
-    "Telas do treino no relógio: os dados no meio (role para cima e para baixo, ou gire a coroa, para trocar de tela), Pausar e Encerrar à esquerda, a música à direita; segure 3 segundos para configurar a tela (grade, qual número em cada espaço, a ordem das telas).",
-    "Blocos do Vrumbi no relógio: Treino (começar com um toque), Hoje (passos com a meta, calorias, distância, andares), Batimentos, Sono, Água (+250 ml vai ao diário do celular) e Pontuações do Vrumbi com as medidas em alerta."
+    "Relógio: tela inicial nova, com os exercícios favoritos em bolinhas que deslizam para o lado e, embaixo, cartões com o seu dia (pontuações, passos, distância e calorias, batimentos, sono, água, acompanhamento), com a barra de rolagem curva na borda.",
+    "Nada começa sozinho: tocar num exercício abre o preparo, com o batimento e o GPS já sendo captados (\"Procurando o GPS…\" / \"GPS pronto\"), e o treino só começa no ▶. Os blocos também abrem o preparo.",
+    "O botão Voltar do relógio volta uma tela dentro do app (no preparo, cancela)."
   ],
   "versoes": [
+    {
+      "versao": "0.106.2",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio: tela inicial nova, com os exercícios favoritos em bolinhas que deslizam para o lado e, embaixo, cartões com o seu dia (pontuações, passos, distância e calorias, batimentos, sono, água, acompanhamento), com a barra de rolagem curva na borda.",
+        "Nada começa sozinho: tocar num exercício abre o preparo, com o batimento e o GPS já sendo captados (\"Procurando o GPS…\" / \"GPS pronto\"), e o treino só começa no ▶. Os blocos também abrem o preparo.",
+        "O botão Voltar do relógio volta uma tela dentro do app (no preparo, cancela)."
+      ],
+      "en": [
+        "Watch: new home screen, with favorite workouts as bubbles that slide sideways and, below, cards with your day (scores, steps, distance and calories, heart rate, sleep, water, monitoring), with the curved scroll bar along the edge.",
+        "Nothing starts on its own: tapping a workout opens the preparation screen, with heart rate and GPS already being picked up (\"Searching for GPS…\" / \"GPS ready\"), and the workout only starts on ▶. Tiles also open the preparation.",
+        "The watch Back button goes back one screen inside the app (in preparation, it cancels)."
+      ],
+      "es": [
+        "Reloj: pantalla de inicio nueva, con los ejercicios favoritos en burbujas que se deslizan hacia el lado y, debajo, tarjetas con tu día (puntuaciones, pasos, distancia y calorías, pulso, sueño, agua, seguimiento), con la barra de desplazamiento curva en el borde.",
+        "Nada empieza solo: tocar un ejercicio abre la preparación, con el pulso y el GPS ya captándose (\"Buscando el GPS…\" / \"GPS listo\"), y el entreno solo empieza en ▶. Los bloques también abren la preparación.",
+        "El botón Atrás del reloj vuelve una pantalla dentro de la app (en la preparación, cancela)."
+      ]
+    },
     {
       "versao": "0.106.1",
       "data": "07/11/2026",
@@ -208,22 +227,6 @@
         "Rutas más acertadas: la mejor (p. ej. Mogi-Dutra + Ayrton Senna directo a la Marginal) aparece primero. Con \"Evitar favelas\" activado, autopistas, vías rápidas, viaductos y puentes que pasan junto a una comunidad ya no cuentan como entrar en ella.",
         "Menos opciones sin sentido: caminos casi iguales se unen en uno, y los desvíos mucho más lentos salen de la lista. En empate, va primero la ruta con menos maniobras.",
         "Los peajes free flow entran en la cuenta de la ruta (p. ej. los pórticos de la Mogi-Dutra), con la base de peajes actualizada."
-      ]
-    },
-    {
-      "versao": "0.101.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Resumo da manhã novo: o ícone do tempo e a linha do dia igual à da tela Clima (mínima, barra e máxima, chuva); aberta, mostra manhã, tarde e noite, o sol, o UV e o vento.",
-        "Em Configurações > Clima e tempo, \"Ver como fica agora\" mostra o resumo na hora."
-      ],
-      "en": [
-        "New morning summary: the weather icon and the day row just like the Weather screen (low, bar and high, rain); expanded, it shows morning, afternoon and night, sun, UV and wind.",
-        "In Settings > Weather, \"See how it looks now\" shows the summary right away."
-      ],
-      "es": [
-        "Nuevo resumen de la mañana: el ícono del tiempo y la fila del día igual que en la pantalla Clima (mínima, barra y máxima, lluvia); abierta, muestra mañana, tarde y noche, el sol, el UV y el viento.",
-        "En Configuración > Clima, \"Ver cómo queda ahora\" muestra el resumen al instante."
       ]
     }
   ]
