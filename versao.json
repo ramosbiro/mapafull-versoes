@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.104.0",
-  "codigo": 301,
+  "versao": "0.105.0",
+  "codigo": 302,
   "data": "07/11/2026",
-  "tamanho": 108803736,
-  "sha256": "26a1f01259986be7286e8da0a72583307029c312b1a6a572d63a4591620c7cd3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.104.0/Vrumbi-0.104.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.104.0/Vrumbi-relogio-0.104.0.apk",
+  "tamanho": 108820920,
+  "sha256": "4cee17b78bb14fe632242dc79a3512aef4879cab7c418a5389f3fe402ddfa407",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.105.0/Vrumbi-0.105.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.105.0/Vrumbi-relogio-0.105.0.apk",
   "notas": [
-    "Pontuações do Vrumbi: Sono, Recuperação e Energia (0 a 100), calculadas com os seus dados, inclusive os que chegam sozinhos pela Conexão Saúde, sem depender das pontuações fechadas do Samsung Health.",
-    "Cada pontuação mostra como foi calculada: as partes (duração, fases e tempo acordado no sono; variabilidade, FC em repouso e sono na recuperação; recuperação e carga de treino na energia) e quantos pontos cada uma deu.",
-    "As três entram no acompanhamento e nos avisos, como as outras medidas."
+    "Gráficos do seu jeito: no botão de ajustes de cada gráfico, escolha o tipo (barras, translúcidas, degradê, pílulas, tracinhos, linha, área ou pirulito), a cor (a do app, qualquer cor da paleta ou pela situação: verde, âmbar, vermelho) e a opacidade.",
+    "Escolha também o que aparece (média, faixa de referência, valor em cada barra, maior e menor, grade, linha de tendência, último em destaque, datas), compare com outra medida numa segunda linha e, por mês ou ano, veja a média, o maior, o menor ou o total.",
+    "No painel do dia de Meus treinos dá para trocar o anel de riscos por um anel liso, translúcido ou barras, e os tracinhos da semana por barras modernas, com a cor de cada série. Vale só para um gráfico ou para todos."
   ],
   "versoes": [
+    {
+      "versao": "0.105.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Gráficos do seu jeito: no botão de ajustes de cada gráfico, escolha o tipo (barras, translúcidas, degradê, pílulas, tracinhos, linha, área ou pirulito), a cor (a do app, qualquer cor da paleta ou pela situação: verde, âmbar, vermelho) e a opacidade.",
+        "Escolha também o que aparece (média, faixa de referência, valor em cada barra, maior e menor, grade, linha de tendência, último em destaque, datas), compare com outra medida numa segunda linha e, por mês ou ano, veja a média, o maior, o menor ou o total.",
+        "No painel do dia de Meus treinos dá para trocar o anel de riscos por um anel liso, translúcido ou barras, e os tracinhos da semana por barras modernas, com a cor de cada série. Vale só para um gráfico ou para todos."
+      ],
+      "en": [
+        "Charts your way: with the settings button on each chart, choose the type (bars, translucent, gradient, pills, dashes, line, area or lollipop), the color (the app color, any palette color or by status: green, amber, red) and the opacity.",
+        "Also choose what is shown (average, reference range, value on each bar, highest and lowest, grid, trend line, latest highlighted, dates), compare with another measure as a second line and, by month or year, see the average, highest, lowest or total.",
+        "On the My workouts daily panel you can swap the tick ring for a solid, translucent ring or bars, and the week dashes for modern bars, with a color for each series. Applies to one chart or to all."
+      ],
+      "es": [
+        "Gráficos a tu manera: en el botón de ajustes de cada gráfico, elige el tipo (barras, translúcidas, degradado, píldoras, rayitas, línea, área o piruleta), el color (el de la app, cualquier color de la paleta o según la situación: verde, ámbar, rojo) y la opacidad.",
+        "Elige también qué se muestra (promedio, rango de referencia, valor en cada barra, mayor y menor, cuadrícula, línea de tendencia, último destacado, fechas), compara con otra medida en una segunda línea y, por mes o año, ve el promedio, el mayor, el menor o el total.",
+        "En el panel del día de Mis entrenos puedes cambiar el anillo de rayas por un anillo liso, translúcido o barras, y las rayitas de la semana por barras modernas, con el color de cada serie. Vale para un gráfico o para todos."
+      ]
+    },
     {
       "versao": "0.104.0",
       "data": "07/11/2026",
@@ -199,25 +218,6 @@
         "Elige el vehículo al elegir la ruta: coche, moto, camión, bicicleta o a pie. La ruta se rehace y el icono lo acompaña.",
         "Cada vehículo tiene su trazo en el mapa: a pie con puntos, bicicleta discontinua, moto con trazos largos, coche con línea continua y camión más ancha.",
         "Menos repetición: el vehículo de las rutas pasó a Mis vehículos, Detalle de lugares quedó solo en Capas y lugares y Evitar en la ruta aparece una vez."
-      ]
-    },
-    {
-      "versao": "0.99.1",
-      "data": "06/11/2026",
-      "itens": [
-        "Tocar num ícone agora abre aquele ícone, mesmo com o dedo um pouco ao lado: radar, favorito, estabelecimento, unidade, posto e rodovia.",
-        "Ponto escolhido com rua, número, bairro, cidade, CEP e coordenadas, e o que funciona naquele ponto.",
-        "Saiu a nota sobre batalhão e companhia no cartão do lugar."
-      ],
-      "en": [
-        "Tapping an icon now opens that icon, even with your finger slightly off: speed camera, favorite, business, unit, gas station and highway.",
-        "Chosen point with street, number, neighborhood, city, postal code and coordinates, plus what operates at that point.",
-        "The note about police units was removed from the place card."
-      ],
-      "es": [
-        "Tocar un icono ahora abre ese icono, aunque el dedo quede un poco al lado: radar, favorito, comercio, unidad, gasolinera y carretera.",
-        "Punto elegido con calle, número, barrio, ciudad, código postal y coordenadas, y lo que funciona en ese punto.",
-        "Se quitó la nota sobre batallón y compañía en la tarjeta del lugar."
       ]
     }
   ]
