@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.97.1",
-  "codigo": 285,
+  "versao": "0.97.2",
+  "codigo": 286,
   "data": "06/11/2026",
-  "tamanho": 108602536,
-  "sha256": "669d81df8966aa9fe42516392e902d1f2c30da0265cea071a93d3c4577634c7e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.1/Vrumbi-0.97.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.1/Vrumbi-relogio-0.97.1.apk",
+  "tamanho": 108603480,
+  "sha256": "4441f2fae26e99a1fab01e4b311071538ee6a23c32a3cad7c696b1d978ca545d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.2/Vrumbi-0.97.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.2/Vrumbi-relogio-0.97.2.apk",
   "notas": [
-    "Acesso às notificações: se o Android mostrar \"Configuração restrita\", o Vrumbi explica o caminho para liberar."
+    "Guia do acesso às notificações mais claro, e o X da janela no lugar certo."
   ],
   "versoes": [
+    {
+      "versao": "0.97.2",
+      "data": "06/11/2026",
+      "itens": [
+        "Guia do acesso às notificações mais claro, e o X da janela no lugar certo."
+      ],
+      "en": [
+        "Clearer notification access guide, and the window X in the right place."
+      ],
+      "es": [
+        "Guía del acceso a las notificaciones más clara, y la X de la ventana en su lugar."
+      ]
+    },
     {
       "versao": "0.97.1",
       "data": "06/11/2026",
@@ -209,19 +222,6 @@
         "En la ruta, ahora el botón Terminar está a la vista, en vertical y en horizontal. Solo toque dos veces.",
         "Celular en horizontal: la placa de la vía ya no tapa Grabar, y los botones de la derecha quedan alineados en una fila.",
         "¿Movió el mapa fuera de la ruta? El botón Seguir se apaga; tóquelo para volver. Recentrar, que hacía lo mismo, ya no está."
-      ]
-    },
-    {
-      "versao": "0.94.1",
-      "data": "06/11/2026",
-      "itens": [
-        "O aviso de privacidade da Saúde agora explica onde fica a cópia quando você usa backup."
-      ],
-      "en": [
-        "The Health privacy notice now explains where the copy stays when you use backup."
-      ],
-      "es": [
-        "El aviso de privacidad de Salud ahora explica dónde queda la copia cuando usa copia de seguridad."
       ]
     }
   ]
