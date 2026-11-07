@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.100.0",
-  "codigo": 291,
+  "versao": "0.100.1",
+  "codigo": 292,
   "data": "07/11/2026",
-  "tamanho": 108676936,
-  "sha256": "957c957ae8327068aa622e7fb8d647a96e4817f18ddcb326ff763ec6d782bdce",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.0/Vrumbi-0.100.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.0/Vrumbi-relogio-0.100.0.apk",
+  "tamanho": 108676908,
+  "sha256": "a14e00d6e5f33fa4f4b346dfb496dbe9f8070f33e7308fc0806cbdaaf838cf12",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.1/Vrumbi-0.100.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.1/Vrumbi-relogio-0.100.1.apk",
   "notas": [
-    "Escolha o veículo na hora da rota: carro, moto, caminhão, bicicleta ou a pé. A rota refaz por ele e o ícone acompanha.",
-    "Cada veículo tem o seu traço no mapa: a pé em pontinhos, bicicleta tracejada, moto com traços longos, carro com linha cheia e caminhão com linha mais larga.",
-    "Menos repetição: o veículo das rotas foi para Meus veículos, Detalhe dos locais ficou só em Camadas e locais e Evitar na rota aparece uma vez só."
+    "Evitar na rota mais limpo: a regra do rodízio de cada cidade fica só na ficha do veículo."
   ],
   "versoes": [
+    {
+      "versao": "0.100.1",
+      "data": "07/11/2026",
+      "itens": [
+        "Evitar na rota mais limpo: a regra do rodízio de cada cidade fica só na ficha do veículo."
+      ],
+      "en": [
+        "Cleaner Avoid on route: each city's driving restriction rule now stays only on the vehicle card."
+      ],
+      "es": [
+        "Evitar en la ruta más limpio: la regla de restricción de cada ciudad queda solo en la ficha del vehículo."
+      ]
+    },
     {
       "versao": "0.100.0",
       "data": "07/11/2026",
@@ -199,28 +210,6 @@
       ],
       "es": [
         "Ícono de la posición con el celular en horizontal: la vista previa queda a la izquierda y las opciones se desplazan a la derecha."
-      ]
-    },
-    {
-      "versao": "0.96.0",
-      "data": "06/11/2026",
-      "itens": [
-        "Suíte de ícones: agora são 79, com novos carros, motos, bicicletas, caminhões, ônibus e pessoas.",
-        "Viaturas com a pintura de cada estado, das forças federais e de 15 países, e seis modelos, incluindo a SUV alta.",
-        "Pessoas: homem e mulher com várias roupas. Escolha a cor da pele e a cor da roupa.",
-        "A prévia do ícone agora se mexe: rodas girando, farol piscando, sirene e a pessoa andando."
-      ],
-      "en": [
-        "Icon suite: 79 icons now, with new cars, motorcycles, bicycles, trucks, buses and people.",
-        "Police cars with the livery of each Brazilian state, federal forces and 15 countries, in six models, including the tall SUV.",
-        "People: men and women with many outfits. Choose the skin color and the clothes color.",
-        "The icon preview now moves: spinning wheels, blinking headlights, sirens and the person walking."
-      ],
-      "es": [
-        "Suite de íconos: ahora son 79, con nuevos autos, motos, bicicletas, camiones, buses y personas.",
-        "Patrullas con la pintura de cada estado de Brasil, de las fuerzas federales y de 15 países, en seis modelos, incluida la SUV alta.",
-        "Personas: hombre y mujer con varias ropas. Elija el color de la piel y el de la ropa.",
-        "La vista previa del ícono ahora se mueve: ruedas girando, faro parpadeando, sirena y la persona caminando."
       ]
     }
   ]
