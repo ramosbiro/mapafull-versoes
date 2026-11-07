@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.3",
-  "codigo": 296,
+  "versao": "0.101.4",
+  "codigo": 297,
   "data": "07/11/2026",
-  "tamanho": 108709292,
-  "sha256": "8875f1773e21ae29bbbfc175a811bd63a294b9acd6fee3fc1996cd901ba5bfe3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.3/Vrumbi-0.101.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.3/Vrumbi-relogio-0.101.3.apk",
+  "tamanho": 108711024,
+  "sha256": "70991a25e769d0d523b2e7571ef756b6ccedcd85880fdae684507aee076a603b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.4/Vrumbi-0.101.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.4/Vrumbi-relogio-0.101.4.apk",
   "notas": [
-    "Dentro de um mercado, loja grande, posto, hospital ou faculdade (inclusive no estacionamento dele), o cartão do endereço mostra o nome do lugar; tocar abre a ficha dele, como no ícone do mapa.",
-    "Via sem placa de velocidade no mapa: aparece o limite provável pelo tipo da via (regra do CTB), em cinza com \"≈\", só com aviso na tela.",
-    "Importar e sincronizar sem travar o app: o progresso fica numa pílula pequena no alto, com a contagem (sem nomes de arquivo); tocar nela mostra os detalhes."
+    "Módulo da polícia: no cartão do endereço, embaixo do CEP, um cartão com o CPA, o batalhão e a companhia de onde você está; o mesmo cartão aparece ao tocar em qualquer ponto do mapa e na escolha da rota (a unidade responsável pelo destino)."
   ],
   "versoes": [
+    {
+      "versao": "0.101.4",
+      "data": "07/11/2026",
+      "itens": [
+        "Módulo da polícia: no cartão do endereço, embaixo do CEP, um cartão com o CPA, o batalhão e a companhia de onde você está; o mesmo cartão aparece ao tocar em qualquer ponto do mapa e na escolha da rota (a unidade responsável pelo destino)."
+      ],
+      "en": [
+        "Police module: in the address card, below the ZIP code, a card with the area command, battalion and company where you are; the same card shows when you tap any point on the map and when choosing a route (the unit in charge of the destination)."
+      ],
+      "es": [
+        "Módulo de la policía: en la tarjeta de la dirección, debajo del código postal, una tarjeta con el CPA, el batallón y la compañía de donde estás; la misma tarjeta aparece al tocar cualquier punto del mapa y al elegir la ruta (la unidad responsable del destino)."
+      ]
+    },
     {
       "versao": "0.101.3",
       "data": "07/11/2026",
@@ -196,19 +207,6 @@
       ],
       "es": [
         "Guía del acceso a las notificaciones más clara, y la X de la ventana en su lugar."
-      ]
-    },
-    {
-      "versao": "0.97.1",
-      "data": "06/11/2026",
-      "itens": [
-        "Acesso às notificações: se o Android mostrar \"Configuração restrita\", o Vrumbi explica o caminho para liberar."
-      ],
-      "en": [
-        "Notification access: if Android shows \"Restricted setting\", Vrumbi explains how to allow it."
-      ],
-      "es": [
-        "Acceso a las notificaciones: si Android muestra \"Ajuste restringido\", Vrumbi explica cómo permitirlo."
       ]
     }
   ]
