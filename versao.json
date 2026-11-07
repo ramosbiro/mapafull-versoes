@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.97.2",
-  "codigo": 286,
+  "versao": "0.98.0",
+  "codigo": 287,
   "data": "06/11/2026",
-  "tamanho": 108603480,
-  "sha256": "4441f2fae26e99a1fab01e4b311071538ee6a23c32a3cad7c696b1d978ca545d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.2/Vrumbi-0.97.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.97.2/Vrumbi-relogio-0.97.2.apk",
+  "tamanho": 108658084,
+  "sha256": "2593d1d0ffb5d32c9f6784c40d982694708ea40f999ee2c2d85d4b1ec72a0e28",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.0/Vrumbi-0.98.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.0/Vrumbi-relogio-0.98.0.apk",
   "notas": [
-    "Guia do acesso às notificações mais claro, e o X da janela no lugar certo."
+    "O que veio do Samsung Health agora soma: passos, minutos e calorias entram nas metas, no histórico e nos widgets.",
+    "Conexão Saúde completa: sono com as fases, peso, pressão, glicose, alimentação, ciclo e mais, sincronizados sozinhos.",
+    "Treinos dos outros apps entram sozinhos em Meus treinos.",
+    "Meus treinos com o mesmo painel do widget: conta-giros e semana em barras."
   ],
   "versoes": [
+    {
+      "versao": "0.98.0",
+      "data": "06/11/2026",
+      "itens": [
+        "O que veio do Samsung Health agora soma: passos, minutos e calorias entram nas metas, no histórico e nos widgets.",
+        "Conexão Saúde completa: sono com as fases, peso, pressão, glicose, alimentação, ciclo e mais, sincronizados sozinhos.",
+        "Treinos dos outros apps entram sozinhos em Meus treinos.",
+        "Meus treinos com o mesmo painel do widget: conta-giros e semana em barras."
+      ],
+      "en": [
+        "Samsung Health data now adds up: steps, minutes and calories count in goals, history and widgets.",
+        "Full Health Connect: sleep with stages, weight, blood pressure, glucose, nutrition, cycle and more, synced automatically.",
+        "Workouts from other apps arrive in My workouts on their own.",
+        "My workouts with the same panel as the widget: rev counter and week in bars."
+      ],
+      "es": [
+        "Los datos de Samsung Health ahora suman: pasos, minutos y calorías cuentan en metas, historial y widgets.",
+        "Health Connect completo: sueño con fases, peso, presión, glucosa, alimentación, ciclo y más, sincronizados solos.",
+        "Los entrenos de otras apps entran solos en Mis entrenos.",
+        "Mis entrenos con el mismo panel del widget: cuentarrevoluciones y semana en barras."
+      ]
+    },
     {
       "versao": "0.97.2",
       "data": "06/11/2026",
@@ -203,25 +228,6 @@
         "Ruta mucho más ligera: el mapa hace mucho menos trabajo en cada cuadro, y el celular se calienta y se traba menos.",
         "En la ruta, la tarjeta de abajo vuelve a mostrar dónde está, y el destino queda en la línea de abajo.",
         "Actualización mucho menor: la descarga bajó de 264 MB a cerca de 100 MB."
-      ]
-    },
-    {
-      "versao": "0.94.2",
-      "data": "06/11/2026",
-      "itens": [
-        "Na rota, agora tem o botão Encerrar à vista, em pé e deitado. É só tocar duas vezes.",
-        "Celular deitado: a placa da via não fica mais em cima do Gravar, e os botões da direita ficam alinhados numa fileira.",
-        "Saiu do trajeto mexendo no mapa? O botão Seguir apaga; toque nele para voltar. O Recentrar, que fazia a mesma coisa, saiu."
-      ],
-      "en": [
-        "During a route, the End button is now in plain sight, in portrait and landscape. Just tap it twice.",
-        "Phone in landscape: the road sign no longer covers Record, and the buttons on the right sit in one aligned row.",
-        "Moved the map away from the route? The Follow button goes dark; tap it to come back. Recenter, which did the same thing, is gone."
-      ],
-      "es": [
-        "En la ruta, ahora el botón Terminar está a la vista, en vertical y en horizontal. Solo toque dos veces.",
-        "Celular en horizontal: la placa de la vía ya no tapa Grabar, y los botones de la derecha quedan alineados en una fila.",
-        "¿Movió el mapa fuera de la ruta? El botón Seguir se apaga; tóquelo para volver. Recentrar, que hacía lo mismo, ya no está."
       ]
     }
   ]
