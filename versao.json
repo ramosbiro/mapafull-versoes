@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.1",
-  "codigo": 294,
+  "versao": "0.101.2",
+  "codigo": 295,
   "data": "07/11/2026",
-  "tamanho": 108694040,
-  "sha256": "0e6a7e15cc86306ad7a9b32aec50dbdd4ff8fb68e9832485a70d4aaacfbdbc5e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.1/Vrumbi-0.101.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.1/Vrumbi-relogio-0.101.1.apk",
+  "tamanho": 108695268,
+  "sha256": "3d589d6568653ffe44386a38f352a323243a147abd789bf45c7d9066ca8c8316",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.2/Vrumbi-0.101.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.2/Vrumbi-relogio-0.101.2.apk",
   "notas": [
-    "Rotas mais certas: a melhor (ex.: Mogi-Dutra + Ayrton Senna direto até a Marginal) vem primeiro. Com \"Evitar favelas\" ligado, rodovia, marginal, viaduto e ponte que passam ao lado de uma comunidade não contam mais como entrar nela.",
-    "Menos opções sem sentido: caminhos quase iguais viram um só, e as voltas muito mais demoradas saem da lista. No empate, vem a rota com menos manobras.",
-    "Pedágios free flow entram na conta da rota (ex.: pórticos da Mogi-Dutra), com a base de pedágios atualizada."
+    "Mapa claro mais leve: as rodovias vistas de longe ganharam tons suaves, sem a borda escura. Com uma rota na tela, elas ficam ainda mais apagadas e o azul da rota fica em evidência. No escuro e no satélite, nada muda."
   ],
   "versoes": [
+    {
+      "versao": "0.101.2",
+      "data": "07/11/2026",
+      "itens": [
+        "Mapa claro mais leve: as rodovias vistas de longe ganharam tons suaves, sem a borda escura. Com uma rota na tela, elas ficam ainda mais apagadas e o azul da rota fica em evidência. No escuro e no satélite, nada muda."
+      ],
+      "en": [
+        "Lighter light map: highways seen from afar now use soft tones, without the dark outline. With a route on screen, they fade even more and the blue route stands out. Dark and satellite maps are unchanged."
+      ],
+      "es": [
+        "Mapa claro más liviano: las carreteras vistas de lejos tienen tonos suaves, sin el borde oscuro. Con una ruta en pantalla se atenúan aún más y el azul de la ruta queda en evidencia. En oscuro y satélite, nada cambia."
+      ]
+    },
     {
       "versao": "0.101.1",
       "data": "07/11/2026",
@@ -199,28 +210,6 @@
         "Entreno del día: un cuentarrevoluciones con las metas de hoy y la semana en barras LED, con pasos, minutos y calorías.",
         "Iniciar entreno: un toque en el widget y empieza la carrera, la caminata o el deporte que elijas.",
         "Metas diarias de pasos y calorías, en Mis metas."
-      ]
-    },
-    {
-      "versao": "0.96.3",
-      "data": "06/11/2026",
-      "itens": [
-        "CEP em todo endereço do Brasil, pela posição: acompanha a rua longa e não pega mais o CEP da rua vizinha.",
-        "Bairro e cidade em negrito no cartão do endereço, para ler de mais longe.",
-        "Ícone da posição: a opacidade da borda não mexe mais na cor de dentro, nem a de dentro na borda.",
-        "Ícones sem o círculo no chão, e a prévia acompanha a barra de tamanho."
-      ],
-      "en": [
-        "Postal code on every address in Brazil, from your position: it follows long streets and no longer picks the one from the next street.",
-        "Neighborhood and city in bold on the address card, easier to read from a distance.",
-        "Position icon: border opacity no longer changes the inner color, and inner opacity no longer changes the border.",
-        "Icons without the circle on the ground, and the preview follows the size bar."
-      ],
-      "es": [
-        "Código postal en toda dirección de Brasil, según la posición: sigue las calles largas y ya no toma el de la calle vecina.",
-        "Barrio y ciudad en negrita en la tarjeta de dirección, para leer desde más lejos.",
-        "Icono de la posición: la opacidad del borde ya no cambia el color interior, ni la interior el borde.",
-        "Iconos sin el círculo en el suelo, y la vista previa sigue la barra de tamaño."
       ]
     }
   ]
