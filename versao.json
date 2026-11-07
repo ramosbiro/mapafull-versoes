@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.99.1",
-  "codigo": 290,
-  "data": "06/11/2026",
-  "tamanho": 108672336,
-  "sha256": "be16182019b1cb8f2a77ec2883601fa3101909f1c1f01691fb73dcae8e2e2f39",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.1/Vrumbi-0.99.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.99.1/Vrumbi-relogio-0.99.1.apk",
+  "versao": "0.100.0",
+  "codigo": 291,
+  "data": "07/11/2026",
+  "tamanho": 108676936,
+  "sha256": "957c957ae8327068aa622e7fb8d647a96e4817f18ddcb326ff763ec6d782bdce",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.0/Vrumbi-0.100.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.100.0/Vrumbi-relogio-0.100.0.apk",
   "notas": [
-    "Tocar num ícone agora abre aquele ícone, mesmo com o dedo um pouco ao lado: radar, favorito, estabelecimento, unidade, posto e rodovia.",
-    "Ponto escolhido com rua, número, bairro, cidade, CEP e coordenadas, e o que funciona naquele ponto.",
-    "Saiu a nota sobre batalhão e companhia no cartão do lugar."
+    "Escolha o veículo na hora da rota: carro, moto, caminhão, bicicleta ou a pé. A rota refaz por ele e o ícone acompanha.",
+    "Cada veículo tem o seu traço no mapa: a pé em pontinhos, bicicleta tracejada, moto com traços longos, carro com linha cheia e caminhão com linha mais larga.",
+    "Menos repetição: o veículo das rotas foi para Meus veículos, Detalhe dos locais ficou só em Camadas e locais e Evitar na rota aparece uma vez só."
   ],
   "versoes": [
+    {
+      "versao": "0.100.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Escolha o veículo na hora da rota: carro, moto, caminhão, bicicleta ou a pé. A rota refaz por ele e o ícone acompanha.",
+        "Cada veículo tem o seu traço no mapa: a pé em pontinhos, bicicleta tracejada, moto com traços longos, carro com linha cheia e caminhão com linha mais larga.",
+        "Menos repetição: o veículo das rotas foi para Meus veículos, Detalhe dos locais ficou só em Camadas e locais e Evitar na rota aparece uma vez só."
+      ],
+      "en": [
+        "Choose the vehicle when picking a route: car, motorcycle, truck, bike or on foot. The route is rebuilt for it and the icon follows.",
+        "Each vehicle has its own line on the map: dots on foot, dashes by bike, long dashes by motorcycle, solid by car and wider by truck.",
+        "Fewer repeats: the route vehicle moved to My vehicles, Places detail is only in Layers and places, and Avoid on route appears once."
+      ],
+      "es": [
+        "Elige el vehículo al elegir la ruta: coche, moto, camión, bicicleta o a pie. La ruta se rehace y el icono lo acompaña.",
+        "Cada vehículo tiene su trazo en el mapa: a pie con puntos, bicicleta discontinua, moto con trazos largos, coche con línea continua y camión más ancha.",
+        "Menos repetición: el vehículo de las rutas pasó a Mis vehículos, Detalle de lugares quedó solo en Capas y lugares y Evitar en la ruta aparece una vez."
+      ]
+    },
     {
       "versao": "0.99.1",
       "data": "06/11/2026",
@@ -202,22 +221,6 @@
         "Patrullas con la pintura de cada estado de Brasil, de las fuerzas federales y de 15 países, en seis modelos, incluida la SUV alta.",
         "Personas: hombre y mujer con varias ropas. Elija el color de la piel y el de la ropa.",
         "La vista previa del ícono ahora se mueve: ruedas girando, faro parpadeando, sirena y la persona caminando."
-      ]
-    },
-    {
-      "versao": "0.95.2",
-      "data": "06/11/2026",
-      "itens": [
-        "Ícone da posição: as duas barras agora dizem o que controlam, a cor de dentro e a borda.",
-        "Com as duas opacidades quase em zero, o Vrumbi avisa que o ícone vai sumir do mapa."
-      ],
-      "en": [
-        "Position icon: the two sliders now say what they control, the inner color and the border.",
-        "With both opacities almost at zero, Vrumbi warns you that the icon will disappear from the map."
-      ],
-      "es": [
-        "Ícono de la posición: las dos barras ahora dicen qué controlan, el color interior y el borde.",
-        "Con las dos opacidades casi en cero, Vrumbi avisa que el ícono va a desaparecer del mapa."
       ]
     }
   ]
