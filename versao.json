@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.106.0",
-  "codigo": 303,
+  "versao": "0.106.1",
+  "codigo": 304,
   "data": "07/11/2026",
-  "tamanho": 108825744,
-  "sha256": "989f13bdf6716e06ac122b9cd1c713b5106ab4f81d3fc27fe2294f3b2d2cb3c9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.0/Vrumbi-0.106.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.0/Vrumbi-relogio-0.106.0.apk",
+  "tamanho": 108826952,
+  "sha256": "44e49042d43951b341efd11c53276386c6576ddd3f0d376a8104baa52f4c8444",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.1/Vrumbi-0.106.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.1/Vrumbi-relogio-0.106.1.apk",
   "notas": [
-    "Relógio medindo o dia inteiro: com o app do Vrumbi no relógio (Wear OS), batimentos, passos, calorias, distância, andares e o sono são medidos o dia todo, com o app fechado, e chegam ao celular sozinhos (o que não chegar fica guardado e vai depois).",
-    "Aviso na hora, como no Samsung Health: batimentos altos (acima de 120) ou baixos (abaixo de 40) por 10 minutos com você parado chegam como notificação no celular.",
-    "A FC em repouso e o sono medidos pelo relógio entram na tela Saúde, nas pontuações e no acompanhamento; a origem aparece como \"Relógio com o Vrumbi\". No relógio, o botão \"Dia inteiro\" liga e desliga."
+    "Relógio: o Encerrar agora encerra na hora (antes podia ficar preso esperando o celular) e um treino que ficou aberto é fechado antes de começar outro.",
+    "Telas do treino no relógio: os dados no meio (role para cima e para baixo, ou gire a coroa, para trocar de tela), Pausar e Encerrar à esquerda, a música à direita; segure 3 segundos para configurar a tela (grade, qual número em cada espaço, a ordem das telas).",
+    "Blocos do Vrumbi no relógio: Treino (começar com um toque), Hoje (passos com a meta, calorias, distância, andares), Batimentos, Sono, Água (+250 ml vai ao diário do celular) e Pontuações do Vrumbi com as medidas em alerta."
   ],
   "versoes": [
+    {
+      "versao": "0.106.1",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio: o Encerrar agora encerra na hora (antes podia ficar preso esperando o celular) e um treino que ficou aberto é fechado antes de começar outro.",
+        "Telas do treino no relógio: os dados no meio (role para cima e para baixo, ou gire a coroa, para trocar de tela), Pausar e Encerrar à esquerda, a música à direita; segure 3 segundos para configurar a tela (grade, qual número em cada espaço, a ordem das telas).",
+        "Blocos do Vrumbi no relógio: Treino (começar com um toque), Hoje (passos com a meta, calorias, distância, andares), Batimentos, Sono, Água (+250 ml vai ao diário do celular) e Pontuações do Vrumbi com as medidas em alerta."
+      ],
+      "en": [
+        "Watch: End now ends right away (before, it could get stuck waiting for the phone) and a workout left open is closed before starting another.",
+        "Workout screens on the watch: data in the middle (scroll up and down, or turn the crown, to change screens), Pause and End on the left, music on the right; hold for 3 seconds to set up the screen (grid, which number in each spot, screen order).",
+        "Vrumbi tiles on the watch: Workout (start with one tap), Today (steps with the goal, calories, distance, floors), Heart rate, Sleep, Water (+250 ml goes to the phone log) and Vrumbi Scores with measures that need attention."
+      ],
+      "es": [
+        "Reloj: Finalizar ahora termina al instante (antes podía quedar trabado esperando el celular) y un entreno que quedó abierto se cierra antes de empezar otro.",
+        "Pantallas del entreno en el reloj: los datos en el medio (desliza arriba y abajo, o gira la corona, para cambiar de pantalla), Pausar y Finalizar a la izquierda, la música a la derecha; mantén 3 segundos para configurar la pantalla (cuadrícula, qué número en cada espacio, orden de las pantallas).",
+        "Bloques de Vrumbi en el reloj: Entreno (empezar con un toque), Hoy (pasos con la meta, calorías, distancia, pisos), Pulso, Sueño, Agua (+250 ml va al diario del celular) y Puntuaciones de Vrumbi con las medidas en alerta."
+      ]
+    },
     {
       "versao": "0.106.0",
       "data": "07/11/2026",
@@ -205,19 +224,6 @@
       "es": [
         "Nuevo resumen de la mañana: el ícono del tiempo y la fila del día igual que en la pantalla Clima (mínima, barra y máxima, lluvia); abierta, muestra mañana, tarde y noche, el sol, el UV y el viento.",
         "En Configuración > Clima, \"Ver cómo queda ahora\" muestra el resumen al instante."
-      ]
-    },
-    {
-      "versao": "0.100.1",
-      "data": "07/11/2026",
-      "itens": [
-        "Evitar na rota mais limpo: a regra do rodízio de cada cidade fica só na ficha do veículo."
-      ],
-      "en": [
-        "Cleaner Avoid on route: each city's driving restriction rule now stays only on the vehicle card."
-      ],
-      "es": [
-        "Evitar en la ruta más limpio: la regla de restricción de cada ciudad queda solo en la ficha del vehículo."
       ]
     }
   ]
