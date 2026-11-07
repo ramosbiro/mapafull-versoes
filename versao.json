@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.105.0",
-  "codigo": 302,
+  "versao": "0.106.0",
+  "codigo": 303,
   "data": "07/11/2026",
-  "tamanho": 108820920,
-  "sha256": "4cee17b78bb14fe632242dc79a3512aef4879cab7c418a5389f3fe402ddfa407",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.105.0/Vrumbi-0.105.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.105.0/Vrumbi-relogio-0.105.0.apk",
+  "tamanho": 108825744,
+  "sha256": "989f13bdf6716e06ac122b9cd1c713b5106ab4f81d3fc27fe2294f3b2d2cb3c9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.0/Vrumbi-0.106.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.0/Vrumbi-relogio-0.106.0.apk",
   "notas": [
-    "Gráficos do seu jeito: no botão de ajustes de cada gráfico, escolha o tipo (barras, translúcidas, degradê, pílulas, tracinhos, linha, área ou pirulito), a cor (a do app, qualquer cor da paleta ou pela situação: verde, âmbar, vermelho) e a opacidade.",
-    "Escolha também o que aparece (média, faixa de referência, valor em cada barra, maior e menor, grade, linha de tendência, último em destaque, datas), compare com outra medida numa segunda linha e, por mês ou ano, veja a média, o maior, o menor ou o total.",
-    "No painel do dia de Meus treinos dá para trocar o anel de riscos por um anel liso, translúcido ou barras, e os tracinhos da semana por barras modernas, com a cor de cada série. Vale só para um gráfico ou para todos."
+    "Relógio medindo o dia inteiro: com o app do Vrumbi no relógio (Wear OS), batimentos, passos, calorias, distância, andares e o sono são medidos o dia todo, com o app fechado, e chegam ao celular sozinhos (o que não chegar fica guardado e vai depois).",
+    "Aviso na hora, como no Samsung Health: batimentos altos (acima de 120) ou baixos (abaixo de 40) por 10 minutos com você parado chegam como notificação no celular.",
+    "A FC em repouso e o sono medidos pelo relógio entram na tela Saúde, nas pontuações e no acompanhamento; a origem aparece como \"Relógio com o Vrumbi\". No relógio, o botão \"Dia inteiro\" liga e desliga."
   ],
   "versoes": [
+    {
+      "versao": "0.106.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio medindo o dia inteiro: com o app do Vrumbi no relógio (Wear OS), batimentos, passos, calorias, distância, andares e o sono são medidos o dia todo, com o app fechado, e chegam ao celular sozinhos (o que não chegar fica guardado e vai depois).",
+        "Aviso na hora, como no Samsung Health: batimentos altos (acima de 120) ou baixos (abaixo de 40) por 10 minutos com você parado chegam como notificação no celular.",
+        "A FC em repouso e o sono medidos pelo relógio entram na tela Saúde, nas pontuações e no acompanhamento; a origem aparece como \"Relógio com o Vrumbi\". No relógio, o botão \"Dia inteiro\" liga e desliga."
+      ],
+      "en": [
+        "Watch measuring all day: with the Vrumbi app on the watch (Wear OS), heart rate, steps, calories, distance, floors and sleep are measured all day, with the app closed, and reach the phone automatically (anything that does not arrive is kept and sent later).",
+        "Instant alert, like Samsung Health: high (above 120) or low (below 40) heart rate for 10 minutes while you are still arrives as a phone notification.",
+        "Resting heart rate and sleep measured by the watch go into the Health screen, the scores and monitoring; the source shows as \"Watch with Vrumbi\". On the watch, the \"All day\" button turns it on and off."
+      ],
+      "es": [
+        "Reloj midiendo todo el día: con la app de Vrumbi en el reloj (Wear OS), pulso, pasos, calorías, distancia, pisos y sueño se miden todo el día, con la app cerrada, y llegan solos al celular (lo que no llegue se guarda y se envía después).",
+        "Aviso al instante, como en Samsung Health: pulso alto (más de 120) o bajo (menos de 40) durante 10 minutos estando quieto llega como notificación en el celular.",
+        "La FC en reposo y el sueño medidos por el reloj entran en la pantalla Salud, en las puntuaciones y en el seguimiento; el origen aparece como \"Reloj con Vrumbi\". En el reloj, el botón \"Todo el día\" lo activa y desactiva."
+      ]
+    },
     {
       "versao": "0.105.0",
       "data": "07/11/2026",
@@ -199,25 +218,6 @@
       ],
       "es": [
         "Evitar en la ruta más limpio: la regla de restricción de cada ciudad queda solo en la ficha del vehículo."
-      ]
-    },
-    {
-      "versao": "0.100.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Escolha o veículo na hora da rota: carro, moto, caminhão, bicicleta ou a pé. A rota refaz por ele e o ícone acompanha.",
-        "Cada veículo tem o seu traço no mapa: a pé em pontinhos, bicicleta tracejada, moto com traços longos, carro com linha cheia e caminhão com linha mais larga.",
-        "Menos repetição: o veículo das rotas foi para Meus veículos, Detalhe dos locais ficou só em Camadas e locais e Evitar na rota aparece uma vez só."
-      ],
-      "en": [
-        "Choose the vehicle when picking a route: car, motorcycle, truck, bike or on foot. The route is rebuilt for it and the icon follows.",
-        "Each vehicle has its own line on the map: dots on foot, dashes by bike, long dashes by motorcycle, solid by car and wider by truck.",
-        "Fewer repeats: the route vehicle moved to My vehicles, Places detail is only in Layers and places, and Avoid on route appears once."
-      ],
-      "es": [
-        "Elige el vehículo al elegir la ruta: coche, moto, camión, bicicleta o a pie. La ruta se rehace y el icono lo acompaña.",
-        "Cada vehículo tiene su trazo en el mapa: a pie con puntos, bicicleta discontinua, moto con trazos largos, coche con línea continua y camión más ancha.",
-        "Menos repetición: el vehículo de las rutas pasó a Mis vehículos, Detalle de lugares quedó solo en Capas y lugares y Evitar en la ruta aparece una vez."
       ]
     }
   ]
