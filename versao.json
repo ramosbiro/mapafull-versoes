@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.101.4",
-  "codigo": 297,
+  "versao": "0.101.5",
+  "codigo": 298,
   "data": "07/11/2026",
-  "tamanho": 108711024,
-  "sha256": "70991a25e769d0d523b2e7571ef756b6ccedcd85880fdae684507aee076a603b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.4/Vrumbi-0.101.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.4/Vrumbi-relogio-0.101.4.apk",
+  "tamanho": 108724704,
+  "sha256": "5de70e4139a549c5d26a912d1a32c0a99fdcffc648e541cf44f0667f7ad9731f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.5/Vrumbi-0.101.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.101.5/Vrumbi-relogio-0.101.5.apk",
   "notas": [
-    "Módulo da polícia: no cartão do endereço, embaixo do CEP, um cartão com o CPA, o batalhão e a companhia de onde você está; o mesmo cartão aparece ao tocar em qualquer ponto do mapa e na escolha da rota (a unidade responsável pelo destino)."
+    "Importação do Samsung Health refeita e conferida com uma exportação real: entram todos os treinos (antes parava no meio), com a distância, o tempo e as calorias iguais aos do Samsung Health, o trajeto no mapa e os batimentos.",
+    "Vem tudo o que o Samsung Health guarda de cada treino: FC máxima e mínima, cadência, subida e descida, VO2 máx., suor, potência, repetições (barra fixa, flexão), braçadas e o clima do treino.",
+    "Os treinos detectados sozinhos aparecem como \"(autom.)\" e as cópias do mesmo treino ficam de fora, como no Samsung Health. Importar de novo completa o que veio errado antes e nunca duplica."
   ],
   "versoes": [
+    {
+      "versao": "0.101.5",
+      "data": "07/11/2026",
+      "itens": [
+        "Importação do Samsung Health refeita e conferida com uma exportação real: entram todos os treinos (antes parava no meio), com a distância, o tempo e as calorias iguais aos do Samsung Health, o trajeto no mapa e os batimentos.",
+        "Vem tudo o que o Samsung Health guarda de cada treino: FC máxima e mínima, cadência, subida e descida, VO2 máx., suor, potência, repetições (barra fixa, flexão), braçadas e o clima do treino.",
+        "Os treinos detectados sozinhos aparecem como \"(autom.)\" e as cópias do mesmo treino ficam de fora, como no Samsung Health. Importar de novo completa o que veio errado antes e nunca duplica."
+      ],
+      "en": [
+        "Samsung Health import rebuilt and checked against a real export: every workout comes in (before it stopped halfway), with distance, time and calories matching Samsung Health, the route on the map and the heart rate.",
+        "Everything Samsung Health keeps for each workout comes along: max and min HR, cadence, ascent and descent, VO2 max, sweat, power, reps (pull-ups, push-ups), strokes and the weather during the workout.",
+        "Auto-detected workouts show as \"(auto)\" and copies of the same workout are left out, as in Samsung Health. Importing again fixes what came in wrong before and never duplicates."
+      ],
+      "es": [
+        "Importación de Samsung Health rehecha y verificada con una exportación real: entran todos los entrenos (antes se detenía a la mitad), con la distancia, el tiempo y las calorías iguales a los de Samsung Health, el recorrido en el mapa y el pulso.",
+        "Viene todo lo que Samsung Health guarda de cada entreno: FC máxima y mínima, cadencia, subida y bajada, VO2 máx., sudor, potencia, repeticiones (dominadas, flexiones), brazadas y el clima del entreno.",
+        "Los entrenos detectados solos aparecen como \"(autom.)\" y las copias del mismo entreno quedan fuera, como en Samsung Health. Importar de nuevo completa lo que vino mal antes y nunca duplica."
+      ]
+    },
     {
       "versao": "0.101.4",
       "data": "07/11/2026",
@@ -194,19 +215,6 @@
         "Health Connect completo: sueño con fases, peso, presión, glucosa, alimentación, ciclo y más, sincronizados solos.",
         "Los entrenos de otras apps entran solos en Mis entrenos.",
         "Mis entrenos con el mismo panel del widget: cuentarrevoluciones y semana en barras."
-      ]
-    },
-    {
-      "versao": "0.97.2",
-      "data": "06/11/2026",
-      "itens": [
-        "Guia do acesso às notificações mais claro, e o X da janela no lugar certo."
-      ],
-      "en": [
-        "Clearer notification access guide, and the window X in the right place."
-      ],
-      "es": [
-        "Guía del acceso a las notificaciones más clara, y la X de la ventana en su lugar."
       ]
     }
   ]
