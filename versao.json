@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.106.2",
-  "codigo": 305,
+  "versao": "0.106.3",
+  "codigo": 306,
   "data": "07/11/2026",
-  "tamanho": 108827716,
-  "sha256": "d7014378a204330e7ed8b2a5b7223da67f24811883b704bf11ca901951fd1e23",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.2/Vrumbi-0.106.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.2/Vrumbi-relogio-0.106.2.apk",
+  "tamanho": 108828060,
+  "sha256": "edfae5a3b3bf57fbf142d5517b23bbdb0bfa4e1aff58733728cfe218f1f979fa",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.3/Vrumbi-0.106.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.106.3/Vrumbi-relogio-0.106.3.apk",
   "notas": [
-    "Relógio: tela inicial nova, com os exercícios favoritos em bolinhas que deslizam para o lado e, embaixo, cartões com o seu dia (pontuações, passos, distância e calorias, batimentos, sono, água, acompanhamento), com a barra de rolagem curva na borda.",
-    "Nada começa sozinho: tocar num exercício abre o preparo, com o batimento e o GPS já sendo captados (\"Procurando o GPS…\" / \"GPS pronto\"), e o treino só começa no ▶. Os blocos também abrem o preparo.",
-    "O botão Voltar do relógio volta uma tela dentro do app (no preparo, cancela)."
+    "Relógio: cada bloco do Vrumbi aparece na lista de adicionar com a prévia do que mostra (o anel dos passos, os batimentos, a lua do sono, a gota da água, as pontuações, os exercícios) e com um nome que diz a função: Iniciar treino, Passos de hoje, Batimentos, Sono, Água e Pontuações Vrumbi."
   ],
   "versoes": [
+    {
+      "versao": "0.106.3",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio: cada bloco do Vrumbi aparece na lista de adicionar com a prévia do que mostra (o anel dos passos, os batimentos, a lua do sono, a gota da água, as pontuações, os exercícios) e com um nome que diz a função: Iniciar treino, Passos de hoje, Batimentos, Sono, Água e Pontuações Vrumbi."
+      ],
+      "en": [
+        "Watch: each Vrumbi tile shows in the add list with a preview of what it displays (the steps ring, heart rate, the sleep moon, the water drop, the scores, the workouts) and a name that says what it does: Start workout, Today's steps, Heart rate, Sleep, Water and Vrumbi scores."
+      ],
+      "es": [
+        "Reloj: cada bloque de Vrumbi aparece en la lista para agregar con la vista previa de lo que muestra (el anillo de pasos, el pulso, la luna del sueño, la gota del agua, las puntuaciones, los ejercicios) y con un nombre que dice su función: Iniciar entreno, Pasos de hoy, Pulso, Sueño, Agua y Puntuaciones Vrumbi."
+      ]
+    },
     {
       "versao": "0.106.2",
       "data": "07/11/2026",
@@ -208,25 +219,6 @@
       ],
       "es": [
         "Mapa claro más liviano: las carreteras vistas de lejos tienen tonos suaves, sin el borde oscuro. Con una ruta en pantalla se atenúan aún más y el azul de la ruta queda en evidencia. En oscuro y satélite, nada cambia."
-      ]
-    },
-    {
-      "versao": "0.101.1",
-      "data": "07/11/2026",
-      "itens": [
-        "Rotas mais certas: a melhor (ex.: Mogi-Dutra + Ayrton Senna direto até a Marginal) vem primeiro. Com \"Evitar favelas\" ligado, rodovia, marginal, viaduto e ponte que passam ao lado de uma comunidade não contam mais como entrar nela.",
-        "Menos opções sem sentido: caminhos quase iguais viram um só, e as voltas muito mais demoradas saem da lista. No empate, vem a rota com menos manobras.",
-        "Pedágios free flow entram na conta da rota (ex.: pórticos da Mogi-Dutra), com a base de pedágios atualizada."
-      ],
-      "en": [
-        "Better routes: the best one (e.g. Mogi-Dutra + Ayrton Senna straight to the Marginal) comes first. With \"Avoid favelas\" on, highways, expressways, overpasses and bridges passing next to a community no longer count as entering it.",
-        "Fewer pointless options: nearly identical paths become one, and much slower detours leave the list. On a tie, the route with fewer turns comes first.",
-        "Free-flow tolls now count in the route (e.g. the Mogi-Dutra gantries), with an updated toll database."
-      ],
-      "es": [
-        "Rutas más acertadas: la mejor (p. ej. Mogi-Dutra + Ayrton Senna directo a la Marginal) aparece primero. Con \"Evitar favelas\" activado, autopistas, vías rápidas, viaductos y puentes que pasan junto a una comunidad ya no cuentan como entrar en ella.",
-        "Menos opciones sin sentido: caminos casi iguales se unen en uno, y los desvíos mucho más lentos salen de la lista. En empate, va primero la ruta con menos maniobras.",
-        "Los peajes free flow entran en la cuenta de la ruta (p. ej. los pórticos de la Mogi-Dutra), con la base de peajes actualizada."
       ]
     }
   ]
