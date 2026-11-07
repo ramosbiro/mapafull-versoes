@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.98.0",
-  "codigo": 287,
+  "versao": "0.98.1",
+  "codigo": 288,
   "data": "06/11/2026",
-  "tamanho": 108658084,
-  "sha256": "2593d1d0ffb5d32c9f6784c40d982694708ea40f999ee2c2d85d4b1ec72a0e28",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.0/Vrumbi-0.98.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.0/Vrumbi-relogio-0.98.0.apk",
+  "tamanho": 108664716,
+  "sha256": "0c738ee11a02afeb448a019a354f69092d7ee71a097bb8e8bbf4f597172fd8cf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.1/Vrumbi-0.98.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.98.1/Vrumbi-relogio-0.98.1.apk",
   "notas": [
-    "O que veio do Samsung Health agora soma: passos, minutos e calorias entram nas metas, no histórico e nos widgets.",
-    "Conexão Saúde completa: sono com as fases, peso, pressão, glicose, alimentação, ciclo e mais, sincronizados sozinhos.",
-    "Treinos dos outros apps entram sozinhos em Meus treinos.",
-    "Meus treinos com o mesmo painel do widget: conta-giros e semana em barras."
+    "Parado, o mapa fica imantado: não balança mais com a bússola nem com a tremida do GPS, e gasta menos bateria. Solta quando você anda de verdade.",
+    "Widgets de treino editáveis: números de hoje, semana, mês, ano ou total, gráfico por semana, 14 dias, meses ou anos, e estilo LED, barras, linha ou área."
   ],
   "versoes": [
+    {
+      "versao": "0.98.1",
+      "data": "06/11/2026",
+      "itens": [
+        "Parado, o mapa fica imantado: não balança mais com a bússola nem com a tremida do GPS, e gasta menos bateria. Solta quando você anda de verdade.",
+        "Widgets de treino editáveis: números de hoje, semana, mês, ano ou total, gráfico por semana, 14 dias, meses ou anos, e estilo LED, barras, linha ou área."
+      ],
+      "en": [
+        "When stopped, the map stays locked: no more swaying from the compass or GPS jitter, and it uses less battery. It lets go when you really move.",
+        "Editable workout widgets: numbers for today, week, month, year or total, chart by week, 14 days, months or years, and LED, bars, line or area style."
+      ],
+      "es": [
+        "Parado, el mapa queda fijo: ya no se balancea con la brújula ni con el temblor del GPS, y gasta menos batería. Se suelta cuando te mueves de verdad.",
+        "Widgets de entreno editables: números de hoy, semana, mes, año o total, gráfico por semana, 14 días, meses o años, y estilo LED, barras, línea o área."
+      ]
+    },
     {
       "versao": "0.98.0",
       "data": "06/11/2026",
@@ -209,25 +223,6 @@
         "Cambiar el destino en el camino es más rápido: la primera ruta aparece sin esperar a las demás.",
         "Tarjeta de la ruta más grande, con la vía en la que realmente está y la llegada, el tiempo y la distancia bien a la vista.",
         "El tramo ya recorrido queda bien apagado, y la flecha 3D recibe luz por detrás, de forma pareja."
-      ]
-    },
-    {
-      "versao": "0.94.3",
-      "data": "06/11/2026",
-      "itens": [
-        "Rota bem mais leve: o mapa faz muito menos trabalho a cada quadro, e o celular esquenta e trava menos.",
-        "Na rota, o cartão de baixo volta a mostrar onde você está, e o destino fica na linha de baixo.",
-        "Atualização bem menor: o download caiu de 264 MB para cerca de 100 MB."
-      ],
-      "en": [
-        "Much lighter navigation: the map does far less work on each frame, so the phone heats up and freezes less.",
-        "During a route, the bottom card shows where you are again, and the destination sits on the line below.",
-        "Much smaller update: the download went from 264 MB to about 100 MB."
-      ],
-      "es": [
-        "Ruta mucho más ligera: el mapa hace mucho menos trabajo en cada cuadro, y el celular se calienta y se traba menos.",
-        "En la ruta, la tarjeta de abajo vuelve a mostrar dónde está, y el destino queda en la línea de abajo.",
-        "Actualización mucho menor: la descarga bajó de 264 MB a cerca de 100 MB."
       ]
     }
   ]
