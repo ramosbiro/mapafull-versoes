@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.109.0",
-  "codigo": 310,
+  "versao": "0.110.0",
+  "codigo": 311,
   "data": "07/11/2026",
-  "tamanho": 108875144,
-  "sha256": "b8500a4d9d06d18a8156dab8d2ea6a83e41af6930a2c83f9acd16281dda24cff",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.109.0/Vrumbi-0.109.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.109.0/Vrumbi-relogio-0.109.0.apk",
+  "tamanho": 108876828,
+  "sha256": "1fc8d4463e8b6e534ef4d413d5ac9e2cc95964427865d4059649a57d3b8ffe18",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.0/Vrumbi-0.110.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.0/Vrumbi-relogio-0.110.0.apk",
   "notas": [
-    "Widgets de treino (Treino do dia, Passos, Treinos da semana) com a personalização dos gráficos do app: o tipo do gráfico (LEDs, barras, translúcidas, degradê, pílulas, pirulito, linha, área), a opacidade, a cor de cada medida (a paleta do app ou qualquer cor) e o que aparece.",
-    "Treino do dia: escolha até 3 medidas e a ordem (passos, minutos ativos, calorias, treinos); o anel em risquinhos, anel ou translúcido (ou sem anel); ligue ou desligue os números, o gráfico, os dias embaixo e a marca da meta batida.",
-    "A prévia no alto da configuração agora muda na hora com cada ajuste: período dos números (hoje, semana, mês, ano, total, com a meta do período), a faixa do gráfico (semana, 14 dias, meses, anos), o tipo, as cores e as partes — igual ao widget na tela."
+    "Relógio na rota: ao começar uma rota no celular, o relógio mostra a seta da manobra, a distância diminuindo, a instrução, a rua, as faixas, a manobra seguinte, a chegada e o tempo que falta, a sua velocidade com a placa do limite da via e o progresso da viagem no aro da tela.",
+    "Relógio no modo livre (sem rota, dirigindo): a velocidade, a placa do limite, a rua e o que vem pela frente — radar, free flow e alertas da comunidade —, com aviso no pulso. Excesso de velocidade nunca vibra.",
+    "Vibração própria de cada coisa: manobra à esquerda 2 toques, à direita 3, retorno, chegada, radar, free flow e alerta da comunidade, cada um diferente. No relógio: Voz/Mudo, Repetir, Clima e Encerrar rota.",
+    "Blocos novos \"Rota e direção\" (cheio e meio bloco) e o cartão da rota no alto da tela inicial do relógio. Em Configurações > Rota e direção: ligar ou desligar cada aviso, as vibrações das manobras e abrir a rota sozinho; e testar as vibrações."
   ],
   "versoes": [
+    {
+      "versao": "0.110.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Relógio na rota: ao começar uma rota no celular, o relógio mostra a seta da manobra, a distância diminuindo, a instrução, a rua, as faixas, a manobra seguinte, a chegada e o tempo que falta, a sua velocidade com a placa do limite da via e o progresso da viagem no aro da tela.",
+        "Relógio no modo livre (sem rota, dirigindo): a velocidade, a placa do limite, a rua e o que vem pela frente — radar, free flow e alertas da comunidade —, com aviso no pulso. Excesso de velocidade nunca vibra.",
+        "Vibração própria de cada coisa: manobra à esquerda 2 toques, à direita 3, retorno, chegada, radar, free flow e alerta da comunidade, cada um diferente. No relógio: Voz/Mudo, Repetir, Clima e Encerrar rota.",
+        "Blocos novos \"Rota e direção\" (cheio e meio bloco) e o cartão da rota no alto da tela inicial do relógio. Em Configurações > Rota e direção: ligar ou desligar cada aviso, as vibrações das manobras e abrir a rota sozinho; e testar as vibrações."
+      ],
+      "en": [
+        "Watch on a route: when you start a route on the phone, the watch shows the turn arrow, the shrinking distance, the instruction, the street, the lanes, the next turn, arrival and time left, your speed with the road's speed limit sign, and trip progress around the screen edge.",
+        "Watch in free mode (driving without a route): speed, the limit sign, the street and what's ahead — speed cameras, barrier-free tolls and community alerts — with a wrist alert. Speeding never vibrates.",
+        "Each thing has its own vibration: left turn 2 taps, right 3, U-turn, arrival, speed camera, toll and community alert, all different. On the watch: Voice/Mute, Repeat, Weather and End route.",
+        "New \"Route and driving\" tiles (full and half) and the route card at the top of the watch home screen. In Settings > Route and driving: turn each alert on or off, the turn vibrations and opening the route automatically; and test the vibrations."
+      ],
+      "es": [
+        "Reloj en la ruta: al empezar una ruta en el móvil, el reloj muestra la flecha de la maniobra, la distancia bajando, la instrucción, la calle, los carriles, la maniobra siguiente, la llegada y el tiempo restante, tu velocidad con la placa del límite de la vía y el progreso del viaje en el borde de la pantalla.",
+        "Reloj en modo libre (conduciendo sin ruta): la velocidad, la placa del límite, la calle y lo que viene — radares, peajes sin barrera y alertas de la comunidad —, con aviso en la muñeca. El exceso de velocidad nunca vibra.",
+        "Cada cosa con su vibración: maniobra a la izquierda 2 toques, a la derecha 3, retorno, llegada, radar, peaje y alerta de la comunidad, todas distintas. En el reloj: Voz/Mudo, Repetir, Clima y Terminar ruta.",
+        "Bloques nuevos \"Ruta y conducción\" (completo y medio) y la tarjeta de la ruta arriba en la pantalla inicial del reloj. En Ajustes > Ruta y conducción: activar o desactivar cada aviso, las vibraciones de las maniobras y abrir la ruta solo; y probar las vibraciones."
+      ]
+    },
     {
       "versao": "0.109.0",
       "data": "07/11/2026",
@@ -226,25 +249,6 @@
         "Salud sin depender de la exportación: el seguimiento funciona también con la app cerrada, cada hora, leyendo Health Connect, y avisa en el celular cuando una medida de hoy sale del rango.",
         "Nueva sección \"De dónde viene cada medida\": lo que llega solo por Health Connect (y de qué app), lo que Vrumbi calcula, lo que anotas y lo que solo viene por la exportación de Samsung Health. Cada medida muestra su origen y el último registro.",
         "FC en reposo calculada por Vrumbi a partir del pulso (funciona con cualquier reloj) y la temperatura de la piel, cuando el dispositivo la tenga."
-      ]
-    },
-    {
-      "versao": "0.102.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Saúde completa: tudo o que o Samsung Health exporta aparece no Vrumbi com nome e unidade certos: sono por noite (pontuação, eficiência, fases, recuperação mental e física, ciclos, cochilos), FC em repouso, variabilidade cardíaca (HRV), pontuação de energia, índice AGEs, composição corporal, pressão, ECG e nutrição.",
-        "Acompanhamento: cada medida é comparada com a referência e com a sua própria média dos 30 dias (FC em repouso subindo, HRV caindo, oxigênio baixo, pressão alta, sono curto...). As medidas recentes que saem da faixa avisam no celular.",
-        "Toque em qualquer medida para ver a situação, a referência, as médias de 7 e 30 dias, o gráfico por dia, mês ou ano e os registros dia a dia; dá para escolher o que acompanhar."
-      ],
-      "en": [
-        "Complete health: everything Samsung Health exports shows in Vrumbi with the right names and units: sleep per night (score, efficiency, stages, mental and physical recovery, cycles, naps), resting HR, heart rate variability (HRV), energy score, AGEs index, body composition, blood pressure, ECG and nutrition.",
-        "Monitoring: each measure is compared with the reference and with your own 30-day average (resting HR rising, HRV dropping, low oxygen, high blood pressure, short sleep...). Recent measures that go out of range send a phone alert.",
-        "Tap any measure to see its status, the reference, the 7- and 30-day averages, the chart by day, month or year and the daily records; you choose what to monitor."
-      ],
-      "es": [
-        "Salud completa: todo lo que exporta Samsung Health aparece en Vrumbi con el nombre y la unidad correctos: sueño por noche (puntuación, eficiencia, fases, recuperación mental y física, ciclos, siestas), FC en reposo, variabilidad cardíaca (HRV), puntuación de energía, índice AGEs, composición corporal, presión, ECG y nutrición.",
-        "Seguimiento: cada medida se compara con la referencia y con tu propio promedio de 30 días (FC en reposo subiendo, HRV bajando, oxígeno bajo, presión alta, sueño corto...). Las medidas recientes que salen del rango avisan en el celular.",
-        "Toca cualquier medida para ver la situación, la referencia, los promedios de 7 y 30 días, el gráfico por día, mes o año y los registros diarios; tú eliges qué seguir."
       ]
     }
   ]
