@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.113.3",
-  "codigo": 320,
+  "versao": "0.113.4",
+  "codigo": 321,
   "data": "08/11/2026",
-  "tamanho": 108979003,
-  "sha256": "ede29416fdf04d43d57e43ac7d1336da06fb8ef3d107ecdb861c1fc757249aaa",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.3/Vrumbi-0.113.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.3/Vrumbi-relogio-0.113.3.apk",
+  "tamanho": 108979223,
+  "sha256": "a6989c7ed71f25e2a6c090b420135a4561acaae056af752272491c94602bf286",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.4/Vrumbi-0.113.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.4/Vrumbi-relogio-0.113.4.apk",
   "notas": [
-    "Setas ‹ › do gráfico da semana maiores e com traço forte (laranja no widget), bem visíveis em qualquer fundo, e com a área de toque maior (40% de cada lado; só o meio abre o app).",
-    "Widget Treino do dia (grande): anel e números num bloco no centro, com números, ícones e espaçamento maiores.",
-    "Widgets de treino: escolha o período que cada um mostra (esta semana, semana passada, 2 ou 3 semanas atrás; ou os últimos 14 dias e antes). Ponha um widget de cada período e junte-os numa pilha da tela inicial: deslizando para o lado você passa de uma semana para outra."
+    "Relógio: três grades novas nas Telas do treino -- 6 números (2 × 3), 7 (um grande e comprido em cima e 3 de cada lado embaixo) e 8 (2 × 4). As grades agora ficam em duas fileiras no editor."
   ],
   "versoes": [
+    {
+      "versao": "0.113.4",
+      "data": "08/11/2026",
+      "itens": [
+        "Relógio: três grades novas nas Telas do treino -- 6 números (2 × 3), 7 (um grande e comprido em cima e 3 de cada lado embaixo) e 8 (2 × 4). As grades agora ficam em duas fileiras no editor."
+      ],
+      "en": [
+        "Watch: three new grids for workout Screens -- 6 numbers (2 × 3), 7 (one large, wide on top and 3 on each side below) and 8 (2 × 4). The grids now sit in two rows in the editor."
+      ],
+      "es": [
+        "Reloj: tres cuadrículas nuevas en las Pantallas del entreno -- 6 números (2 × 3), 7 (uno grande y ancho arriba y 3 a cada lado abajo) y 8 (2 × 4). Las cuadrículas ahora van en dos filas en el editor."
+      ]
+    },
     {
       "versao": "0.113.3",
       "data": "08/11/2026",
@@ -226,28 +237,6 @@
         "Widgets de entreno (Entreno del día, Pasos, Entrenos de la semana) con la personalización de los gráficos de la app: el tipo de gráfico (LEDs, barras, translúcidas, degradado, píldoras, piruleta, línea, área), la opacidad, el color de cada medida (la paleta de la app o cualquier color) y lo que aparece.",
         "Entreno del día: elige hasta 3 medidas y su orden (pasos, minutos activos, calorías, entrenos); el anillo en rayitas, anillo o translúcido (o sin anillo); activa o desactiva los números, el gráfico, los días abajo y la marca de meta cumplida.",
         "La vista previa arriba de la configuración ahora cambia al instante con cada ajuste: el periodo de los números (hoy, semana, mes, año, total, con la meta del periodo), el rango del gráfico (semana, 14 días, meses, años), el tipo, los colores y las partes — igual que el widget en la pantalla."
-      ]
-    },
-    {
-      "versao": "0.108.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Ciclo menstrual (Saúde > Ciclo menstrual): anote a menstruação em qualquer dia do calendário (fluxo leve, médio ou intenso), os sintomas (cólica, dor de cabeça, inchaço, humor e outros) e uma nota; \"Começou hoje\" e \"Terminou hoje\" num toque.",
-        "Previsão da próxima menstruação, do dia provável da ovulação e do período fértil, que aprende o seu ritmo com os últimos ciclos; calendário do mês com o anotado, o previsto e o período fértil; histórico e variação do ciclo.",
-        "Avisos opcionais 2 dias antes da menstruação e no começo do período fértil. Também usa a menstruação de outros apps pela Saúde do Android. Os dados ficam só no aparelho (e no backup do Vrumbi).",
-        "Relógio: cartão e bloco \"Ciclo menstrual\" (dia do ciclo, fase, próxima menstruação) e anotar o fluxo de hoje pelo pulso."
-      ],
-      "en": [
-        "Menstrual cycle (Health > Menstrual cycle): log your period on any calendar day (light, medium or heavy flow), symptoms (cramps, headache, bloating, mood and more) and a note; \"Started today\" and \"Ended today\" in one tap.",
-        "Forecast of the next period, the likely ovulation day and the fertile window, learning your rhythm from recent cycles; monthly calendar with logged, expected and fertile days; history and cycle variation.",
-        "Optional reminders 2 days before your period and when the fertile window starts. It also uses period data from other apps through Health Connect. The data stays on the device only (and in the Vrumbi backup).",
-        "Watch: \"Menstrual cycle\" card and tile (cycle day, phase, next period) and logging today's flow from the wrist."
-      ],
-      "es": [
-        "Ciclo menstrual (Salud > Ciclo menstrual): anota la menstruación en cualquier día del calendario (flujo leve, medio o abundante), los síntomas (cólico, dolor de cabeza, hinchazón, humor y otros) y una nota; \"Empezó hoy\" y \"Terminó hoy\" con un toque.",
-        "Pronóstico de la próxima menstruación, del día probable de la ovulación y del periodo fértil, que aprende tu ritmo con los últimos ciclos; calendario del mes con lo anotado, lo previsto y el periodo fértil; historial y variación del ciclo.",
-        "Avisos opcionales 2 días antes de la menstruación y al empezar el periodo fértil. También usa la menstruación de otras apps por Health Connect. Los datos quedan solo en el aparato (y en la copia de Vrumbi).",
-        "Reloj: tarjeta y bloque \"Ciclo menstrual\" (día del ciclo, fase, próxima menstruación) y anotar el flujo de hoy desde la muñeca."
       ]
     }
   ]
