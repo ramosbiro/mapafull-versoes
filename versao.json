@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.113.4",
-  "codigo": 321,
+  "versao": "0.114.0",
+  "codigo": 322,
   "data": "08/11/2026",
-  "tamanho": 108979223,
-  "sha256": "a6989c7ed71f25e2a6c090b420135a4561acaae056af752272491c94602bf286",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.4/Vrumbi-0.113.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.4/Vrumbi-relogio-0.113.4.apk",
+  "tamanho": 108987603,
+  "sha256": "beda1ce11259464f2f5c736dd95d2dc7f691c253c207bee8815506f5447c167d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.114.0/Vrumbi-0.114.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.114.0/Vrumbi-relogio-0.114.0.apk",
   "notas": [
-    "Relógio: três grades novas nas Telas do treino -- 6 números (2 × 3), 7 (um grande e comprido em cima e 3 de cada lado embaixo) e 8 (2 × 4). As grades agora ficam em duas fileiras no editor."
+    "Busca: locais próximos. Embaixo dos atalhos há uma fileira de categorias (posto, estacionamento, restaurante, mercado, farmácia, eletroposto, hotel, caixa eletrônico...) e \"Todos\" abre a lista completa por grupo: veículo, comida e bebida, compras, hospedagem, transporte, dinheiro e serviços, saúde, lazer e educação. Um toque mostra os mais perto de você, com seus favoritos primeiro, distância, estrelas, Ir e Salvar.",
+    "Busca por voz: o microfone agora fica dentro da barra de endereço. Toque, fale o endereço ou o lugar e a busca já roda com o que você disse."
   ],
   "versoes": [
+    {
+      "versao": "0.114.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Busca: locais próximos. Embaixo dos atalhos há uma fileira de categorias (posto, estacionamento, restaurante, mercado, farmácia, eletroposto, hotel, caixa eletrônico...) e \"Todos\" abre a lista completa por grupo: veículo, comida e bebida, compras, hospedagem, transporte, dinheiro e serviços, saúde, lazer e educação. Um toque mostra os mais perto de você, com seus favoritos primeiro, distância, estrelas, Ir e Salvar.",
+        "Busca por voz: o microfone agora fica dentro da barra de endereço. Toque, fale o endereço ou o lugar e a busca já roda com o que você disse."
+      ],
+      "en": [
+        "Search: nearby places. Below the shortcuts there is a row of categories (fuel, parking, restaurant, market, pharmacy, EV charging, hotel, ATM...) and \"All\" opens the full list by group: vehicle, food and drink, shopping, lodging, transport, money and services, health, leisure and education. One tap shows the closest ones, with your favorites first, distance, stars, Go and Save.",
+        "Voice search: the microphone now sits inside the address bar. Tap, say the address or place and the search runs with what you said."
+      ],
+      "es": [
+        "Búsqueda: lugares cercanos. Debajo de los atajos hay una fila de categorías (gasolinera, estacionamiento, restaurante, mercado, farmacia, carga eléctrica, hotel, cajero...) y \"Todos\" abre la lista completa por grupo: vehículo, comida y bebida, compras, alojamiento, transporte, dinero y servicios, salud, ocio y educación. Un toque muestra los más cercanos, con tus favoritos primero, distancia, estrellas, Ir y Guardar.",
+        "Búsqueda por voz: el micrófono ahora está dentro de la barra de dirección. Toca, di la dirección o el lugar y la búsqueda corre con lo que dijiste."
+      ]
+    },
     {
       "versao": "0.113.4",
       "data": "08/11/2026",
@@ -218,25 +235,6 @@
         "Reloj en modo libre (conduciendo sin ruta): la velocidad, la placa del límite, la calle y lo que viene — radares, peajes sin barrera y alertas de la comunidad —, con aviso en la muñeca. El exceso de velocidad nunca vibra.",
         "Cada cosa con su vibración: maniobra a la izquierda 2 toques, a la derecha 3, retorno, llegada, radar, peaje y alerta de la comunidad, todas distintas. En el reloj: Voz/Mudo, Repetir, Clima y Terminar ruta.",
         "Bloques nuevos \"Ruta y conducción\" (completo y medio) y la tarjeta de la ruta arriba en la pantalla inicial del reloj. En Ajustes > Ruta y conducción: activar o desactivar cada aviso, las vibraciones de las maniobras y abrir la ruta solo; y probar las vibraciones."
-      ]
-    },
-    {
-      "versao": "0.109.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Widgets de treino (Treino do dia, Passos, Treinos da semana) com a personalização dos gráficos do app: o tipo do gráfico (LEDs, barras, translúcidas, degradê, pílulas, pirulito, linha, área), a opacidade, a cor de cada medida (a paleta do app ou qualquer cor) e o que aparece.",
-        "Treino do dia: escolha até 3 medidas e a ordem (passos, minutos ativos, calorias, treinos); o anel em risquinhos, anel ou translúcido (ou sem anel); ligue ou desligue os números, o gráfico, os dias embaixo e a marca da meta batida.",
-        "A prévia no alto da configuração agora muda na hora com cada ajuste: período dos números (hoje, semana, mês, ano, total, com a meta do período), a faixa do gráfico (semana, 14 dias, meses, anos), o tipo, as cores e as partes — igual ao widget na tela."
-      ],
-      "en": [
-        "Workout widgets (Today's workout, Steps, Workouts this week) with the app's chart customization: chart type (LEDs, bars, translucent, gradient, pills, lollipop, line, area), opacity, each measure's color (the app palette or any color) and what is shown.",
-        "Today's workout: pick up to 3 measures and their order (steps, active minutes, calories, workouts); the ring as ticks, ring or translucent (or no ring); turn the numbers, chart, days below and the goal-reached mark on or off.",
-        "The preview at the top of the settings now changes instantly with each adjustment: the numbers' period (today, week, month, year, total, with the period goal), the chart range (week, 14 days, months, years), type, colors and parts — just like the widget on the screen."
-      ],
-      "es": [
-        "Widgets de entreno (Entreno del día, Pasos, Entrenos de la semana) con la personalización de los gráficos de la app: el tipo de gráfico (LEDs, barras, translúcidas, degradado, píldoras, piruleta, línea, área), la opacidad, el color de cada medida (la paleta de la app o cualquier color) y lo que aparece.",
-        "Entreno del día: elige hasta 3 medidas y su orden (pasos, minutos activos, calorías, entrenos); el anillo en rayitas, anillo o translúcido (o sin anillo); activa o desactiva los números, el gráfico, los días abajo y la marca de meta cumplida.",
-        "La vista previa arriba de la configuración ahora cambia al instante con cada ajuste: el periodo de los números (hoy, semana, mes, año, total, con la meta del periodo), el rango del gráfico (semana, 14 días, meses, años), el tipo, los colores y las partes — igual que el widget en la pantalla."
       ]
     }
   ]
