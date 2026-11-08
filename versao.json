@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.113.2",
-  "codigo": 319,
+  "versao": "0.113.3",
+  "codigo": 320,
   "data": "08/11/2026",
-  "tamanho": 108973459,
-  "sha256": "951c8732a6f4dda1b2051ed8f967634d19a33378e2e1982d9310882e8f689448",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.2/Vrumbi-0.113.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.2/Vrumbi-relogio-0.113.2.apk",
+  "tamanho": 108979003,
+  "sha256": "ede29416fdf04d43d57e43ac7d1336da06fb8ef3d107ecdb861c1fc757249aaa",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.3/Vrumbi-0.113.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.3/Vrumbi-relogio-0.113.3.apk",
   "notas": [
-    "Relógio: as Telas do treino ficaram visuais. A lista mostra cada tela como ela aparece no treino; tocando numa, ela abre grande com números de exemplo -- toque num espaço para trocar o número (cada um com ícone e exemplo) e escolha a grade pelos desenhos embaixo, que a tela se molda na hora."
+    "Setas ‹ › do gráfico da semana maiores e com traço forte (laranja no widget), bem visíveis em qualquer fundo, e com a área de toque maior (40% de cada lado; só o meio abre o app).",
+    "Widget Treino do dia (grande): anel e números num bloco no centro, com números, ícones e espaçamento maiores.",
+    "Widgets de treino: escolha o período que cada um mostra (esta semana, semana passada, 2 ou 3 semanas atrás; ou os últimos 14 dias e antes). Ponha um widget de cada período e junte-os numa pilha da tela inicial: deslizando para o lado você passa de uma semana para outra."
   ],
   "versoes": [
+    {
+      "versao": "0.113.3",
+      "data": "08/11/2026",
+      "itens": [
+        "Setas ‹ › do gráfico da semana maiores e com traço forte (laranja no widget), bem visíveis em qualquer fundo, e com a área de toque maior (40% de cada lado; só o meio abre o app).",
+        "Widget Treino do dia (grande): anel e números num bloco no centro, com números, ícones e espaçamento maiores.",
+        "Widgets de treino: escolha o período que cada um mostra (esta semana, semana passada, 2 ou 3 semanas atrás; ou os últimos 14 dias e antes). Ponha um widget de cada período e junte-os numa pilha da tela inicial: deslizando para o lado você passa de uma semana para outra."
+      ],
+      "en": [
+        "Larger, bolder ‹ › arrows on the week chart (orange on the widget), clearly visible on any background, with a larger touch area (40% on each side; only the middle opens the app).",
+        "Daily workout widget (large): ring and numbers in a centered block, with larger numbers, icons and spacing.",
+        "Workout widgets: choose the period each one shows (this week, last week, 2 or 3 weeks ago; or the last 14 days and earlier). Add one widget per period and group them in a home screen stack: swipe sideways to move from one week to another."
+      ],
+      "es": [
+        "Flechas ‹ › del gráfico de la semana más grandes y con trazo fuerte (naranja en el widget), bien visibles en cualquier fondo, y con un área de toque mayor (40% de cada lado; solo el centro abre la app).",
+        "Widget Entreno del día (grande): anillo y números en un bloque centrado, con números, íconos y espaciado mayores.",
+        "Widgets de entreno: elige el período que muestra cada uno (esta semana, la pasada, hace 2 o 3 semanas; o los últimos 14 días y antes). Pon un widget de cada período y júntalos en una pila de la pantalla de inicio: deslizando hacia el lado pasas de una semana a otra."
+      ]
+    },
     {
       "versao": "0.113.2",
       "data": "08/11/2026",
@@ -227,37 +248,6 @@
         "Pronóstico de la próxima menstruación, del día probable de la ovulación y del periodo fértil, que aprende tu ritmo con los últimos ciclos; calendario del mes con lo anotado, lo previsto y el periodo fértil; historial y variación del ciclo.",
         "Avisos opcionales 2 días antes de la menstruación y al empezar el periodo fértil. También usa la menstruación de otras apps por Health Connect. Los datos quedan solo en el aparato (y en la copia de Vrumbi).",
         "Reloj: tarjeta y bloque \"Ciclo menstrual\" (día del ciclo, fase, próxima menstruación) y anotar el flujo de hoy desde la muñeca."
-      ]
-    },
-    {
-      "versao": "0.107.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio refeito: voltar arrastando da borda esquerda para a direita em todas as telas (na tela inicial, o arrasto sai do app, como nos outros apps do relógio). Sem botões \"Voltar\" e \"Pronto\".",
-        "Relógio: ícones de uma cor só, os mesmos desenhos do app (exercícios, saúde, clima), e cores escolhidas por você em Configurações > Cores: a cor de destaque (a paleta do app ou \"igual ao celular\") e o fundo (preto, grafite, azul-noite, verde-noite, vinho, roxo-noite).",
-        "Relógio: tela inicial sem nada cortado na borda: o cartão Treinar com os exercícios favoritos em grade de 2 (2, 4 ou 6; o último abre todos) e, embaixo, os cartões do dia. Cada cartão abre a sua tela (o dia, os batimentos com o gráfico de cada hora, o sono, a água com +250/+500 e desfazer, as pontuações, a composição corporal).",
-        "Relógio: Configurações como a última opção: o que aparece na tela inicial e em que ordem, quantos exercícios no Treinar, os favoritos, as telas do treino, as cores e o dia inteiro.",
-        "Relógio: clima completo, a mesma previsão do app (também com o celular fechado): agora, sensação, as próximas 12 horas, os próximos dias, umidade, ponto de orvalho, vento, rajadas, pressão, UV, visibilidade, nuvens, nascer e pôr do sol.",
-        "Relógio: blocos novos: Treinar (exercícios em 2×2, um toque e o ▶), Atividade de hoje com anel, Previsão do tempo, Clima atual, Composição corporal, Estresse, Oxigênio no sangue, Pressão arterial, ECG e Alimentação (estes com os dados da Conexão Saúde ou da importação do Samsung Health). São 28 blocos, com a prévia de cada um tirada do bloco real.",
-        "Relógio: no treino, os toques em Pausar, Encerrar e no número principal voltaram a funcionar junto com o arrasto entre as telas."
-      ],
-      "en": [
-        "Watch redone: swipe from the left edge to the right to go back on every screen (on the home screen, the swipe leaves the app, like other watch apps). No more \"Back\" and \"Done\" buttons.",
-        "Watch: single-color icons, the same designs as the app (workouts, health, weather), and colors chosen by you in Settings > Colors: the accent color (the app palette or \"same as phone\") and the background (black, graphite, night blue, night green, wine, night purple).",
-        "Watch: home screen with nothing cut off at the edge: the Workout card with your favorite workouts in a grid of 2 (2, 4 or 6; the last one opens all) and, below, the cards of your day. Each card opens its own screen (the day, heart rate with an hourly chart, sleep, water with +250/+500 and undo, scores, body composition).",
-        "Watch: Settings as the last option: what shows on the home screen and in which order, how many workouts in the Workout card, favorites, workout screens, colors and all-day tracking.",
-        "Watch: full weather, the same forecast as the app (even with the phone app closed): now, feels like, the next 12 hours, the next days, humidity, dew point, wind, gusts, pressure, UV, visibility, clouds, sunrise and sunset.",
-        "Watch: new tiles: Workout (workouts in 2×2, one tap and ▶), Today's activity with a ring, Weather forecast, Current weather, Body composition, Stress, Blood oxygen, Blood pressure, ECG and Food (these with data from Health Connect or the Samsung Health import). 28 tiles in total, each preview taken from the real tile.",
-        "Watch: during a workout, tapping Pause, End and the main number works again together with swiping between screens."
-      ],
-      "es": [
-        "Reloj rehecho: desliza desde el borde izquierdo hacia la derecha para volver en todas las pantallas (en la pantalla inicial, el deslizamiento sale de la app, como en las otras apps del reloj). Sin botones \"Volver\" ni \"Listo\".",
-        "Reloj: íconos de un solo color, los mismos dibujos de la app (ejercicios, salud, clima), y colores elegidos por ti en Ajustes > Colores: el color de acento (la paleta de la app o \"igual al móvil\") y el fondo (negro, grafito, azul noche, verde noche, vino, morado noche).",
-        "Reloj: pantalla inicial sin nada cortado en el borde: la tarjeta Entrenar con los ejercicios favoritos en cuadrícula de 2 (2, 4 o 6; el último abre todos) y, abajo, las tarjetas del día. Cada tarjeta abre su pantalla (el día, el pulso con el gráfico de cada hora, el sueño, el agua con +250/+500 y deshacer, las puntuaciones, la composición corporal).",
-        "Reloj: Ajustes como la última opción: qué aparece en la pantalla inicial y en qué orden, cuántos ejercicios en Entrenar, los favoritos, las pantallas del entreno, los colores y el día entero.",
-        "Reloj: clima completo, el mismo pronóstico de la app (también con la app del móvil cerrada): ahora, sensación, las próximas 12 horas, los próximos días, humedad, punto de rocío, viento, ráfagas, presión, UV, visibilidad, nubes, amanecer y atardecer.",
-        "Reloj: bloques nuevos: Entrenar (ejercicios en 2×2, un toque y ▶), Actividad de hoy con anillo, Pronóstico del tiempo, Clima actual, Composición corporal, Estrés, Oxígeno en sangre, Presión arterial, ECG y Alimentación (estos con los datos de Health Connect o de la importación de Samsung Health). Son 28 bloques, con la vista previa de cada uno tomada del bloque real.",
-        "Reloj: en el entreno, los toques en Pausar, Terminar y en el número principal vuelven a funcionar junto con el deslizamiento entre pantallas."
       ]
     }
   ]
