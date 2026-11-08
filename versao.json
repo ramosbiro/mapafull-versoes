@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.0",
-  "codigo": 324,
+  "versao": "0.116.1",
+  "codigo": 325,
   "data": "08/11/2026",
-  "tamanho": 109776110,
-  "sha256": "84e469bdf6319a9410877de7e6026c83620bd53b88455daabea4d2f17eeab29b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.0/Vrumbi-0.116.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.0/Vrumbi-relogio-0.116.0.apk",
+  "tamanho": 109780601,
+  "sha256": "12ad8fcdd76df89c1059727e445a17dae111f2d5470d2578e6ad079b9962811d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.1/Vrumbi-0.116.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.1/Vrumbi-relogio-0.116.1.apk",
   "notas": [
-    "Emergência médica no Brasil inteiro: a lista do lugar tocado agora traz todos os hospitais, UPAs, prontos-socorros e prontos atendimentos até 60 km. Primeiro os grandes hospitais públicos (Santa Casa, hospital regional, HC), depois UPA e pronto-socorro, depois os outros hospitais públicos e, no fim, os que estão fechados agora. \"Ver mais\" abre a lista inteira. Cada um com endereço, telefone, rota e o horário: 24 h, aberto até tal hora ou fechado (abre tal hora). Fora do Brasil a lista vem do OpenStreetMap.",
-    "Módulo da polícia: sem informação repetida. No lugar tocado saem os cartões laranja e fica só a lista, na ordem CPA, Batalhão, Cia, Bombeiros e Polícia Civil (com a seccional), cada um com endereço, telefone e rota. O posto de bombeiros da área entrou na lista."
+    "Quem atende aqui: todas as linhas do mesmo tamanho, com o botão de telefone sempre no lugar. Os telefones que faltavam no cadastro oficial foram buscados no OpenStreetMap; se o local não tiver mesmo, o Vrumbi avisa ao tocar."
   ],
   "versoes": [
+    {
+      "versao": "0.116.1",
+      "data": "08/11/2026",
+      "itens": [
+        "Quem atende aqui: todas as linhas do mesmo tamanho, com o botão de telefone sempre no lugar. Os telefones que faltavam no cadastro oficial foram buscados no OpenStreetMap; se o local não tiver mesmo, o Vrumbi avisa ao tocar."
+      ],
+      "en": [
+        "Who serves here: every row the same size, with the phone button always in place. Numbers missing from the official records were looked up in OpenStreetMap; if the place really has none, Vrumbi tells you when you tap."
+      ],
+      "es": [
+        "Quién atiende aquí: todas las filas del mismo tamaño, con el botón del teléfono siempre en su lugar. Los teléfonos que faltaban en el registro oficial se buscaron en OpenStreetMap; si el lugar no tiene, Vrumbi avisa al tocar."
+      ]
+    },
     {
       "versao": "0.116.0",
       "data": "08/11/2026",
@@ -210,22 +222,6 @@
         "Tocar la rosa de los vientos abre GPS y brújula; el cambio 2D/3D quedó arriba en esa pantalla (y sigue el gesto de inclinar con dos dedos).",
         "Mantener presionada una tarjeta o botón ya no selecciona el texto ni abre el menú Copiar/Compartir.",
         "Configuración: Transporte público pasó al grupo Navegación. Clima y tiempo salió del grupo Mapa, porque ahora está en el propio mapa."
-      ]
-    },
-    {
-      "versao": "0.110.2",
-      "data": "08/11/2026",
-      "itens": [
-        "Widgets de treino: ande pelas semanas tocando nas bordas do gráfico — a esquerda volta e a direita avança, 1 dia ou 1 semana por toque (você escolhe). O meio continua abrindo o app.",
-        "Escolha onde o hoje fica no gráfico: a semana do calendário (D a S), no início, no meio (metade passado, metade futuro) ou no fim. A posição fica gravada, também depois de reiniciar o celular; \"Voltar para hoje\" na configuração do widget."
-      ],
-      "en": [
-        "Workout widgets: move through the weeks by tapping the chart edges — left goes back and right goes forward, 1 day or 1 week per tap (your choice). The middle still opens the app.",
-        "Choose where today sits on the chart: the calendar week (Sun to Sat), at the start, in the middle (half past, half future) or at the end. The position is saved, even after restarting the phone; \"Back to today\" in the widget settings."
-      ],
-      "es": [
-        "Widgets de entreno: recorre las semanas tocando los bordes del gráfico — el izquierdo retrocede y el derecho avanza, 1 día o 1 semana por toque (tú eliges). El centro sigue abriendo la app.",
-        "Elige dónde queda el hoy en el gráfico: la semana del calendario (D a S), al inicio, en el medio (mitad pasado, mitad futuro) o al final. La posición queda guardada, también al reiniciar el móvil; \"Volver a hoy\" en la configuración del widget."
       ]
     }
   ]
