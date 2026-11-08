@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.1",
-  "codigo": 325,
+  "versao": "0.116.2",
+  "codigo": 326,
   "data": "08/11/2026",
-  "tamanho": 109780601,
-  "sha256": "12ad8fcdd76df89c1059727e445a17dae111f2d5470d2578e6ad079b9962811d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.1/Vrumbi-0.116.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.1/Vrumbi-relogio-0.116.1.apk",
+  "tamanho": 109780901,
+  "sha256": "60bc5b60db42e6138b35d71beda664d6cc80765a907ec0c464d7f74aafa64fe6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.2/Vrumbi-0.116.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.2/Vrumbi-relogio-0.116.2.apk",
   "notas": [
-    "Quem atende aqui: todas as linhas do mesmo tamanho, com o botão de telefone sempre no lugar. Os telefones que faltavam no cadastro oficial foram buscados no OpenStreetMap; se o local não tiver mesmo, o Vrumbi avisa ao tocar."
+    "Cartão do endereço: agora ele estica e ocupa todo o espaço entre os botões da esquerda e os da direita, em pé e deitado, em qualquer tamanho de tela."
   ],
   "versoes": [
+    {
+      "versao": "0.116.2",
+      "data": "08/11/2026",
+      "itens": [
+        "Cartão do endereço: agora ele estica e ocupa todo o espaço entre os botões da esquerda e os da direita, em pé e deitado, em qualquer tamanho de tela."
+      ],
+      "en": [
+        "Address card: it now stretches across the whole space between the left and right buttons, in portrait and landscape, on any screen size."
+      ],
+      "es": [
+        "Tarjeta de la dirección: ahora se estira y ocupa todo el espacio entre los botones de la izquierda y los de la derecha, en vertical y horizontal, en cualquier tamaño de pantalla."
+      ]
+    },
     {
       "versao": "0.116.1",
       "data": "08/11/2026",
@@ -197,31 +210,6 @@
       ],
       "es": [
         "Rosa de los vientos: un toque vuelve a cambiar 2D/3D, como antes. Dos toques rápidos abren GPS y brújula (con el mismo cambio 2D/3D arriba). Mantener y arrastrar sigue cambiándola de lugar."
-      ]
-    },
-    {
-      "versao": "0.111.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Clima no mapa: o tempo de onde você está, com ícone e temperatura, no canto de cima à esquerda (em pé e deitado), do outro lado da rosa dos ventos. Ele acompanha você pelo caminho e, com um toque, abre o Clima e tempo.",
-        "Segure e arraste o clima ou a rosa dos ventos para mudar o lugar deles. A posição fica gravada, uma para o celular em pé e outra para deitado; em GPS e bússola dá para voltar ao lugar de fábrica.",
-        "Tocar na rosa dos ventos abre o GPS e bússola; a troca 2D/3D ficou no topo dessa tela (e continua o gesto de inclinar com dois dedos).",
-        "Segurar um cartão ou botão não seleciona mais o texto nem abre o menu Copiar/Compartilhar.",
-        "Configurações: Transporte público foi para o grupo Navegação. Clima e tempo saiu do grupo Mapa, porque agora fica no próprio mapa."
-      ],
-      "en": [
-        "Weather on the map: the weather where you are, with icon and temperature, in the top-left corner (portrait and landscape), opposite the compass rose. It follows you along the way and opens Weather with one tap.",
-        "Hold and drag the weather or the compass rose to move them. The position is saved, one for portrait and one for landscape; GPS and compass can put them back in the default place.",
-        "Tapping the compass rose opens GPS and compass; the 2D/3D switch is now at the top of that screen (the two-finger tilt gesture still works).",
-        "Holding a card or button no longer selects the text or opens the Copy/Share menu.",
-        "Settings: Public transport moved to the Navigation group. Weather left the Map group, since it is now on the map itself."
-      ],
-      "es": [
-        "Clima en el mapa: el tiempo donde estás, con ícono y temperatura, en la esquina superior izquierda (vertical y horizontal), frente a la rosa de los vientos. Te acompaña por el camino y, con un toque, abre Clima y tiempo.",
-        "Mantén y arrastra el clima o la rosa de los vientos para cambiarlos de lugar. La posición queda guardada, una para vertical y otra para horizontal; en GPS y brújula puedes volver a la posición original.",
-        "Tocar la rosa de los vientos abre GPS y brújula; el cambio 2D/3D quedó arriba en esa pantalla (y sigue el gesto de inclinar con dos dedos).",
-        "Mantener presionada una tarjeta o botón ya no selecciona el texto ni abre el menú Copiar/Compartir.",
-        "Configuración: Transporte público pasó al grupo Navegación. Clima y tiempo salió del grupo Mapa, porque ahora está en el propio mapa."
       ]
     }
   ]
