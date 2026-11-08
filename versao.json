@@ -1,20 +1,53 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.112.0",
-  "codigo": 316,
+  "versao": "0.113.0",
+  "codigo": 317,
   "data": "08/11/2026",
-  "tamanho": 108963151,
-  "sha256": "77620de4ff884858d448d404b2b45679f6fbc22e4fcb44ed75a25c26179f8db6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.112.0/Vrumbi-0.112.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.112.0/Vrumbi-relogio-0.112.0.apk",
+  "tamanho": 108970535,
+  "sha256": "b38bbb7705d3d1a3b77ed25d4bcad4583cac4edd83ab702ff8899d67b23dcb13",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.0/Vrumbi-0.113.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.0/Vrumbi-relogio-0.113.0.apk",
   "notas": [
-    "Clima: o sol (de dia) ou a lua (de noite) aparece atrás da nuvem quando o céu tem abertura de verdade, também na chuva, garoa, pancadas, neve e trovoada. Com o céu todo fechado fica só a nuvem, de dia e de noite (antes a lua aparecia no \"Nublado\" de noite e o sol nas pancadas mesmo com 100% de nuvens).",
-    "O ícone de cada dia segue as nuvens das horas de sol daquele dia.",
-    "Ícones Coloridos e Na cor do texto redesenhados com a mesma regra dos realistas: no colorido, cada parte tem a sua cor (sol, lua, nuvem, gotas, neve, granizo e raio).",
-    "Nuvem de chuva mais escura nos realistas; a nuvem branca fica para o tempo seco.",
-    "Widget de clima, relógio e o clima das viagens com os ícones novos."
+    "Widgets de treino com a marca: o carrinho e \"Vrumbi\" no alto, como no widget de clima (nos grandes, uma faixa; nos menores, no canto; nos bem baixinhos fica só o carrinho, para não cobrir os números).",
+    "Meus treinos: o Histórico ganhou um cartão próprio (Dias/Semanas/Meses, filtros, resumo, gráfico e a lista dos treinos), separado do que é planejamento e acompanhamento do dia.",
+    "A ordem dos filtros de esporte (Caminhada, Corrida na esteira...) agora é sua: toque em ⇅ ao lado deles. \"Todos\" fica sempre em primeiro.",
+    "Clima e tempo de volta nas Configurações (grupo Mapa), além do ícone do clima no mapa.",
+    "Painel do dia e prévia do widget: segure o gráfico da semana e puxe para o lado para andar dia a dia.",
+    "Mapa mais solto: o deslize vai mais longe e, deslizando várias vezes seguidas, cada deslize vai mais longe que o anterior (bom para atravessar a cidade).",
+    "Painel do dia: escolha onde fica o hoje na semana (D a S, no início, no meio ou no fim) em Personalizar gráfico, e toque nas bordas do gráfico para voltar ou avançar 1 dia ou 1 semana, como no widget."
   ],
   "versoes": [
+    {
+      "versao": "0.113.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Widgets de treino com a marca: o carrinho e \"Vrumbi\" no alto, como no widget de clima (nos grandes, uma faixa; nos menores, no canto; nos bem baixinhos fica só o carrinho, para não cobrir os números).",
+        "Meus treinos: o Histórico ganhou um cartão próprio (Dias/Semanas/Meses, filtros, resumo, gráfico e a lista dos treinos), separado do que é planejamento e acompanhamento do dia.",
+        "A ordem dos filtros de esporte (Caminhada, Corrida na esteira...) agora é sua: toque em ⇅ ao lado deles. \"Todos\" fica sempre em primeiro.",
+        "Clima e tempo de volta nas Configurações (grupo Mapa), além do ícone do clima no mapa.",
+        "Painel do dia e prévia do widget: segure o gráfico da semana e puxe para o lado para andar dia a dia.",
+        "Mapa mais solto: o deslize vai mais longe e, deslizando várias vezes seguidas, cada deslize vai mais longe que o anterior (bom para atravessar a cidade).",
+        "Painel do dia: escolha onde fica o hoje na semana (D a S, no início, no meio ou no fim) em Personalizar gráfico, e toque nas bordas do gráfico para voltar ou avançar 1 dia ou 1 semana, como no widget."
+      ],
+      "en": [
+        "Workout widgets with the brand: the car and \"Vrumbi\" at the top, like the weather widget (a strip on the large ones; in the corner on smaller ones; on very short ones only the car, so it does not cover the numbers).",
+        "My workouts: History now has its own card (Days/Weeks/Months, filters, summary, chart and the workout list), separate from the day's planning and tracking.",
+        "You decide the order of the sport filters (Walking, Treadmill running...): tap ⇅ next to them. \"All\" always stays first.",
+        "Weather back in Settings (Map group), besides the weather icon on the map.",
+        "Day panel and widget preview: hold the week chart and drag sideways to move day by day.",
+        "Looser map: a swipe goes farther and, swiping several times in a row, each swipe goes farther than the last (good for crossing the city).",
+        "Day panel: choose where today sits in the week (Sun to Sat, at the start, middle or end) in Customize chart, and tap the chart edges to go back or forward 1 day or 1 week, like the widget."
+      ],
+      "es": [
+        "Widgets de entreno con la marca: el carrito y \"Vrumbi\" arriba, como en el widget de clima (una franja en los grandes; en la esquina en los menores; en los muy bajos solo el carrito, para no tapar los números).",
+        "Mis entrenamientos: el Historial tiene su propia tarjeta (Días/Semanas/Meses, filtros, resumen, gráfico y la lista), separada de la planificación y el seguimiento del día.",
+        "El orden de los filtros de deporte (Caminata, Carrera en cinta...) ahora es tuyo: toca ⇅ junto a ellos. \"Todos\" queda siempre primero.",
+        "Clima y tiempo de vuelta en Configuración (grupo Mapa), además del ícono del clima en el mapa.",
+        "Panel del día y vista previa del widget: mantén el gráfico de la semana y arrastra hacia el lado para moverte día a día.",
+        "Mapa más suelto: el deslizamiento llega más lejos y, deslizando varias veces seguidas, cada uno llega más lejos que el anterior (bueno para cruzar la ciudad).",
+        "Panel del día: elige dónde queda el hoy en la semana (D a S, al inicio, en el medio o al final) en Personalizar gráfico, y toca los bordes del gráfico para retroceder o avanzar 1 día o 1 semana, como en el widget."
+      ]
+    },
     {
       "versao": "0.112.0",
       "data": "08/11/2026",
@@ -234,25 +267,6 @@
       ],
       "es": [
         "Reloj: cada bloque de Vrumbi aparece en la lista para agregar con la vista previa de lo que muestra (el anillo de pasos, el pulso, la luna del sueño, la gota del agua, las puntuaciones, los ejercicios) y con un nombre que dice su función: Iniciar entreno, Pasos de hoy, Pulso, Sueño, Agua y Puntuaciones Vrumbi."
-      ]
-    },
-    {
-      "versao": "0.106.2",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio: tela inicial nova, com os exercícios favoritos em bolinhas que deslizam para o lado e, embaixo, cartões com o seu dia (pontuações, passos, distância e calorias, batimentos, sono, água, acompanhamento), com a barra de rolagem curva na borda.",
-        "Nada começa sozinho: tocar num exercício abre o preparo, com o batimento e o GPS já sendo captados (\"Procurando o GPS…\" / \"GPS pronto\"), e o treino só começa no ▶. Os blocos também abrem o preparo.",
-        "O botão Voltar do relógio volta uma tela dentro do app (no preparo, cancela)."
-      ],
-      "en": [
-        "Watch: new home screen, with favorite workouts as bubbles that slide sideways and, below, cards with your day (scores, steps, distance and calories, heart rate, sleep, water, monitoring), with the curved scroll bar along the edge.",
-        "Nothing starts on its own: tapping a workout opens the preparation screen, with heart rate and GPS already being picked up (\"Searching for GPS…\" / \"GPS ready\"), and the workout only starts on ▶. Tiles also open the preparation.",
-        "The watch Back button goes back one screen inside the app (in preparation, it cancels)."
-      ],
-      "es": [
-        "Reloj: pantalla de inicio nueva, con los ejercicios favoritos en burbujas que se deslizan hacia el lado y, debajo, tarjetas con tu día (puntuaciones, pasos, distancia y calorías, pulso, sueño, agua, seguimiento), con la barra de desplazamiento curva en el borde.",
-        "Nada empieza solo: tocar un ejercicio abre la preparación, con el pulso y el GPS ya captándose (\"Buscando el GPS…\" / \"GPS listo\"), y el entreno solo empieza en ▶. Los bloques también abren la preparación.",
-        "El botón Atrás del reloj vuelve una pantalla dentro de la app (en la preparación, cancela)."
       ]
     }
   ]
