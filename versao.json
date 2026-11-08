@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.108.0",
-  "codigo": 309,
+  "versao": "0.109.0",
+  "codigo": 310,
   "data": "07/11/2026",
-  "tamanho": 108865996,
-  "sha256": "be9f7c4f02daee3c621aa763e9b540f3d1b82ad11b38b56c873987f721b5fe91",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.108.0/Vrumbi-0.108.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.108.0/Vrumbi-relogio-0.108.0.apk",
+  "tamanho": 108875144,
+  "sha256": "b8500a4d9d06d18a8156dab8d2ea6a83e41af6930a2c83f9acd16281dda24cff",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.109.0/Vrumbi-0.109.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.109.0/Vrumbi-relogio-0.109.0.apk",
   "notas": [
-    "Ciclo menstrual (Saúde > Ciclo menstrual): anote a menstruação em qualquer dia do calendário (fluxo leve, médio ou intenso), os sintomas (cólica, dor de cabeça, inchaço, humor e outros) e uma nota; \"Começou hoje\" e \"Terminou hoje\" num toque.",
-    "Previsão da próxima menstruação, do dia provável da ovulação e do período fértil, que aprende o seu ritmo com os últimos ciclos; calendário do mês com o anotado, o previsto e o período fértil; histórico e variação do ciclo.",
-    "Avisos opcionais 2 dias antes da menstruação e no começo do período fértil. Também usa a menstruação de outros apps pela Saúde do Android. Os dados ficam só no aparelho (e no backup do Vrumbi).",
-    "Relógio: cartão e bloco \"Ciclo menstrual\" (dia do ciclo, fase, próxima menstruação) e anotar o fluxo de hoje pelo pulso."
+    "Widgets de treino (Treino do dia, Passos, Treinos da semana) com a personalização dos gráficos do app: o tipo do gráfico (LEDs, barras, translúcidas, degradê, pílulas, pirulito, linha, área), a opacidade, a cor de cada medida (a paleta do app ou qualquer cor) e o que aparece.",
+    "Treino do dia: escolha até 3 medidas e a ordem (passos, minutos ativos, calorias, treinos); o anel em risquinhos, anel ou translúcido (ou sem anel); ligue ou desligue os números, o gráfico, os dias embaixo e a marca da meta batida.",
+    "A prévia no alto da configuração agora muda na hora com cada ajuste: período dos números (hoje, semana, mês, ano, total, com a meta do período), a faixa do gráfico (semana, 14 dias, meses, anos), o tipo, as cores e as partes — igual ao widget na tela."
   ],
   "versoes": [
+    {
+      "versao": "0.109.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Widgets de treino (Treino do dia, Passos, Treinos da semana) com a personalização dos gráficos do app: o tipo do gráfico (LEDs, barras, translúcidas, degradê, pílulas, pirulito, linha, área), a opacidade, a cor de cada medida (a paleta do app ou qualquer cor) e o que aparece.",
+        "Treino do dia: escolha até 3 medidas e a ordem (passos, minutos ativos, calorias, treinos); o anel em risquinhos, anel ou translúcido (ou sem anel); ligue ou desligue os números, o gráfico, os dias embaixo e a marca da meta batida.",
+        "A prévia no alto da configuração agora muda na hora com cada ajuste: período dos números (hoje, semana, mês, ano, total, com a meta do período), a faixa do gráfico (semana, 14 dias, meses, anos), o tipo, as cores e as partes — igual ao widget na tela."
+      ],
+      "en": [
+        "Workout widgets (Today's workout, Steps, Workouts this week) with the app's chart customization: chart type (LEDs, bars, translucent, gradient, pills, lollipop, line, area), opacity, each measure's color (the app palette or any color) and what is shown.",
+        "Today's workout: pick up to 3 measures and their order (steps, active minutes, calories, workouts); the ring as ticks, ring or translucent (or no ring); turn the numbers, chart, days below and the goal-reached mark on or off.",
+        "The preview at the top of the settings now changes instantly with each adjustment: the numbers' period (today, week, month, year, total, with the period goal), the chart range (week, 14 days, months, years), type, colors and parts — just like the widget on the screen."
+      ],
+      "es": [
+        "Widgets de entreno (Entreno del día, Pasos, Entrenos de la semana) con la personalización de los gráficos de la app: el tipo de gráfico (LEDs, barras, translúcidas, degradado, píldoras, piruleta, línea, área), la opacidad, el color de cada medida (la paleta de la app o cualquier color) y lo que aparece.",
+        "Entreno del día: elige hasta 3 medidas y su orden (pasos, minutos activos, calorías, entrenos); el anillo en rayitas, anillo o translúcido (o sin anillo); activa o desactiva los números, el gráfico, los días abajo y la marca de meta cumplida.",
+        "La vista previa arriba de la configuración ahora cambia al instante con cada ajuste: el periodo de los números (hoy, semana, mes, año, total, con la meta del periodo), el rango del gráfico (semana, 14 días, meses, años), el tipo, los colores y las partes — igual que el widget en la pantalla."
+      ]
+    },
     {
       "versao": "0.108.0",
       "data": "07/11/2026",
@@ -227,25 +245,6 @@
         "Salud completa: todo lo que exporta Samsung Health aparece en Vrumbi con el nombre y la unidad correctos: sueño por noche (puntuación, eficiencia, fases, recuperación mental y física, ciclos, siestas), FC en reposo, variabilidad cardíaca (HRV), puntuación de energía, índice AGEs, composición corporal, presión, ECG y nutrición.",
         "Seguimiento: cada medida se compara con la referencia y con tu propio promedio de 30 días (FC en reposo subiendo, HRV bajando, oxígeno bajo, presión alta, sueño corto...). Las medidas recientes que salen del rango avisan en el celular.",
         "Toca cualquier medida para ver la situación, la referencia, los promedios de 7 y 30 días, el gráfico por día, mes o año y los registros diarios; tú eliges qué seguir."
-      ]
-    },
-    {
-      "versao": "0.101.5",
-      "data": "07/11/2026",
-      "itens": [
-        "Importação do Samsung Health refeita e conferida com uma exportação real: entram todos os treinos (antes parava no meio), com a distância, o tempo e as calorias iguais aos do Samsung Health, o trajeto no mapa e os batimentos.",
-        "Vem tudo o que o Samsung Health guarda de cada treino: FC máxima e mínima, cadência, subida e descida, VO2 máx., suor, potência, repetições (barra fixa, flexão), braçadas e o clima do treino.",
-        "Os treinos detectados sozinhos aparecem como \"(autom.)\" e as cópias do mesmo treino ficam de fora, como no Samsung Health. Importar de novo completa o que veio errado antes e nunca duplica."
-      ],
-      "en": [
-        "Samsung Health import rebuilt and checked against a real export: every workout comes in (before it stopped halfway), with distance, time and calories matching Samsung Health, the route on the map and the heart rate.",
-        "Everything Samsung Health keeps for each workout comes along: max and min HR, cadence, ascent and descent, VO2 max, sweat, power, reps (pull-ups, push-ups), strokes and the weather during the workout.",
-        "Auto-detected workouts show as \"(auto)\" and copies of the same workout are left out, as in Samsung Health. Importing again fixes what came in wrong before and never duplicates."
-      ],
-      "es": [
-        "Importación de Samsung Health rehecha y verificada con una exportación real: entran todos los entrenos (antes se detenía a la mitad), con la distancia, el tiempo y las calorías iguales a los de Samsung Health, el recorrido en el mapa y el pulso.",
-        "Viene todo lo que Samsung Health guarda de cada entreno: FC máxima y mínima, cadencia, subida y bajada, VO2 máx., sudor, potencia, repeticiones (dominadas, flexiones), brazadas y el clima del entreno.",
-        "Los entrenos detectados solos aparecen como \"(autom.)\" y las copias del mismo entreno quedan fuera, como en Samsung Health. Importar de nuevo completa lo que vino mal antes y nunca duplica."
       ]
     }
   ]
