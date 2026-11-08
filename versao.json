@@ -1,22 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.113.0",
-  "codigo": 317,
+  "versao": "0.113.1",
+  "codigo": 318,
   "data": "08/11/2026",
-  "tamanho": 108970535,
-  "sha256": "b38bbb7705d3d1a3b77ed25d4bcad4583cac4edd83ab702ff8899d67b23dcb13",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.0/Vrumbi-0.113.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.0/Vrumbi-relogio-0.113.0.apk",
+  "tamanho": 108973039,
+  "sha256": "1c5d7678c32efcda0dc52e8a2e81408584f987aeca066a2bf52860dc57d07992",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.1/Vrumbi-0.113.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.1/Vrumbi-relogio-0.113.1.apk",
   "notas": [
-    "Widgets de treino com a marca: o carrinho e \"Vrumbi\" no alto, como no widget de clima (nos grandes, uma faixa; nos menores, no canto; nos bem baixinhos fica só o carrinho, para não cobrir os números).",
-    "Meus treinos: o Histórico ganhou um cartão próprio (Dias/Semanas/Meses, filtros, resumo, gráfico e a lista dos treinos), separado do que é planejamento e acompanhamento do dia.",
-    "A ordem dos filtros de esporte (Caminhada, Corrida na esteira...) agora é sua: toque em ⇅ ao lado deles. \"Todos\" fica sempre em primeiro.",
-    "Clima e tempo de volta nas Configurações (grupo Mapa), além do ícone do clima no mapa.",
-    "Painel do dia e prévia do widget: segure o gráfico da semana e puxe para o lado para andar dia a dia.",
-    "Mapa mais solto: o deslize vai mais longe e, deslizando várias vezes seguidas, cada deslize vai mais longe que o anterior (bom para atravessar a cidade).",
-    "Painel do dia: escolha onde fica o hoje na semana (D a S, no início, no meio ou no fim) em Personalizar gráfico, e toque nas bordas do gráfico para voltar ou avançar 1 dia ou 1 semana, como no widget."
+    "Resumo da manhã: no lugar de manhã, tarde e noite, 6 horários a partir da próxima hora, de 1 em 1, de 2 em 2 ou de 3 em 3 horas (você escolhe em Avisos de clima > Resumo da manhã)."
   ],
   "versoes": [
+    {
+      "versao": "0.113.1",
+      "data": "08/11/2026",
+      "itens": [
+        "Resumo da manhã: no lugar de manhã, tarde e noite, 6 horários a partir da próxima hora, de 1 em 1, de 2 em 2 ou de 3 em 3 horas (você escolhe em Avisos de clima > Resumo da manhã)."
+      ],
+      "en": [
+        "Morning summary: instead of morning, afternoon and night, 6 times starting from the next hour, every 1, 2 or 3 hours (choose in Weather alerts > Morning summary)."
+      ],
+      "es": [
+        "Resumen de la mañana: en lugar de mañana, tarde y noche, 6 horarios desde la próxima hora, cada 1, 2 o 3 horas (elige en Avisos de clima > Resumen de la mañana)."
+      ]
+    },
     {
       "versao": "0.113.0",
       "data": "08/11/2026",
@@ -254,19 +261,6 @@
       "es": [
         "Reloj: bloques nuevos en el formato del Galaxy Watch: 13 medios bloques (tarjetas en píldora que caben dos por página: Actividad de hoy, Pasos, Pulso, FC en reposo, Sueño, Agua con +250 ml al tocar, Energía, Recuperación, Empezar entreno, Último entreno, Entreno de la semana, Peso y Seguimiento) y 6 bloques completos (Iniciar entreno, Hoy, Pulso, Sueño, Agua y Puntuaciones).",
         "Cada bloque aparece agrupado por categoría (Actividad, Ejercicio, Corazón, Sueño, Nutrición, Bienestar, Cuerpo) y con la vista previa igual al bloque real."
-      ]
-    },
-    {
-      "versao": "0.106.3",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio: cada bloco do Vrumbi aparece na lista de adicionar com a prévia do que mostra (o anel dos passos, os batimentos, a lua do sono, a gota da água, as pontuações, os exercícios) e com um nome que diz a função: Iniciar treino, Passos de hoje, Batimentos, Sono, Água e Pontuações Vrumbi."
-      ],
-      "en": [
-        "Watch: each Vrumbi tile shows in the add list with a preview of what it displays (the steps ring, heart rate, the sleep moon, the water drop, the scores, the workouts) and a name that says what it does: Start workout, Today's steps, Heart rate, Sleep, Water and Vrumbi scores."
-      ],
-      "es": [
-        "Reloj: cada bloque de Vrumbi aparece en la lista para agregar con la vista previa de lo que muestra (el anillo de pasos, el pulso, la luna del sueño, la gota del agua, las puntuaciones, los ejercicios) y con un nombre que dice su función: Iniciar entreno, Pasos de hoy, Pulso, Sueño, Agua y Puntuaciones Vrumbi."
       ]
     }
   ]
