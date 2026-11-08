@@ -1,16 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.111.1",
-  "codigo": 315,
+  "versao": "0.112.0",
+  "codigo": 316,
   "data": "08/11/2026",
-  "tamanho": 108910556,
-  "sha256": "a4bf9f63f86f145c3e638b6cfd15662e494605abf3c864b866b090672c39627d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.1/Vrumbi-0.111.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.1/Vrumbi-relogio-0.111.1.apk",
+  "tamanho": 108963151,
+  "sha256": "77620de4ff884858d448d404b2b45679f6fbc22e4fcb44ed75a25c26179f8db6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.112.0/Vrumbi-0.112.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.112.0/Vrumbi-relogio-0.112.0.apk",
   "notas": [
-    "Rosa dos ventos: um toque volta a trocar 2D/3D, como antes. Dois toques rápidos abrem o GPS e bússola (com a mesma troca 2D/3D no topo). Segurar e arrastar continua mudando o lugar dela."
+    "Clima: o sol (de dia) ou a lua (de noite) aparece atrás da nuvem quando o céu tem abertura de verdade, também na chuva, garoa, pancadas, neve e trovoada. Com o céu todo fechado fica só a nuvem, de dia e de noite (antes a lua aparecia no \"Nublado\" de noite e o sol nas pancadas mesmo com 100% de nuvens).",
+    "O ícone de cada dia segue as nuvens das horas de sol daquele dia.",
+    "Ícones Coloridos e Na cor do texto redesenhados com a mesma regra dos realistas: no colorido, cada parte tem a sua cor (sol, lua, nuvem, gotas, neve, granizo e raio).",
+    "Nuvem de chuva mais escura nos realistas; a nuvem branca fica para o tempo seco.",
+    "Widget de clima, relógio e o clima das viagens com os ícones novos."
   ],
   "versoes": [
+    {
+      "versao": "0.112.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Clima: o sol (de dia) ou a lua (de noite) aparece atrás da nuvem quando o céu tem abertura de verdade, também na chuva, garoa, pancadas, neve e trovoada. Com o céu todo fechado fica só a nuvem, de dia e de noite (antes a lua aparecia no \"Nublado\" de noite e o sol nas pancadas mesmo com 100% de nuvens).",
+        "O ícone de cada dia segue as nuvens das horas de sol daquele dia.",
+        "Ícones Coloridos e Na cor do texto redesenhados com a mesma regra dos realistas: no colorido, cada parte tem a sua cor (sol, lua, nuvem, gotas, neve, granizo e raio).",
+        "Nuvem de chuva mais escura nos realistas; a nuvem branca fica para o tempo seco.",
+        "Widget de clima, relógio e o clima das viagens com os ícones novos."
+      ],
+      "en": [
+        "Weather: the sun (by day) or the moon (at night) shows behind the cloud when the sky really has gaps, also with rain, drizzle, showers, snow and thunderstorms. With a fully overcast sky only the cloud shows, day and night (before, the moon showed on \"Cloudy\" at night and the sun on showers even with 100% cloud cover).",
+        "Each day's icon follows the clouds during that day's daylight hours.",
+        "Colored and Text-color icons redrawn with the same rule as the realistic ones: in colored, each part has its own color (sun, moon, cloud, drops, snow, hail and lightning).",
+        "Darker rain cloud in the realistic icons; the white cloud is for dry weather.",
+        "Weather widget, watch and trip weather with the new icons."
+      ],
+      "es": [
+        "Clima: el sol (de día) o la luna (de noche) aparece detrás de la nube cuando el cielo tiene claros de verdad, también con lluvia, llovizna, chubascos, nieve y tormenta. Con el cielo totalmente cubierto queda solo la nube, de día y de noche (antes la luna aparecía en \"Nublado\" de noche y el sol en los chubascos incluso con 100% de nubes).",
+        "El ícono de cada día sigue las nubes de las horas de sol de ese día.",
+        "Íconos Coloridos y En el color del texto rediseñados con la misma regla de los realistas: en el colorido, cada parte tiene su color (sol, luna, nube, gotas, nieve, granizo y rayo).",
+        "Nube de lluvia más oscura en los realistas; la nube blanca queda para el tiempo seco.",
+        "Widget de clima, reloj y el clima de los viajes con los íconos nuevos."
+      ]
+    },
     {
       "versao": "0.111.1",
       "data": "08/11/2026",
@@ -224,25 +253,6 @@
         "Reloj: pantalla de inicio nueva, con los ejercicios favoritos en burbujas que se deslizan hacia el lado y, debajo, tarjetas con tu día (puntuaciones, pasos, distancia y calorías, pulso, sueño, agua, seguimiento), con la barra de desplazamiento curva en el borde.",
         "Nada empieza solo: tocar un ejercicio abre la preparación, con el pulso y el GPS ya captándose (\"Buscando el GPS…\" / \"GPS listo\"), y el entreno solo empieza en ▶. Los bloques también abren la preparación.",
         "El botón Atrás del reloj vuelve una pantalla dentro de la app (en la preparación, cancela)."
-      ]
-    },
-    {
-      "versao": "0.106.1",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio: o Encerrar agora encerra na hora (antes podia ficar preso esperando o celular) e um treino que ficou aberto é fechado antes de começar outro.",
-        "Telas do treino no relógio: os dados no meio (role para cima e para baixo, ou gire a coroa, para trocar de tela), Pausar e Encerrar à esquerda, a música à direita; segure 3 segundos para configurar a tela (grade, qual número em cada espaço, a ordem das telas).",
-        "Blocos do Vrumbi no relógio: Treino (começar com um toque), Hoje (passos com a meta, calorias, distância, andares), Batimentos, Sono, Água (+250 ml vai ao diário do celular) e Pontuações do Vrumbi com as medidas em alerta."
-      ],
-      "en": [
-        "Watch: End now ends right away (before, it could get stuck waiting for the phone) and a workout left open is closed before starting another.",
-        "Workout screens on the watch: data in the middle (scroll up and down, or turn the crown, to change screens), Pause and End on the left, music on the right; hold for 3 seconds to set up the screen (grid, which number in each spot, screen order).",
-        "Vrumbi tiles on the watch: Workout (start with one tap), Today (steps with the goal, calories, distance, floors), Heart rate, Sleep, Water (+250 ml goes to the phone log) and Vrumbi Scores with measures that need attention."
-      ],
-      "es": [
-        "Reloj: Finalizar ahora termina al instante (antes podía quedar trabado esperando el celular) y un entreno que quedó abierto se cierra antes de empezar otro.",
-        "Pantallas del entreno en el reloj: los datos en el medio (desliza arriba y abajo, o gira la corona, para cambiar de pantalla), Pausar y Finalizar a la izquierda, la música a la derecha; mantén 3 segundos para configurar la pantalla (cuadrícula, qué número en cada espacio, orden de las pantallas).",
-        "Bloques de Vrumbi en el reloj: Entreno (empezar con un toque), Hoy (pasos con la meta, calorías, distancia, pisos), Pulso, Sueño, Agua (+250 ml va al diario del celular) y Puntuaciones de Vrumbi con las medidas en alerta."
       ]
     }
   ]
