@@ -1,22 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.107.0",
-  "codigo": 308,
+  "versao": "0.108.0",
+  "codigo": 309,
   "data": "07/11/2026",
-  "tamanho": 108831564,
-  "sha256": "a259891537c20a3640975f3bcc799f1802d01f0459917c43691f655afc733077",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.107.0/Vrumbi-0.107.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.107.0/Vrumbi-relogio-0.107.0.apk",
+  "tamanho": 108865996,
+  "sha256": "be9f7c4f02daee3c621aa763e9b540f3d1b82ad11b38b56c873987f721b5fe91",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.108.0/Vrumbi-0.108.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.108.0/Vrumbi-relogio-0.108.0.apk",
   "notas": [
-    "Relógio refeito: voltar arrastando da borda esquerda para a direita em todas as telas (na tela inicial, o arrasto sai do app, como nos outros apps do relógio). Sem botões \"Voltar\" e \"Pronto\".",
-    "Relógio: ícones de uma cor só, os mesmos desenhos do app (exercícios, saúde, clima), e cores escolhidas por você em Configurações > Cores: a cor de destaque (a paleta do app ou \"igual ao celular\") e o fundo (preto, grafite, azul-noite, verde-noite, vinho, roxo-noite).",
-    "Relógio: tela inicial sem nada cortado na borda: o cartão Treinar com os exercícios favoritos em grade de 2 (2, 4 ou 6; o último abre todos) e, embaixo, os cartões do dia. Cada cartão abre a sua tela (o dia, os batimentos com o gráfico de cada hora, o sono, a água com +250/+500 e desfazer, as pontuações, a composição corporal).",
-    "Relógio: Configurações como a última opção: o que aparece na tela inicial e em que ordem, quantos exercícios no Treinar, os favoritos, as telas do treino, as cores e o dia inteiro.",
-    "Relógio: clima completo, a mesma previsão do app (também com o celular fechado): agora, sensação, as próximas 12 horas, os próximos dias, umidade, ponto de orvalho, vento, rajadas, pressão, UV, visibilidade, nuvens, nascer e pôr do sol.",
-    "Relógio: blocos novos: Treinar (exercícios em 2×2, um toque e o ▶), Atividade de hoje com anel, Previsão do tempo, Clima atual, Composição corporal, Estresse, Oxigênio no sangue, Pressão arterial, ECG e Alimentação (estes com os dados da Conexão Saúde ou da importação do Samsung Health). São 28 blocos, com a prévia de cada um tirada do bloco real.",
-    "Relógio: no treino, os toques em Pausar, Encerrar e no número principal voltaram a funcionar junto com o arrasto entre as telas."
+    "Ciclo menstrual (Saúde > Ciclo menstrual): anote a menstruação em qualquer dia do calendário (fluxo leve, médio ou intenso), os sintomas (cólica, dor de cabeça, inchaço, humor e outros) e uma nota; \"Começou hoje\" e \"Terminou hoje\" num toque.",
+    "Previsão da próxima menstruação, do dia provável da ovulação e do período fértil, que aprende o seu ritmo com os últimos ciclos; calendário do mês com o anotado, o previsto e o período fértil; histórico e variação do ciclo.",
+    "Avisos opcionais 2 dias antes da menstruação e no começo do período fértil. Também usa a menstruação de outros apps pela Saúde do Android. Os dados ficam só no aparelho (e no backup do Vrumbi).",
+    "Relógio: cartão e bloco \"Ciclo menstrual\" (dia do ciclo, fase, próxima menstruação) e anotar o fluxo de hoje pelo pulso."
   ],
   "versoes": [
+    {
+      "versao": "0.108.0",
+      "data": "07/11/2026",
+      "itens": [
+        "Ciclo menstrual (Saúde > Ciclo menstrual): anote a menstruação em qualquer dia do calendário (fluxo leve, médio ou intenso), os sintomas (cólica, dor de cabeça, inchaço, humor e outros) e uma nota; \"Começou hoje\" e \"Terminou hoje\" num toque.",
+        "Previsão da próxima menstruação, do dia provável da ovulação e do período fértil, que aprende o seu ritmo com os últimos ciclos; calendário do mês com o anotado, o previsto e o período fértil; histórico e variação do ciclo.",
+        "Avisos opcionais 2 dias antes da menstruação e no começo do período fértil. Também usa a menstruação de outros apps pela Saúde do Android. Os dados ficam só no aparelho (e no backup do Vrumbi).",
+        "Relógio: cartão e bloco \"Ciclo menstrual\" (dia do ciclo, fase, próxima menstruação) e anotar o fluxo de hoje pelo pulso."
+      ],
+      "en": [
+        "Menstrual cycle (Health > Menstrual cycle): log your period on any calendar day (light, medium or heavy flow), symptoms (cramps, headache, bloating, mood and more) and a note; \"Started today\" and \"Ended today\" in one tap.",
+        "Forecast of the next period, the likely ovulation day and the fertile window, learning your rhythm from recent cycles; monthly calendar with logged, expected and fertile days; history and cycle variation.",
+        "Optional reminders 2 days before your period and when the fertile window starts. It also uses period data from other apps through Health Connect. The data stays on the device only (and in the Vrumbi backup).",
+        "Watch: \"Menstrual cycle\" card and tile (cycle day, phase, next period) and logging today's flow from the wrist."
+      ],
+      "es": [
+        "Ciclo menstrual (Salud > Ciclo menstrual): anota la menstruación en cualquier día del calendario (flujo leve, medio o abundante), los síntomas (cólico, dolor de cabeza, hinchazón, humor y otros) y una nota; \"Empezó hoy\" y \"Terminó hoy\" con un toque.",
+        "Pronóstico de la próxima menstruación, del día probable de la ovulación y del periodo fértil, que aprende tu ritmo con los últimos ciclos; calendario del mes con lo anotado, lo previsto y el periodo fértil; historial y variación del ciclo.",
+        "Avisos opcionales 2 días antes de la menstruación y al empezar el periodo fértil. También usa la menstruación de otras apps por Health Connect. Los datos quedan solo en el aparato (y en la copia de Vrumbi).",
+        "Reloj: tarjeta y bloque \"Ciclo menstrual\" (día del ciclo, fase, próxima menstruación) y anotar el flujo de hoy desde la muñeca."
+      ]
+    },
     {
       "versao": "0.107.0",
       "data": "07/11/2026",
@@ -227,19 +246,6 @@
         "Importación de Samsung Health rehecha y verificada con una exportación real: entran todos los entrenos (antes se detenía a la mitad), con la distancia, el tiempo y las calorías iguales a los de Samsung Health, el recorrido en el mapa y el pulso.",
         "Viene todo lo que Samsung Health guarda de cada entreno: FC máxima y mínima, cadencia, subida y bajada, VO2 máx., sudor, potencia, repeticiones (dominadas, flexiones), brazadas y el clima del entreno.",
         "Los entrenos detectados solos aparecen como \"(autom.)\" y las copias del mismo entreno quedan fuera, como en Samsung Health. Importar de nuevo completa lo que vino mal antes y nunca duplica."
-      ]
-    },
-    {
-      "versao": "0.101.4",
-      "data": "07/11/2026",
-      "itens": [
-        "Módulo da polícia: no cartão do endereço, embaixo do CEP, um cartão com o CPA, o batalhão e a companhia de onde você está; o mesmo cartão aparece ao tocar em qualquer ponto do mapa e na escolha da rota (a unidade responsável pelo destino)."
-      ],
-      "en": [
-        "Police module: in the address card, below the ZIP code, a card with the area command, battalion and company where you are; the same card shows when you tap any point on the map and when choosing a route (the unit in charge of the destination)."
-      ],
-      "es": [
-        "Módulo de la policía: en la tarjeta de la dirección, debajo del código postal, una tarjeta con el CPA, el batallón y la compañía de donde estás; la misma tarjeta aparece al tocar cualquier punto del mapa y al elegir la ruta (la unidad responsable del destino)."
       ]
     }
   ]
