@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.110.1",
-  "codigo": 312,
+  "versao": "0.110.2",
+  "codigo": 313,
   "data": "08/11/2026",
-  "tamanho": 108893984,
-  "sha256": "8ce066935b95a5f98832afce958e5bcf61f2476e244e01ee57ab6c27806332ed",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.1/Vrumbi-0.110.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.1/Vrumbi-relogio-0.110.1.apk",
+  "tamanho": 108901632,
+  "sha256": "52d975eebb6b4a1eca365b3726bfab487902986074a7dc3d63df15ba00632d0f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.2/Vrumbi-0.110.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.2/Vrumbi-relogio-0.110.2.apk",
   "notas": [
-    "Widgets de treino viram o dia à meia-noite: o \"hoje\" começa zerado na hora (antes podia ficar até meia hora com o dia anterior). Os passos contados pelo celular perto da meia-noite ficam no dia certo.",
-    "Widgets mais ao vivo: com a tela acesa, eles releem os passos a cada 2 minutos; com o relógio do Vrumbi no pulso, os passos dele entram assim que chegam. Com a tela apagada nada roda (sem gasto de bateria) e, ao acender, o widget já aparece em dia.",
-    "Relógio: os blocos e a tela também viram o dia à meia-noite."
+    "Widgets de treino: ande pelas semanas tocando nas bordas do gráfico — a esquerda volta e a direita avança, 1 dia ou 1 semana por toque (você escolhe). O meio continua abrindo o app.",
+    "Escolha onde o hoje fica no gráfico: a semana do calendário (D a S), no início, no meio (metade passado, metade futuro) ou no fim. A posição fica gravada, também depois de reiniciar o celular; \"Voltar para hoje\" na configuração do widget."
   ],
   "versoes": [
+    {
+      "versao": "0.110.2",
+      "data": "08/11/2026",
+      "itens": [
+        "Widgets de treino: ande pelas semanas tocando nas bordas do gráfico — a esquerda volta e a direita avança, 1 dia ou 1 semana por toque (você escolhe). O meio continua abrindo o app.",
+        "Escolha onde o hoje fica no gráfico: a semana do calendário (D a S), no início, no meio (metade passado, metade futuro) ou no fim. A posição fica gravada, também depois de reiniciar o celular; \"Voltar para hoje\" na configuração do widget."
+      ],
+      "en": [
+        "Workout widgets: move through the weeks by tapping the chart edges — left goes back and right goes forward, 1 day or 1 week per tap (your choice). The middle still opens the app.",
+        "Choose where today sits on the chart: the calendar week (Sun to Sat), at the start, in the middle (half past, half future) or at the end. The position is saved, even after restarting the phone; \"Back to today\" in the widget settings."
+      ],
+      "es": [
+        "Widgets de entreno: recorre las semanas tocando los bordes del gráfico — el izquierdo retrocede y el derecho avanza, 1 día o 1 semana por toque (tú eliges). El centro sigue abriendo la app.",
+        "Elige dónde queda el hoy en el gráfico: la semana del calendario (D a S), al inicio, en el medio (mitad pasado, mitad futuro) o al final. La posición queda guardada, también al reiniciar el móvil; \"Volver a hoy\" en la configuración del widget."
+      ]
+    },
     {
       "versao": "0.110.1",
       "data": "08/11/2026",
@@ -229,25 +244,6 @@
         "Gráficos a tu manera: en el botón de ajustes de cada gráfico, elige el tipo (barras, translúcidas, degradado, píldoras, rayitas, línea, área o piruleta), el color (el de la app, cualquier color de la paleta o según la situación: verde, ámbar, rojo) y la opacidad.",
         "Elige también qué se muestra (promedio, rango de referencia, valor en cada barra, mayor y menor, cuadrícula, línea de tendencia, último destacado, fechas), compara con otra medida en una segunda línea y, por mes o año, ve el promedio, el mayor, el menor o el total.",
         "En el panel del día de Mis entrenos puedes cambiar el anillo de rayas por un anillo liso, translúcido o barras, y las rayitas de la semana por barras modernas, con el color de cada serie. Vale para un gráfico o para todos."
-      ]
-    },
-    {
-      "versao": "0.104.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Pontuações do Vrumbi: Sono, Recuperação e Energia (0 a 100), calculadas com os seus dados, inclusive os que chegam sozinhos pela Conexão Saúde, sem depender das pontuações fechadas do Samsung Health.",
-        "Cada pontuação mostra como foi calculada: as partes (duração, fases e tempo acordado no sono; variabilidade, FC em repouso e sono na recuperação; recuperação e carga de treino na energia) e quantos pontos cada uma deu.",
-        "As três entram no acompanhamento e nos avisos, como as outras medidas."
-      ],
-      "en": [
-        "Vrumbi scores: Sleep, Recovery and Energy (0 to 100), calculated from your data, including what arrives automatically via Health Connect, without depending on Samsung Health's closed scores.",
-        "Each score shows how it was calculated: the parts (duration, stages and time awake for sleep; variability, resting heart rate and sleep for recovery; recovery and training load for energy) and the points each one gave.",
-        "All three join monitoring and alerts, like the other measures."
-      ],
-      "es": [
-        "Puntuaciones de Vrumbi: Sueño, Recuperación y Energía (0 a 100), calculadas con tus datos, incluso los que llegan solos por Health Connect, sin depender de las puntuaciones cerradas de Samsung Health.",
-        "Cada puntuación muestra cómo se calculó: las partes (duración, fases y tiempo despierto en el sueño; variabilidad, FC en reposo y sueño en la recuperación; recuperación y carga de entrenamiento en la energía) y cuántos puntos dio cada una.",
-        "Las tres entran en el seguimiento y los avisos, como las demás medidas."
       ]
     }
   ]
