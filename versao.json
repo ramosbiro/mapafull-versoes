@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.114.0",
-  "codigo": 322,
+  "versao": "0.115.0",
+  "codigo": 323,
   "data": "08/11/2026",
-  "tamanho": 108987603,
-  "sha256": "beda1ce11259464f2f5c736dd95d2dc7f691c253c207bee8815506f5447c167d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.114.0/Vrumbi-0.114.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.114.0/Vrumbi-relogio-0.114.0.apk",
+  "tamanho": 109027933,
+  "sha256": "7d32f39030ce2b221916fdabf5d994797c0606f46abd4a5abcd929e8a3afb512",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.115.0/Vrumbi-0.115.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.115.0/Vrumbi-relogio-0.115.0.apk",
   "notas": [
-    "Busca: locais próximos. Embaixo dos atalhos há uma fileira de categorias (posto, estacionamento, restaurante, mercado, farmácia, eletroposto, hotel, caixa eletrônico...) e \"Todos\" abre a lista completa por grupo: veículo, comida e bebida, compras, hospedagem, transporte, dinheiro e serviços, saúde, lazer e educação. Um toque mostra os mais perto de você, com seus favoritos primeiro, distância, estrelas, Ir e Salvar.",
-    "Busca por voz: o microfone agora fica dentro da barra de endereço. Toque, fale o endereço ou o lugar e a busca já roda com o que você disse."
+    "Quem atende aqui: ao tocar num endereço, o lugar mostra o pronto atendimento público mais perto (UPA, PS municipal) que esteja aberto agora e o hospital público mais perto, com endereço, telefone e rota. Hospital particular só aparece quando não há público por perto. A unidade que não abre 24 h sai da lista à noite.",
+    "Módulo da polícia: embaixo do cartão da PM vem o cartão da Polícia Civil (DP e seccional da área). No lugar tocado aparecem a sede do CPA, a do batalhão, a base da Cia e o DP, cada um com endereço, telefone e rota."
   ],
   "versoes": [
+    {
+      "versao": "0.115.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Quem atende aqui: ao tocar num endereço, o lugar mostra o pronto atendimento público mais perto (UPA, PS municipal) que esteja aberto agora e o hospital público mais perto, com endereço, telefone e rota. Hospital particular só aparece quando não há público por perto. A unidade que não abre 24 h sai da lista à noite.",
+        "Módulo da polícia: embaixo do cartão da PM vem o cartão da Polícia Civil (DP e seccional da área). No lugar tocado aparecem a sede do CPA, a do batalhão, a base da Cia e o DP, cada um com endereço, telefone e rota."
+      ],
+      "en": [
+        "Who serves here: when you tap an address, the place shows the closest public urgent care (UPA, municipal ER) open right now and the closest public hospital, with address, phone and route. A private hospital only shows up when there is no public one nearby. Units that are not open 24 h leave the list at night.",
+        "Police module: below the military police card comes the civil police card (precinct and division of the area). The tapped place shows the CPA, battalion and company bases and the precinct, each with address, phone and route."
+      ],
+      "es": [
+        "Quién atiende aquí: al tocar una dirección, el lugar muestra la urgencia pública más cercana (UPA, PS municipal) abierta ahora y el hospital público más cercano, con dirección, teléfono y ruta. El hospital privado solo aparece cuando no hay uno público cerca. Las unidades que no abren 24 h salen de la lista de noche.",
+        "Módulo policial: debajo de la tarjeta de la PM viene la tarjeta de la Policía Civil (comisaría y seccional del área). El lugar tocado muestra las sedes del CPA, del batallón, la base de la compañía y la comisaría, cada una con dirección, teléfono y ruta."
+      ]
+    },
     {
       "versao": "0.114.0",
       "data": "08/11/2026",
@@ -213,28 +229,6 @@
         "Los widgets de entreno cambian de día a medianoche: el \"hoy\" empieza en cero al instante (antes podía quedarse con el día anterior hasta media hora). Los pasos contados por el móvil cerca de la medianoche quedan en el día correcto.",
         "Widgets más en vivo: con la pantalla encendida, releen los pasos cada 2 minutos; con el reloj de Vrumbi en la muñeca, sus pasos entran apenas llegan. Con la pantalla apagada no corre nada (sin gasto de batería) y al encenderla el widget ya está al día.",
         "Reloj: los bloques y la pantalla también cambian de día a medianoche."
-      ]
-    },
-    {
-      "versao": "0.110.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio na rota: ao começar uma rota no celular, o relógio mostra a seta da manobra, a distância diminuindo, a instrução, a rua, as faixas, a manobra seguinte, a chegada e o tempo que falta, a sua velocidade com a placa do limite da via e o progresso da viagem no aro da tela.",
-        "Relógio no modo livre (sem rota, dirigindo): a velocidade, a placa do limite, a rua e o que vem pela frente — radar, free flow e alertas da comunidade —, com aviso no pulso. Excesso de velocidade nunca vibra.",
-        "Vibração própria de cada coisa: manobra à esquerda 2 toques, à direita 3, retorno, chegada, radar, free flow e alerta da comunidade, cada um diferente. No relógio: Voz/Mudo, Repetir, Clima e Encerrar rota.",
-        "Blocos novos \"Rota e direção\" (cheio e meio bloco) e o cartão da rota no alto da tela inicial do relógio. Em Configurações > Rota e direção: ligar ou desligar cada aviso, as vibrações das manobras e abrir a rota sozinho; e testar as vibrações."
-      ],
-      "en": [
-        "Watch on a route: when you start a route on the phone, the watch shows the turn arrow, the shrinking distance, the instruction, the street, the lanes, the next turn, arrival and time left, your speed with the road's speed limit sign, and trip progress around the screen edge.",
-        "Watch in free mode (driving without a route): speed, the limit sign, the street and what's ahead — speed cameras, barrier-free tolls and community alerts — with a wrist alert. Speeding never vibrates.",
-        "Each thing has its own vibration: left turn 2 taps, right 3, U-turn, arrival, speed camera, toll and community alert, all different. On the watch: Voice/Mute, Repeat, Weather and End route.",
-        "New \"Route and driving\" tiles (full and half) and the route card at the top of the watch home screen. In Settings > Route and driving: turn each alert on or off, the turn vibrations and opening the route automatically; and test the vibrations."
-      ],
-      "es": [
-        "Reloj en la ruta: al empezar una ruta en el móvil, el reloj muestra la flecha de la maniobra, la distancia bajando, la instrucción, la calle, los carriles, la maniobra siguiente, la llegada y el tiempo restante, tu velocidad con la placa del límite de la vía y el progreso del viaje en el borde de la pantalla.",
-        "Reloj en modo libre (conduciendo sin ruta): la velocidad, la placa del límite, la calle y lo que viene — radares, peajes sin barrera y alertas de la comunidad —, con aviso en la muñeca. El exceso de velocidad nunca vibra.",
-        "Cada cosa con su vibración: maniobra a la izquierda 2 toques, a la derecha 3, retorno, llegada, radar, peaje y alerta de la comunidad, todas distintas. En el reloj: Voz/Mudo, Repetir, Clima y Terminar ruta.",
-        "Bloques nuevos \"Ruta y conducción\" (completo y medio) y la tarjeta de la ruta arriba en la pantalla inicial del reloj. En Ajustes > Ruta y conducción: activar o desactivar cada aviso, las vibraciones de las maniobras y abrir la ruta solo; y probar las vibraciones."
       ]
     }
   ]
