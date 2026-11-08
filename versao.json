@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.113.1",
-  "codigo": 318,
+  "versao": "0.113.2",
+  "codigo": 319,
   "data": "08/11/2026",
-  "tamanho": 108973039,
-  "sha256": "1c5d7678c32efcda0dc52e8a2e81408584f987aeca066a2bf52860dc57d07992",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.1/Vrumbi-0.113.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.1/Vrumbi-relogio-0.113.1.apk",
+  "tamanho": 108973459,
+  "sha256": "951c8732a6f4dda1b2051ed8f967634d19a33378e2e1982d9310882e8f689448",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.2/Vrumbi-0.113.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.113.2/Vrumbi-relogio-0.113.2.apk",
   "notas": [
-    "Resumo da manhã: no lugar de manhã, tarde e noite, 6 horários a partir da próxima hora, de 1 em 1, de 2 em 2 ou de 3 em 3 horas (você escolhe em Avisos de clima > Resumo da manhã)."
+    "Relógio: as Telas do treino ficaram visuais. A lista mostra cada tela como ela aparece no treino; tocando numa, ela abre grande com números de exemplo -- toque num espaço para trocar o número (cada um com ícone e exemplo) e escolha a grade pelos desenhos embaixo, que a tela se molda na hora."
   ],
   "versoes": [
+    {
+      "versao": "0.113.2",
+      "data": "08/11/2026",
+      "itens": [
+        "Relógio: as Telas do treino ficaram visuais. A lista mostra cada tela como ela aparece no treino; tocando numa, ela abre grande com números de exemplo -- toque num espaço para trocar o número (cada um com ícone e exemplo) e escolha a grade pelos desenhos embaixo, que a tela se molda na hora."
+      ],
+      "en": [
+        "Watch: workout Screens are now visual. The list shows each screen as it appears during the workout; tap one to open it large with sample numbers -- tap a slot to change its number (each with icon and sample) and pick the grid from the drawings below, and the screen reshapes right away."
+      ],
+      "es": [
+        "Reloj: las Pantallas del entreno ahora son visuales. La lista muestra cada pantalla como aparece en el entreno; al tocar una se abre grande con números de ejemplo -- toca un espacio para cambiar el número (cada uno con ícono y ejemplo) y elige la cuadrícula en los dibujos de abajo, y la pantalla se ajusta al instante."
+      ]
+    },
     {
       "versao": "0.113.1",
       "data": "08/11/2026",
@@ -245,22 +258,6 @@
         "Reloj: clima completo, el mismo pronóstico de la app (también con la app del móvil cerrada): ahora, sensación, las próximas 12 horas, los próximos días, humedad, punto de rocío, viento, ráfagas, presión, UV, visibilidad, nubes, amanecer y atardecer.",
         "Reloj: bloques nuevos: Entrenar (ejercicios en 2×2, un toque y ▶), Actividad de hoy con anillo, Pronóstico del tiempo, Clima actual, Composición corporal, Estrés, Oxígeno en sangre, Presión arterial, ECG y Alimentación (estos con los datos de Health Connect o de la importación de Samsung Health). Son 28 bloques, con la vista previa de cada uno tomada del bloque real.",
         "Reloj: en el entreno, los toques en Pausar, Terminar y en el número principal vuelven a funcionar junto con el deslizamiento entre pantallas."
-      ]
-    },
-    {
-      "versao": "0.106.4",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio: blocos novos no formato do Galaxy Watch: 13 meios blocos (cartões em pílula que encaixam dois por página: Atividade de hoje, Passos, Batimentos, FC em repouso, Sono, Água com +250 ml no toque, Energia, Recuperação, Começar treino, Último treino, Treino da semana, Peso e Acompanhamento) e 6 blocos cheios (Iniciar treino, Hoje, Batimentos, Sono, Água e Pontuações).",
-        "Cada bloco aparece agrupado por categoria (Atividade, Exercício, Coração, Sono, Nutrição, Bem-estar, Corpo) e com a prévia igual ao bloco de verdade."
-      ],
-      "en": [
-        "Watch: new tiles in the Galaxy Watch format: 13 half tiles (pill cards that fit two per page: Today's activity, Steps, Heart rate, Resting HR, Sleep, Water with +250 ml on tap, Energy, Recovery, Start workout, Last workout, Workouts this week, Weight and Monitoring) and 6 full tiles (Start workout, Today, Heart rate, Sleep, Water and Scores).",
-        "Each tile is grouped by category (Activity, Exercise, Heart, Sleep, Nutrition, Wellness, Body) and has a preview that matches the real tile."
-      ],
-      "es": [
-        "Reloj: bloques nuevos en el formato del Galaxy Watch: 13 medios bloques (tarjetas en píldora que caben dos por página: Actividad de hoy, Pasos, Pulso, FC en reposo, Sueño, Agua con +250 ml al tocar, Energía, Recuperación, Empezar entreno, Último entreno, Entreno de la semana, Peso y Seguimiento) y 6 bloques completos (Iniciar entreno, Hoy, Pulso, Sueño, Agua y Puntuaciones).",
-        "Cada bloque aparece agrupado por categoría (Actividad, Ejercicio, Corazón, Sueño, Nutrición, Bienestar, Cuerpo) y con la vista previa igual al bloque real."
       ]
     }
   ]
