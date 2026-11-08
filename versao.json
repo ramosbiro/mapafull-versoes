@@ -1,17 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.110.2",
-  "codigo": 313,
+  "versao": "0.111.0",
+  "codigo": 314,
   "data": "08/11/2026",
-  "tamanho": 108901632,
-  "sha256": "52d975eebb6b4a1eca365b3726bfab487902986074a7dc3d63df15ba00632d0f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.2/Vrumbi-0.110.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.2/Vrumbi-relogio-0.110.2.apk",
+  "tamanho": 108910340,
+  "sha256": "195bc27bcc523b9c544be67392117059afb9118bd2c25249ecbfbfcf47bbd01a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.0/Vrumbi-0.111.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.0/Vrumbi-relogio-0.111.0.apk",
   "notas": [
-    "Widgets de treino: ande pelas semanas tocando nas bordas do gráfico — a esquerda volta e a direita avança, 1 dia ou 1 semana por toque (você escolhe). O meio continua abrindo o app.",
-    "Escolha onde o hoje fica no gráfico: a semana do calendário (D a S), no início, no meio (metade passado, metade futuro) ou no fim. A posição fica gravada, também depois de reiniciar o celular; \"Voltar para hoje\" na configuração do widget."
+    "Clima no mapa: o tempo de onde você está, com ícone e temperatura, no canto de cima à esquerda (em pé e deitado), do outro lado da rosa dos ventos. Ele acompanha você pelo caminho e, com um toque, abre o Clima e tempo.",
+    "Segure e arraste o clima ou a rosa dos ventos para mudar o lugar deles. A posição fica gravada, uma para o celular em pé e outra para deitado; em GPS e bússola dá para voltar ao lugar de fábrica.",
+    "Tocar na rosa dos ventos abre o GPS e bússola; a troca 2D/3D ficou no topo dessa tela (e continua o gesto de inclinar com dois dedos).",
+    "Segurar um cartão ou botão não seleciona mais o texto nem abre o menu Copiar/Compartilhar.",
+    "Configurações: Transporte público foi para o grupo Navegação. Clima e tempo saiu do grupo Mapa, porque agora fica no próprio mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.111.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Clima no mapa: o tempo de onde você está, com ícone e temperatura, no canto de cima à esquerda (em pé e deitado), do outro lado da rosa dos ventos. Ele acompanha você pelo caminho e, com um toque, abre o Clima e tempo.",
+        "Segure e arraste o clima ou a rosa dos ventos para mudar o lugar deles. A posição fica gravada, uma para o celular em pé e outra para deitado; em GPS e bússola dá para voltar ao lugar de fábrica.",
+        "Tocar na rosa dos ventos abre o GPS e bússola; a troca 2D/3D ficou no topo dessa tela (e continua o gesto de inclinar com dois dedos).",
+        "Segurar um cartão ou botão não seleciona mais o texto nem abre o menu Copiar/Compartilhar.",
+        "Configurações: Transporte público foi para o grupo Navegação. Clima e tempo saiu do grupo Mapa, porque agora fica no próprio mapa."
+      ],
+      "en": [
+        "Weather on the map: the weather where you are, with icon and temperature, in the top-left corner (portrait and landscape), opposite the compass rose. It follows you along the way and opens Weather with one tap.",
+        "Hold and drag the weather or the compass rose to move them. The position is saved, one for portrait and one for landscape; GPS and compass can put them back in the default place.",
+        "Tapping the compass rose opens GPS and compass; the 2D/3D switch is now at the top of that screen (the two-finger tilt gesture still works).",
+        "Holding a card or button no longer selects the text or opens the Copy/Share menu.",
+        "Settings: Public transport moved to the Navigation group. Weather left the Map group, since it is now on the map itself."
+      ],
+      "es": [
+        "Clima en el mapa: el tiempo donde estás, con ícono y temperatura, en la esquina superior izquierda (vertical y horizontal), frente a la rosa de los vientos. Te acompaña por el camino y, con un toque, abre Clima y tiempo.",
+        "Mantén y arrastra el clima o la rosa de los vientos para cambiarlos de lugar. La posición queda guardada, una para vertical y otra para horizontal; en GPS y brújula puedes volver a la posición original.",
+        "Tocar la rosa de los vientos abre GPS y brújula; el cambio 2D/3D quedó arriba en esa pantalla (y sigue el gesto de inclinar con dos dedos).",
+        "Mantener presionada una tarjeta o botón ya no selecciona el texto ni abre el menú Copiar/Compartir.",
+        "Configuración: Transporte público pasó al grupo Navegación. Clima y tiempo salió del grupo Mapa, porque ahora está en el propio mapa."
+      ]
+    },
     {
       "versao": "0.110.2",
       "data": "08/11/2026",
@@ -225,25 +253,6 @@
         "Reloj midiendo todo el día: con la app de Vrumbi en el reloj (Wear OS), pulso, pasos, calorías, distancia, pisos y sueño se miden todo el día, con la app cerrada, y llegan solos al celular (lo que no llegue se guarda y se envía después).",
         "Aviso al instante, como en Samsung Health: pulso alto (más de 120) o bajo (menos de 40) durante 10 minutos estando quieto llega como notificación en el celular.",
         "La FC en reposo y el sueño medidos por el reloj entran en la pantalla Salud, en las puntuaciones y en el seguimiento; el origen aparece como \"Reloj con Vrumbi\". En el reloj, el botón \"Todo el día\" lo activa y desactiva."
-      ]
-    },
-    {
-      "versao": "0.105.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Gráficos do seu jeito: no botão de ajustes de cada gráfico, escolha o tipo (barras, translúcidas, degradê, pílulas, tracinhos, linha, área ou pirulito), a cor (a do app, qualquer cor da paleta ou pela situação: verde, âmbar, vermelho) e a opacidade.",
-        "Escolha também o que aparece (média, faixa de referência, valor em cada barra, maior e menor, grade, linha de tendência, último em destaque, datas), compare com outra medida numa segunda linha e, por mês ou ano, veja a média, o maior, o menor ou o total.",
-        "No painel do dia de Meus treinos dá para trocar o anel de riscos por um anel liso, translúcido ou barras, e os tracinhos da semana por barras modernas, com a cor de cada série. Vale só para um gráfico ou para todos."
-      ],
-      "en": [
-        "Charts your way: with the settings button on each chart, choose the type (bars, translucent, gradient, pills, dashes, line, area or lollipop), the color (the app color, any palette color or by status: green, amber, red) and the opacity.",
-        "Also choose what is shown (average, reference range, value on each bar, highest and lowest, grid, trend line, latest highlighted, dates), compare with another measure as a second line and, by month or year, see the average, highest, lowest or total.",
-        "On the My workouts daily panel you can swap the tick ring for a solid, translucent ring or bars, and the week dashes for modern bars, with a color for each series. Applies to one chart or to all."
-      ],
-      "es": [
-        "Gráficos a tu manera: en el botón de ajustes de cada gráfico, elige el tipo (barras, translúcidas, degradado, píldoras, rayitas, línea, área o piruleta), el color (el de la app, cualquier color de la paleta o según la situación: verde, ámbar, rojo) y la opacidad.",
-        "Elige también qué se muestra (promedio, rango de referencia, valor en cada barra, mayor y menor, cuadrícula, línea de tendencia, último destacado, fechas), compara con otra medida en una segunda línea y, por mes o año, ve el promedio, el mayor, el menor o el total.",
-        "En el panel del día de Mis entrenos puedes cambiar el anillo de rayas por un anillo liso, translúcido o barras, y las rayitas de la semana por barras modernas, con el color de cada serie. Vale para un gráfico o para todos."
       ]
     }
   ]
