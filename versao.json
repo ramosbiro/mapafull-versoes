@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.110.0",
-  "codigo": 311,
-  "data": "07/11/2026",
-  "tamanho": 108876828,
-  "sha256": "1fc8d4463e8b6e534ef4d413d5ac9e2cc95964427865d4059649a57d3b8ffe18",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.0/Vrumbi-0.110.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.0/Vrumbi-relogio-0.110.0.apk",
+  "versao": "0.110.1",
+  "codigo": 312,
+  "data": "08/11/2026",
+  "tamanho": 108893984,
+  "sha256": "8ce066935b95a5f98832afce958e5bcf61f2476e244e01ee57ab6c27806332ed",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.1/Vrumbi-0.110.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.110.1/Vrumbi-relogio-0.110.1.apk",
   "notas": [
-    "Relógio na rota: ao começar uma rota no celular, o relógio mostra a seta da manobra, a distância diminuindo, a instrução, a rua, as faixas, a manobra seguinte, a chegada e o tempo que falta, a sua velocidade com a placa do limite da via e o progresso da viagem no aro da tela.",
-    "Relógio no modo livre (sem rota, dirigindo): a velocidade, a placa do limite, a rua e o que vem pela frente — radar, free flow e alertas da comunidade —, com aviso no pulso. Excesso de velocidade nunca vibra.",
-    "Vibração própria de cada coisa: manobra à esquerda 2 toques, à direita 3, retorno, chegada, radar, free flow e alerta da comunidade, cada um diferente. No relógio: Voz/Mudo, Repetir, Clima e Encerrar rota.",
-    "Blocos novos \"Rota e direção\" (cheio e meio bloco) e o cartão da rota no alto da tela inicial do relógio. Em Configurações > Rota e direção: ligar ou desligar cada aviso, as vibrações das manobras e abrir a rota sozinho; e testar as vibrações."
+    "Widgets de treino viram o dia à meia-noite: o \"hoje\" começa zerado na hora (antes podia ficar até meia hora com o dia anterior). Os passos contados pelo celular perto da meia-noite ficam no dia certo.",
+    "Widgets mais ao vivo: com a tela acesa, eles releem os passos a cada 2 minutos; com o relógio do Vrumbi no pulso, os passos dele entram assim que chegam. Com a tela apagada nada roda (sem gasto de bateria) e, ao acender, o widget já aparece em dia.",
+    "Relógio: os blocos e a tela também viram o dia à meia-noite."
   ],
   "versoes": [
+    {
+      "versao": "0.110.1",
+      "data": "08/11/2026",
+      "itens": [
+        "Widgets de treino viram o dia à meia-noite: o \"hoje\" começa zerado na hora (antes podia ficar até meia hora com o dia anterior). Os passos contados pelo celular perto da meia-noite ficam no dia certo.",
+        "Widgets mais ao vivo: com a tela acesa, eles releem os passos a cada 2 minutos; com o relógio do Vrumbi no pulso, os passos dele entram assim que chegam. Com a tela apagada nada roda (sem gasto de bateria) e, ao acender, o widget já aparece em dia.",
+        "Relógio: os blocos e a tela também viram o dia à meia-noite."
+      ],
+      "en": [
+        "Workout widgets roll over at midnight: \"today\" starts at zero right away (before, it could keep the previous day for up to half an hour). Steps counted by the phone around midnight stay on the right day.",
+        "More live widgets: with the screen on, they re-read steps every 2 minutes; with the Vrumbi watch on your wrist, its steps come in as soon as they arrive. With the screen off nothing runs (no battery drain) and when it turns on the widget is already up to date.",
+        "Watch: tiles and the app screen also roll over at midnight."
+      ],
+      "es": [
+        "Los widgets de entreno cambian de día a medianoche: el \"hoy\" empieza en cero al instante (antes podía quedarse con el día anterior hasta media hora). Los pasos contados por el móvil cerca de la medianoche quedan en el día correcto.",
+        "Widgets más en vivo: con la pantalla encendida, releen los pasos cada 2 minutos; con el reloj de Vrumbi en la muñeca, sus pasos entran apenas llegan. Con la pantalla apagada no corre nada (sin gasto de batería) y al encenderla el widget ya está al día.",
+        "Reloj: los bloques y la pantalla también cambian de día a medianoche."
+      ]
+    },
     {
       "versao": "0.110.0",
       "data": "07/11/2026",
@@ -230,25 +248,6 @@
         "Puntuaciones de Vrumbi: Sueño, Recuperación y Energía (0 a 100), calculadas con tus datos, incluso los que llegan solos por Health Connect, sin depender de las puntuaciones cerradas de Samsung Health.",
         "Cada puntuación muestra cómo se calculó: las partes (duración, fases y tiempo despierto en el sueño; variabilidad, FC en reposo y sueño en la recuperación; recuperación y carga de entrenamiento en la energía) y cuántos puntos dio cada una.",
         "Las tres entran en el seguimiento y los avisos, como las demás medidas."
-      ]
-    },
-    {
-      "versao": "0.103.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Saúde sem depender da exportação: o acompanhamento roda também com o app fechado, a cada hora, lendo a Conexão Saúde, e avisa no celular quando uma medida de hoje sai da faixa.",
-        "Nova seção \"De onde vem cada medida\": o que chega sozinho pela Conexão Saúde (e de qual app), o que o Vrumbi calcula, o que você anota e o que só vem pela exportação do Samsung Health. Cada medida mostra a origem e o último registro.",
-        "FC em repouso calculada pelo Vrumbi a partir dos batimentos (funciona com qualquer relógio) e a temperatura da pele, quando o aparelho tiver."
-      ],
-      "en": [
-        "Health without depending on the export: monitoring also runs with the app closed, every hour, reading Health Connect, and alerts on the phone when a measure from today goes out of range.",
-        "New \"Where each measure comes from\" section: what arrives automatically via Health Connect (and from which app), what Vrumbi calculates, what you log and what only comes from the Samsung Health export. Each measure shows its source and last record.",
-        "Resting heart rate calculated by Vrumbi from heart rate data (works with any watch) and skin temperature, when the device has it."
-      ],
-      "es": [
-        "Salud sin depender de la exportación: el seguimiento funciona también con la app cerrada, cada hora, leyendo Health Connect, y avisa en el celular cuando una medida de hoy sale del rango.",
-        "Nueva sección \"De dónde viene cada medida\": lo que llega solo por Health Connect (y de qué app), lo que Vrumbi calcula, lo que anotas y lo que solo viene por la exportación de Samsung Health. Cada medida muestra su origen y el último registro.",
-        "FC en reposo calculada por Vrumbi a partir del pulso (funciona con cualquier reloj) y la temperatura de la piel, cuando el dispositivo la tenga."
       ]
     }
   ]
