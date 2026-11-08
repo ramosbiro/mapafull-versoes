@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.115.0",
-  "codigo": 323,
+  "versao": "0.116.0",
+  "codigo": 324,
   "data": "08/11/2026",
-  "tamanho": 109027933,
-  "sha256": "7d32f39030ce2b221916fdabf5d994797c0606f46abd4a5abcd929e8a3afb512",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.115.0/Vrumbi-0.115.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.115.0/Vrumbi-relogio-0.115.0.apk",
+  "tamanho": 109776110,
+  "sha256": "84e469bdf6319a9410877de7e6026c83620bd53b88455daabea4d2f17eeab29b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.0/Vrumbi-0.116.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.0/Vrumbi-relogio-0.116.0.apk",
   "notas": [
-    "Quem atende aqui: ao tocar num endereço, o lugar mostra o pronto atendimento público mais perto (UPA, PS municipal) que esteja aberto agora e o hospital público mais perto, com endereço, telefone e rota. Hospital particular só aparece quando não há público por perto. A unidade que não abre 24 h sai da lista à noite.",
-    "Módulo da polícia: embaixo do cartão da PM vem o cartão da Polícia Civil (DP e seccional da área). No lugar tocado aparecem a sede do CPA, a do batalhão, a base da Cia e o DP, cada um com endereço, telefone e rota."
+    "Emergência médica no Brasil inteiro: a lista do lugar tocado agora traz todos os hospitais, UPAs, prontos-socorros e prontos atendimentos até 60 km. Primeiro os grandes hospitais públicos (Santa Casa, hospital regional, HC), depois UPA e pronto-socorro, depois os outros hospitais públicos e, no fim, os que estão fechados agora. \"Ver mais\" abre a lista inteira. Cada um com endereço, telefone, rota e o horário: 24 h, aberto até tal hora ou fechado (abre tal hora). Fora do Brasil a lista vem do OpenStreetMap.",
+    "Módulo da polícia: sem informação repetida. No lugar tocado saem os cartões laranja e fica só a lista, na ordem CPA, Batalhão, Cia, Bombeiros e Polícia Civil (com a seccional), cada um com endereço, telefone e rota. O posto de bombeiros da área entrou na lista."
   ],
   "versoes": [
+    {
+      "versao": "0.116.0",
+      "data": "08/11/2026",
+      "itens": [
+        "Emergência médica no Brasil inteiro: a lista do lugar tocado agora traz todos os hospitais, UPAs, prontos-socorros e prontos atendimentos até 60 km. Primeiro os grandes hospitais públicos (Santa Casa, hospital regional, HC), depois UPA e pronto-socorro, depois os outros hospitais públicos e, no fim, os que estão fechados agora. \"Ver mais\" abre a lista inteira. Cada um com endereço, telefone, rota e o horário: 24 h, aberto até tal hora ou fechado (abre tal hora). Fora do Brasil a lista vem do OpenStreetMap.",
+        "Módulo da polícia: sem informação repetida. No lugar tocado saem os cartões laranja e fica só a lista, na ordem CPA, Batalhão, Cia, Bombeiros e Polícia Civil (com a seccional), cada um com endereço, telefone e rota. O posto de bombeiros da área entrou na lista."
+      ],
+      "en": [
+        "Medical emergency across Brazil: the tapped place now lists every hospital, UPA, emergency room and urgent care within 60 km. Large public hospitals first (Santa Casa, regional and university hospitals), then urgent care and ERs, then other public hospitals and, last, the ones closed right now. \"See more\" opens the full list. Each with address, phone, route and hours: 24 h, open until a given time or closed (opens at a given time). Outside Brazil the list comes from OpenStreetMap.",
+        "Police module: no repeated information. The orange cards leave the tapped place and only the list stays, in the order CPA, Battalion, Company, Fire department and Civil police (with the division), each with address, phone and route. The fire station of the area joined the list."
+      ],
+      "es": [
+        "Emergencia médica en todo Brasil: la lista del lugar tocado ahora trae todos los hospitales, UPA, urgencias y prontos atendimientos hasta 60 km. Primero los grandes hospitales públicos (Santa Casa, hospital regional, HC), luego UPA y urgencias, luego los otros hospitales públicos y, al final, los que están cerrados ahora. \"Ver más\" abre la lista completa. Cada uno con dirección, teléfono, ruta y horario: 24 h, abierto hasta tal hora o cerrado (abre a tal hora). Fuera de Brasil la lista viene de OpenStreetMap.",
+        "Módulo policial: sin información repetida. En el lugar tocado salen las tarjetas naranjas y queda solo la lista, en el orden CPA, Batallón, Compañía, Bomberos y Policía Civil (con la seccional), cada uno con dirección, teléfono y ruta. El puesto de bomberos del área entró en la lista."
+      ]
+    },
     {
       "versao": "0.115.0",
       "data": "08/11/2026",
@@ -210,25 +226,6 @@
       "es": [
         "Widgets de entreno: recorre las semanas tocando los bordes del gráfico — el izquierdo retrocede y el derecho avanza, 1 día o 1 semana por toque (tú eliges). El centro sigue abriendo la app.",
         "Elige dónde queda el hoy en el gráfico: la semana del calendario (D a S), al inicio, en el medio (mitad pasado, mitad futuro) o al final. La posición queda guardada, también al reiniciar el móvil; \"Volver a hoy\" en la configuración del widget."
-      ]
-    },
-    {
-      "versao": "0.110.1",
-      "data": "08/11/2026",
-      "itens": [
-        "Widgets de treino viram o dia à meia-noite: o \"hoje\" começa zerado na hora (antes podia ficar até meia hora com o dia anterior). Os passos contados pelo celular perto da meia-noite ficam no dia certo.",
-        "Widgets mais ao vivo: com a tela acesa, eles releem os passos a cada 2 minutos; com o relógio do Vrumbi no pulso, os passos dele entram assim que chegam. Com a tela apagada nada roda (sem gasto de bateria) e, ao acender, o widget já aparece em dia.",
-        "Relógio: os blocos e a tela também viram o dia à meia-noite."
-      ],
-      "en": [
-        "Workout widgets roll over at midnight: \"today\" starts at zero right away (before, it could keep the previous day for up to half an hour). Steps counted by the phone around midnight stay on the right day.",
-        "More live widgets: with the screen on, they re-read steps every 2 minutes; with the Vrumbi watch on your wrist, its steps come in as soon as they arrive. With the screen off nothing runs (no battery drain) and when it turns on the widget is already up to date.",
-        "Watch: tiles and the app screen also roll over at midnight."
-      ],
-      "es": [
-        "Los widgets de entreno cambian de día a medianoche: el \"hoy\" empieza en cero al instante (antes podía quedarse con el día anterior hasta media hora). Los pasos contados por el móvil cerca de la medianoche quedan en el día correcto.",
-        "Widgets más en vivo: con la pantalla encendida, releen los pasos cada 2 minutos; con el reloj de Vrumbi en la muñeca, sus pasos entran apenas llegan. Con la pantalla apagada no corre nada (sin gasto de batería) y al encenderla el widget ya está al día.",
-        "Reloj: los bloques y la pantalla también cambian de día a medianoche."
       ]
     }
   ]
