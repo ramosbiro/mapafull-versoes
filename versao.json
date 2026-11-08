@@ -1,20 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.111.0",
-  "codigo": 314,
+  "versao": "0.111.1",
+  "codigo": 315,
   "data": "08/11/2026",
-  "tamanho": 108910340,
-  "sha256": "195bc27bcc523b9c544be67392117059afb9118bd2c25249ecbfbfcf47bbd01a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.0/Vrumbi-0.111.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.0/Vrumbi-relogio-0.111.0.apk",
+  "tamanho": 108910556,
+  "sha256": "a4bf9f63f86f145c3e638b6cfd15662e494605abf3c864b866b090672c39627d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.1/Vrumbi-0.111.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.111.1/Vrumbi-relogio-0.111.1.apk",
   "notas": [
-    "Clima no mapa: o tempo de onde você está, com ícone e temperatura, no canto de cima à esquerda (em pé e deitado), do outro lado da rosa dos ventos. Ele acompanha você pelo caminho e, com um toque, abre o Clima e tempo.",
-    "Segure e arraste o clima ou a rosa dos ventos para mudar o lugar deles. A posição fica gravada, uma para o celular em pé e outra para deitado; em GPS e bússola dá para voltar ao lugar de fábrica.",
-    "Tocar na rosa dos ventos abre o GPS e bússola; a troca 2D/3D ficou no topo dessa tela (e continua o gesto de inclinar com dois dedos).",
-    "Segurar um cartão ou botão não seleciona mais o texto nem abre o menu Copiar/Compartilhar.",
-    "Configurações: Transporte público foi para o grupo Navegação. Clima e tempo saiu do grupo Mapa, porque agora fica no próprio mapa."
+    "Rosa dos ventos: um toque volta a trocar 2D/3D, como antes. Dois toques rápidos abrem o GPS e bússola (com a mesma troca 2D/3D no topo). Segurar e arrastar continua mudando o lugar dela."
   ],
   "versoes": [
+    {
+      "versao": "0.111.1",
+      "data": "08/11/2026",
+      "itens": [
+        "Rosa dos ventos: um toque volta a trocar 2D/3D, como antes. Dois toques rápidos abrem o GPS e bússola (com a mesma troca 2D/3D no topo). Segurar e arrastar continua mudando o lugar dela."
+      ],
+      "en": [
+        "Compass rose: one tap switches 2D/3D again, as before. Two quick taps open GPS and compass (with the same 2D/3D switch at the top). Holding and dragging still moves it."
+      ],
+      "es": [
+        "Rosa de los vientos: un toque vuelve a cambiar 2D/3D, como antes. Dos toques rápidos abren GPS y brújula (con el mismo cambio 2D/3D arriba). Mantener y arrastrar sigue cambiándola de lugar."
+      ]
+    },
     {
       "versao": "0.111.0",
       "data": "08/11/2026",
@@ -234,25 +243,6 @@
         "Reloj: Finalizar ahora termina al instante (antes podía quedar trabado esperando el celular) y un entreno que quedó abierto se cierra antes de empezar otro.",
         "Pantallas del entreno en el reloj: los datos en el medio (desliza arriba y abajo, o gira la corona, para cambiar de pantalla), Pausar y Finalizar a la izquierda, la música a la derecha; mantén 3 segundos para configurar la pantalla (cuadrícula, qué número en cada espacio, orden de las pantallas).",
         "Bloques de Vrumbi en el reloj: Entreno (empezar con un toque), Hoy (pasos con la meta, calorías, distancia, pisos), Pulso, Sueño, Agua (+250 ml va al diario del celular) y Puntuaciones de Vrumbi con las medidas en alerta."
-      ]
-    },
-    {
-      "versao": "0.106.0",
-      "data": "07/11/2026",
-      "itens": [
-        "Relógio medindo o dia inteiro: com o app do Vrumbi no relógio (Wear OS), batimentos, passos, calorias, distância, andares e o sono são medidos o dia todo, com o app fechado, e chegam ao celular sozinhos (o que não chegar fica guardado e vai depois).",
-        "Aviso na hora, como no Samsung Health: batimentos altos (acima de 120) ou baixos (abaixo de 40) por 10 minutos com você parado chegam como notificação no celular.",
-        "A FC em repouso e o sono medidos pelo relógio entram na tela Saúde, nas pontuações e no acompanhamento; a origem aparece como \"Relógio com o Vrumbi\". No relógio, o botão \"Dia inteiro\" liga e desliga."
-      ],
-      "en": [
-        "Watch measuring all day: with the Vrumbi app on the watch (Wear OS), heart rate, steps, calories, distance, floors and sleep are measured all day, with the app closed, and reach the phone automatically (anything that does not arrive is kept and sent later).",
-        "Instant alert, like Samsung Health: high (above 120) or low (below 40) heart rate for 10 minutes while you are still arrives as a phone notification.",
-        "Resting heart rate and sleep measured by the watch go into the Health screen, the scores and monitoring; the source shows as \"Watch with Vrumbi\". On the watch, the \"All day\" button turns it on and off."
-      ],
-      "es": [
-        "Reloj midiendo todo el día: con la app de Vrumbi en el reloj (Wear OS), pulso, pasos, calorías, distancia, pisos y sueño se miden todo el día, con la app cerrada, y llegan solos al celular (lo que no llegue se guarda y se envía después).",
-        "Aviso al instante, como en Samsung Health: pulso alto (más de 120) o bajo (menos de 40) durante 10 minutos estando quieto llega como notificación en el celular.",
-        "La FC en reposo y el sueño medidos por el reloj entran en la pantalla Salud, en las puntuaciones y en el seguimiento; el origen aparece como \"Reloj con Vrumbi\". En el reloj, el botón \"Todo el día\" lo activa y desactiva."
       ]
     }
   ]
