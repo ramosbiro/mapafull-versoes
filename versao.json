@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.117.2",
-  "codigo": 332,
+  "versao": "0.117.3",
+  "codigo": 333,
   "data": "09/11/2026",
-  "tamanho": 109823493,
-  "sha256": "9090cff03aa2c50f3cc794c395de7e37b374f92cf16c3ec48b98279af80d85b6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.2/Vrumbi-0.117.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.2/Vrumbi-relogio-0.117.2.apk",
+  "tamanho": 109823825,
+  "sha256": "252a82d40defae2cbecc7202bd83febe8b68efbfef30b89147c8273585d9f968",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.3/Vrumbi-0.117.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.3/Vrumbi-relogio-0.117.3.apk",
   "notas": [
-    "Cartão do endereço: sumiu a barra vazia que aparecia embaixo do cartão laranja da polícia, e a linha do centro comercial (\"o que tem aqui\") agora fica dentro do cartão, com o nome cortado em \"…\" quando é grande demais."
+    "Cartão do endereço: o cartão da polícia ganhou a seta para a direita, igual à do centro comercial, mostrando que dá para tocar. Tocar nele abre quem atende o lugar; tocar na linha do centro comercial abre o que tem lá, mesmo dentro de um shopping."
   ],
   "versoes": [
+    {
+      "versao": "0.117.3",
+      "data": "09/11/2026",
+      "itens": [
+        "Cartão do endereço: o cartão da polícia ganhou a seta para a direita, igual à do centro comercial, mostrando que dá para tocar. Tocar nele abre quem atende o lugar; tocar na linha do centro comercial abre o que tem lá, mesmo dentro de um shopping."
+      ],
+      "en": [
+        "Address card: the police card now has the right arrow, like the shopping center line, showing it can be tapped. Tapping it opens who serves the place; tapping the shopping center line opens what is there, even inside a mall."
+      ],
+      "es": [
+        "Tarjeta de la dirección: la tarjeta de la policía ahora tiene la flecha a la derecha, igual que la del centro comercial, mostrando que se puede tocar. Al tocarla se abre quién atiende el lugar; la línea del centro comercial abre lo que hay allí, incluso dentro de un shopping."
+      ]
+    },
     {
       "versao": "0.117.2",
       "data": "09/11/2026",
@@ -185,19 +198,6 @@
       "es": [
         "Búsqueda: lugares cercanos. Debajo de los atajos hay una fila de categorías (gasolinera, estacionamiento, restaurante, mercado, farmacia, carga eléctrica, hotel, cajero...) y \"Todos\" abre la lista completa por grupo: vehículo, comida y bebida, compras, alojamiento, transporte, dinero y servicios, salud, ocio y educación. Un toque muestra los más cercanos, con tus favoritos primero, distancia, estrellas, Ir y Guardar.",
         "Búsqueda por voz: el micrófono ahora está dentro de la barra de dirección. Toca, di la dirección o el lugar y la búsqueda corre con lo que dijiste."
-      ]
-    },
-    {
-      "versao": "0.113.4",
-      "data": "08/11/2026",
-      "itens": [
-        "Relógio: três grades novas nas Telas do treino -- 6 números (2 × 3), 7 (um grande e comprido em cima e 3 de cada lado embaixo) e 8 (2 × 4). As grades agora ficam em duas fileiras no editor."
-      ],
-      "en": [
-        "Watch: three new grids for workout Screens -- 6 numbers (2 × 3), 7 (one large, wide on top and 3 on each side below) and 8 (2 × 4). The grids now sit in two rows in the editor."
-      ],
-      "es": [
-        "Reloj: tres cuadrículas nuevas en las Pantallas del entreno -- 6 números (2 × 3), 7 (uno grande y ancho arriba y 3 a cada lado abajo) y 8 (2 × 4). Las cuadrículas ahora van en dos filas en el editor."
       ]
     }
   ]
