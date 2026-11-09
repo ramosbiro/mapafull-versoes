@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.4",
-  "codigo": 328,
+  "versao": "0.116.5",
+  "codigo": 329,
   "data": "08/11/2026",
-  "tamanho": 109781809,
-  "sha256": "4359c4b2afc4a66e1b686ddbe8ef32c3d754806136f5141e35371e4212f1d505",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.4/Vrumbi-0.116.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.4/Vrumbi-relogio-0.116.4.apk",
+  "tamanho": 109783017,
+  "sha256": "c6981dd2a3a957141dc3200d853c543612e24b0e509f2c0d6ef2112cb93041ff",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.5/Vrumbi-0.116.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.5/Vrumbi-relogio-0.116.5.apk",
   "notas": [
-    "Cartão do endereço mais baixo: CPA, Batalhão, Cia e a DP agora ficam num cartão laranja só: numa linha com a tela deitada e em duas linhas em pé, sem cortar nenhum nome. Tocando nele abre a ficha com tudo (endereços, telefones e rotas)."
+    "Cartão do endereço aproveitando todo o espaço: o X ficou pequeno, laranja e no cantinho, e o nome da rua, o bairro e a cidade só quebram de linha quando não cabem mesmo. O cartão ficou mais baixo.",
+    "O ícone da sua posição agora acompanha o cartão do endereço, em pé e deitado: se o cartão cresce, o ícone sobe; se diminui, desce. O cartão nunca cobre o ícone, com qualquer ícone e tamanho escolhido."
   ],
   "versoes": [
+    {
+      "versao": "0.116.5",
+      "data": "08/11/2026",
+      "itens": [
+        "Cartão do endereço aproveitando todo o espaço: o X ficou pequeno, laranja e no cantinho, e o nome da rua, o bairro e a cidade só quebram de linha quando não cabem mesmo. O cartão ficou mais baixo.",
+        "O ícone da sua posição agora acompanha o cartão do endereço, em pé e deitado: se o cartão cresce, o ícone sobe; se diminui, desce. O cartão nunca cobre o ícone, com qualquer ícone e tamanho escolhido."
+      ],
+      "en": [
+        "Address card using all the space: the X is now small, orange and in the corner, and the street, neighborhood and city only wrap when they really do not fit. The card is shorter.",
+        "Your position icon now follows the address card, in portrait and landscape: if the card grows, the icon moves up; if it shrinks, it moves down. The card never covers the icon, whatever icon and size you chose."
+      ],
+      "es": [
+        "Tarjeta de la dirección aprovechando todo el espacio: la X quedó pequeña, naranja y en la esquina, y la calle, el barrio y la ciudad solo pasan a otra línea cuando de verdad no caben. La tarjeta quedó más baja.",
+        "El ícono de tu posición ahora acompaña la tarjeta de la dirección, en vertical y horizontal: si la tarjeta crece, el ícono sube; si se achica, baja. La tarjeta nunca cubre el ícono, con cualquier ícono y tamaño elegido."
+      ]
+    },
     {
       "versao": "0.116.4",
       "data": "08/11/2026",
@@ -167,37 +184,6 @@
       ],
       "es": [
         "Resumen de la mañana: en lugar de mañana, tarde y noche, 6 horarios desde la próxima hora, cada 1, 2 o 3 horas (elige en Avisos de clima > Resumen de la mañana)."
-      ]
-    },
-    {
-      "versao": "0.113.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Widgets de treino com a marca: o carrinho e \"Vrumbi\" no alto, como no widget de clima (nos grandes, uma faixa; nos menores, no canto; nos bem baixinhos fica só o carrinho, para não cobrir os números).",
-        "Meus treinos: o Histórico ganhou um cartão próprio (Dias/Semanas/Meses, filtros, resumo, gráfico e a lista dos treinos), separado do que é planejamento e acompanhamento do dia.",
-        "A ordem dos filtros de esporte (Caminhada, Corrida na esteira...) agora é sua: toque em ⇅ ao lado deles. \"Todos\" fica sempre em primeiro.",
-        "Clima e tempo de volta nas Configurações (grupo Mapa), além do ícone do clima no mapa.",
-        "Painel do dia e prévia do widget: segure o gráfico da semana e puxe para o lado para andar dia a dia.",
-        "Mapa mais solto: o deslize vai mais longe e, deslizando várias vezes seguidas, cada deslize vai mais longe que o anterior (bom para atravessar a cidade).",
-        "Painel do dia: escolha onde fica o hoje na semana (D a S, no início, no meio ou no fim) em Personalizar gráfico, e toque nas bordas do gráfico para voltar ou avançar 1 dia ou 1 semana, como no widget."
-      ],
-      "en": [
-        "Workout widgets with the brand: the car and \"Vrumbi\" at the top, like the weather widget (a strip on the large ones; in the corner on smaller ones; on very short ones only the car, so it does not cover the numbers).",
-        "My workouts: History now has its own card (Days/Weeks/Months, filters, summary, chart and the workout list), separate from the day's planning and tracking.",
-        "You decide the order of the sport filters (Walking, Treadmill running...): tap ⇅ next to them. \"All\" always stays first.",
-        "Weather back in Settings (Map group), besides the weather icon on the map.",
-        "Day panel and widget preview: hold the week chart and drag sideways to move day by day.",
-        "Looser map: a swipe goes farther and, swiping several times in a row, each swipe goes farther than the last (good for crossing the city).",
-        "Day panel: choose where today sits in the week (Sun to Sat, at the start, middle or end) in Customize chart, and tap the chart edges to go back or forward 1 day or 1 week, like the widget."
-      ],
-      "es": [
-        "Widgets de entreno con la marca: el carrito y \"Vrumbi\" arriba, como en el widget de clima (una franja en los grandes; en la esquina en los menores; en los muy bajos solo el carrito, para no tapar los números).",
-        "Mis entrenamientos: el Historial tiene su propia tarjeta (Días/Semanas/Meses, filtros, resumen, gráfico y la lista), separada de la planificación y el seguimiento del día.",
-        "El orden de los filtros de deporte (Caminata, Carrera en cinta...) ahora es tuyo: toca ⇅ junto a ellos. \"Todos\" queda siempre primero.",
-        "Clima y tiempo de vuelta en Configuración (grupo Mapa), además del ícono del clima en el mapa.",
-        "Panel del día y vista previa del widget: mantén el gráfico de la semana y arrastra hacia el lado para moverte día a día.",
-        "Mapa más suelto: el deslizamiento llega más lejos y, deslizando varias veces seguidas, cada uno llega más lejos que el anterior (bueno para cruzar la ciudad).",
-        "Panel del día: elige dónde queda el hoy en la semana (D a S, al inicio, en el medio o al final) en Personalizar gráfico, y toca los bordes del gráfico para retroceder o avanzar 1 día o 1 semana, como en el widget."
       ]
     }
   ]
