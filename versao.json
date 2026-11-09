@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.117.3",
-  "codigo": 333,
+  "versao": "0.118.0",
+  "codigo": 334,
   "data": "09/11/2026",
-  "tamanho": 109823825,
-  "sha256": "252a82d40defae2cbecc7202bd83febe8b68efbfef30b89147c8273585d9f968",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.3/Vrumbi-0.117.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.3/Vrumbi-relogio-0.117.3.apk",
+  "tamanho": 109838769,
+  "sha256": "4aba12a12bbe6627e5a308b4a211261b3f08e59581c954f288069d7680a1206c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.0/Vrumbi-0.118.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.0/Vrumbi-relogio-0.118.0.apk",
   "notas": [
-    "Cartão do endereço: o cartão da polícia ganhou a seta para a direita, igual à do centro comercial, mostrando que dá para tocar. Tocar nele abre quem atende o lugar; tocar na linha do centro comercial abre o que tem lá, mesmo dentro de um shopping."
+    "Seguir do seu jeito: mexa no mapa com dois dedos (pinçar para longe ou perto, deitar ou levantar, girar) e aparece no alto o botão \"Guardar esta visão\". Um toque e o Seguir passa a abrir exatamente como está na tela.",
+    "Girar o mapa com dois dedos não solta mais o Seguir: o ícone continua sendo seguido, com o mapa na orientação que você deixou.",
+    "Nova tela Ajustes > Navegação > Visão do Seguir: distância, inclinação (automática ou de 0° a 75°), direção (para onde vou ou norte para cima), aproximar pela velocidade e nas curvas, e voltar ao padrão do Vrumbi."
   ],
   "versoes": [
+    {
+      "versao": "0.118.0",
+      "data": "09/11/2026",
+      "itens": [
+        "Seguir do seu jeito: mexa no mapa com dois dedos (pinçar para longe ou perto, deitar ou levantar, girar) e aparece no alto o botão \"Guardar esta visão\". Um toque e o Seguir passa a abrir exatamente como está na tela.",
+        "Girar o mapa com dois dedos não solta mais o Seguir: o ícone continua sendo seguido, com o mapa na orientação que você deixou.",
+        "Nova tela Ajustes > Navegação > Visão do Seguir: distância, inclinação (automática ou de 0° a 75°), direção (para onde vou ou norte para cima), aproximar pela velocidade e nas curvas, e voltar ao padrão do Vrumbi."
+      ],
+      "en": [
+        "Follow your way: move the map with two fingers (pinch farther or closer, tilt, rotate) and a \"Save this view\" button shows at the top. One tap and Follow opens exactly as it is on screen.",
+        "Rotating the map with two fingers no longer stops Follow: your icon keeps being followed, with the map in the orientation you left it.",
+        "New screen Settings > Navigation > Follow view: distance, tilt (automatic or 0° to 75°), direction (where I am heading or north up), zoom by speed and at turns, and back to the Vrumbi default."
+      ],
+      "es": [
+        "Seguir a tu manera: mueve el mapa con dos dedos (pellizca para alejar o acercar, inclina, gira) y arriba aparece el botón \"Guardar esta vista\". Un toque y Seguir se abre exactamente como está en la pantalla.",
+        "Girar el mapa con dos dedos ya no suelta Seguir: tu ícono sigue siendo seguido, con el mapa en la orientación que dejaste.",
+        "Nueva pantalla Ajustes > Navegación > Vista de Seguir: distancia, inclinación (automática o de 0° a 75°), dirección (hacia donde voy o norte arriba), acercar según la velocidad y en las curvas, y volver a lo predeterminado de Vrumbi."
+      ]
+    },
     {
       "versao": "0.117.3",
       "data": "09/11/2026",
@@ -182,22 +203,6 @@
       "es": [
         "Quién atiende aquí: al tocar una dirección, el lugar muestra la urgencia pública más cercana (UPA, PS municipal) abierta ahora y el hospital público más cercano, con dirección, teléfono y ruta. El hospital privado solo aparece cuando no hay uno público cerca. Las unidades que no abren 24 h salen de la lista de noche.",
         "Módulo policial: debajo de la tarjeta de la PM viene la tarjeta de la Policía Civil (comisaría y seccional del área). El lugar tocado muestra las sedes del CPA, del batallón, la base de la compañía y la comisaría, cada una con dirección, teléfono y ruta."
-      ]
-    },
-    {
-      "versao": "0.114.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Busca: locais próximos. Embaixo dos atalhos há uma fileira de categorias (posto, estacionamento, restaurante, mercado, farmácia, eletroposto, hotel, caixa eletrônico...) e \"Todos\" abre a lista completa por grupo: veículo, comida e bebida, compras, hospedagem, transporte, dinheiro e serviços, saúde, lazer e educação. Um toque mostra os mais perto de você, com seus favoritos primeiro, distância, estrelas, Ir e Salvar.",
-        "Busca por voz: o microfone agora fica dentro da barra de endereço. Toque, fale o endereço ou o lugar e a busca já roda com o que você disse."
-      ],
-      "en": [
-        "Search: nearby places. Below the shortcuts there is a row of categories (fuel, parking, restaurant, market, pharmacy, EV charging, hotel, ATM...) and \"All\" opens the full list by group: vehicle, food and drink, shopping, lodging, transport, money and services, health, leisure and education. One tap shows the closest ones, with your favorites first, distance, stars, Go and Save.",
-        "Voice search: the microphone now sits inside the address bar. Tap, say the address or place and the search runs with what you said."
-      ],
-      "es": [
-        "Búsqueda: lugares cercanos. Debajo de los atajos hay una fila de categorías (gasolinera, estacionamiento, restaurante, mercado, farmacia, carga eléctrica, hotel, cajero...) y \"Todos\" abre la lista completa por grupo: vehículo, comida y bebida, compras, alojamiento, transporte, dinero y servicios, salud, ocio y educación. Un toque muestra los más cercanos, con tus favoritos primero, distancia, estrellas, Ir y Guardar.",
-        "Búsqueda por voz: el micrófono ahora está dentro de la barra de dirección. Toca, di la dirección o el lugar y la búsqueda corre con lo que dijiste."
       ]
     }
   ]
