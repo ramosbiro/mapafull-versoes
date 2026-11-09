@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.5",
-  "codigo": 329,
-  "data": "08/11/2026",
-  "tamanho": 109783017,
-  "sha256": "c6981dd2a3a957141dc3200d853c543612e24b0e509f2c0d6ef2112cb93041ff",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.5/Vrumbi-0.116.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.5/Vrumbi-relogio-0.116.5.apk",
+  "versao": "0.117.0",
+  "codigo": 330,
+  "data": "09/11/2026",
+  "tamanho": 109821697,
+  "sha256": "308a1b596e507eb6b2023a2fa7c044dd5c460f4a2be70bc6d9664fffb6f5924b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.0/Vrumbi-0.117.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.0/Vrumbi-relogio-0.117.0.apk",
   "notas": [
-    "Cartão do endereço aproveitando todo o espaço: o X ficou pequeno, laranja e no cantinho, e o nome da rua, o bairro e a cidade só quebram de linha quando não cabem mesmo. O cartão ficou mais baixo.",
-    "O ícone da sua posição agora acompanha o cartão do endereço, em pé e deitado: se o cartão cresce, o ícone sobe; se diminui, desce. O cartão nunca cobre o ícone, com qualquer ícone e tamanho escolhido."
+    "Vrumbi mais rápido e mais divertido: pede para buzinar (\"faz bibi\", \"dá uma buzinada\"), acelerar o motor, dançar, rir, jogar cara ou coroa, rolar um dado, sortear um número, contar uma charada ou um trava-língua, e ele faz na hora, sem pensar.",
+    "Contas na hora e exatas: \"quanto é 15 vezes 3\", \"20% de 150\", \"raiz quadrada de 81\", \"vinte e cinco mais 10\".",
+    "O cérebro do Vrumbi responde mais rápido: papo e perguntas vão direto para a conversa (uma etapa a menos), ele fica pronto na memória por mais tempo e, com memória folgada no celular, já acorda quando o app abre. Se ainda estiver acordando, ele avisa.",
+    "Configurações > Cérebro do Vrumbi: \"Testar a velocidade\" mostra quanto ele leva para abrir e para começar a responder, e se usa a placa de vídeo ou o processador. Se estiver no processador, dá para tentar a placa de vídeo de novo."
   ],
   "versoes": [
+    {
+      "versao": "0.117.0",
+      "data": "09/11/2026",
+      "itens": [
+        "Vrumbi mais rápido e mais divertido: pede para buzinar (\"faz bibi\", \"dá uma buzinada\"), acelerar o motor, dançar, rir, jogar cara ou coroa, rolar um dado, sortear um número, contar uma charada ou um trava-língua, e ele faz na hora, sem pensar.",
+        "Contas na hora e exatas: \"quanto é 15 vezes 3\", \"20% de 150\", \"raiz quadrada de 81\", \"vinte e cinco mais 10\".",
+        "O cérebro do Vrumbi responde mais rápido: papo e perguntas vão direto para a conversa (uma etapa a menos), ele fica pronto na memória por mais tempo e, com memória folgada no celular, já acorda quando o app abre. Se ainda estiver acordando, ele avisa.",
+        "Configurações > Cérebro do Vrumbi: \"Testar a velocidade\" mostra quanto ele leva para abrir e para começar a responder, e se usa a placa de vídeo ou o processador. Se estiver no processador, dá para tentar a placa de vídeo de novo."
+      ],
+      "en": [
+        "Faster, more fun Vrumbi: ask it to honk (\"beep beep\"), rev the engine, dance, laugh, flip a coin, roll a die, pick a number, tell a riddle or a tongue twister, and it does it right away, no thinking needed.",
+        "Instant, exact math: \"what is 15 times 3\", \"20% of 150\", \"square root of 81\".",
+        "Vrumbi's brain answers faster: chat and questions go straight to the conversation (one step less), it stays ready in memory for longer and, on phones with plenty of memory, wakes up as soon as the app opens. If it is still waking up, it tells you.",
+        "Settings > Vrumbi's brain: \"Test the speed\" shows how long it takes to open and to start answering, and whether it uses the graphics card or the processor. If it is on the processor, you can try the graphics card again."
+      ],
+      "es": [
+        "Vrumbi más rápido y divertido: pídele que toque la bocina (\"pip pip\"), acelere el motor, baile, se ría, lance una moneda, tire un dado, sortee un número, diga una adivinanza o un trabalenguas, y lo hace al instante, sin pensar.",
+        "Cuentas al instante y exactas: \"cuánto es 15 por 3\", \"20% de 150\", \"raíz cuadrada de 81\".",
+        "El cerebro de Vrumbi responde más rápido: la charla y las preguntas van directo a la conversación (un paso menos), se queda listo en la memoria por más tiempo y, en celulares con memoria de sobra, despierta apenas se abre la app. Si todavía está despertando, avisa.",
+        "Ajustes > Cerebro de Vrumbi: \"Probar la velocidad\" muestra cuánto tarda en abrir y en empezar a responder, y si usa la tarjeta gráfica o el procesador. Si está en el procesador, se puede probar la tarjeta gráfica de nuevo."
+      ]
+    },
     {
       "versao": "0.116.5",
       "data": "08/11/2026",
@@ -171,19 +195,6 @@
       ],
       "es": [
         "Reloj: las Pantallas del entreno ahora son visuales. La lista muestra cada pantalla como aparece en el entreno; al tocar una se abre grande con números de ejemplo -- toca un espacio para cambiar el número (cada uno con ícono y ejemplo) y elige la cuadrícula en los dibujos de abajo, y la pantalla se ajusta al instante."
-      ]
-    },
-    {
-      "versao": "0.113.1",
-      "data": "08/11/2026",
-      "itens": [
-        "Resumo da manhã: no lugar de manhã, tarde e noite, 6 horários a partir da próxima hora, de 1 em 1, de 2 em 2 ou de 3 em 3 horas (você escolhe em Avisos de clima > Resumo da manhã)."
-      ],
-      "en": [
-        "Morning summary: instead of morning, afternoon and night, 6 times starting from the next hour, every 1, 2 or 3 hours (choose in Weather alerts > Morning summary)."
-      ],
-      "es": [
-        "Resumen de la mañana: en lugar de mañana, tarde y noche, 6 horarios desde la próxima hora, cada 1, 2 o 3 horas (elige en Avisos de clima > Resumen de la mañana)."
       ]
     }
   ]
