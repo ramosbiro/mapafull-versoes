@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.2",
-  "codigo": 326,
+  "versao": "0.116.3",
+  "codigo": 327,
   "data": "08/11/2026",
-  "tamanho": 109780901,
-  "sha256": "60bc5b60db42e6138b35d71beda664d6cc80765a907ec0c464d7f74aafa64fe6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.2/Vrumbi-0.116.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.2/Vrumbi-relogio-0.116.2.apk",
+  "tamanho": 109781165,
+  "sha256": "fdd98ae2e5932ef7809d0e9469bceb673856c15575af6cf34dd53dede934f4ab",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.3/Vrumbi-0.116.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.3/Vrumbi-relogio-0.116.3.apk",
   "notas": [
-    "Cartão do endereço: agora ele estica e ocupa todo o espaço entre os botões da esquerda e os da direita, em pé e deitado, em qualquer tamanho de tela."
+    "Cartão do endereço: o X foi para o canto de cima e os cartões da PM e da Polícia Civil ficam com a mesma distância da borda dos dois lados."
   ],
   "versoes": [
+    {
+      "versao": "0.116.3",
+      "data": "08/11/2026",
+      "itens": [
+        "Cartão do endereço: o X foi para o canto de cima e os cartões da PM e da Polícia Civil ficam com a mesma distância da borda dos dois lados."
+      ],
+      "en": [
+        "Address card: the X moved to the top corner and the police cards keep the same distance from the edge on both sides."
+      ],
+      "es": [
+        "Tarjeta de la dirección: la X pasó a la esquina de arriba y las tarjetas de la policía quedan con la misma distancia del borde en los dos lados."
+      ]
+    },
     {
       "versao": "0.116.2",
       "data": "08/11/2026",
@@ -197,19 +210,6 @@
         "Íconos Coloridos y En el color del texto rediseñados con la misma regla de los realistas: en el colorido, cada parte tiene su color (sol, luna, nube, gotas, nieve, granizo y rayo).",
         "Nube de lluvia más oscura en los realistas; la nube blanca queda para el tiempo seco.",
         "Widget de clima, reloj y el clima de los viajes con los íconos nuevos."
-      ]
-    },
-    {
-      "versao": "0.111.1",
-      "data": "08/11/2026",
-      "itens": [
-        "Rosa dos ventos: um toque volta a trocar 2D/3D, como antes. Dois toques rápidos abrem o GPS e bússola (com a mesma troca 2D/3D no topo). Segurar e arrastar continua mudando o lugar dela."
-      ],
-      "en": [
-        "Compass rose: one tap switches 2D/3D again, as before. Two quick taps open GPS and compass (with the same 2D/3D switch at the top). Holding and dragging still moves it."
-      ],
-      "es": [
-        "Rosa de los vientos: un toque vuelve a cambiar 2D/3D, como antes. Dos toques rápidos abren GPS y brújula (con el mismo cambio 2D/3D arriba). Mantener y arrastrar sigue cambiándola de lugar."
       ]
     }
   ]
