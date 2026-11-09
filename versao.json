@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.118.0",
-  "codigo": 334,
+  "versao": "0.118.1",
+  "codigo": 335,
   "data": "09/11/2026",
-  "tamanho": 109838769,
-  "sha256": "4aba12a12bbe6627e5a308b4a211261b3f08e59581c954f288069d7680a1206c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.0/Vrumbi-0.118.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.0/Vrumbi-relogio-0.118.0.apk",
+  "tamanho": 109844281,
+  "sha256": "04efd8cc0b188c5b2ec2ea90bea219de7cee434fc9c732400e79c05e32850c2d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.1/Vrumbi-0.118.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.1/Vrumbi-relogio-0.118.1.apk",
   "notas": [
-    "Seguir do seu jeito: mexa no mapa com dois dedos (pinçar para longe ou perto, deitar ou levantar, girar) e aparece no alto o botão \"Guardar esta visão\". Um toque e o Seguir passa a abrir exatamente como está na tela.",
-    "Girar o mapa com dois dedos não solta mais o Seguir: o ícone continua sendo seguido, com o mapa na orientação que você deixou.",
-    "Nova tela Ajustes > Navegação > Visão do Seguir: distância, inclinação (automática ou de 0° a 75°), direção (para onde vou ou norte para cima), aproximar pela velocidade e nas curvas, e voltar ao padrão do Vrumbi."
+    "Visão do Seguir: novo botão \"Ajustar no mapa\". Ele leva você ao mapa com o botão \"Salvar esta visão\" fixo no alto; ajuste com dois dedos, toque em Salvar e pronto. Ao voltar à tela, as barras e chaves já mostram o que você deixou no mapa.",
+    "Mapa bem deitado: o céu no alto agora tem a cor do tema (azul-claro de dia, azul-noite no escuro), sem a faixa preta.",
+    "Configurações com o celular deitado: a janela usa a tela inteira, com cabeçalho e Salvar mais baixos e os cartões lado a lado. Na Visão do Seguir, os botões Ajustar no mapa e Padrão do Vrumbi ficam juntos no topo, e Distância, Inclinação e Direção lado a lado."
   ],
   "versoes": [
+    {
+      "versao": "0.118.1",
+      "data": "09/11/2026",
+      "itens": [
+        "Visão do Seguir: novo botão \"Ajustar no mapa\". Ele leva você ao mapa com o botão \"Salvar esta visão\" fixo no alto; ajuste com dois dedos, toque em Salvar e pronto. Ao voltar à tela, as barras e chaves já mostram o que você deixou no mapa.",
+        "Mapa bem deitado: o céu no alto agora tem a cor do tema (azul-claro de dia, azul-noite no escuro), sem a faixa preta.",
+        "Configurações com o celular deitado: a janela usa a tela inteira, com cabeçalho e Salvar mais baixos e os cartões lado a lado. Na Visão do Seguir, os botões Ajustar no mapa e Padrão do Vrumbi ficam juntos no topo, e Distância, Inclinação e Direção lado a lado."
+      ],
+      "en": [
+        "Follow view: new \"Adjust on the map\" button. It takes you to the map with a fixed \"Save this view\" button at the top; adjust with two fingers, tap Save and you are done. Back on the screen, the sliders and switches already show what you set on the map.",
+        "Very tilted map: the sky at the top now matches the theme (light blue by day, night blue in dark), no black band.",
+        "Settings with the phone sideways: the window uses the whole screen, with a shorter header and Save button and cards side by side. In Follow view, Adjust on the map and Vrumbi default sit together at the top, and Distance, Tilt and Direction side by side."
+      ],
+      "es": [
+        "Vista de Seguir: nuevo botón \"Ajustar en el mapa\". Te lleva al mapa con el botón \"Guardar esta vista\" fijo arriba; ajusta con dos dedos, toca Guardar y listo. Al volver a la pantalla, las barras y los interruptores ya muestran lo que dejaste en el mapa.",
+        "Mapa bien inclinado: el cielo arriba ahora tiene el color del tema (celeste de día, azul noche en oscuro), sin la franja negra.",
+        "Ajustes con el celular en horizontal: la ventana usa toda la pantalla, con encabezado y Guardar más bajos y las tarjetas lado a lado. En Vista de Seguir, Ajustar en el mapa y Predeterminado de Vrumbi quedan juntos arriba, y Distancia, Inclinación y Dirección lado a lado."
+      ]
+    },
     {
       "versao": "0.118.0",
       "data": "09/11/2026",
@@ -187,22 +206,6 @@
       "es": [
         "Emergencia médica en todo Brasil: la lista del lugar tocado ahora trae todos los hospitales, UPA, urgencias y prontos atendimientos hasta 60 km. Primero los grandes hospitales públicos (Santa Casa, hospital regional, HC), luego UPA y urgencias, luego los otros hospitales públicos y, al final, los que están cerrados ahora. \"Ver más\" abre la lista completa. Cada uno con dirección, teléfono, ruta y horario: 24 h, abierto hasta tal hora o cerrado (abre a tal hora). Fuera de Brasil la lista viene de OpenStreetMap.",
         "Módulo policial: sin información repetida. En el lugar tocado salen las tarjetas naranjas y queda solo la lista, en el orden CPA, Batallón, Compañía, Bomberos y Policía Civil (con la seccional), cada uno con dirección, teléfono y ruta. El puesto de bomberos del área entró en la lista."
-      ]
-    },
-    {
-      "versao": "0.115.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Quem atende aqui: ao tocar num endereço, o lugar mostra o pronto atendimento público mais perto (UPA, PS municipal) que esteja aberto agora e o hospital público mais perto, com endereço, telefone e rota. Hospital particular só aparece quando não há público por perto. A unidade que não abre 24 h sai da lista à noite.",
-        "Módulo da polícia: embaixo do cartão da PM vem o cartão da Polícia Civil (DP e seccional da área). No lugar tocado aparecem a sede do CPA, a do batalhão, a base da Cia e o DP, cada um com endereço, telefone e rota."
-      ],
-      "en": [
-        "Who serves here: when you tap an address, the place shows the closest public urgent care (UPA, municipal ER) open right now and the closest public hospital, with address, phone and route. A private hospital only shows up when there is no public one nearby. Units that are not open 24 h leave the list at night.",
-        "Police module: below the military police card comes the civil police card (precinct and division of the area). The tapped place shows the CPA, battalion and company bases and the precinct, each with address, phone and route."
-      ],
-      "es": [
-        "Quién atiende aquí: al tocar una dirección, el lugar muestra la urgencia pública más cercana (UPA, PS municipal) abierta ahora y el hospital público más cercano, con dirección, teléfono y ruta. El hospital privado solo aparece cuando no hay uno público cerca. Las unidades que no abren 24 h salen de la lista de noche.",
-        "Módulo policial: debajo de la tarjeta de la PM viene la tarjeta de la Policía Civil (comisaría y seccional del área). El lugar tocado muestra las sedes del CPA, del batallón, la base de la compañía y la comisaría, cada una con dirección, teléfono y ruta."
       ]
     }
   ]
