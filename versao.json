@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.116.3",
-  "codigo": 327,
+  "versao": "0.116.4",
+  "codigo": 328,
   "data": "08/11/2026",
-  "tamanho": 109781165,
-  "sha256": "fdd98ae2e5932ef7809d0e9469bceb673856c15575af6cf34dd53dede934f4ab",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.3/Vrumbi-0.116.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.3/Vrumbi-relogio-0.116.3.apk",
+  "tamanho": 109781809,
+  "sha256": "4359c4b2afc4a66e1b686ddbe8ef32c3d754806136f5141e35371e4212f1d505",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.4/Vrumbi-0.116.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.116.4/Vrumbi-relogio-0.116.4.apk",
   "notas": [
-    "Cartão do endereço: o X foi para o canto de cima e os cartões da PM e da Polícia Civil ficam com a mesma distância da borda dos dois lados."
+    "Cartão do endereço mais baixo: CPA, Batalhão, Cia e a DP agora ficam num cartão laranja só: numa linha com a tela deitada e em duas linhas em pé, sem cortar nenhum nome. Tocando nele abre a ficha com tudo (endereços, telefones e rotas)."
   ],
   "versoes": [
+    {
+      "versao": "0.116.4",
+      "data": "08/11/2026",
+      "itens": [
+        "Cartão do endereço mais baixo: CPA, Batalhão, Cia e a DP agora ficam num cartão laranja só: numa linha com a tela deitada e em duas linhas em pé, sem cortar nenhum nome. Tocando nele abre a ficha com tudo (endereços, telefones e rotas)."
+      ],
+      "en": [
+        "Shorter address card: CPA, Battalion, Company and the police station now sit in a single orange card: one line in landscape, two lines in portrait, with no name cut off. Tap it to open the full sheet (addresses, phones and routes)."
+      ],
+      "es": [
+        "Tarjeta de la dirección más baja: CPA, Batallón, Compañía y la comisaría ahora quedan en una sola tarjeta naranja: una línea en horizontal y dos líneas en vertical, sin cortar ningún nombre. Al tocarla se abre la ficha completa (direcciones, teléfonos y rutas)."
+      ]
+    },
     {
       "versao": "0.116.3",
       "data": "08/11/2026",
@@ -185,31 +198,6 @@
         "Panel del día y vista previa del widget: mantén el gráfico de la semana y arrastra hacia el lado para moverte día a día.",
         "Mapa más suelto: el deslizamiento llega más lejos y, deslizando varias veces seguidas, cada uno llega más lejos que el anterior (bueno para cruzar la ciudad).",
         "Panel del día: elige dónde queda el hoy en la semana (D a S, al inicio, en el medio o al final) en Personalizar gráfico, y toca los bordes del gráfico para retroceder o avanzar 1 día o 1 semana, como en el widget."
-      ]
-    },
-    {
-      "versao": "0.112.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Clima: o sol (de dia) ou a lua (de noite) aparece atrás da nuvem quando o céu tem abertura de verdade, também na chuva, garoa, pancadas, neve e trovoada. Com o céu todo fechado fica só a nuvem, de dia e de noite (antes a lua aparecia no \"Nublado\" de noite e o sol nas pancadas mesmo com 100% de nuvens).",
-        "O ícone de cada dia segue as nuvens das horas de sol daquele dia.",
-        "Ícones Coloridos e Na cor do texto redesenhados com a mesma regra dos realistas: no colorido, cada parte tem a sua cor (sol, lua, nuvem, gotas, neve, granizo e raio).",
-        "Nuvem de chuva mais escura nos realistas; a nuvem branca fica para o tempo seco.",
-        "Widget de clima, relógio e o clima das viagens com os ícones novos."
-      ],
-      "en": [
-        "Weather: the sun (by day) or the moon (at night) shows behind the cloud when the sky really has gaps, also with rain, drizzle, showers, snow and thunderstorms. With a fully overcast sky only the cloud shows, day and night (before, the moon showed on \"Cloudy\" at night and the sun on showers even with 100% cloud cover).",
-        "Each day's icon follows the clouds during that day's daylight hours.",
-        "Colored and Text-color icons redrawn with the same rule as the realistic ones: in colored, each part has its own color (sun, moon, cloud, drops, snow, hail and lightning).",
-        "Darker rain cloud in the realistic icons; the white cloud is for dry weather.",
-        "Weather widget, watch and trip weather with the new icons."
-      ],
-      "es": [
-        "Clima: el sol (de día) o la luna (de noche) aparece detrás de la nube cuando el cielo tiene claros de verdad, también con lluvia, llovizna, chubascos, nieve y tormenta. Con el cielo totalmente cubierto queda solo la nube, de día y de noche (antes la luna aparecía en \"Nublado\" de noche y el sol en los chubascos incluso con 100% de nubes).",
-        "El ícono de cada día sigue las nubes de las horas de sol de ese día.",
-        "Íconos Coloridos y En el color del texto rediseñados con la misma regla de los realistas: en el colorido, cada parte tiene su color (sol, luna, nube, gotas, nieve, granizo y rayo).",
-        "Nube de lluvia más oscura en los realistas; la nube blanca queda para el tiempo seco.",
-        "Widget de clima, reloj y el clima de los viajes con los íconos nuevos."
       ]
     }
   ]
