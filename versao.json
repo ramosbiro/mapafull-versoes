@@ -1,19 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.117.0",
-  "codigo": 330,
+  "versao": "0.117.1",
+  "codigo": 331,
   "data": "09/11/2026",
-  "tamanho": 109821697,
-  "sha256": "308a1b596e507eb6b2023a2fa7c044dd5c460f4a2be70bc6d9664fffb6f5924b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.0/Vrumbi-0.117.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.0/Vrumbi-relogio-0.117.0.apk",
+  "tamanho": 109823057,
+  "sha256": "a4d56cc0554ae2b7e91ae4316b29d91e2a4a51f67c3ca206f63729c2fb144a01",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.1/Vrumbi-0.117.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.117.1/Vrumbi-relogio-0.117.1.apk",
   "notas": [
-    "Vrumbi mais rápido e mais divertido: pede para buzinar (\"faz bibi\", \"dá uma buzinada\"), acelerar o motor, dançar, rir, jogar cara ou coroa, rolar um dado, sortear um número, contar uma charada ou um trava-língua, e ele faz na hora, sem pensar.",
-    "Contas na hora e exatas: \"quanto é 15 vezes 3\", \"20% de 150\", \"raiz quadrada de 81\", \"vinte e cinco mais 10\".",
-    "O cérebro do Vrumbi responde mais rápido: papo e perguntas vão direto para a conversa (uma etapa a menos), ele fica pronto na memória por mais tempo e, com memória folgada no celular, já acorda quando o app abre. Se ainda estiver acordando, ele avisa.",
-    "Configurações > Cérebro do Vrumbi: \"Testar a velocidade\" mostra quanto ele leva para abrir e para começar a responder, e se usa a placa de vídeo ou o processador. Se estiver no processador, dá para tentar a placa de vídeo de novo."
+    "O cérebro do Vrumbi conversa do jeito dos apps de inteligência no celular: a conversa fica aberta e ele não relê tudo a cada frase, só o que você acabou de falar. A primeira palavra sai bem mais cedo.",
+    "Os pedidos de comando também ficaram mais rápidos: ele já deixa as regras lidas enquanto você fala.",
+    "Placa de vídeo: se o celular fechou o app uma vez enquanto o cérebro abria, ele não fica mais preso no processador (bem mais lento). E a cada versão nova ele tenta a placa de vídeo de novo.",
+    "A voz do Vrumbi não corta mais: ele fala a resposta inteira antes de voltar a ouvir, e a boca do carrinho só mexe quando a voz sai de verdade. No processador, o cérebro deixa núcleos livres para a voz não atrasar.",
+    "Resposta longa demais para o tempo: ele fala o que já pensou, até a última frase inteira, em vez de dizer que não entendeu."
   ],
   "versoes": [
+    {
+      "versao": "0.117.1",
+      "data": "09/11/2026",
+      "itens": [
+        "O cérebro do Vrumbi conversa do jeito dos apps de inteligência no celular: a conversa fica aberta e ele não relê tudo a cada frase, só o que você acabou de falar. A primeira palavra sai bem mais cedo.",
+        "Os pedidos de comando também ficaram mais rápidos: ele já deixa as regras lidas enquanto você fala.",
+        "Placa de vídeo: se o celular fechou o app uma vez enquanto o cérebro abria, ele não fica mais preso no processador (bem mais lento). E a cada versão nova ele tenta a placa de vídeo de novo.",
+        "A voz do Vrumbi não corta mais: ele fala a resposta inteira antes de voltar a ouvir, e a boca do carrinho só mexe quando a voz sai de verdade. No processador, o cérebro deixa núcleos livres para a voz não atrasar.",
+        "Resposta longa demais para o tempo: ele fala o que já pensou, até a última frase inteira, em vez de dizer que não entendeu."
+      ],
+      "en": [
+        "Vrumbi's brain now chats the way on-device AI apps do: the conversation stays open and it does not reread everything on each sentence, only what you just said. The first word comes out much sooner.",
+        "Command requests are faster too: it keeps the rules already read while you speak.",
+        "Graphics card: if the phone closed the app once while the brain was opening, it no longer gets stuck on the (much slower) processor. And every new version tries the graphics card again.",
+        "Vrumbi's voice no longer cuts off: it says the whole answer before listening again, and the car's mouth only moves when the voice actually comes out. On the processor, the brain leaves cores free so the voice is not delayed.",
+        "Answer too long for the time limit: it says what it already thought, up to the last full sentence, instead of saying it did not understand."
+      ],
+      "es": [
+        "El cerebro de Vrumbi ahora conversa como las apps de inteligencia en el celular: la conversación queda abierta y no relee todo en cada frase, solo lo que acabas de decir. La primera palabra sale mucho antes.",
+        "Los pedidos de comando también son más rápidos: deja las reglas ya leídas mientras hablas.",
+        "Tarjeta gráfica: si el celular cerró la app una vez mientras el cerebro abría, ya no queda atrapado en el procesador (mucho más lento). Y cada versión nueva vuelve a probar la tarjeta gráfica.",
+        "La voz de Vrumbi ya no se corta: dice la respuesta entera antes de volver a escuchar, y la boca del carrito solo se mueve cuando la voz sale de verdad. En el procesador, el cerebro deja núcleos libres para que la voz no se atrase.",
+        "Respuesta demasiado larga para el tiempo: dice lo que ya pensó, hasta la última frase completa, en vez de decir que no entendió."
+      ]
+    },
     {
       "versao": "0.117.0",
       "data": "09/11/2026",
@@ -182,19 +208,6 @@
         "Flechas ‹ › del gráfico de la semana más grandes y con trazo fuerte (naranja en el widget), bien visibles en cualquier fondo, y con un área de toque mayor (40% de cada lado; solo el centro abre la app).",
         "Widget Entreno del día (grande): anillo y números en un bloque centrado, con números, íconos y espaciado mayores.",
         "Widgets de entreno: elige el período que muestra cada uno (esta semana, la pasada, hace 2 o 3 semanas; o los últimos 14 días y antes). Pon un widget de cada período y júntalos en una pila de la pantalla de inicio: deslizando hacia el lado pasas de una semana a otra."
-      ]
-    },
-    {
-      "versao": "0.113.2",
-      "data": "08/11/2026",
-      "itens": [
-        "Relógio: as Telas do treino ficaram visuais. A lista mostra cada tela como ela aparece no treino; tocando numa, ela abre grande com números de exemplo -- toque num espaço para trocar o número (cada um com ícone e exemplo) e escolha a grade pelos desenhos embaixo, que a tela se molda na hora."
-      ],
-      "en": [
-        "Watch: workout Screens are now visual. The list shows each screen as it appears during the workout; tap one to open it large with sample numbers -- tap a slot to change its number (each with icon and sample) and pick the grid from the drawings below, and the screen reshapes right away."
-      ],
-      "es": [
-        "Reloj: las Pantallas del entreno ahora son visuales. La lista muestra cada pantalla como aparece en el entreno; al tocar una se abre grande con números de ejemplo -- toca un espacio para cambiar el número (cada uno con ícono y ejemplo) y elige la cuadrícula en los dibujos de abajo, y la pantalla se ajusta al instante."
       ]
     }
   ]
