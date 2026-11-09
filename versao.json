@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.118.1",
-  "codigo": 335,
+  "versao": "0.119.0",
+  "codigo": 336,
   "data": "09/11/2026",
-  "tamanho": 109844281,
-  "sha256": "04efd8cc0b188c5b2ec2ea90bea219de7cee434fc9c732400e79c05e32850c2d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.1/Vrumbi-0.118.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.118.1/Vrumbi-relogio-0.118.1.apk",
+  "tamanho": 109847797,
+  "sha256": "9f9973a5dbc5838c305cb0c716126f07975fd464d13e1afd63081427ba561b84",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.0/Vrumbi-0.119.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.0/Vrumbi-relogio-0.119.0.apk",
   "notas": [
-    "Visão do Seguir: novo botão \"Ajustar no mapa\". Ele leva você ao mapa com o botão \"Salvar esta visão\" fixo no alto; ajuste com dois dedos, toque em Salvar e pronto. Ao voltar à tela, as barras e chaves já mostram o que você deixou no mapa.",
-    "Mapa bem deitado: o céu no alto agora tem a cor do tema (azul-claro de dia, azul-noite no escuro), sem a faixa preta.",
-    "Configurações com o celular deitado: a janela usa a tela inteira, com cabeçalho e Salvar mais baixos e os cartões lado a lado. Na Visão do Seguir, os botões Ajustar no mapa e Padrão do Vrumbi ficam juntos no topo, e Distância, Inclinação e Direção lado a lado."
+    "Céu de verdade no mapa deitado: claro de dia, escuro de noite, e acompanhando o tempo de agora. Sol, sol entre nuvens, nublado, neblina, lua e estrelas ficam parados; chuva, chuva forte, neve e tempestade com relâmpagos se mexem.",
+    "Leve: o céu é desenhado sem 3D e sem imagens, e a animação só roda quando o céu aparece na tela (com o mapa deitado). Com o mapa de pé, ou o app em segundo plano, fica tudo parado."
   ],
   "versoes": [
+    {
+      "versao": "0.119.0",
+      "data": "09/11/2026",
+      "itens": [
+        "Céu de verdade no mapa deitado: claro de dia, escuro de noite, e acompanhando o tempo de agora. Sol, sol entre nuvens, nublado, neblina, lua e estrelas ficam parados; chuva, chuva forte, neve e tempestade com relâmpagos se mexem.",
+        "Leve: o céu é desenhado sem 3D e sem imagens, e a animação só roda quando o céu aparece na tela (com o mapa deitado). Com o mapa de pé, ou o app em segundo plano, fica tudo parado."
+      ],
+      "en": [
+        "A real sky on the tilted map: light by day, dark at night, and following the weather right now. Sun, sun with clouds, overcast, fog, moon and stars stay still; rain, heavy rain, snow and thunderstorms with lightning move.",
+        "Light on the phone: the sky is drawn without 3D or images, and the animation only runs while the sky is on screen (tilted map). With the map upright, or the app in the background, everything stops."
+      ],
+      "es": [
+        "Un cielo de verdad en el mapa inclinado: claro de día, oscuro de noche y siguiendo el tiempo de ahora. Sol, sol entre nubes, nublado, niebla, luna y estrellas quedan quietos; lluvia, lluvia fuerte, nieve y tormenta con relámpagos se mueven.",
+        "Liviano: el cielo se dibuja sin 3D ni imágenes, y la animación solo corre mientras el cielo aparece en pantalla (mapa inclinado). Con el mapa derecho, o la app en segundo plano, todo se detiene."
+      ]
+    },
     {
       "versao": "0.118.1",
       "data": "09/11/2026",
@@ -190,22 +205,6 @@
       ],
       "es": [
         "Quién atiende aquí: todas las filas del mismo tamaño, con el botón del teléfono siempre en su lugar. Los teléfonos que faltaban en el registro oficial se buscaron en OpenStreetMap; si el lugar no tiene, Vrumbi avisa al tocar."
-      ]
-    },
-    {
-      "versao": "0.116.0",
-      "data": "08/11/2026",
-      "itens": [
-        "Emergência médica no Brasil inteiro: a lista do lugar tocado agora traz todos os hospitais, UPAs, prontos-socorros e prontos atendimentos até 60 km. Primeiro os grandes hospitais públicos (Santa Casa, hospital regional, HC), depois UPA e pronto-socorro, depois os outros hospitais públicos e, no fim, os que estão fechados agora. \"Ver mais\" abre a lista inteira. Cada um com endereço, telefone, rota e o horário: 24 h, aberto até tal hora ou fechado (abre tal hora). Fora do Brasil a lista vem do OpenStreetMap.",
-        "Módulo da polícia: sem informação repetida. No lugar tocado saem os cartões laranja e fica só a lista, na ordem CPA, Batalhão, Cia, Bombeiros e Polícia Civil (com a seccional), cada um com endereço, telefone e rota. O posto de bombeiros da área entrou na lista."
-      ],
-      "en": [
-        "Medical emergency across Brazil: the tapped place now lists every hospital, UPA, emergency room and urgent care within 60 km. Large public hospitals first (Santa Casa, regional and university hospitals), then urgent care and ERs, then other public hospitals and, last, the ones closed right now. \"See more\" opens the full list. Each with address, phone, route and hours: 24 h, open until a given time or closed (opens at a given time). Outside Brazil the list comes from OpenStreetMap.",
-        "Police module: no repeated information. The orange cards leave the tapped place and only the list stays, in the order CPA, Battalion, Company, Fire department and Civil police (with the division), each with address, phone and route. The fire station of the area joined the list."
-      ],
-      "es": [
-        "Emergencia médica en todo Brasil: la lista del lugar tocado ahora trae todos los hospitales, UPA, urgencias y prontos atendimientos hasta 60 km. Primero los grandes hospitales públicos (Santa Casa, hospital regional, HC), luego UPA y urgencias, luego los otros hospitales públicos y, al final, los que están cerrados ahora. \"Ver más\" abre la lista completa. Cada uno con dirección, teléfono, ruta y horario: 24 h, abierto hasta tal hora o cerrado (abre a tal hora). Fuera de Brasil la lista viene de OpenStreetMap.",
-        "Módulo policial: sin información repetida. En el lugar tocado salen las tarjetas naranjas y queda solo la lista, en el orden CPA, Batallón, Compañía, Bomberos y Policía Civil (con la seccional), cada uno con dirección, teléfono y ruta. El puesto de bomberos del área entró en la lista."
       ]
     }
   ]
