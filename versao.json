@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.2",
-  "codigo": 338,
+  "versao": "0.119.3",
+  "codigo": 339,
   "data": "10/11/2026",
-  "tamanho": 109850885,
-  "sha256": "c60aa0c0a585bdc8307f3aa54f42b8ec59ea2346a8612e1972630da42ae32603",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.2/Vrumbi-0.119.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.2/Vrumbi-relogio-0.119.2.apk",
+  "tamanho": 109851553,
+  "sha256": "a151636314f903b4767adc92f5cf00bef16639ee64b8205d1972b9559867a139",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.3/Vrumbi-0.119.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.3/Vrumbi-relogio-0.119.3.apk",
   "notas": [
-    "Configurações com o celular deitado de volta ao jeito de antes, igual ao em pé: as colunas quebravam telas como o Ícone da posição (a prévia ficava por cima das opções)."
+    "Bem mais leve em celulares mais simples: parado, o mapa agora descansa de verdade. Antes ele se redesenhava sem parar só para piscar a luz do ícone (giroflex, seta), e o processador ficava ocupado o tempo todo. Andando, tudo continua igual; parado há alguns segundos, a luz fica acesa fixa.",
+    "O cérebro do Vrumbi não carrega mais sozinho ao abrir o app em celulares com menos de 10 GB de memória, e sai da memória 5 minutos depois do último uso: sobra memória para o mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.119.3",
+      "data": "10/11/2026",
+      "itens": [
+        "Bem mais leve em celulares mais simples: parado, o mapa agora descansa de verdade. Antes ele se redesenhava sem parar só para piscar a luz do ícone (giroflex, seta), e o processador ficava ocupado o tempo todo. Andando, tudo continua igual; parado há alguns segundos, a luz fica acesa fixa.",
+        "O cérebro do Vrumbi não carrega mais sozinho ao abrir o app em celulares com menos de 10 GB de memória, e sai da memória 5 minutos depois do último uso: sobra memória para o mapa."
+      ],
+      "en": [
+        "Much lighter on simpler phones: when standing still, the map now really rests. Before, it kept redrawing just to blink the icon light (siren, arrow), keeping the processor busy all the time. Moving, everything stays the same; stopped for a few seconds, the light stays steady.",
+        "Vrumbi's brain no longer loads by itself when the app opens on phones with less than 10 GB of memory, and leaves memory 5 minutes after the last use: more memory for the map."
+      ],
+      "es": [
+        "Mucho más liviano en celulares más simples: quieto, el mapa ahora descansa de verdad. Antes se redibujaba sin parar solo para hacer parpadear la luz del ícono (baliza, flecha), y el procesador quedaba ocupado todo el tiempo. En movimiento, todo sigue igual; quieto unos segundos, la luz queda fija.",
+        "El cerebro de Vrumbi ya no se carga solo al abrir la app en celulares con menos de 10 GB de memoria, y sale de la memoria 5 minutos después del último uso: queda memoria para el mapa."
+      ]
+    },
     {
       "versao": "0.119.2",
       "data": "10/11/2026",
@@ -203,19 +220,6 @@
       ],
       "es": [
         "Tarjeta de la dirección más baja: CPA, Batallón, Compañía y la comisaría ahora quedan en una sola tarjeta naranja: una línea en horizontal y dos líneas en vertical, sin cortar ningún nombre. Al tocarla se abre la ficha completa (direcciones, teléfonos y rutas)."
-      ]
-    },
-    {
-      "versao": "0.116.3",
-      "data": "08/11/2026",
-      "itens": [
-        "Cartão do endereço: o X foi para o canto de cima e os cartões da PM e da Polícia Civil ficam com a mesma distância da borda dos dois lados."
-      ],
-      "en": [
-        "Address card: the X moved to the top corner and the police cards keep the same distance from the edge on both sides."
-      ],
-      "es": [
-        "Tarjeta de la dirección: la X pasó a la esquina de arriba y las tarjetas de la policía quedan con la misma distancia del borde en los dos lados."
       ]
     }
   ]
