@@ -1,20 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.1",
-  "codigo": 337,
-  "data": "09/11/2026",
-  "tamanho": 109851293,
-  "sha256": "1dc43a425fbf517352ec1b1d03c15d56f98581606456f0989cd6220b48b4df09",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.1/Vrumbi-0.119.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.1/Vrumbi-relogio-0.119.1.apk",
+  "versao": "0.119.2",
+  "codigo": 338,
+  "data": "10/11/2026",
+  "tamanho": 109850885,
+  "sha256": "c60aa0c0a585bdc8307f3aa54f42b8ec59ea2346a8612e1972630da42ae32603",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.2/Vrumbi-0.119.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.2/Vrumbi-relogio-0.119.2.apk",
   "notas": [
-    "Mexer no mapa (zoom, inclinação, girar) não mostra mais o botão de salvar a visão: dá para olhar à vontade e tocar em Seguir para voltar. Para guardar uma visão nova: Ajustes > Navegação > Visão do Seguir > Ajustar no mapa.",
-    "Mensagens: \"Abrir no app\" agora abre a conversa no WhatsApp (e nos outros apps de conversa) também no Android 14 e mais novos; se a conversa não abrir, abre o app.",
-    "Figurinhas do WhatsApp: se o Vrumbi não achar a figurinha, ele explica e traz o botão Liberar, para dar acesso à pasta onde o WhatsApp guarda as figurinhas.",
-    "Mídia: a fila de músicas volta a rolar com o dedo, e o relógio da música não passa mais do tempo total.",
-    "Cérebro do Vrumbi: a placa de vídeo dos celulares Pixel e das centrais com Android agora é reconhecida."
+    "Configurações com o celular deitado de volta ao jeito de antes, igual ao em pé: as colunas quebravam telas como o Ícone da posição (a prévia ficava por cima das opções)."
   ],
   "versoes": [
+    {
+      "versao": "0.119.2",
+      "data": "10/11/2026",
+      "itens": [
+        "Configurações com o celular deitado de volta ao jeito de antes, igual ao em pé: as colunas quebravam telas como o Ícone da posição (a prévia ficava por cima das opções)."
+      ],
+      "en": [
+        "Settings with the phone sideways back to how they were, the same as upright: the columns broke screens like Position icon (the preview covered the options)."
+      ],
+      "es": [
+        "Ajustes con el celular en horizontal de vuelta a como estaban, igual que en vertical: las columnas rompían pantallas como Ícono de la posición (la vista previa tapaba las opciones)."
+      ]
+    },
     {
       "versao": "0.119.1",
       "data": "09/11/2026",
@@ -207,19 +216,6 @@
       ],
       "es": [
         "Tarjeta de la dirección: la X pasó a la esquina de arriba y las tarjetas de la policía quedan con la misma distancia del borde en los dos lados."
-      ]
-    },
-    {
-      "versao": "0.116.2",
-      "data": "08/11/2026",
-      "itens": [
-        "Cartão do endereço: agora ele estica e ocupa todo o espaço entre os botões da esquerda e os da direita, em pé e deitado, em qualquer tamanho de tela."
-      ],
-      "en": [
-        "Address card: it now stretches across the whole space between the left and right buttons, in portrait and landscape, on any screen size."
-      ],
-      "es": [
-        "Tarjeta de la dirección: ahora se estira y ocupa todo el espacio entre los botones de la izquierda y los de la derecha, en vertical y horizontal, en cualquier tamaño de pantalla."
       ]
     }
   ]
