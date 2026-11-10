@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.7",
-  "codigo": 350,
+  "versao": "0.120.8",
+  "codigo": 351,
   "data": "10/11/2026",
-  "tamanho": 109868081,
-  "sha256": "71a1eb16ea63bd74d8b7041a1572f5c287165a429ad6c426a0defbee2c347a1e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.7/Vrumbi-0.120.7.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.7/Vrumbi-relogio-0.120.7.apk",
+  "tamanho": 109868441,
+  "sha256": "c4e412e8c52c07c85c532f6a3865ef5e8c071c7e5a8b95ad0f10240f958b7f80",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.8/Vrumbi-0.120.8.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.8/Vrumbi-relogio-0.120.8.apk",
   "notas": [
-    "A câmera vem atrás do ícone, como nos jogos de corrida: numa curva o ícone vira primeiro, você vê ele virando e a lateral dele, e a câmera acompanha logo depois, suave. Vale para todos os ícones, em qualquer país."
+    "Mapa livre de verdade para explorar: afastar, deitar, girar ou arrastar com os dedos solta o mapa e ele fica exatamente onde você deixou, mesmo com o carro andando ou com rota. Só volta para o carro quando você toca em Seguir, já no seu padrão."
   ],
   "versoes": [
+    {
+      "versao": "0.120.8",
+      "data": "10/11/2026",
+      "itens": [
+        "Mapa livre de verdade para explorar: afastar, deitar, girar ou arrastar com os dedos solta o mapa e ele fica exatamente onde você deixou, mesmo com o carro andando ou com rota. Só volta para o carro quando você toca em Seguir, já no seu padrão."
+      ],
+      "en": [
+        "A truly free map to explore: zooming out, tilting, rotating or dragging with your fingers releases the map and it stays exactly where you left it, even with the car moving or a route on. It only goes back to the car when you tap Follow, in your own view."
+      ],
+      "es": [
+        "Mapa libre de verdad para explorar: alejar, inclinar, girar o arrastrar con los dedos suelta el mapa y queda exactamente donde lo dejaste, incluso con el auto andando o con ruta. Solo vuelve al auto cuando tocas Seguir, ya en tu vista."
+      ]
+    },
     {
       "versao": "0.120.7",
       "data": "10/11/2026",
@@ -185,22 +198,6 @@
       "es": [
         "Límite de la vía dentro del velocímetro: el anillo se llena hasta el límite (lleno = en el máximo de la vía) y el valor queda en una mini placa encajada en la punta del anillo. Nada más encima de la tarjeta de la dirección, vertical u horizontal. Placa roja = la de la vía; gris con ≈ = el límite probable por la ley (CTB) cuando la vía no tiene placa en el mapa.",
         "La tarjeta de dónde estás muestra solo el nombre de la calle, sin el número de la casa. El número sigue apareciendo cuando tocas un punto del mapa."
-      ]
-    },
-    {
-      "versao": "0.119.3",
-      "data": "10/11/2026",
-      "itens": [
-        "Bem mais leve em celulares mais simples: parado, o mapa agora descansa de verdade. Antes ele se redesenhava sem parar só para piscar a luz do ícone (giroflex, seta), e o processador ficava ocupado o tempo todo. Andando, tudo continua igual; parado há alguns segundos, a luz fica acesa fixa.",
-        "O cérebro do Vrumbi não carrega mais sozinho ao abrir o app em celulares com menos de 10 GB de memória, e sai da memória 5 minutos depois do último uso: sobra memória para o mapa."
-      ],
-      "en": [
-        "Much lighter on simpler phones: when standing still, the map now really rests. Before, it kept redrawing just to blink the icon light (siren, arrow), keeping the processor busy all the time. Moving, everything stays the same; stopped for a few seconds, the light stays steady.",
-        "Vrumbi's brain no longer loads by itself when the app opens on phones with less than 10 GB of memory, and leaves memory 5 minutes after the last use: more memory for the map."
-      ],
-      "es": [
-        "Mucho más liviano en celulares más simples: quieto, el mapa ahora descansa de verdad. Antes se redibujaba sin parar solo para hacer parpadear la luz del ícono (baliza, flecha), y el procesador quedaba ocupado todo el tiempo. En movimiento, todo sigue igual; quieto unos segundos, la luz queda fija.",
-        "El cerebro de Vrumbi ya no se carga solo al abrir la app en celulares con menos de 10 GB de memoria, y sale de la memoria 5 minutos después del último uso: queda memoria para el mapa."
       ]
     }
   ]
