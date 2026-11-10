@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.5",
-  "codigo": 348,
+  "versao": "0.120.6",
+  "codigo": 349,
   "data": "10/11/2026",
-  "tamanho": 109867405,
-  "sha256": "b5b1d5e42ece589c839f1e9967dbcbc957359dcfcb951e8c4964dfbdc2fa1bec",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.5/Vrumbi-0.120.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.5/Vrumbi-relogio-0.120.5.apk",
+  "tamanho": 109867673,
+  "sha256": "9c1de645685d953a7abdc56e0da31e297443cc49e8bba8bac4a6728dcac765c5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.6/Vrumbi-0.120.6.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.6/Vrumbi-relogio-0.120.6.apk",
   "notas": [
-    "A apresentação de abertura acompanha o celular: se você virar para a horizontal (ou de volta para a vertical) no meio da animação, ela se ajusta à tela na hora e continua de onde estava."
+    "Girar o celular ficou bem mais rápido: ao passar para a horizontal (ou voltar para a vertical), o mapa aparece inteiro quase na hora, sem ficar muito tempo com a faixa vazia do lado."
   ],
   "versoes": [
+    {
+      "versao": "0.120.6",
+      "data": "10/11/2026",
+      "itens": [
+        "Girar o celular ficou bem mais rápido: ao passar para a horizontal (ou voltar para a vertical), o mapa aparece inteiro quase na hora, sem ficar muito tempo com a faixa vazia do lado."
+      ],
+      "en": [
+        "Turning the phone is much faster: switching to landscape (or back to portrait), the whole map shows up almost right away, without a blank strip on the side for long."
+      ],
+      "es": [
+        "Girar el celular quedó mucho más rápido: al pasar a horizontal (o volver a vertical), el mapa aparece entero casi al instante, sin quedarse mucho tiempo con la franja vacía al costado."
+      ]
+    },
     {
       "versao": "0.120.5",
       "data": "10/11/2026",
@@ -188,31 +201,6 @@
       ],
       "es": [
         "Ajustes con el celular en horizontal de vuelta a como estaban, igual que en vertical: las columnas rompían pantallas como Ícono de la posición (la vista previa tapaba las opciones)."
-      ]
-    },
-    {
-      "versao": "0.119.1",
-      "data": "09/11/2026",
-      "itens": [
-        "Mexer no mapa (zoom, inclinação, girar) não mostra mais o botão de salvar a visão: dá para olhar à vontade e tocar em Seguir para voltar. Para guardar uma visão nova: Ajustes > Navegação > Visão do Seguir > Ajustar no mapa.",
-        "Mensagens: \"Abrir no app\" agora abre a conversa no WhatsApp (e nos outros apps de conversa) também no Android 14 e mais novos; se a conversa não abrir, abre o app.",
-        "Figurinhas do WhatsApp: se o Vrumbi não achar a figurinha, ele explica e traz o botão Liberar, para dar acesso à pasta onde o WhatsApp guarda as figurinhas.",
-        "Mídia: a fila de músicas volta a rolar com o dedo, e o relógio da música não passa mais do tempo total.",
-        "Cérebro do Vrumbi: a placa de vídeo dos celulares Pixel e das centrais com Android agora é reconhecida."
-      ],
-      "en": [
-        "Moving the map (zoom, tilt, rotate) no longer shows the save view button: look around freely and tap Follow to go back. To save a new view: Settings > Navigation > Follow view > Adjust on the map.",
-        "Messages: \"Open in app\" now opens the chat in WhatsApp (and other chat apps) on Android 14 and newer too; if the chat does not open, it opens the app.",
-        "WhatsApp stickers: if Vrumbi cannot find the sticker, it explains and offers the Allow button, to give access to the folder where WhatsApp keeps stickers.",
-        "Media: the music queue scrolls with your finger again, and the song clock no longer goes past the total time.",
-        "Vrumbi's brain: the graphics chip of Pixel phones and Android car units is now recognized."
-      ],
-      "es": [
-        "Mover el mapa (zoom, inclinación, girar) ya no muestra el botón de guardar la vista: mira libremente y toca Seguir para volver. Para guardar una vista nueva: Ajustes > Navegación > Vista de Seguir > Ajustar en el mapa.",
-        "Mensajes: \"Abrir en la app\" ahora abre la conversación en WhatsApp (y en otras apps de chat) también en Android 14 y más nuevos; si no abre la conversación, abre la app.",
-        "Stickers de WhatsApp: si Vrumbi no encuentra el sticker, lo explica y ofrece el botón Permitir, para dar acceso a la carpeta donde WhatsApp guarda los stickers.",
-        "Multimedia: la cola de canciones vuelve a desplazarse con el dedo, y el reloj de la canción ya no pasa del tiempo total.",
-        "Cerebro de Vrumbi: ahora se reconoce la tarjeta gráfica de los Pixel y de las centrales con Android."
       ]
     }
   ]
