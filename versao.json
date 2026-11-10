@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.3",
-  "codigo": 339,
+  "versao": "0.119.4",
+  "codigo": 340,
   "data": "10/11/2026",
-  "tamanho": 109851553,
-  "sha256": "a151636314f903b4767adc92f5cf00bef16639ee64b8205d1972b9559867a139",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.3/Vrumbi-0.119.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.3/Vrumbi-relogio-0.119.3.apk",
+  "tamanho": 109852425,
+  "sha256": "bce86e0aaaea06ad32ec20da94b3539162730bd545fc17a8fb5022effe0ac86c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.4/Vrumbi-0.119.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.4/Vrumbi-relogio-0.119.4.apk",
   "notas": [
-    "Bem mais leve em celulares mais simples: parado, o mapa agora descansa de verdade. Antes ele se redesenhava sem parar só para piscar a luz do ícone (giroflex, seta), e o processador ficava ocupado o tempo todo. Andando, tudo continua igual; parado há alguns segundos, a luz fica acesa fixa.",
-    "O cérebro do Vrumbi não carrega mais sozinho ao abrir o app em celulares com menos de 10 GB de memória, e sai da memória 5 minutos depois do último uso: sobra memória para o mapa."
+    "Limite da via dentro do velocímetro: o anel enche até o limite (cheio = no máximo da via) e o valor fica numa mini-placa encaixada na ponta do anel. Nada mais por cima do cartão do endereço, em pé ou deitado. Placa vermelha = a da via; cinza com ≈ = o limite provável pela lei (CTB) quando a via não tem placa no mapa.",
+    "O cartão de onde você está mostra só o nome da rua, sem o número da casa. O número continua aparecendo quando você toca num ponto do mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.119.4",
+      "data": "10/11/2026",
+      "itens": [
+        "Limite da via dentro do velocímetro: o anel enche até o limite (cheio = no máximo da via) e o valor fica numa mini-placa encaixada na ponta do anel. Nada mais por cima do cartão do endereço, em pé ou deitado. Placa vermelha = a da via; cinza com ≈ = o limite provável pela lei (CTB) quando a via não tem placa no mapa.",
+        "O cartão de onde você está mostra só o nome da rua, sem o número da casa. O número continua aparecendo quando você toca num ponto do mapa."
+      ],
+      "en": [
+        "Speed limit inside the speedometer: the ring fills up to the limit (full = at the road maximum) and the value sits in a mini sign fitted at the end of the ring. Nothing over the address card anymore, upright or sideways. Red sign = the road sign; gray with ≈ = the likely legal limit (Brazilian traffic code) when the road has no sign on the map.",
+        "The card of where you are shows only the street name, without the house number. The number still shows when you tap a point on the map."
+      ],
+      "es": [
+        "Límite de la vía dentro del velocímetro: el anillo se llena hasta el límite (lleno = en el máximo de la vía) y el valor queda en una mini placa encajada en la punta del anillo. Nada más encima de la tarjeta de la dirección, vertical u horizontal. Placa roja = la de la vía; gris con ≈ = el límite probable por la ley (CTB) cuando la vía no tiene placa en el mapa.",
+        "La tarjeta de dónde estás muestra solo el nombre de la calle, sin el número de la casa. El número sigue apareciendo cuando tocas un punto del mapa."
+      ]
+    },
     {
       "versao": "0.119.3",
       "data": "10/11/2026",
@@ -207,19 +223,6 @@
       "es": [
         "Tarjeta de la dirección aprovechando todo el espacio: la X quedó pequeña, naranja y en la esquina, y la calle, el barrio y la ciudad solo pasan a otra línea cuando de verdad no caben. La tarjeta quedó más baja.",
         "El ícono de tu posición ahora acompaña la tarjeta de la dirección, en vertical y horizontal: si la tarjeta crece, el ícono sube; si se achica, baja. La tarjeta nunca cubre el ícono, con cualquier ícono y tamaño elegido."
-      ]
-    },
-    {
-      "versao": "0.116.4",
-      "data": "08/11/2026",
-      "itens": [
-        "Cartão do endereço mais baixo: CPA, Batalhão, Cia e a DP agora ficam num cartão laranja só: numa linha com a tela deitada e em duas linhas em pé, sem cortar nenhum nome. Tocando nele abre a ficha com tudo (endereços, telefones e rotas)."
-      ],
-      "en": [
-        "Shorter address card: CPA, Battalion, Company and the police station now sit in a single orange card: one line in landscape, two lines in portrait, with no name cut off. Tap it to open the full sheet (addresses, phones and routes)."
-      ],
-      "es": [
-        "Tarjeta de la dirección más baja: CPA, Batallón, Compañía y la comisaría ahora quedan en una sola tarjeta naranja: una línea en horizontal y dos líneas en vertical, sin cortar ningún nombre. Al tocarla se abre la ficha completa (direcciones, teléfonos y rutas)."
       ]
     }
   ]
