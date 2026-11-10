@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.4",
-  "codigo": 347,
+  "versao": "0.120.5",
+  "codigo": 348,
   "data": "10/11/2026",
-  "tamanho": 109866861,
-  "sha256": "b389769755241c654d9a4993921d4fe181555dc1664c0cae10e65e3ee6129445",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.4/Vrumbi-0.120.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.4/Vrumbi-relogio-0.120.4.apk",
+  "tamanho": 109867405,
+  "sha256": "b5b1d5e42ece589c839f1e9967dbcbc957359dcfcb951e8c4964dfbdc2fa1bec",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.5/Vrumbi-0.120.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.5/Vrumbi-relogio-0.120.5.apk",
   "notas": [
-    "O Vrumbi ficou com peso de carro de verdade: ao erguer uma perninha, o corpo pende para o lado que ficou no chão e a suspensão afunda; ao cair do pulinho, ele afunda e quica até parar. Nunca tira as duas rodas do chão parado no ar.",
-    "Tchau de verdade: o retrovisor sobe e acena de um lado para o outro, e às vezes ele ergue a perninha do mesmo lado enquanto acena.",
-    "O ombro ficou liso: o retrovisor e o corpo são uma peça só, sem aquele gominho entre os dois, parado ou dobrando."
+    "A apresentação de abertura acompanha o celular: se você virar para a horizontal (ou de volta para a vertical) no meio da animação, ela se ajusta à tela na hora e continua de onde estava."
   ],
   "versoes": [
+    {
+      "versao": "0.120.5",
+      "data": "10/11/2026",
+      "itens": [
+        "A apresentação de abertura acompanha o celular: se você virar para a horizontal (ou de volta para a vertical) no meio da animação, ela se ajusta à tela na hora e continua de onde estava."
+      ],
+      "en": [
+        "The opening animation follows the phone: if you turn it to landscape (or back to portrait) in the middle of the animation, it fits the screen right away and continues where it was."
+      ],
+      "es": [
+        "La presentación de apertura acompaña al celular: si lo giras a horizontal (o de vuelta a vertical) en medio de la animación, se ajusta a la pantalla al instante y sigue desde donde estaba."
+      ]
+    },
     {
       "versao": "0.120.4",
       "data": "10/11/2026",
@@ -202,22 +213,6 @@
         "Stickers de WhatsApp: si Vrumbi no encuentra el sticker, lo explica y ofrece el botón Permitir, para dar acceso a la carpeta donde WhatsApp guarda los stickers.",
         "Multimedia: la cola de canciones vuelve a desplazarse con el dedo, y el reloj de la canción ya no pasa del tiempo total.",
         "Cerebro de Vrumbi: ahora se reconoce la tarjeta gráfica de los Pixel y de las centrales con Android."
-      ]
-    },
-    {
-      "versao": "0.119.0",
-      "data": "09/11/2026",
-      "itens": [
-        "Céu de verdade no mapa deitado: claro de dia, escuro de noite, e acompanhando o tempo de agora. Sol, sol entre nuvens, nublado, neblina, lua e estrelas ficam parados; chuva, chuva forte, neve e tempestade com relâmpagos se mexem.",
-        "Leve: o céu é desenhado sem 3D e sem imagens, e a animação só roda quando o céu aparece na tela (com o mapa deitado). Com o mapa de pé, ou o app em segundo plano, fica tudo parado."
-      ],
-      "en": [
-        "A real sky on the tilted map: light by day, dark at night, and following the weather right now. Sun, sun with clouds, overcast, fog, moon and stars stay still; rain, heavy rain, snow and thunderstorms with lightning move.",
-        "Light on the phone: the sky is drawn without 3D or images, and the animation only runs while the sky is on screen (tilted map). With the map upright, or the app in the background, everything stops."
-      ],
-      "es": [
-        "Un cielo de verdad en el mapa inclinado: claro de día, oscuro de noche y siguiendo el tiempo de ahora. Sol, sol entre nubes, nublado, niebla, luna y estrellas quedan quietos; lluvia, lluvia fuerte, nieve y tormenta con relámpagos se mueven.",
-        "Liviano: el cielo se dibuja sin 3D ni imágenes, y la animación solo corre mientras el cielo aparece en pantalla (mapa inclinado). Con el mapa derecho, o la app en segundo plano, todo se detiene."
       ]
     }
   ]
