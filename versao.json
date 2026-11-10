@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.5",
-  "codigo": 341,
+  "versao": "0.119.6",
+  "codigo": 342,
   "data": "10/11/2026",
-  "tamanho": 109854085,
-  "sha256": "fbe23cf827c07b4e03d8b9e4a4f310678b6aad2e6a7e6efcbe4db246a4628a77",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.5/Vrumbi-0.119.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.5/Vrumbi-relogio-0.119.5.apk",
+  "tamanho": 109857609,
+  "sha256": "5f84d3f9b845a5b621cca673cd1251df5b65db7e9f23fbd3f7d1e1f3e522acb4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.6/Vrumbi-0.119.6.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.6/Vrumbi-relogio-0.119.6.apk",
   "notas": [
-    "Velocímetro novo, como o painel de um carro: escala com tracinhos e, a partir do limite da via, a zona vermelha, com o limite marcado no ponto exato do anel. A velocidade anda pelo anel; entrou na zona vermelha, o número fica vermelho. Nada mais por fora do velocímetro.",
-    "Via sem placa no mapa: a zona fica cinza e o limite aparece como \"≈30\", o provável pela lei (CTB).",
-    "O velocímetro ficou um pouco maior, para a velocidade nunca encostar no número do limite, nem na estrada com três dígitos."
+    "Velocímetro com escala de verdade: de 0 até a velocidade máxima, com tracinhos e números (40, 80, 120, 160). O limite da via é marcado no ponto exato da escala: 30 lá embaixo, 60 mais acima, 110 depois do topo. Do limite em diante, a zona vermelha.",
+    "A escala acompanha o veículo: carro, caminhonete e moto até 200, van até 160, caminhão até 140; a pé até 20 e de bicicleta até 60. Em Meus veículos, \"Velocímetro até\" deixa escolher 160, 200, 240 ou 300.",
+    "Avisar, Gravar e o menu se afastaram do velocímetro, em pé e deitado."
   ],
   "versoes": [
+    {
+      "versao": "0.119.6",
+      "data": "10/11/2026",
+      "itens": [
+        "Velocímetro com escala de verdade: de 0 até a velocidade máxima, com tracinhos e números (40, 80, 120, 160). O limite da via é marcado no ponto exato da escala: 30 lá embaixo, 60 mais acima, 110 depois do topo. Do limite em diante, a zona vermelha.",
+        "A escala acompanha o veículo: carro, caminhonete e moto até 200, van até 160, caminhão até 140; a pé até 20 e de bicicleta até 60. Em Meus veículos, \"Velocímetro até\" deixa escolher 160, 200, 240 ou 300.",
+        "Avisar, Gravar e o menu se afastaram do velocímetro, em pé e deitado."
+      ],
+      "en": [
+        "Speedometer with a real scale: from 0 to the top speed, with tick marks and numbers (40, 80, 120, 160). The road limit is marked at its exact point on the scale: 30 down low, 60 higher, 110 past the top. From the limit on, the red zone.",
+        "The scale follows the vehicle: car, pickup and motorcycle up to 200, van up to 160, truck up to 140; walking up to 20 and cycling up to 60. In My vehicles, \"Speedometer up to\" lets you pick 160, 200, 240 or 300.",
+        "Report, Record and the menu moved away from the speedometer, upright and sideways."
+      ],
+      "es": [
+        "Velocímetro con escala de verdad: de 0 a la velocidad máxima, con marcas y números (40, 80, 120, 160). El límite de la vía se marca en su punto exacto de la escala: 30 abajo, 60 más arriba, 110 pasando la cima. Del límite en adelante, la zona roja.",
+        "La escala sigue al vehículo: auto, camioneta y moto hasta 200, furgoneta hasta 160, camión hasta 140; a pie hasta 20 y en bicicleta hasta 60. En Mis vehículos, \"Velocímetro hasta\" permite elegir 160, 200, 240 o 300.",
+        "Avisar, Grabar y el menú se alejaron del velocímetro, en vertical y en horizontal."
+      ]
+    },
     {
       "versao": "0.119.5",
       "data": "10/11/2026",
@@ -205,28 +224,6 @@
         "Tarjeta gráfica: si el celular cerró la app una vez mientras el cerebro abría, ya no queda atrapado en el procesador (mucho más lento). Y cada versión nueva vuelve a probar la tarjeta gráfica.",
         "La voz de Vrumbi ya no se corta: dice la respuesta entera antes de volver a escuchar, y la boca del carrito solo se mueve cuando la voz sale de verdad. En el procesador, el cerebro deja núcleos libres para que la voz no se atrase.",
         "Respuesta demasiado larga para el tiempo: dice lo que ya pensó, hasta la última frase completa, en vez de decir que no entendió."
-      ]
-    },
-    {
-      "versao": "0.117.0",
-      "data": "09/11/2026",
-      "itens": [
-        "Vrumbi mais rápido e mais divertido: pede para buzinar (\"faz bibi\", \"dá uma buzinada\"), acelerar o motor, dançar, rir, jogar cara ou coroa, rolar um dado, sortear um número, contar uma charada ou um trava-língua, e ele faz na hora, sem pensar.",
-        "Contas na hora e exatas: \"quanto é 15 vezes 3\", \"20% de 150\", \"raiz quadrada de 81\", \"vinte e cinco mais 10\".",
-        "O cérebro do Vrumbi responde mais rápido: papo e perguntas vão direto para a conversa (uma etapa a menos), ele fica pronto na memória por mais tempo e, com memória folgada no celular, já acorda quando o app abre. Se ainda estiver acordando, ele avisa.",
-        "Configurações > Cérebro do Vrumbi: \"Testar a velocidade\" mostra quanto ele leva para abrir e para começar a responder, e se usa a placa de vídeo ou o processador. Se estiver no processador, dá para tentar a placa de vídeo de novo."
-      ],
-      "en": [
-        "Faster, more fun Vrumbi: ask it to honk (\"beep beep\"), rev the engine, dance, laugh, flip a coin, roll a die, pick a number, tell a riddle or a tongue twister, and it does it right away, no thinking needed.",
-        "Instant, exact math: \"what is 15 times 3\", \"20% of 150\", \"square root of 81\".",
-        "Vrumbi's brain answers faster: chat and questions go straight to the conversation (one step less), it stays ready in memory for longer and, on phones with plenty of memory, wakes up as soon as the app opens. If it is still waking up, it tells you.",
-        "Settings > Vrumbi's brain: \"Test the speed\" shows how long it takes to open and to start answering, and whether it uses the graphics card or the processor. If it is on the processor, you can try the graphics card again."
-      ],
-      "es": [
-        "Vrumbi más rápido y divertido: pídele que toque la bocina (\"pip pip\"), acelere el motor, baile, se ría, lance una moneda, tire un dado, sortee un número, diga una adivinanza o un trabalenguas, y lo hace al instante, sin pensar.",
-        "Cuentas al instante y exactas: \"cuánto es 15 por 3\", \"20% de 150\", \"raíz cuadrada de 81\".",
-        "El cerebro de Vrumbi responde más rápido: la charla y las preguntas van directo a la conversación (un paso menos), se queda listo en la memoria por más tiempo y, en celulares con memoria de sobra, despierta apenas se abre la app. Si todavía está despertando, avisa.",
-        "Ajustes > Cerebro de Vrumbi: \"Probar la velocidad\" muestra cuánto tarda en abrir y en empezar a responder, y si usa la tarjeta gráfica o el procesador. Si está en el procesador, se puede probar la tarjeta gráfica de nuevo."
       ]
     }
   ]
