@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.3",
-  "codigo": 346,
+  "versao": "0.120.4",
+  "codigo": 347,
   "data": "10/11/2026",
-  "tamanho": 109865425,
-  "sha256": "70572fdc41742d2ae049d9ddac749b82e50d84c120f89e9453bebd5aff7e0f52",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.3/Vrumbi-0.120.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.3/Vrumbi-relogio-0.120.3.apk",
+  "tamanho": 109866861,
+  "sha256": "b389769755241c654d9a4993921d4fe181555dc1664c0cae10e65e3ee6129445",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.4/Vrumbi-0.120.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.4/Vrumbi-relogio-0.120.4.apk",
   "notas": [
-    "Emergência médica: primeiro tudo o que fica no seu município, do mais perto para o mais longe, e só depois as cidades vizinhas. Antes o hospital grande da cidade ao lado podia vir antes do hospital daqui. Vale para o mundo todo.",
-    "Viaturas com a pintura de cada estado: as 27 polícias militares refeitas pelas fotos das viaturas entregues de 2023 a 2026, cada uma diferente, inclusive o capô e o teto, que é o que se vê dirigindo.",
-    "São Paulo com a pintura nova da PM: branco na frente e em cima, cinza grafite atrás e embaixo, faixa vermelha com borda branca subindo pela porta.",
-    "Polícia Federal, Rodoviária Federal, Força Nacional, ROTA, BOPE e Polícia Civil também conferidas pelas fotos."
+    "O Vrumbi ficou com peso de carro de verdade: ao erguer uma perninha, o corpo pende para o lado que ficou no chão e a suspensão afunda; ao cair do pulinho, ele afunda e quica até parar. Nunca tira as duas rodas do chão parado no ar.",
+    "Tchau de verdade: o retrovisor sobe e acena de um lado para o outro, e às vezes ele ergue a perninha do mesmo lado enquanto acena.",
+    "O ombro ficou liso: o retrovisor e o corpo são uma peça só, sem aquele gominho entre os dois, parado ou dobrando."
   ],
   "versoes": [
+    {
+      "versao": "0.120.4",
+      "data": "10/11/2026",
+      "itens": [
+        "O Vrumbi ficou com peso de carro de verdade: ao erguer uma perninha, o corpo pende para o lado que ficou no chão e a suspensão afunda; ao cair do pulinho, ele afunda e quica até parar. Nunca tira as duas rodas do chão parado no ar.",
+        "Tchau de verdade: o retrovisor sobe e acena de um lado para o outro, e às vezes ele ergue a perninha do mesmo lado enquanto acena.",
+        "O ombro ficou liso: o retrovisor e o corpo são uma peça só, sem aquele gominho entre os dois, parado ou dobrando."
+      ],
+      "en": [
+        "Vrumbi now has the weight of a real car: lifting a little leg, the body leans to the side still on the ground and the suspension sinks; landing from a hop, it sinks and bounces until it settles. It never floats with both wheels off the ground.",
+        "A real wave: the mirror goes up and waves side to side, and sometimes he lifts the leg on the same side while waving.",
+        "The shoulder is smooth: mirror and body are one piece, without the little notch between them, still or bending."
+      ],
+      "es": [
+        "Vrumbi ahora tiene el peso de un auto de verdad: al levantar una patita, el cuerpo se inclina hacia el lado que quedó en el suelo y la suspensión se hunde; al caer del saltito, se hunde y rebota hasta quedarse quieto. Nunca flota con las dos ruedas en el aire.",
+        "Un saludo de verdad: el espejo sube y saluda de un lado a otro, y a veces levanta la patita del mismo lado mientras saluda.",
+        "El hombro quedó liso: el espejo y el cuerpo son una sola pieza, sin esa muesca entre los dos, quieto o doblando."
+      ]
+    },
     {
       "versao": "0.120.3",
       "data": "10/11/2026",
@@ -200,25 +218,6 @@
       "es": [
         "Un cielo de verdad en el mapa inclinado: claro de día, oscuro de noche y siguiendo el tiempo de ahora. Sol, sol entre nubes, nublado, niebla, luna y estrellas quedan quietos; lluvia, lluvia fuerte, nieve y tormenta con relámpagos se mueven.",
         "Liviano: el cielo se dibuja sin 3D ni imágenes, y la animación solo corre mientras el cielo aparece en pantalla (mapa inclinado). Con el mapa derecho, o la app en segundo plano, todo se detiene."
-      ]
-    },
-    {
-      "versao": "0.118.1",
-      "data": "09/11/2026",
-      "itens": [
-        "Visão do Seguir: novo botão \"Ajustar no mapa\". Ele leva você ao mapa com o botão \"Salvar esta visão\" fixo no alto; ajuste com dois dedos, toque em Salvar e pronto. Ao voltar à tela, as barras e chaves já mostram o que você deixou no mapa.",
-        "Mapa bem deitado: o céu no alto agora tem a cor do tema (azul-claro de dia, azul-noite no escuro), sem a faixa preta.",
-        "Configurações com o celular deitado: a janela usa a tela inteira, com cabeçalho e Salvar mais baixos e os cartões lado a lado. Na Visão do Seguir, os botões Ajustar no mapa e Padrão do Vrumbi ficam juntos no topo, e Distância, Inclinação e Direção lado a lado."
-      ],
-      "en": [
-        "Follow view: new \"Adjust on the map\" button. It takes you to the map with a fixed \"Save this view\" button at the top; adjust with two fingers, tap Save and you are done. Back on the screen, the sliders and switches already show what you set on the map.",
-        "Very tilted map: the sky at the top now matches the theme (light blue by day, night blue in dark), no black band.",
-        "Settings with the phone sideways: the window uses the whole screen, with a shorter header and Save button and cards side by side. In Follow view, Adjust on the map and Vrumbi default sit together at the top, and Distance, Tilt and Direction side by side."
-      ],
-      "es": [
-        "Vista de Seguir: nuevo botón \"Ajustar en el mapa\". Te lleva al mapa con el botón \"Guardar esta vista\" fijo arriba; ajusta con dos dedos, toca Guardar y listo. Al volver a la pantalla, las barras y los interruptores ya muestran lo que dejaste en el mapa.",
-        "Mapa bien inclinado: el cielo arriba ahora tiene el color del tema (celeste de día, azul noche en oscuro), sin la franja negra.",
-        "Ajustes con el celular en horizontal: la ventana usa toda la pantalla, con encabezado y Guardar más bajos y las tarjetas lado a lado. En Vista de Seguir, Ajustar en el mapa y Predeterminado de Vrumbi quedan juntos arriba, y Distancia, Inclinación y Dirección lado a lado."
       ]
     }
   ]
