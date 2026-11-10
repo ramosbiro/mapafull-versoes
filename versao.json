@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.0",
-  "codigo": 343,
+  "versao": "0.120.1",
+  "codigo": 344,
   "data": "10/11/2026",
-  "tamanho": 109858949,
-  "sha256": "59b7c34b193ff789fe0914c2f34644210ab29138f8feea028b290192de8953f9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.0/Vrumbi-0.120.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.0/Vrumbi-relogio-0.120.0.apk",
+  "tamanho": 109859973,
+  "sha256": "ca41f2163199a3005910f501507b286f56b7b7a45c9183094b3f8aad12d0a3b0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.1/Vrumbi-0.120.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.1/Vrumbi-relogio-0.120.1.apk",
   "notas": [
-    "O Vrumbi ganhou bracinhos e perninhas: os retrovisores viram mãozinhas e as rodas, pezinhos. Ele dá tchau quando aparece e quando vai embora (e de vez em quando, parado), gesticula enquanto fala, levanta a mãozinha pensando, abre as perninhas no pulo e dança chutando uma perninha de cada vez. Peça \"dança pra mim\"."
+    "Os bracinhos e perninhas do Vrumbi agora aparecem em todo lugar onde ele se mexe: no ícone das telas, na abertura do app, nos balões em que ele explica e na tela de atualização. Ele dá tchau com um retrovisor, depois com o outro, e chuta as perninhas, em combinações que mudam a cada volta.",
+    "O Vrumbi grande (o que conversa com você) ficou sem a borda branca, no mesmo padrão do resto do app."
   ],
   "versoes": [
+    {
+      "versao": "0.120.1",
+      "data": "10/11/2026",
+      "itens": [
+        "Os bracinhos e perninhas do Vrumbi agora aparecem em todo lugar onde ele se mexe: no ícone das telas, na abertura do app, nos balões em que ele explica e na tela de atualização. Ele dá tchau com um retrovisor, depois com o outro, e chuta as perninhas, em combinações que mudam a cada volta.",
+        "O Vrumbi grande (o que conversa com você) ficou sem a borda branca, no mesmo padrão do resto do app."
+      ],
+      "en": [
+        "Vrumbi's little arms and legs now show everywhere it moves: on screen icons, the app opening, the speech bubbles where it explains things and the update screen. It waves with one mirror, then the other, and kicks its legs, in combinations that change every round.",
+        "The big Vrumbi (the one that talks to you) no longer has the white border, matching the rest of the app."
+      ],
+      "es": [
+        "Los bracitos y piernitas de Vrumbi ahora aparecen en todo lugar donde se mueve: en el ícono de las pantallas, la apertura de la app, los globos donde explica y la pantalla de actualización. Saluda con un espejo, luego con el otro, y patea las piernitas, en combinaciones que cambian en cada vuelta.",
+        "El Vrumbi grande (el que conversa contigo) quedó sin el borde blanco, igual que el resto de la app."
+      ]
+    },
     {
       "versao": "0.120.0",
       "data": "10/11/2026",
@@ -197,19 +214,6 @@
       ],
       "es": [
         "Tarjeta de la dirección: la tarjeta de la policía ahora tiene la flecha a la derecha, igual que la del centro comercial, mostrando que se puede tocar. Al tocarla se abre quién atiende el lugar; la línea del centro comercial abre lo que hay allí, incluso dentro de un shopping."
-      ]
-    },
-    {
-      "versao": "0.117.2",
-      "data": "09/11/2026",
-      "itens": [
-        "Cartão do endereço: sumiu a barra vazia que aparecia embaixo do cartão laranja da polícia, e a linha do centro comercial (\"o que tem aqui\") agora fica dentro do cartão, com o nome cortado em \"…\" quando é grande demais."
-      ],
-      "en": [
-        "Address card: the empty bar under the orange police card is gone, and the shopping center line (\"what is here\") now stays inside the card, with the name ending in \"…\" when it is too long."
-      ],
-      "es": [
-        "Tarjeta de la dirección: desapareció la barra vacía bajo la tarjeta naranja de la policía, y la línea del centro comercial (\"qué hay aquí\") ahora queda dentro de la tarjeta, con el nombre terminado en \"…\" cuando es muy largo."
       ]
     }
   ]
