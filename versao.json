@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.2",
-  "codigo": 345,
+  "versao": "0.120.3",
+  "codigo": 346,
   "data": "10/11/2026",
-  "tamanho": 109860125,
-  "sha256": "111f23a1bb8354ba1c94ba177a4127206753a4f41657fa66fad5bfe2886f6978",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.2/Vrumbi-0.120.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.2/Vrumbi-relogio-0.120.2.apk",
+  "tamanho": 109865425,
+  "sha256": "70572fdc41742d2ae049d9ddac749b82e50d84c120f89e9453bebd5aff7e0f52",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.3/Vrumbi-0.120.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.3/Vrumbi-relogio-0.120.3.apk",
   "notas": [
-    "O ícone da posição não encosta mais no cartão do endereço: fica com o mesmo respiro que o cartão tem dos botões dos lados, com qualquer um dos 38 ícones."
+    "Emergência médica: primeiro tudo o que fica no seu município, do mais perto para o mais longe, e só depois as cidades vizinhas. Antes o hospital grande da cidade ao lado podia vir antes do hospital daqui. Vale para o mundo todo.",
+    "Viaturas com a pintura de cada estado: as 27 polícias militares refeitas pelas fotos das viaturas entregues de 2023 a 2026, cada uma diferente, inclusive o capô e o teto, que é o que se vê dirigindo.",
+    "São Paulo com a pintura nova da PM: branco na frente e em cima, cinza grafite atrás e embaixo, faixa vermelha com borda branca subindo pela porta.",
+    "Polícia Federal, Rodoviária Federal, Força Nacional, ROTA, BOPE e Polícia Civil também conferidas pelas fotos."
   ],
   "versoes": [
+    {
+      "versao": "0.120.3",
+      "data": "10/11/2026",
+      "itens": [
+        "Emergência médica: primeiro tudo o que fica no seu município, do mais perto para o mais longe, e só depois as cidades vizinhas. Antes o hospital grande da cidade ao lado podia vir antes do hospital daqui. Vale para o mundo todo.",
+        "Viaturas com a pintura de cada estado: as 27 polícias militares refeitas pelas fotos das viaturas entregues de 2023 a 2026, cada uma diferente, inclusive o capô e o teto, que é o que se vê dirigindo.",
+        "São Paulo com a pintura nova da PM: branco na frente e em cima, cinza grafite atrás e embaixo, faixa vermelha com borda branca subindo pela porta.",
+        "Polícia Federal, Rodoviária Federal, Força Nacional, ROTA, BOPE e Polícia Civil também conferidas pelas fotos."
+      ],
+      "en": [
+        "Medical emergency: first everything in your city, nearest to farthest, and only then the nearby cities. Before, the big hospital of the next city could come before the one here. Works worldwide.",
+        "Police cars with each state's livery: all 27 military police liveries redone from photos of the cars delivered from 2023 to 2026, each one different, including the hood and roof, which is what you see while driving.",
+        "São Paulo with the new military police livery: white at the front and top, graphite gray at the back and bottom, a red stripe with a white edge rising along the door.",
+        "Federal Police, Federal Highway Police, National Force, ROTA, BOPE and Civil Police also checked against photos."
+      ],
+      "es": [
+        "Emergencia médica: primero todo lo que está en tu municipio, del más cercano al más lejano, y solo después las ciudades vecinas. Antes el hospital grande de la ciudad de al lado podía aparecer antes que el de aquí. Vale para todo el mundo.",
+        "Patrulleros con la pintura de cada estado: las 27 policías militares rehechas a partir de fotos de los vehículos entregados de 2023 a 2026, cada una distinta, incluso el capó y el techo, que es lo que se ve al manejar.",
+        "São Paulo con la pintura nueva de la policía militar: blanco al frente y arriba, gris grafito atrás y abajo, franja roja con borde blanco que sube por la puerta.",
+        "Policía Federal, Policía Federal de Carreteras, Fuerza Nacional, ROTA, BOPE y Policía Civil también revisadas con fotos."
+      ]
+    },
     {
       "versao": "0.120.2",
       "data": "10/11/2026",
@@ -194,25 +219,6 @@
         "Vista de Seguir: nuevo botón \"Ajustar en el mapa\". Te lleva al mapa con el botón \"Guardar esta vista\" fijo arriba; ajusta con dos dedos, toca Guardar y listo. Al volver a la pantalla, las barras y los interruptores ya muestran lo que dejaste en el mapa.",
         "Mapa bien inclinado: el cielo arriba ahora tiene el color del tema (celeste de día, azul noche en oscuro), sin la franja negra.",
         "Ajustes con el celular en horizontal: la ventana usa toda la pantalla, con encabezado y Guardar más bajos y las tarjetas lado a lado. En Vista de Seguir, Ajustar en el mapa y Predeterminado de Vrumbi quedan juntos arriba, y Distancia, Inclinación y Dirección lado a lado."
-      ]
-    },
-    {
-      "versao": "0.118.0",
-      "data": "09/11/2026",
-      "itens": [
-        "Seguir do seu jeito: mexa no mapa com dois dedos (pinçar para longe ou perto, deitar ou levantar, girar) e aparece no alto o botão \"Guardar esta visão\". Um toque e o Seguir passa a abrir exatamente como está na tela.",
-        "Girar o mapa com dois dedos não solta mais o Seguir: o ícone continua sendo seguido, com o mapa na orientação que você deixou.",
-        "Nova tela Ajustes > Navegação > Visão do Seguir: distância, inclinação (automática ou de 0° a 75°), direção (para onde vou ou norte para cima), aproximar pela velocidade e nas curvas, e voltar ao padrão do Vrumbi."
-      ],
-      "en": [
-        "Follow your way: move the map with two fingers (pinch farther or closer, tilt, rotate) and a \"Save this view\" button shows at the top. One tap and Follow opens exactly as it is on screen.",
-        "Rotating the map with two fingers no longer stops Follow: your icon keeps being followed, with the map in the orientation you left it.",
-        "New screen Settings > Navigation > Follow view: distance, tilt (automatic or 0° to 75°), direction (where I am heading or north up), zoom by speed and at turns, and back to the Vrumbi default."
-      ],
-      "es": [
-        "Seguir a tu manera: mueve el mapa con dos dedos (pellizca para alejar o acercar, inclina, gira) y arriba aparece el botón \"Guardar esta vista\". Un toque y Seguir se abre exactamente como está en la pantalla.",
-        "Girar el mapa con dos dedos ya no suelta Seguir: tu ícono sigue siendo seguido, con el mapa en la orientación que dejaste.",
-        "Nueva pantalla Ajustes > Navegación > Vista de Seguir: distancia, inclinación (automática o de 0° a 75°), dirección (hacia donde voy o norte arriba), acercar según la velocidad y en las curvas, y volver a lo predeterminado de Vrumbi."
       ]
     }
   ]
