@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.6",
-  "codigo": 342,
+  "versao": "0.120.0",
+  "codigo": 343,
   "data": "10/11/2026",
-  "tamanho": 109857609,
-  "sha256": "5f84d3f9b845a5b621cca673cd1251df5b65db7e9f23fbd3f7d1e1f3e522acb4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.6/Vrumbi-0.119.6.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.6/Vrumbi-relogio-0.119.6.apk",
+  "tamanho": 109858949,
+  "sha256": "59b7c34b193ff789fe0914c2f34644210ab29138f8feea028b290192de8953f9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.0/Vrumbi-0.120.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.0/Vrumbi-relogio-0.120.0.apk",
   "notas": [
-    "Velocímetro com escala de verdade: de 0 até a velocidade máxima, com tracinhos e números (40, 80, 120, 160). O limite da via é marcado no ponto exato da escala: 30 lá embaixo, 60 mais acima, 110 depois do topo. Do limite em diante, a zona vermelha.",
-    "A escala acompanha o veículo: carro, caminhonete e moto até 200, van até 160, caminhão até 140; a pé até 20 e de bicicleta até 60. Em Meus veículos, \"Velocímetro até\" deixa escolher 160, 200, 240 ou 300.",
-    "Avisar, Gravar e o menu se afastaram do velocímetro, em pé e deitado."
+    "O Vrumbi ganhou bracinhos e perninhas: os retrovisores viram mãozinhas e as rodas, pezinhos. Ele dá tchau quando aparece e quando vai embora (e de vez em quando, parado), gesticula enquanto fala, levanta a mãozinha pensando, abre as perninhas no pulo e dança chutando uma perninha de cada vez. Peça \"dança pra mim\"."
   ],
   "versoes": [
+    {
+      "versao": "0.120.0",
+      "data": "10/11/2026",
+      "itens": [
+        "O Vrumbi ganhou bracinhos e perninhas: os retrovisores viram mãozinhas e as rodas, pezinhos. Ele dá tchau quando aparece e quando vai embora (e de vez em quando, parado), gesticula enquanto fala, levanta a mãozinha pensando, abre as perninhas no pulo e dança chutando uma perninha de cada vez. Peça \"dança pra mim\"."
+      ],
+      "en": [
+        "Vrumbi got little arms and legs: the mirrors became hands and the wheels, feet. It waves hello and goodbye (and now and then while idle), gestures while talking, raises a hand while thinking, opens its legs when jumping and dances kicking one leg at a time. Ask \"dance for me\"."
+      ],
+      "es": [
+        "Vrumbi ganó bracitos y piernitas: los espejos se volvieron manitos y las ruedas, piecitos. Saluda al aparecer y al irse (y de vez en cuando, quieto), gesticula al hablar, levanta la manito pensando, abre las piernitas al saltar y baila pateando una piernita a la vez. Pide \"baila para mí\"."
+      ]
+    },
     {
       "versao": "0.119.6",
       "data": "10/11/2026",
@@ -199,31 +210,6 @@
       ],
       "es": [
         "Tarjeta de la dirección: desapareció la barra vacía bajo la tarjeta naranja de la policía, y la línea del centro comercial (\"qué hay aquí\") ahora queda dentro de la tarjeta, con el nombre terminado en \"…\" cuando es muy largo."
-      ]
-    },
-    {
-      "versao": "0.117.1",
-      "data": "09/11/2026",
-      "itens": [
-        "O cérebro do Vrumbi conversa do jeito dos apps de inteligência no celular: a conversa fica aberta e ele não relê tudo a cada frase, só o que você acabou de falar. A primeira palavra sai bem mais cedo.",
-        "Os pedidos de comando também ficaram mais rápidos: ele já deixa as regras lidas enquanto você fala.",
-        "Placa de vídeo: se o celular fechou o app uma vez enquanto o cérebro abria, ele não fica mais preso no processador (bem mais lento). E a cada versão nova ele tenta a placa de vídeo de novo.",
-        "A voz do Vrumbi não corta mais: ele fala a resposta inteira antes de voltar a ouvir, e a boca do carrinho só mexe quando a voz sai de verdade. No processador, o cérebro deixa núcleos livres para a voz não atrasar.",
-        "Resposta longa demais para o tempo: ele fala o que já pensou, até a última frase inteira, em vez de dizer que não entendeu."
-      ],
-      "en": [
-        "Vrumbi's brain now chats the way on-device AI apps do: the conversation stays open and it does not reread everything on each sentence, only what you just said. The first word comes out much sooner.",
-        "Command requests are faster too: it keeps the rules already read while you speak.",
-        "Graphics card: if the phone closed the app once while the brain was opening, it no longer gets stuck on the (much slower) processor. And every new version tries the graphics card again.",
-        "Vrumbi's voice no longer cuts off: it says the whole answer before listening again, and the car's mouth only moves when the voice actually comes out. On the processor, the brain leaves cores free so the voice is not delayed.",
-        "Answer too long for the time limit: it says what it already thought, up to the last full sentence, instead of saying it did not understand."
-      ],
-      "es": [
-        "El cerebro de Vrumbi ahora conversa como las apps de inteligencia en el celular: la conversación queda abierta y no relee todo en cada frase, solo lo que acabas de decir. La primera palabra sale mucho antes.",
-        "Los pedidos de comando también son más rápidos: deja las reglas ya leídas mientras hablas.",
-        "Tarjeta gráfica: si el celular cerró la app una vez mientras el cerebro abría, ya no queda atrapado en el procesador (mucho más lento). Y cada versión nueva vuelve a probar la tarjeta gráfica.",
-        "La voz de Vrumbi ya no se corta: dice la respuesta entera antes de volver a escuchar, y la boca del carrito solo se mueve cuando la voz sale de verdad. En el procesador, el cerebro deja núcleos libres para que la voz no se atrase.",
-        "Respuesta demasiado larga para el tiempo: dice lo que ya pensó, hasta la última frase completa, en vez de decir que no entendió."
       ]
     }
   ]
