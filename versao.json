@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.6",
-  "codigo": 349,
+  "versao": "0.120.7",
+  "codigo": 350,
   "data": "10/11/2026",
-  "tamanho": 109867673,
-  "sha256": "9c1de645685d953a7abdc56e0da31e297443cc49e8bba8bac4a6728dcac765c5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.6/Vrumbi-0.120.6.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.6/Vrumbi-relogio-0.120.6.apk",
+  "tamanho": 109868081,
+  "sha256": "71a1eb16ea63bd74d8b7041a1572f5c287165a429ad6c426a0defbee2c347a1e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.7/Vrumbi-0.120.7.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.7/Vrumbi-relogio-0.120.7.apk",
   "notas": [
-    "Girar o celular ficou bem mais rápido: ao passar para a horizontal (ou voltar para a vertical), o mapa aparece inteiro quase na hora, sem ficar muito tempo com a faixa vazia do lado."
+    "A câmera vem atrás do ícone, como nos jogos de corrida: numa curva o ícone vira primeiro, você vê ele virando e a lateral dele, e a câmera acompanha logo depois, suave. Vale para todos os ícones, em qualquer país."
   ],
   "versoes": [
+    {
+      "versao": "0.120.7",
+      "data": "10/11/2026",
+      "itens": [
+        "A câmera vem atrás do ícone, como nos jogos de corrida: numa curva o ícone vira primeiro, você vê ele virando e a lateral dele, e a câmera acompanha logo depois, suave. Vale para todos os ícones, em qualquer país."
+      ],
+      "en": [
+        "The camera follows the icon, like in racing games: in a turn the icon turns first, you see it turning and its side, and the camera catches up right after, smoothly. Works with every icon, in any country."
+      ],
+      "es": [
+        "La cámara va detrás del ícono, como en los juegos de carreras: en una curva el ícono gira primero, lo ves girando y su costado, y la cámara lo acompaña enseguida, suave. Vale para todos los íconos, en cualquier país."
+      ]
+    },
     {
       "versao": "0.120.6",
       "data": "10/11/2026",
@@ -188,19 +201,6 @@
       "es": [
         "Mucho más liviano en celulares más simples: quieto, el mapa ahora descansa de verdad. Antes se redibujaba sin parar solo para hacer parpadear la luz del ícono (baliza, flecha), y el procesador quedaba ocupado todo el tiempo. En movimiento, todo sigue igual; quieto unos segundos, la luz queda fija.",
         "El cerebro de Vrumbi ya no se carga solo al abrir la app en celulares con menos de 10 GB de memoria, y sale de la memoria 5 minutos después del último uso: queda memoria para el mapa."
-      ]
-    },
-    {
-      "versao": "0.119.2",
-      "data": "10/11/2026",
-      "itens": [
-        "Configurações com o celular deitado de volta ao jeito de antes, igual ao em pé: as colunas quebravam telas como o Ícone da posição (a prévia ficava por cima das opções)."
-      ],
-      "en": [
-        "Settings with the phone sideways back to how they were, the same as upright: the columns broke screens like Position icon (the preview covered the options)."
-      ],
-      "es": [
-        "Ajustes con el celular en horizontal de vuelta a como estaban, igual que en vertical: las columnas rompían pantallas como Ícono de la posición (la vista previa tapaba las opciones)."
       ]
     }
   ]
