@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.119.4",
-  "codigo": 340,
+  "versao": "0.119.5",
+  "codigo": 341,
   "data": "10/11/2026",
-  "tamanho": 109852425,
-  "sha256": "bce86e0aaaea06ad32ec20da94b3539162730bd545fc17a8fb5022effe0ac86c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.4/Vrumbi-0.119.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.4/Vrumbi-relogio-0.119.4.apk",
+  "tamanho": 109854085,
+  "sha256": "fbe23cf827c07b4e03d8b9e4a4f310678b6aad2e6a7e6efcbe4db246a4628a77",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.5/Vrumbi-0.119.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.119.5/Vrumbi-relogio-0.119.5.apk",
   "notas": [
-    "Limite da via dentro do velocímetro: o anel enche até o limite (cheio = no máximo da via) e o valor fica numa mini-placa encaixada na ponta do anel. Nada mais por cima do cartão do endereço, em pé ou deitado. Placa vermelha = a da via; cinza com ≈ = o limite provável pela lei (CTB) quando a via não tem placa no mapa.",
-    "O cartão de onde você está mostra só o nome da rua, sem o número da casa. O número continua aparecendo quando você toca num ponto do mapa."
+    "Velocímetro novo, como o painel de um carro: escala com tracinhos e, a partir do limite da via, a zona vermelha, com o limite marcado no ponto exato do anel. A velocidade anda pelo anel; entrou na zona vermelha, o número fica vermelho. Nada mais por fora do velocímetro.",
+    "Via sem placa no mapa: a zona fica cinza e o limite aparece como \"≈30\", o provável pela lei (CTB).",
+    "O velocímetro ficou um pouco maior, para a velocidade nunca encostar no número do limite, nem na estrada com três dígitos."
   ],
   "versoes": [
+    {
+      "versao": "0.119.5",
+      "data": "10/11/2026",
+      "itens": [
+        "Velocímetro novo, como o painel de um carro: escala com tracinhos e, a partir do limite da via, a zona vermelha, com o limite marcado no ponto exato do anel. A velocidade anda pelo anel; entrou na zona vermelha, o número fica vermelho. Nada mais por fora do velocímetro.",
+        "Via sem placa no mapa: a zona fica cinza e o limite aparece como \"≈30\", o provável pela lei (CTB).",
+        "O velocímetro ficou um pouco maior, para a velocidade nunca encostar no número do limite, nem na estrada com três dígitos."
+      ],
+      "en": [
+        "New speedometer, like a car dashboard: a scale with tick marks and, from the road limit on, the red zone, with the limit marked at the exact point of the ring. Your speed moves along the ring; once in the red zone, the number turns red. Nothing outside the speedometer anymore.",
+        "Road with no sign on the map: the zone turns gray and the limit shows as \"≈30\", the likely legal limit.",
+        "The speedometer is a bit bigger, so your speed never touches the limit number, even with three digits on the highway."
+      ],
+      "es": [
+        "Velocímetro nuevo, como el tablero de un auto: escala con marcas y, desde el límite de la vía, la zona roja, con el límite marcado en el punto exacto del anillo. Tu velocidad avanza por el anillo; al entrar en la zona roja, el número se pone rojo. Nada más por fuera del velocímetro.",
+        "Vía sin placa en el mapa: la zona queda gris y el límite aparece como \"≈30\", el probable según la ley.",
+        "El velocímetro es un poco más grande, para que la velocidad nunca toque el número del límite, ni en la ruta con tres dígitos."
+      ]
+    },
     {
       "versao": "0.119.4",
       "data": "10/11/2026",
@@ -207,22 +227,6 @@
         "Cuentas al instante y exactas: \"cuánto es 15 por 3\", \"20% de 150\", \"raíz cuadrada de 81\".",
         "El cerebro de Vrumbi responde más rápido: la charla y las preguntas van directo a la conversación (un paso menos), se queda listo en la memoria por más tiempo y, en celulares con memoria de sobra, despierta apenas se abre la app. Si todavía está despertando, avisa.",
         "Ajustes > Cerebro de Vrumbi: \"Probar la velocidad\" muestra cuánto tarda en abrir y en empezar a responder, y si usa la tarjeta gráfica o el procesador. Si está en el procesador, se puede probar la tarjeta gráfica de nuevo."
-      ]
-    },
-    {
-      "versao": "0.116.5",
-      "data": "08/11/2026",
-      "itens": [
-        "Cartão do endereço aproveitando todo o espaço: o X ficou pequeno, laranja e no cantinho, e o nome da rua, o bairro e a cidade só quebram de linha quando não cabem mesmo. O cartão ficou mais baixo.",
-        "O ícone da sua posição agora acompanha o cartão do endereço, em pé e deitado: se o cartão cresce, o ícone sobe; se diminui, desce. O cartão nunca cobre o ícone, com qualquer ícone e tamanho escolhido."
-      ],
-      "en": [
-        "Address card using all the space: the X is now small, orange and in the corner, and the street, neighborhood and city only wrap when they really do not fit. The card is shorter.",
-        "Your position icon now follows the address card, in portrait and landscape: if the card grows, the icon moves up; if it shrinks, it moves down. The card never covers the icon, whatever icon and size you chose."
-      ],
-      "es": [
-        "Tarjeta de la dirección aprovechando todo el espacio: la X quedó pequeña, naranja y en la esquina, y la calle, el barrio y la ciudad solo pasan a otra línea cuando de verdad no caben. La tarjeta quedó más baja.",
-        "El ícono de tu posición ahora acompaña la tarjeta de la dirección, en vertical y horizontal: si la tarjeta crece, el ícono sube; si se achica, baja. La tarjeta nunca cubre el ícono, con cualquier ícono y tamaño elegido."
       ]
     }
   ]
