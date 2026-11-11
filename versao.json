@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.13",
-  "codigo": 356,
+  "versao": "0.120.14",
+  "codigo": 357,
   "data": "11/11/2026",
-  "tamanho": 116443985,
-  "sha256": "84c6fd8cfbbbb7ac82e62f3bc686690d498a12a431ac1c2d4ceaabccd8ad4b9d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.13/Vrumbi-0.120.13.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.13/Vrumbi-relogio-0.120.13.apk",
+  "tamanho": 116444281,
+  "sha256": "3cbb0a133ffef170a3fa9954d383318574600eac7b75fbdd129821da0c25db6b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.14/Vrumbi-0.120.14.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.14/Vrumbi-relogio-0.120.14.apk",
   "notas": [
-    "Quando o endereço quebra de linha, o ponto \"·\" que separava as partes some: a linha termina limpa."
+    "Mapas offline para o mundo inteiro: os outros 162 países começam a entrar na lista de mapas para baixar, aos poucos, conforme ficam prontos (com o novo grupo América Central e Caribe)."
   ],
   "versoes": [
+    {
+      "versao": "0.120.14",
+      "data": "11/11/2026",
+      "itens": [
+        "Mapas offline para o mundo inteiro: os outros 162 países começam a entrar na lista de mapas para baixar, aos poucos, conforme ficam prontos (com o novo grupo América Central e Caribe)."
+      ],
+      "en": [
+        "Offline maps for the whole world: the other 162 countries start appearing in the list of maps to download, little by little, as they are ready (with the new Central America and Caribbean group)."
+      ],
+      "es": [
+        "Mapas sin conexión para el mundo entero: los otros 162 países empiezan a entrar en la lista de mapas para descargar, poco a poco, a medida que estén listos (con el nuevo grupo América Central y Caribe)."
+      ]
+    },
     {
       "versao": "0.120.13",
       "data": "11/11/2026",
@@ -173,19 +186,6 @@
         "Patrulleros con la pintura de cada estado: las 27 policías militares rehechas a partir de fotos de los vehículos entregados de 2023 a 2026, cada una distinta, incluso el capó y el techo, que es lo que se ve al manejar.",
         "São Paulo con la pintura nueva de la policía militar: blanco al frente y arriba, gris grafito atrás y abajo, franja roja con borde blanco que sube por la puerta.",
         "Policía Federal, Policía Federal de Carreteras, Fuerza Nacional, ROTA, BOPE y Policía Civil también revisadas con fotos."
-      ]
-    },
-    {
-      "versao": "0.120.2",
-      "data": "10/11/2026",
-      "itens": [
-        "O ícone da posição não encosta mais no cartão do endereço: fica com o mesmo respiro que o cartão tem dos botões dos lados, com qualquer um dos 38 ícones."
-      ],
-      "en": [
-        "The position icon no longer touches the address card: it keeps the same gap the card has from the side buttons, with any of the 38 icons."
-      ],
-      "es": [
-        "El ícono de la posición ya no toca la tarjeta de la dirección: mantiene el mismo espacio que la tarjeta tiene de los botones laterales, con cualquiera de los 38 íconos."
       ]
     }
   ]
