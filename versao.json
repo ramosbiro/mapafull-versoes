@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.123.2",
-  "codigo": 363,
+  "versao": "0.123.3",
+  "codigo": 364,
   "data": "11/11/2026",
-  "tamanho": 116471529,
-  "sha256": "e8e1fb877655fbcf0614d3065cae976d646eb4a692059e2c43ed5e0a0f65b0b4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.2/Vrumbi-0.123.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.2/Vrumbi-relogio-0.123.2.apk",
+  "tamanho": 116455637,
+  "sha256": "3e469ca6165e10d364581bccfe51af73fabe85f28a8d7c9521b81d2b03b3968a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.3/Vrumbi-0.123.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.3/Vrumbi-relogio-0.123.3.apk",
   "notas": [
-    "Com o celular deitado, a barra da inclinação da moto fica ainda mais fina, para sobrar mais mapa."
+    "Mais mapa na tela: o cartão do endereço, os botões e o velocímetro desceram para perto da borda de baixo, com o mesmo espacinho que existe entre os botões.",
+    "Só sobem quando aparece uma faixa embaixo (a barra da moto ou o player de som encostado), e sobem só a altura dela. Sumiu a faixa, tudo desce."
   ],
   "versoes": [
+    {
+      "versao": "0.123.3",
+      "data": "11/11/2026",
+      "itens": [
+        "Mais mapa na tela: o cartão do endereço, os botões e o velocímetro desceram para perto da borda de baixo, com o mesmo espacinho que existe entre os botões.",
+        "Só sobem quando aparece uma faixa embaixo (a barra da moto ou o player de som encostado), e sobem só a altura dela. Sumiu a faixa, tudo desce."
+      ],
+      "en": [
+        "More map on screen: the address card, buttons and speedometer moved down near the bottom edge, with the same small gap as between the buttons.",
+        "They only move up when a strip appears at the bottom (the motorcycle bar or the docked sound player), and only by its height. Strip gone, everything goes down."
+      ],
+      "es": [
+        "Más mapa en pantalla: la tarjeta de dirección, los botones y el velocímetro bajaron cerca del borde inferior, con el mismo pequeño espacio que hay entre los botones.",
+        "Solo suben cuando aparece una franja abajo (la barra de la moto o el reproductor acoplado), y solo su altura. Sin la franja, todo baja."
+      ]
+    },
     {
       "versao": "0.123.2",
       "data": "11/11/2026",
@@ -179,25 +196,6 @@
       ],
       "es": [
         "El código postal (CEP) ahora aparece en negrita en las tarjetas de dirección (la de abajo, la de la ruta y la ficha del punto), del mismo tamaño: más fácil de ver de un vistazo."
-      ]
-    },
-    {
-      "versao": "0.120.9",
-      "data": "10/11/2026",
-      "itens": [
-        "Entrou no estacionamento de um shopping, mercado ou centro comercial, o cartão já mostra que você está lá: o estacionamento agora conta como parte do lugar (antes só o prédio contava).",
-        "\"O que tem aqui\" mais completo: além dos lugares do mapa, as empresas ativas da Receita Federal com o endereço do shopping (no Mogi Shopping, de 451 para 564 lojas e serviços).",
-        "Centros comerciais do mundo inteiro: o app baixa os da sua região conforme você anda (shoppings, mercados, galerias, calçadões e estabelecimentos grandes, com os estacionamentos)."
-      ],
-      "en": [
-        "Drove into the parking lot of a mall, supermarket or shopping center? The card now shows you are there: the parking lot counts as part of the place (before, only the building did).",
-        "A fuller \"What is here\": besides the places on the map, the active companies registered at the mall address (in Brazil, from the federal CNPJ registry).",
-        "Shopping centers worldwide: the app downloads the ones in your region as you go (malls, markets, arcades, pedestrian streets and large stores, with their parking lots)."
-      ],
-      "es": [
-        "¿Entraste al estacionamiento de un shopping, supermercado o centro comercial? La tarjeta ya muestra que estás ahí: el estacionamiento ahora cuenta como parte del lugar (antes solo el edificio).",
-        "\"Qué hay aquí\" más completo: además de los lugares del mapa, las empresas activas con la dirección del shopping (en Brasil, del registro federal CNPJ).",
-        "Centros comerciales del mundo entero: la app descarga los de tu región a medida que avanzas (shoppings, mercados, galerías, peatonales y comercios grandes, con sus estacionamientos)."
       ]
     }
   ]
