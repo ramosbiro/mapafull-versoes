@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.8",
-  "codigo": 351,
+  "versao": "0.120.9",
+  "codigo": 352,
   "data": "10/11/2026",
-  "tamanho": 109868441,
-  "sha256": "c4e412e8c52c07c85c532f6a3865ef5e8c071c7e5a8b95ad0f10240f958b7f80",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.8/Vrumbi-0.120.8.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.8/Vrumbi-relogio-0.120.8.apk",
+  "tamanho": 116442457,
+  "sha256": "26b4ec12a89bd2ac2af76bcae3067935d1c9a5e81f3b8d744d139c0c5deafc3b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.9/Vrumbi-0.120.9.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.9/Vrumbi-relogio-0.120.9.apk",
   "notas": [
-    "Mapa livre de verdade para explorar: afastar, deitar, girar ou arrastar com os dedos solta o mapa e ele fica exatamente onde você deixou, mesmo com o carro andando ou com rota. Só volta para o carro quando você toca em Seguir, já no seu padrão."
+    "Entrou no estacionamento de um shopping, mercado ou centro comercial, o cartão já mostra que você está lá: o estacionamento agora conta como parte do lugar (antes só o prédio contava).",
+    "\"O que tem aqui\" mais completo: além dos lugares do mapa, as empresas ativas da Receita Federal com o endereço do shopping (no Mogi Shopping, de 451 para 564 lojas e serviços).",
+    "Centros comerciais do mundo inteiro: o app baixa os da sua região conforme você anda (shoppings, mercados, galerias, calçadões e estabelecimentos grandes, com os estacionamentos)."
   ],
   "versoes": [
+    {
+      "versao": "0.120.9",
+      "data": "10/11/2026",
+      "itens": [
+        "Entrou no estacionamento de um shopping, mercado ou centro comercial, o cartão já mostra que você está lá: o estacionamento agora conta como parte do lugar (antes só o prédio contava).",
+        "\"O que tem aqui\" mais completo: além dos lugares do mapa, as empresas ativas da Receita Federal com o endereço do shopping (no Mogi Shopping, de 451 para 564 lojas e serviços).",
+        "Centros comerciais do mundo inteiro: o app baixa os da sua região conforme você anda (shoppings, mercados, galerias, calçadões e estabelecimentos grandes, com os estacionamentos)."
+      ],
+      "en": [
+        "Drove into the parking lot of a mall, supermarket or shopping center? The card now shows you are there: the parking lot counts as part of the place (before, only the building did).",
+        "A fuller \"What is here\": besides the places on the map, the active companies registered at the mall address (in Brazil, from the federal CNPJ registry).",
+        "Shopping centers worldwide: the app downloads the ones in your region as you go (malls, markets, arcades, pedestrian streets and large stores, with their parking lots)."
+      ],
+      "es": [
+        "¿Entraste al estacionamiento de un shopping, supermercado o centro comercial? La tarjeta ya muestra que estás ahí: el estacionamiento ahora cuenta como parte del lugar (antes solo el edificio).",
+        "\"Qué hay aquí\" más completo: además de los lugares del mapa, las empresas activas con la dirección del shopping (en Brasil, del registro federal CNPJ).",
+        "Centros comerciales del mundo entero: la app descarga los de tu región a medida que avanzas (shoppings, mercados, galerías, peatonales y comercios grandes, con sus estacionamientos)."
+      ]
+    },
     {
       "versao": "0.120.8",
       "data": "10/11/2026",
@@ -182,22 +203,6 @@
         "Velocímetro nuevo, como el tablero de un auto: escala con marcas y, desde el límite de la vía, la zona roja, con el límite marcado en el punto exacto del anillo. Tu velocidad avanza por el anillo; al entrar en la zona roja, el número se pone rojo. Nada más por fuera del velocímetro.",
         "Vía sin placa en el mapa: la zona queda gris y el límite aparece como \"≈30\", el probable según la ley.",
         "El velocímetro es un poco más grande, para que la velocidad nunca toque el número del límite, ni en la ruta con tres dígitos."
-      ]
-    },
-    {
-      "versao": "0.119.4",
-      "data": "10/11/2026",
-      "itens": [
-        "Limite da via dentro do velocímetro: o anel enche até o limite (cheio = no máximo da via) e o valor fica numa mini-placa encaixada na ponta do anel. Nada mais por cima do cartão do endereço, em pé ou deitado. Placa vermelha = a da via; cinza com ≈ = o limite provável pela lei (CTB) quando a via não tem placa no mapa.",
-        "O cartão de onde você está mostra só o nome da rua, sem o número da casa. O número continua aparecendo quando você toca num ponto do mapa."
-      ],
-      "en": [
-        "Speed limit inside the speedometer: the ring fills up to the limit (full = at the road maximum) and the value sits in a mini sign fitted at the end of the ring. Nothing over the address card anymore, upright or sideways. Red sign = the road sign; gray with ≈ = the likely legal limit (Brazilian traffic code) when the road has no sign on the map.",
-        "The card of where you are shows only the street name, without the house number. The number still shows when you tap a point on the map."
-      ],
-      "es": [
-        "Límite de la vía dentro del velocímetro: el anillo se llena hasta el límite (lleno = en el máximo de la vía) y el valor queda en una mini placa encajada en la punta del anillo. Nada más encima de la tarjeta de la dirección, vertical u horizontal. Placa roja = la de la vía; gris con ≈ = el límite probable por la ley (CTB) cuando la vía no tiene placa en el mapa.",
-        "La tarjeta de dónde estás muestra solo el nombre de la calle, sin el número de la casa. El número sigue apareciendo cuando tocas un punto del mapa."
       ]
     }
   ]
