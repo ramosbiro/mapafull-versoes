@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.11",
-  "codigo": 354,
+  "versao": "0.120.12",
+  "codigo": 355,
   "data": "11/11/2026",
-  "tamanho": 116442949,
-  "sha256": "a3724dffafda8139ad115749849144f883211774dfd4f6ed9ae4b7c5d18a58cf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.11/Vrumbi-0.120.11.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.11/Vrumbi-relogio-0.120.11.apk",
+  "tamanho": 116443337,
+  "sha256": "65e8c278743eb9218b1094ffdce2d8dc64f83dee2665718d2719e5d52bf8db01",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.12/Vrumbi-0.120.12.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.12/Vrumbi-relogio-0.120.12.apk",
   "notas": [
-    "O CEP em negrito agora fica do mesmo tamanho da linha do endereço (na versão anterior ele saía maior)."
+    "Endereço sem nome cortado ao meio: quando a linha não cabe, o bairro, a cidade ou o CEP desce inteiro para a linha de baixo (a quebra fica sempre no \"·\"), em qualquer país."
   ],
   "versoes": [
+    {
+      "versao": "0.120.12",
+      "data": "11/11/2026",
+      "itens": [
+        "Endereço sem nome cortado ao meio: quando a linha não cabe, o bairro, a cidade ou o CEP desce inteiro para a linha de baixo (a quebra fica sempre no \"·\"), em qualquer país."
+      ],
+      "en": [
+        "Addresses no longer split a name in half: when the line does not fit, the neighborhood, city or postal code moves whole to the next line (the break is always at the \"·\"), in any country."
+      ],
+      "es": [
+        "La dirección ya no corta un nombre a la mitad: cuando la línea no cabe, el barrio, la ciudad o el código postal baja entero a la línea de abajo (el corte queda siempre en el \"·\"), en cualquier país."
+      ]
+    },
     {
       "versao": "0.120.11",
       "data": "11/11/2026",
@@ -176,19 +189,6 @@
       "es": [
         "Los bracitos y piernitas de Vrumbi ahora aparecen en todo lugar donde se mueve: en el ícono de las pantallas, la apertura de la app, los globos donde explica y la pantalla de actualización. Saluda con un espejo, luego con el otro, y patea las piernitas, en combinaciones que cambian en cada vuelta.",
         "El Vrumbi grande (el que conversa contigo) quedó sin el borde blanco, igual que el resto de la app."
-      ]
-    },
-    {
-      "versao": "0.120.0",
-      "data": "10/11/2026",
-      "itens": [
-        "O Vrumbi ganhou bracinhos e perninhas: os retrovisores viram mãozinhas e as rodas, pezinhos. Ele dá tchau quando aparece e quando vai embora (e de vez em quando, parado), gesticula enquanto fala, levanta a mãozinha pensando, abre as perninhas no pulo e dança chutando uma perninha de cada vez. Peça \"dança pra mim\"."
-      ],
-      "en": [
-        "Vrumbi got little arms and legs: the mirrors became hands and the wheels, feet. It waves hello and goodbye (and now and then while idle), gestures while talking, raises a hand while thinking, opens its legs when jumping and dances kicking one leg at a time. Ask \"dance for me\"."
-      ],
-      "es": [
-        "Vrumbi ganó bracitos y piernitas: los espejos se volvieron manitos y las ruedas, piecitos. Saluda al aparecer y al irse (y de vez en cuando, quieto), gesticula al hablar, levanta la manito pensando, abre las piernitas al saltar y baila pateando una piernita a la vez. Pide \"baila para mí\"."
       ]
     }
   ]
