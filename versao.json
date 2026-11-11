@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.123.1",
-  "codigo": 362,
+  "versao": "0.123.2",
+  "codigo": 363,
   "data": "11/11/2026",
-  "tamanho": 116471309,
-  "sha256": "1d62792aded3225fc514d2506a884844dba1d33f4925df03b9e6b2d6a594fb84",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.1/Vrumbi-0.123.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.1/Vrumbi-relogio-0.123.1.apk",
+  "tamanho": 116471529,
+  "sha256": "e8e1fb877655fbcf0614d3065cae976d646eb4a692059e2c43ed5e0a0f65b0b4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.2/Vrumbi-0.123.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.2/Vrumbi-relogio-0.123.2.apk",
   "notas": [
-    "A barra da inclinação da moto ficou fina e discreta no rodapé, no mesmo jeito do player de som encostado. Com o som encostado embaixo, ele fica por baixo da barra."
+    "Com o celular deitado, a barra da inclinação da moto fica ainda mais fina, para sobrar mais mapa."
   ],
   "versoes": [
+    {
+      "versao": "0.123.2",
+      "data": "11/11/2026",
+      "itens": [
+        "Com o celular deitado, a barra da inclinação da moto fica ainda mais fina, para sobrar mais mapa."
+      ],
+      "en": [
+        "With the phone in landscape, the motorcycle lean bar is even thinner, leaving more map visible."
+      ],
+      "es": [
+        "Con el celular en horizontal, la barra de inclinación de la moto es aún más fina, para que quede más mapa."
+      ]
+    },
     {
       "versao": "0.123.1",
       "data": "11/11/2026",
@@ -185,19 +198,6 @@
         "¿Entraste al estacionamiento de un shopping, supermercado o centro comercial? La tarjeta ya muestra que estás ahí: el estacionamiento ahora cuenta como parte del lugar (antes solo el edificio).",
         "\"Qué hay aquí\" más completo: además de los lugares del mapa, las empresas activas con la dirección del shopping (en Brasil, del registro federal CNPJ).",
         "Centros comerciales del mundo entero: la app descarga los de tu región a medida que avanzas (shoppings, mercados, galerías, peatonales y comercios grandes, con sus estacionamientos)."
-      ]
-    },
-    {
-      "versao": "0.120.8",
-      "data": "10/11/2026",
-      "itens": [
-        "Mapa livre de verdade para explorar: afastar, deitar, girar ou arrastar com os dedos solta o mapa e ele fica exatamente onde você deixou, mesmo com o carro andando ou com rota. Só volta para o carro quando você toca em Seguir, já no seu padrão."
-      ],
-      "en": [
-        "A truly free map to explore: zooming out, tilting, rotating or dragging with your fingers releases the map and it stays exactly where you left it, even with the car moving or a route on. It only goes back to the car when you tap Follow, in your own view."
-      ],
-      "es": [
-        "Mapa libre de verdad para explorar: alejar, inclinar, girar o arrastrar con los dedos suelta el mapa y queda exactamente donde lo dejaste, incluso con el auto andando o con ruta. Solo vuelve al auto cuando tocas Seguir, ya en tu vista."
       ]
     }
   ]
