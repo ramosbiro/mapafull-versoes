@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.123.0",
-  "codigo": 361,
+  "versao": "0.123.1",
+  "codigo": 362,
   "data": "11/11/2026",
-  "tamanho": 116471041,
-  "sha256": "6de20463e8e3a3d5bc70e98cd9da9a317eefd913b3fccbf4ea3042650e7dba8b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.0/Vrumbi-0.123.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.0/Vrumbi-relogio-0.123.0.apk",
+  "tamanho": 116471309,
+  "sha256": "1d62792aded3225fc514d2506a884844dba1d33f4925df03b9e6b2d6a594fb84",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.1/Vrumbi-0.123.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.1/Vrumbi-relogio-0.123.1.apk",
   "notas": [
-    "Modo moto: com moto escolhida em Meus veículos, uma barra no rodapé mostra a inclinação da moto na curva: verde no meio, depois amarelo, laranja e vermelho para os dois lados, com marcas do máximo da viagem.",
-    "O ícone de moto no mapa deita na curva junto com você (a bicicleta também).",
-    "Escolheu moto em Meus veículos? O Vrumbi pergunta se quer trocar o ícone do mapa para moto. Voltou para outro veículo com o ícone de moto? Ele oferece a tela de ícones."
+    "A barra da inclinação da moto ficou fina e discreta no rodapé, no mesmo jeito do player de som encostado. Com o som encostado embaixo, ele fica por baixo da barra."
   ],
   "versoes": [
+    {
+      "versao": "0.123.1",
+      "data": "11/11/2026",
+      "itens": [
+        "A barra da inclinação da moto ficou fina e discreta no rodapé, no mesmo jeito do player de som encostado. Com o som encostado embaixo, ele fica por baixo da barra."
+      ],
+      "en": [
+        "The motorcycle lean bar is now thin and discreet at the bottom, like the docked sound player. With the player docked at the bottom, it stays below the bar."
+      ],
+      "es": [
+        "La barra de inclinación de la moto ahora es fina y discreta abajo, como el reproductor de sonido acoplado. Con el reproductor abajo, queda debajo de la barra."
+      ]
+    },
     {
       "versao": "0.123.0",
       "data": "11/11/2026",
@@ -187,19 +198,6 @@
       ],
       "es": [
         "Mapa libre de verdad para explorar: alejar, inclinar, girar o arrastrar con los dedos suelta el mapa y queda exactamente donde lo dejaste, incluso con el auto andando o con ruta. Solo vuelve al auto cuando tocas Seguir, ya en tu vista."
-      ]
-    },
-    {
-      "versao": "0.120.7",
-      "data": "10/11/2026",
-      "itens": [
-        "A câmera vem atrás do ícone, como nos jogos de corrida: numa curva o ícone vira primeiro, você vê ele virando e a lateral dele, e a câmera acompanha logo depois, suave. Vale para todos os ícones, em qualquer país."
-      ],
-      "en": [
-        "The camera follows the icon, like in racing games: in a turn the icon turns first, you see it turning and its side, and the camera catches up right after, smoothly. Works with every icon, in any country."
-      ],
-      "es": [
-        "La cámara va detrás del ícono, como en los juegos de carreras: en una curva el ícono gira primero, lo ves girando y su costado, y la cámara lo acompaña enseguida, suave. Vale para todos los íconos, en cualquier país."
       ]
     }
   ]
