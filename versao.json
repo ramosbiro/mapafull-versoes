@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.9",
-  "codigo": 352,
-  "data": "10/11/2026",
-  "tamanho": 116442457,
-  "sha256": "26b4ec12a89bd2ac2af76bcae3067935d1c9a5e81f3b8d744d139c0c5deafc3b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.9/Vrumbi-0.120.9.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.9/Vrumbi-relogio-0.120.9.apk",
+  "versao": "0.120.10",
+  "codigo": 353,
+  "data": "11/11/2026",
+  "tamanho": 116442793,
+  "sha256": "48e49d151e93a3e4ad350127d48f95dcfcfaa5d055b74450de7d780dc51113d0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.10/Vrumbi-0.120.10.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.10/Vrumbi-relogio-0.120.10.apk",
   "notas": [
-    "Entrou no estacionamento de um shopping, mercado ou centro comercial, o cartão já mostra que você está lá: o estacionamento agora conta como parte do lugar (antes só o prédio contava).",
-    "\"O que tem aqui\" mais completo: além dos lugares do mapa, as empresas ativas da Receita Federal com o endereço do shopping (no Mogi Shopping, de 451 para 564 lojas e serviços).",
-    "Centros comerciais do mundo inteiro: o app baixa os da sua região conforme você anda (shoppings, mercados, galerias, calçadões e estabelecimentos grandes, com os estacionamentos)."
+    "O CEP agora aparece em negrito nos cartões de endereço (o de baixo, o da rota e o da ficha do ponto), no mesmo tamanho: mais fácil de achar de relance."
   ],
   "versoes": [
+    {
+      "versao": "0.120.10",
+      "data": "11/11/2026",
+      "itens": [
+        "O CEP agora aparece em negrito nos cartões de endereço (o de baixo, o da rota e o da ficha do ponto), no mesmo tamanho: mais fácil de achar de relance."
+      ],
+      "en": [
+        "The postal code (CEP) is now bold on the address cards (the bottom one, the route one and the place card), same size: easier to spot at a glance."
+      ],
+      "es": [
+        "El código postal (CEP) ahora aparece en negrita en las tarjetas de dirección (la de abajo, la de la ruta y la ficha del punto), del mismo tamaño: más fácil de ver de un vistazo."
+      ]
+    },
     {
       "versao": "0.120.9",
       "data": "10/11/2026",
@@ -184,25 +195,6 @@
         "Velocímetro con escala de verdad: de 0 a la velocidad máxima, con marcas y números (40, 80, 120, 160). El límite de la vía se marca en su punto exacto de la escala: 30 abajo, 60 más arriba, 110 pasando la cima. Del límite en adelante, la zona roja.",
         "La escala sigue al vehículo: auto, camioneta y moto hasta 200, furgoneta hasta 160, camión hasta 140; a pie hasta 20 y en bicicleta hasta 60. En Mis vehículos, \"Velocímetro hasta\" permite elegir 160, 200, 240 o 300.",
         "Avisar, Grabar y el menú se alejaron del velocímetro, en vertical y en horizontal."
-      ]
-    },
-    {
-      "versao": "0.119.5",
-      "data": "10/11/2026",
-      "itens": [
-        "Velocímetro novo, como o painel de um carro: escala com tracinhos e, a partir do limite da via, a zona vermelha, com o limite marcado no ponto exato do anel. A velocidade anda pelo anel; entrou na zona vermelha, o número fica vermelho. Nada mais por fora do velocímetro.",
-        "Via sem placa no mapa: a zona fica cinza e o limite aparece como \"≈30\", o provável pela lei (CTB).",
-        "O velocímetro ficou um pouco maior, para a velocidade nunca encostar no número do limite, nem na estrada com três dígitos."
-      ],
-      "en": [
-        "New speedometer, like a car dashboard: a scale with tick marks and, from the road limit on, the red zone, with the limit marked at the exact point of the ring. Your speed moves along the ring; once in the red zone, the number turns red. Nothing outside the speedometer anymore.",
-        "Road with no sign on the map: the zone turns gray and the limit shows as \"≈30\", the likely legal limit.",
-        "The speedometer is a bit bigger, so your speed never touches the limit number, even with three digits on the highway."
-      ],
-      "es": [
-        "Velocímetro nuevo, como el tablero de un auto: escala con marcas y, desde el límite de la vía, la zona roja, con el límite marcado en el punto exacto del anillo. Tu velocidad avanza por el anillo; al entrar en la zona roja, el número se pone rojo. Nada más por fuera del velocímetro.",
-        "Vía sin placa en el mapa: la zona queda gris y el límite aparece como \"≈30\", el probable según la ley.",
-        "El velocímetro es un poco más grande, para que la velocidad nunca toque el número del límite, ni en la ruta con tres dígitos."
       ]
     }
   ]
