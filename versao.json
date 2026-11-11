@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.123.3",
-  "codigo": 364,
+  "versao": "0.124.0",
+  "codigo": 365,
   "data": "11/11/2026",
-  "tamanho": 116455637,
-  "sha256": "3e469ca6165e10d364581bccfe51af73fabe85f28a8d7c9521b81d2b03b3968a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.3/Vrumbi-0.123.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.3/Vrumbi-relogio-0.123.3.apk",
+  "tamanho": 116456185,
+  "sha256": "2782af4bc5545855302258afea69c0cdf3c4c8be2e40cc538f719b695b99242a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.0/Vrumbi-0.124.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.0/Vrumbi-relogio-0.124.0.apk",
   "notas": [
-    "Mais mapa na tela: o cartão do endereço, os botões e o velocímetro desceram para perto da borda de baixo, com o mesmo espacinho que existe entre os botões.",
-    "Só sobem quando aparece uma faixa embaixo (a barra da moto ou o player de som encostado), e sobem só a altura dela. Sumiu a faixa, tudo desce."
+    "O sol e a lua do céu do mapa agora são os mesmos do clima: a lua aparece na fase de hoje (nova, crescente, cheia, minguante) e o sol com o mesmo desenho."
   ],
   "versoes": [
+    {
+      "versao": "0.124.0",
+      "data": "11/11/2026",
+      "itens": [
+        "O sol e a lua do céu do mapa agora são os mesmos do clima: a lua aparece na fase de hoje (nova, crescente, cheia, minguante) e o sol com o mesmo desenho."
+      ],
+      "en": [
+        "The sun and moon in the map sky now match the weather: the moon shows today's phase (new, waxing, full, waning) and the sun has the same drawing."
+      ],
+      "es": [
+        "El sol y la luna del cielo del mapa ahora son los mismos del clima: la luna aparece en la fase de hoy (nueva, creciente, llena, menguante) y el sol con el mismo dibujo."
+      ]
+    },
     {
       "versao": "0.123.3",
       "data": "11/11/2026",
@@ -183,19 +195,6 @@
       ],
       "es": [
         "El código postal en negrita ahora tiene el mismo tamaño que la línea de la dirección (en la versión anterior salía más grande)."
-      ]
-    },
-    {
-      "versao": "0.120.10",
-      "data": "11/11/2026",
-      "itens": [
-        "O CEP agora aparece em negrito nos cartões de endereço (o de baixo, o da rota e o da ficha do ponto), no mesmo tamanho: mais fácil de achar de relance."
-      ],
-      "en": [
-        "The postal code (CEP) is now bold on the address cards (the bottom one, the route one and the place card), same size: easier to spot at a glance."
-      ],
-      "es": [
-        "El código postal (CEP) ahora aparece en negrita en las tarjetas de dirección (la de abajo, la de la ruta y la ficha del punto), del mismo tamaño: más fácil de ver de un vistazo."
       ]
     }
   ]
