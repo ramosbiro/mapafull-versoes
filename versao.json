@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.124.0",
-  "codigo": 365,
+  "versao": "0.124.1",
+  "codigo": 366,
   "data": "11/11/2026",
-  "tamanho": 116456185,
-  "sha256": "2782af4bc5545855302258afea69c0cdf3c4c8be2e40cc538f719b695b99242a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.0/Vrumbi-0.124.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.0/Vrumbi-relogio-0.124.0.apk",
+  "tamanho": 116472969,
+  "sha256": "b7c3f864ac71ffeb82a22889c8873c31920124de9d187be3f0111c48df46e4a7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.1/Vrumbi-0.124.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.1/Vrumbi-relogio-0.124.1.apk",
   "notas": [
-    "O sol e a lua do céu do mapa agora são os mesmos do clima: a lua aparece na fase de hoje (nova, crescente, cheia, minguante) e o sol com o mesmo desenho."
+    "Conversa com o Vrumbi na rua: com trânsito, vento ou motor, ele agora entende o que você fala. Antes o barulho fazia o microfone parecer mudo.",
+    "Falar por cima funciona de verdade: o Vrumbi para na hora e entende a sua frase inteira, mesmo a parte dita enquanto ele ainda falava."
   ],
   "versoes": [
+    {
+      "versao": "0.124.1",
+      "data": "11/11/2026",
+      "itens": [
+        "Conversa com o Vrumbi na rua: com trânsito, vento ou motor, ele agora entende o que você fala. Antes o barulho fazia o microfone parecer mudo.",
+        "Falar por cima funciona de verdade: o Vrumbi para na hora e entende a sua frase inteira, mesmo a parte dita enquanto ele ainda falava."
+      ],
+      "en": [
+        "Talking to Vrumbi on the street: with traffic, wind or engine noise, he now understands what you say. Before, the noise made the microphone seem dead.",
+        "Talking over him really works: Vrumbi stops right away and understands your whole sentence, even the part said while he was still talking."
+      ],
+      "es": [
+        "Hablar con Vrumbi en la calle: con tráfico, viento o motor, ahora entiende lo que dices. Antes el ruido hacía parecer que el micrófono no funcionaba.",
+        "Hablar encima funciona de verdad: Vrumbi se detiene al instante y entiende toda tu frase, incluso lo que dijiste mientras él hablaba."
+      ]
+    },
     {
       "versao": "0.124.0",
       "data": "11/11/2026",
@@ -182,19 +199,6 @@
       ],
       "es": [
         "La dirección ya no corta un nombre a la mitad: cuando la línea no cabe, el barrio, la ciudad o el código postal baja entero a la línea de abajo (el corte queda siempre en el \"·\"), en cualquier país."
-      ]
-    },
-    {
-      "versao": "0.120.11",
-      "data": "11/11/2026",
-      "itens": [
-        "O CEP em negrito agora fica do mesmo tamanho da linha do endereço (na versão anterior ele saía maior)."
-      ],
-      "en": [
-        "The bold postal code is now the same size as the address line (in the previous version it came out larger)."
-      ],
-      "es": [
-        "El código postal en negrita ahora tiene el mismo tamaño que la línea de la dirección (en la versión anterior salía más grande)."
       ]
     }
   ]
