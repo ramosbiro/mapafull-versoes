@@ -1,19 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.121.0",
-  "codigo": 358,
+  "versao": "0.122.0",
+  "codigo": 359,
   "data": "11/11/2026",
-  "tamanho": 116447505,
-  "sha256": "84482826d4ba7c480d1bea7fec03670f822c2d10015305fca69c77770ca06df5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.121.0/Vrumbi-0.121.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.121.0/Vrumbi-relogio-0.121.0.apk",
+  "tamanho": 116465213,
+  "sha256": "e947d37ce6558cbe682322fa3ddea73935aa0c2e037bd9839c69512545e36c91",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.0/Vrumbi-0.122.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.0/Vrumbi-relogio-0.122.0.apk",
   "notas": [
-    "Gestos do Android: o cartão do endereço, o velocímetro e os botões de baixo ficam acima da faixa de gestos, então deslizar de baixo para sair ou trocar de app funciona sempre, em vez de mexer no mapa.",
-    "O Vrumbi conta piada com emoção: a pergunta, a pausa de suspense, a resposta e a risada, com o carrinho pulando e dançando. \"Mais uma\", \"outra\" e \"conta outra\" continuam a conversa sem travar.",
-    "Pedidos de ação mais firmes: \"entra nas configurações e troca a cor do app para roxo\" faz as duas coisas; o Vrumbi não confunde mais conversa com comando.",
-    "O microfone não reabre por cima da fala do Vrumbi nem conta como silêncio o tempo em que ele está pensando: ele não se despede no meio da resposta."
+    "Conversa com o Vrumbi sem o \"blip\": com a conversa aberta, o microfone fica ouvindo o tempo todo, sem abrir e fechar. Fale quando quiser.",
+    "Pode interromper: se você falar enquanto o Vrumbi responde, ele para na hora e escuta o que você disse.",
+    "O eco da própria voz do Vrumbi não é confundido com a sua (cancelamento de eco do aparelho).",
+    "Busca de empresas em mais países com o cadastro oficial: México, Reino Unido e Noruega, além de Brasil e França."
   ],
   "versoes": [
+    {
+      "versao": "0.122.0",
+      "data": "11/11/2026",
+      "itens": [
+        "Conversa com o Vrumbi sem o \"blip\": com a conversa aberta, o microfone fica ouvindo o tempo todo, sem abrir e fechar. Fale quando quiser.",
+        "Pode interromper: se você falar enquanto o Vrumbi responde, ele para na hora e escuta o que você disse.",
+        "O eco da própria voz do Vrumbi não é confundido com a sua (cancelamento de eco do aparelho).",
+        "Busca de empresas em mais países com o cadastro oficial: México, Reino Unido e Noruega, além de Brasil e França."
+      ],
+      "en": [
+        "Talk to Vrumbi without the \"blip\": while the conversation is open, the microphone keeps listening, without turning on and off. Speak whenever you want.",
+        "You can interrupt: if you speak while Vrumbi is answering, he stops right away and listens to you.",
+        "The echo of Vrumbi's own voice is not mistaken for yours (the device's echo cancellation).",
+        "Business search in more countries with the official registry: Mexico, the United Kingdom and Norway, besides Brazil and France."
+      ],
+      "es": [
+        "Charla con Vrumbi sin el \"blip\": con la conversación abierta, el micrófono escucha todo el tiempo, sin abrirse y cerrarse. Habla cuando quieras.",
+        "Puedes interrumpir: si hablas mientras Vrumbi responde, se detiene al instante y te escucha.",
+        "El eco de la propia voz de Vrumbi no se confunde con la tuya (cancelación de eco del aparato).",
+        "Búsqueda de empresas en más países con el registro oficial: México, Reino Unido y Noruega, además de Brasil y Francia."
+      ]
+    },
     {
       "versao": "0.121.0",
       "data": "11/11/2026",
@@ -170,25 +192,6 @@
       ],
       "es": [
         "La presentación de apertura acompaña al celular: si lo giras a horizontal (o de vuelta a vertical) en medio de la animación, se ajusta a la pantalla al instante y sigue desde donde estaba."
-      ]
-    },
-    {
-      "versao": "0.120.4",
-      "data": "10/11/2026",
-      "itens": [
-        "O Vrumbi ficou com peso de carro de verdade: ao erguer uma perninha, o corpo pende para o lado que ficou no chão e a suspensão afunda; ao cair do pulinho, ele afunda e quica até parar. Nunca tira as duas rodas do chão parado no ar.",
-        "Tchau de verdade: o retrovisor sobe e acena de um lado para o outro, e às vezes ele ergue a perninha do mesmo lado enquanto acena.",
-        "O ombro ficou liso: o retrovisor e o corpo são uma peça só, sem aquele gominho entre os dois, parado ou dobrando."
-      ],
-      "en": [
-        "Vrumbi now has the weight of a real car: lifting a little leg, the body leans to the side still on the ground and the suspension sinks; landing from a hop, it sinks and bounces until it settles. It never floats with both wheels off the ground.",
-        "A real wave: the mirror goes up and waves side to side, and sometimes he lifts the leg on the same side while waving.",
-        "The shoulder is smooth: mirror and body are one piece, without the little notch between them, still or bending."
-      ],
-      "es": [
-        "Vrumbi ahora tiene el peso de un auto de verdad: al levantar una patita, el cuerpo se inclina hacia el lado que quedó en el suelo y la suspensión se hunde; al caer del saltito, se hunde y rebota hasta quedarse quieto. Nunca flota con las dos ruedas en el aire.",
-        "Un saludo de verdad: el espejo sube y saluda de un lado a otro, y a veces levanta la patita del mismo lado mientras saluda.",
-        "El hombro quedó liso: el espejo y el cuerpo son una sola pieza, sin esa muesca entre los dos, quieto o doblando."
       ]
     }
   ]
