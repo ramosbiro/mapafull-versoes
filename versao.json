@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.10",
-  "codigo": 353,
+  "versao": "0.120.11",
+  "codigo": 354,
   "data": "11/11/2026",
-  "tamanho": 116442793,
-  "sha256": "48e49d151e93a3e4ad350127d48f95dcfcfaa5d055b74450de7d780dc51113d0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.10/Vrumbi-0.120.10.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.10/Vrumbi-relogio-0.120.10.apk",
+  "tamanho": 116442949,
+  "sha256": "a3724dffafda8139ad115749849144f883211774dfd4f6ed9ae4b7c5d18a58cf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.11/Vrumbi-0.120.11.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.11/Vrumbi-relogio-0.120.11.apk",
   "notas": [
-    "O CEP agora aparece em negrito nos cartões de endereço (o de baixo, o da rota e o da ficha do ponto), no mesmo tamanho: mais fácil de achar de relance."
+    "O CEP em negrito agora fica do mesmo tamanho da linha do endereço (na versão anterior ele saía maior)."
   ],
   "versoes": [
+    {
+      "versao": "0.120.11",
+      "data": "11/11/2026",
+      "itens": [
+        "O CEP em negrito agora fica do mesmo tamanho da linha do endereço (na versão anterior ele saía maior)."
+      ],
+      "en": [
+        "The bold postal code is now the same size as the address line (in the previous version it came out larger)."
+      ],
+      "es": [
+        "El código postal en negrita ahora tiene el mismo tamaño que la línea de la dirección (en la versión anterior salía más grande)."
+      ]
+    },
     {
       "versao": "0.120.10",
       "data": "11/11/2026",
@@ -176,25 +189,6 @@
       ],
       "es": [
         "Vrumbi ganó bracitos y piernitas: los espejos se volvieron manitos y las ruedas, piecitos. Saluda al aparecer y al irse (y de vez en cuando, quieto), gesticula al hablar, levanta la manito pensando, abre las piernitas al saltar y baila pateando una piernita a la vez. Pide \"baila para mí\"."
-      ]
-    },
-    {
-      "versao": "0.119.6",
-      "data": "10/11/2026",
-      "itens": [
-        "Velocímetro com escala de verdade: de 0 até a velocidade máxima, com tracinhos e números (40, 80, 120, 160). O limite da via é marcado no ponto exato da escala: 30 lá embaixo, 60 mais acima, 110 depois do topo. Do limite em diante, a zona vermelha.",
-        "A escala acompanha o veículo: carro, caminhonete e moto até 200, van até 160, caminhão até 140; a pé até 20 e de bicicleta até 60. Em Meus veículos, \"Velocímetro até\" deixa escolher 160, 200, 240 ou 300.",
-        "Avisar, Gravar e o menu se afastaram do velocímetro, em pé e deitado."
-      ],
-      "en": [
-        "Speedometer with a real scale: from 0 to the top speed, with tick marks and numbers (40, 80, 120, 160). The road limit is marked at its exact point on the scale: 30 down low, 60 higher, 110 past the top. From the limit on, the red zone.",
-        "The scale follows the vehicle: car, pickup and motorcycle up to 200, van up to 160, truck up to 140; walking up to 20 and cycling up to 60. In My vehicles, \"Speedometer up to\" lets you pick 160, 200, 240 or 300.",
-        "Report, Record and the menu moved away from the speedometer, upright and sideways."
-      ],
-      "es": [
-        "Velocímetro con escala de verdad: de 0 a la velocidad máxima, con marcas y números (40, 80, 120, 160). El límite de la vía se marca en su punto exacto de la escala: 30 abajo, 60 más arriba, 110 pasando la cima. Del límite en adelante, la zona roja.",
-        "La escala sigue al vehículo: auto, camioneta y moto hasta 200, furgoneta hasta 160, camión hasta 140; a pie hasta 20 y en bicicleta hasta 60. En Mis vehículos, \"Velocímetro hasta\" permite elegir 160, 200, 240 o 300.",
-        "Avisar, Grabar y el menú se alejaron del velocímetro, en vertical y en horizontal."
       ]
     }
   ]
