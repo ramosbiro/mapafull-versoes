@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.120.14",
-  "codigo": 357,
+  "versao": "0.121.0",
+  "codigo": 358,
   "data": "11/11/2026",
-  "tamanho": 116444281,
-  "sha256": "3cbb0a133ffef170a3fa9954d383318574600eac7b75fbdd129821da0c25db6b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.14/Vrumbi-0.120.14.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.120.14/Vrumbi-relogio-0.120.14.apk",
+  "tamanho": 116447505,
+  "sha256": "84482826d4ba7c480d1bea7fec03670f822c2d10015305fca69c77770ca06df5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.121.0/Vrumbi-0.121.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.121.0/Vrumbi-relogio-0.121.0.apk",
   "notas": [
-    "Mapas offline para o mundo inteiro: os outros 162 países começam a entrar na lista de mapas para baixar, aos poucos, conforme ficam prontos (com o novo grupo América Central e Caribe)."
+    "Gestos do Android: o cartão do endereço, o velocímetro e os botões de baixo ficam acima da faixa de gestos, então deslizar de baixo para sair ou trocar de app funciona sempre, em vez de mexer no mapa.",
+    "O Vrumbi conta piada com emoção: a pergunta, a pausa de suspense, a resposta e a risada, com o carrinho pulando e dançando. \"Mais uma\", \"outra\" e \"conta outra\" continuam a conversa sem travar.",
+    "Pedidos de ação mais firmes: \"entra nas configurações e troca a cor do app para roxo\" faz as duas coisas; o Vrumbi não confunde mais conversa com comando.",
+    "O microfone não reabre por cima da fala do Vrumbi nem conta como silêncio o tempo em que ele está pensando: ele não se despede no meio da resposta."
   ],
   "versoes": [
+    {
+      "versao": "0.121.0",
+      "data": "11/11/2026",
+      "itens": [
+        "Gestos do Android: o cartão do endereço, o velocímetro e os botões de baixo ficam acima da faixa de gestos, então deslizar de baixo para sair ou trocar de app funciona sempre, em vez de mexer no mapa.",
+        "O Vrumbi conta piada com emoção: a pergunta, a pausa de suspense, a resposta e a risada, com o carrinho pulando e dançando. \"Mais uma\", \"outra\" e \"conta outra\" continuam a conversa sem travar.",
+        "Pedidos de ação mais firmes: \"entra nas configurações e troca a cor do app para roxo\" faz as duas coisas; o Vrumbi não confunde mais conversa com comando.",
+        "O microfone não reabre por cima da fala do Vrumbi nem conta como silêncio o tempo em que ele está pensando: ele não se despede no meio da resposta."
+      ],
+      "en": [
+        "Android gestures: the address card, the speedometer and the bottom buttons stay above the gesture area, so swiping up to leave or switch apps always works instead of moving the map.",
+        "Vrumbi tells jokes with emotion: the question, the suspense pause, the answer and the laugh, with the little car jumping and dancing. \"One more\", \"another\" keep the conversation going without freezing.",
+        "Firmer action requests: \"open settings and change the app color to purple\" does both; Vrumbi no longer mistakes chat for a command.",
+        "The microphone no longer reopens over Vrumbi's voice or counts his thinking time as silence: he does not say goodbye in the middle of an answer."
+      ],
+      "es": [
+        "Gestos de Android: la tarjeta de dirección, el velocímetro y los botones de abajo quedan por encima de la zona de gestos, así que deslizar desde abajo para salir o cambiar de app siempre funciona, en vez de mover el mapa.",
+        "Vrumbi cuenta chistes con emoción: la pregunta, la pausa de suspenso, la respuesta y la risa, con el autito saltando y bailando. \"Otro más\", \"otro\" siguen la charla sin trabarse.",
+        "Pedidos de acción más firmes: \"entra en ajustes y cambia el color de la app a morado\" hace las dos cosas; Vrumbi ya no confunde charla con comando.",
+        "El micrófono ya no se reabre encima de la voz de Vrumbi ni cuenta como silencio el tiempo en que piensa: no se despide en medio de la respuesta."
+      ]
+    },
     {
       "versao": "0.120.14",
       "data": "11/11/2026",
@@ -164,28 +189,6 @@
         "Vrumbi ahora tiene el peso de un auto de verdad: al levantar una patita, el cuerpo se inclina hacia el lado que quedó en el suelo y la suspensión se hunde; al caer del saltito, se hunde y rebota hasta quedarse quieto. Nunca flota con las dos ruedas en el aire.",
         "Un saludo de verdad: el espejo sube y saluda de un lado a otro, y a veces levanta la patita del mismo lado mientras saluda.",
         "El hombro quedó liso: el espejo y el cuerpo son una sola pieza, sin esa muesca entre los dos, quieto o doblando."
-      ]
-    },
-    {
-      "versao": "0.120.3",
-      "data": "10/11/2026",
-      "itens": [
-        "Emergência médica: primeiro tudo o que fica no seu município, do mais perto para o mais longe, e só depois as cidades vizinhas. Antes o hospital grande da cidade ao lado podia vir antes do hospital daqui. Vale para o mundo todo.",
-        "Viaturas com a pintura de cada estado: as 27 polícias militares refeitas pelas fotos das viaturas entregues de 2023 a 2026, cada uma diferente, inclusive o capô e o teto, que é o que se vê dirigindo.",
-        "São Paulo com a pintura nova da PM: branco na frente e em cima, cinza grafite atrás e embaixo, faixa vermelha com borda branca subindo pela porta.",
-        "Polícia Federal, Rodoviária Federal, Força Nacional, ROTA, BOPE e Polícia Civil também conferidas pelas fotos."
-      ],
-      "en": [
-        "Medical emergency: first everything in your city, nearest to farthest, and only then the nearby cities. Before, the big hospital of the next city could come before the one here. Works worldwide.",
-        "Police cars with each state's livery: all 27 military police liveries redone from photos of the cars delivered from 2023 to 2026, each one different, including the hood and roof, which is what you see while driving.",
-        "São Paulo with the new military police livery: white at the front and top, graphite gray at the back and bottom, a red stripe with a white edge rising along the door.",
-        "Federal Police, Federal Highway Police, National Force, ROTA, BOPE and Civil Police also checked against photos."
-      ],
-      "es": [
-        "Emergencia médica: primero todo lo que está en tu municipio, del más cercano al más lejano, y solo después las ciudades vecinas. Antes el hospital grande de la ciudad de al lado podía aparecer antes que el de aquí. Vale para todo el mundo.",
-        "Patrulleros con la pintura de cada estado: las 27 policías militares rehechas a partir de fotos de los vehículos entregados de 2023 a 2026, cada una distinta, incluso el capó y el techo, que es lo que se ve al manejar.",
-        "São Paulo con la pintura nueva de la policía militar: blanco al frente y arriba, gris grafito atrás y abajo, franja roja con borde blanco que sube por la puerta.",
-        "Policía Federal, Policía Federal de Carreteras, Fuerza Nacional, ROTA, BOPE y Policía Civil también revisadas con fotos."
       ]
     }
   ]
