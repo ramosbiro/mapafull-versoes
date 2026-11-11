@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.122.1",
-  "codigo": 360,
+  "versao": "0.123.0",
+  "codigo": 361,
   "data": "11/11/2026",
-  "tamanho": 116465745,
-  "sha256": "d5eaaea38a9956ee674b74a2d9f3e84ff6f47de4b59fa412ad9250b15f440bb5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.1/Vrumbi-0.122.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.1/Vrumbi-relogio-0.122.1.apk",
+  "tamanho": 116471041,
+  "sha256": "6de20463e8e3a3d5bc70e98cd9da9a317eefd913b3fccbf4ea3042650e7dba8b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.0/Vrumbi-0.123.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.123.0/Vrumbi-relogio-0.123.0.apk",
   "notas": [
-    "Pedidos compostos pela voz mais firmes: \"entra nas configurações e troca a cor do app para azul\" funciona mesmo quando o celular entende \"de troca\" ou \"do ep\".",
-    "A frase longa não é mais cortada no meio: o Vrumbi espera você terminar de falar."
+    "Modo moto: com moto escolhida em Meus veículos, uma barra no rodapé mostra a inclinação da moto na curva: verde no meio, depois amarelo, laranja e vermelho para os dois lados, com marcas do máximo da viagem.",
+    "O ícone de moto no mapa deita na curva junto com você (a bicicleta também).",
+    "Escolheu moto em Meus veículos? O Vrumbi pergunta se quer trocar o ícone do mapa para moto. Voltou para outro veículo com o ícone de moto? Ele oferece a tela de ícones."
   ],
   "versoes": [
+    {
+      "versao": "0.123.0",
+      "data": "11/11/2026",
+      "itens": [
+        "Modo moto: com moto escolhida em Meus veículos, uma barra no rodapé mostra a inclinação da moto na curva: verde no meio, depois amarelo, laranja e vermelho para os dois lados, com marcas do máximo da viagem.",
+        "O ícone de moto no mapa deita na curva junto com você (a bicicleta também).",
+        "Escolheu moto em Meus veículos? O Vrumbi pergunta se quer trocar o ícone do mapa para moto. Voltou para outro veículo com o ícone de moto? Ele oferece a tela de ícones."
+      ],
+      "en": [
+        "Motorcycle mode: with a motorcycle chosen in My vehicles, a bar at the bottom shows the lean angle in curves: green in the middle, then yellow, orange and red on both sides, with marks for the trip maximum.",
+        "The motorcycle icon on the map leans into the curve with you (the bicycle too).",
+        "Chose motorcycle in My vehicles? Vrumbi asks if you want the map icon to be a motorcycle. Switched back with the motorcycle icon? He offers the icon screen."
+      ],
+      "es": [
+        "Modo moto: con moto elegida en Mis vehículos, una barra abajo muestra la inclinación de la moto en la curva: verde en el centro, luego amarillo, naranja y rojo a los dos lados, con marcas del máximo del viaje.",
+        "El icono de moto en el mapa se inclina en la curva contigo (la bicicleta también).",
+        "¿Elegiste moto en Mis vehículos? Vrumbi pregunta si quieres el icono del mapa de moto. ¿Volviste a otro vehículo con el icono de moto? Te ofrece la pantalla de iconos."
+      ]
+    },
     {
       "versao": "0.122.1",
       "data": "11/11/2026",
@@ -180,19 +200,6 @@
       ],
       "es": [
         "La cámara va detrás del ícono, como en los juegos de carreras: en una curva el ícono gira primero, lo ves girando y su costado, y la cámara lo acompaña enseguida, suave. Vale para todos los íconos, en cualquier país."
-      ]
-    },
-    {
-      "versao": "0.120.6",
-      "data": "10/11/2026",
-      "itens": [
-        "Girar o celular ficou bem mais rápido: ao passar para a horizontal (ou voltar para a vertical), o mapa aparece inteiro quase na hora, sem ficar muito tempo com a faixa vazia do lado."
-      ],
-      "en": [
-        "Turning the phone is much faster: switching to landscape (or back to portrait), the whole map shows up almost right away, without a blank strip on the side for long."
-      ],
-      "es": [
-        "Girar el celular quedó mucho más rápido: al pasar a horizontal (o volver a vertical), el mapa aparece entero casi al instante, sin quedarse mucho tiempo con la franja vacía al costado."
       ]
     }
   ]
