@@ -1,19 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.122.0",
-  "codigo": 359,
+  "versao": "0.122.1",
+  "codigo": 360,
   "data": "11/11/2026",
-  "tamanho": 116465213,
-  "sha256": "e947d37ce6558cbe682322fa3ddea73935aa0c2e037bd9839c69512545e36c91",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.0/Vrumbi-0.122.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.0/Vrumbi-relogio-0.122.0.apk",
+  "tamanho": 116465745,
+  "sha256": "d5eaaea38a9956ee674b74a2d9f3e84ff6f47de4b59fa412ad9250b15f440bb5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.1/Vrumbi-0.122.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.122.1/Vrumbi-relogio-0.122.1.apk",
   "notas": [
-    "Conversa com o Vrumbi sem o \"blip\": com a conversa aberta, o microfone fica ouvindo o tempo todo, sem abrir e fechar. Fale quando quiser.",
-    "Pode interromper: se você falar enquanto o Vrumbi responde, ele para na hora e escuta o que você disse.",
-    "O eco da própria voz do Vrumbi não é confundido com a sua (cancelamento de eco do aparelho).",
-    "Busca de empresas em mais países com o cadastro oficial: México, Reino Unido e Noruega, além de Brasil e França."
+    "Pedidos compostos pela voz mais firmes: \"entra nas configurações e troca a cor do app para azul\" funciona mesmo quando o celular entende \"de troca\" ou \"do ep\".",
+    "A frase longa não é mais cortada no meio: o Vrumbi espera você terminar de falar."
   ],
   "versoes": [
+    {
+      "versao": "0.122.1",
+      "data": "11/11/2026",
+      "itens": [
+        "Pedidos compostos pela voz mais firmes: \"entra nas configurações e troca a cor do app para azul\" funciona mesmo quando o celular entende \"de troca\" ou \"do ep\".",
+        "A frase longa não é mais cortada no meio: o Vrumbi espera você terminar de falar."
+      ],
+      "en": [
+        "Firmer combined voice requests: \"open settings and change the app color to blue\" works even when the phone mishears part of it.",
+        "Long sentences are no longer cut in the middle: Vrumbi waits for you to finish speaking."
+      ],
+      "es": [
+        "Pedidos combinados por voz más firmes: \"entra en ajustes y cambia el color de la app a azul\" funciona aunque el celular entienda mal una parte.",
+        "La frase larga ya no se corta a la mitad: Vrumbi espera a que termines de hablar."
+      ]
+    },
     {
       "versao": "0.122.0",
       "data": "11/11/2026",
@@ -179,19 +193,6 @@
       ],
       "es": [
         "Girar el celular quedó mucho más rápido: al pasar a horizontal (o volver a vertical), el mapa aparece entero casi al instante, sin quedarse mucho tiempo con la franja vacía al costado."
-      ]
-    },
-    {
-      "versao": "0.120.5",
-      "data": "10/11/2026",
-      "itens": [
-        "A apresentação de abertura acompanha o celular: se você virar para a horizontal (ou de volta para a vertical) no meio da animação, ela se ajusta à tela na hora e continua de onde estava."
-      ],
-      "en": [
-        "The opening animation follows the phone: if you turn it to landscape (or back to portrait) in the middle of the animation, it fits the screen right away and continues where it was."
-      ],
-      "es": [
-        "La presentación de apertura acompaña al celular: si lo giras a horizontal (o de vuelta a vertical) en medio de la animación, se ajusta a la pantalla al instante y sigue desde donde estaba."
       ]
     }
   ]
