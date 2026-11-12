@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.124.2",
-  "codigo": 367,
+  "versao": "0.125.0",
+  "codigo": 368,
   "data": "11/11/2026",
-  "tamanho": 116474657,
-  "sha256": "0d6866b43e49588340810609ec0a3d9f1edfb9fd9c80840c4c875aea66e9efcf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.2/Vrumbi-0.124.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.2/Vrumbi-relogio-0.124.2.apk",
+  "tamanho": 116478633,
+  "sha256": "982437b943ab7ced64ee63a14d2a2b878a48a9f7ae092ccf9cd081d01b70d470",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.125.0/Vrumbi-0.125.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.125.0/Vrumbi-relogio-0.125.0.apk",
   "notas": [
-    "Mais mapa na tela: o Treino saiu da tela principal e foi para Configurações, no grupo novo Dia a dia (com Clima e tempo e Ajuda por perto). Com um treino em andamento, o botão volta mostrando o tempo, para pausar ou encerrar.",
-    "Deitado, o cartão do endereço ficou mais largo; em pé, a coluna de botões ficou mais curta.",
-    "Configurações reorganizadas por tarefa: Mapa, Navegação, Avisos, Dia a dia, Voz, Aparência, Polícia e Sistema, cada uma na ordem de uso."
+    "Gerenciador de janelas: tocou numa janela (Contatos ou Mídia), ela vem para a frente.",
+    "A janela de Contatos agora arrasta para qualquer lugar, muda de tamanho pelas bordas e gruda na borda da tela, como o player. Jogar para o lado continua fechando.",
+    "Tela dividida com as duas janelas: em pé, uma em cima e outra embaixo, com o mapa no meio; deitado, viram colunas. Tocar na divisória mostra trocar de lugar, soltar e fechar; puxar a divisória até o fim fecha a janela."
   ],
   "versoes": [
+    {
+      "versao": "0.125.0",
+      "data": "11/11/2026",
+      "itens": [
+        "Gerenciador de janelas: tocou numa janela (Contatos ou Mídia), ela vem para a frente.",
+        "A janela de Contatos agora arrasta para qualquer lugar, muda de tamanho pelas bordas e gruda na borda da tela, como o player. Jogar para o lado continua fechando.",
+        "Tela dividida com as duas janelas: em pé, uma em cima e outra embaixo, com o mapa no meio; deitado, viram colunas. Tocar na divisória mostra trocar de lugar, soltar e fechar; puxar a divisória até o fim fecha a janela."
+      ],
+      "en": [
+        "Window manager: tap a window (Contacts or Media) and it comes to the front.",
+        "The Contacts window now drags anywhere, resizes from its edges and docks to the screen edge, like the player. Flinging it sideways still closes it.",
+        "Split screen with both windows: in portrait one on top and one at the bottom, map in the middle; in landscape they become columns. Tap the divider for swap, undock and close; drag the divider all the way to close the window."
+      ],
+      "es": [
+        "Gestor de ventanas: tocas una ventana (Contactos o Medios) y pasa al frente.",
+        "La ventana de Contactos ahora se arrastra a cualquier lugar, cambia de tamaño por los bordes y se acopla al borde de la pantalla, como el reproductor. Lanzarla hacia el lado sigue cerrándola.",
+        "Pantalla dividida con las dos ventanas: en vertical una arriba y otra abajo, con el mapa al medio; en horizontal se vuelven columnas. Toca el divisor para cambiar de lugar, soltar y cerrar; arrastra el divisor hasta el final para cerrar la ventana."
+      ]
+    },
     {
       "versao": "0.124.2",
       "data": "11/11/2026",
@@ -193,19 +212,6 @@
       ],
       "es": [
         "Mapas sin conexión para el mundo entero: los otros 162 países empiezan a entrar en la lista de mapas para descargar, poco a poco, a medida que estén listos (con el nuevo grupo América Central y Caribe)."
-      ]
-    },
-    {
-      "versao": "0.120.13",
-      "data": "11/11/2026",
-      "itens": [
-        "Quando o endereço quebra de linha, o ponto \"·\" que separava as partes some: a linha termina limpa."
-      ],
-      "en": [
-        "When the address wraps to a new line, the \"·\" separator disappears: the line ends clean."
-      ],
-      "es": [
-        "Cuando la dirección salta de línea, el punto \"·\" que separaba las partes desaparece: la línea termina limpia."
       ]
     }
   ]
