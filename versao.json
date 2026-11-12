@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.4",
-  "codigo": 375,
+  "versao": "0.127.5",
+  "codigo": 376,
   "data": "12/11/2026",
-  "tamanho": 116500899,
-  "sha256": "4dbfe4fbf83cb401f88e60e9f90ade21ecaa536b6d2b690fed2505193b603865",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.4/Vrumbi-0.127.4.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.4/Vrumbi-relogio-0.127.4.apk",
+  "tamanho": 116501767,
+  "sha256": "00eb1dff0a5c98146372ac9f7effeab9e44f43ef846a996905474a6d5fa24f4c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.5/Vrumbi-0.127.5.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.5/Vrumbi-relogio-0.127.5.apk",
   "notas": [
-    "O céu do mapa volta na hora depois de ver o planeta: afastar até o planeta e tocar em Seguir não deixa mais o céu preto."
+    "Radares e pontos do mapa não aparecem mais no céu: com o mapa deitado, só aparece o que está no chão à sua frente, até o horizonte. Os que ficavam atrás de você subiam invertidos para o céu; agora somem. Visto de cima, aparece tudo dentro do raio escolhido (1 km, 2 km, 3 km ou Completo)."
   ],
   "versoes": [
+    {
+      "versao": "0.127.5",
+      "data": "12/11/2026",
+      "itens": [
+        "Radares e pontos do mapa não aparecem mais no céu: com o mapa deitado, só aparece o que está no chão à sua frente, até o horizonte. Os que ficavam atrás de você subiam invertidos para o céu; agora somem. Visto de cima, aparece tudo dentro do raio escolhido (1 km, 2 km, 3 km ou Completo)."
+      ],
+      "en": [
+        "Speed cameras and map points no longer show up in the sky: with the map tilted, only what is on the ground ahead of you, up to the horizon, appears. The ones behind you used to float upside-down into the sky; now they are hidden. Seen from above, everything within the chosen radius (1 km, 2 km, 3 km or Full) shows."
+      ],
+      "es": [
+        "Los radares y puntos del mapa ya no aparecen en el cielo: con el mapa inclinado solo aparece lo que está en el suelo delante de ti, hasta el horizonte. Los que quedaban detrás subían invertidos al cielo; ahora se ocultan. Visto desde arriba aparece todo dentro del radio elegido (1 km, 2 km, 3 km o Completo)."
+      ]
+    },
     {
       "versao": "0.127.4",
       "data": "12/11/2026",
@@ -200,22 +213,6 @@
       ],
       "es": [
         "El sol y la luna del cielo del mapa ahora son los mismos del clima: la luna aparece en la fase de hoy (nueva, creciente, llena, menguante) y el sol con el mismo dibujo."
-      ]
-    },
-    {
-      "versao": "0.123.3",
-      "data": "11/11/2026",
-      "itens": [
-        "Mais mapa na tela: o cartão do endereço, os botões e o velocímetro desceram para perto da borda de baixo, com o mesmo espacinho que existe entre os botões.",
-        "Só sobem quando aparece uma faixa embaixo (a barra da moto ou o player de som encostado), e sobem só a altura dela. Sumiu a faixa, tudo desce."
-      ],
-      "en": [
-        "More map on screen: the address card, buttons and speedometer moved down near the bottom edge, with the same small gap as between the buttons.",
-        "They only move up when a strip appears at the bottom (the motorcycle bar or the docked sound player), and only by its height. Strip gone, everything goes down."
-      ],
-      "es": [
-        "Más mapa en pantalla: la tarjeta de dirección, los botones y el velocímetro bajaron cerca del borde inferior, con el mismo pequeño espacio que hay entre los botones.",
-        "Solo suben cuando aparece una franja abajo (la barra de la moto o el reproductor acoplado), y solo su altura. Sin la franja, todo baja."
       ]
     }
   ]
