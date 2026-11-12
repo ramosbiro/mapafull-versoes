@@ -1,17 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.126.1",
-  "codigo": 370,
-  "data": "11/11/2026",
-  "tamanho": 116483121,
-  "sha256": "fb58ae81269827fc967aa6dfba67aef4b73481563754a98a9ba099e5f0b317cb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.1/Vrumbi-0.126.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.1/Vrumbi-relogio-0.126.1.apk",
+  "versao": "0.127.0",
+  "codigo": 371,
+  "data": "12/11/2026",
+  "tamanho": 116487865,
+  "sha256": "08fae5dad0a1d6c98c7585005c02609e69c3f3237d6336c52049f16884c7aeca",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.0/Vrumbi-0.127.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.0/Vrumbi-relogio-0.127.0.apk",
   "notas": [
-    "Contatos mais enxuto: ligar e mandar mensagem viraram dois botões pequenos no alto da janela; o espaço fica para os contatos recentes e as conversas.",
-    "Tela dividida: puxar a divisória até em cima da outra janela fecha a outra e fica a que você arrastou, como no Android."
+    "Planeta: o zoom para de afastar quando o planeta inteiro aparece com uma folga em volta; não vira mais um pontinho.",
+    "O Sol e a Lua aparecem em volta do planeta, na direção de verdade de agora (a Lua na fase de hoje). Do nosso lado ficam maiores; atrás do planeta, menores e apagados, espiando pela beirada. Tocar num deles gira o planeta para onde ele está a pino.",
+    "O lado da noite fica escuro no planeta, com o crepúsculo em degradê e as luzes das cidades acesas; o brilho da atmosfera fica do lado do Sol.",
+    "No mapa inclinado, o Sol e a Lua do céu ficam no lugar de verdade: só acima do horizonte, para o lado em que estão (girar o mapa leva os dois junto) e mais altos quanto mais alto estão. A Lua também aparece de dia, mais apagada."
   ],
   "versoes": [
+    {
+      "versao": "0.127.0",
+      "data": "12/11/2026",
+      "itens": [
+        "Planeta: o zoom para de afastar quando o planeta inteiro aparece com uma folga em volta; não vira mais um pontinho.",
+        "O Sol e a Lua aparecem em volta do planeta, na direção de verdade de agora (a Lua na fase de hoje). Do nosso lado ficam maiores; atrás do planeta, menores e apagados, espiando pela beirada. Tocar num deles gira o planeta para onde ele está a pino.",
+        "O lado da noite fica escuro no planeta, com o crepúsculo em degradê e as luzes das cidades acesas; o brilho da atmosfera fica do lado do Sol.",
+        "No mapa inclinado, o Sol e a Lua do céu ficam no lugar de verdade: só acima do horizonte, para o lado em que estão (girar o mapa leva os dois junto) e mais altos quanto mais alto estão. A Lua também aparece de dia, mais apagada."
+      ],
+      "en": [
+        "Planet: zooming out stops when the whole planet fits with a margin around it; it no longer shrinks to a dot.",
+        "The Sun and the Moon show around the planet, in their real direction right now (the Moon in today's phase). On our side they are bigger; behind the planet, smaller and dimmer, peeking over the edge. Tap one to turn the planet to where it is overhead.",
+        "The night side of the planet is dark, with a soft twilight and the city lights on; the atmosphere glows on the Sun's side.",
+        "On the tilted map, the Sun and the Moon in the sky are in their real place: only above the horizon, toward the side where they are (turning the map moves them too) and higher the higher they are. The Moon also shows by day, dimmer."
+      ],
+      "es": [
+        "Planeta: el zoom deja de alejarse cuando el planeta entero cabe con un margen alrededor; ya no se vuelve un puntito.",
+        "El Sol y la Luna aparecen alrededor del planeta, en su dirección real de ahora (la Luna en la fase de hoy). De nuestro lado son más grandes; detrás del planeta, más pequeños y apagados, asomándose por el borde. Toca uno para girar el planeta hacia donde está en el cenit.",
+        "El lado de la noche queda oscuro en el planeta, con el crepúsculo en degradado y las luces de las ciudades encendidas; el brillo de la atmósfera queda del lado del Sol.",
+        "En el mapa inclinado, el Sol y la Luna del cielo están en su lugar real: solo sobre el horizonte, hacia el lado donde están (girar el mapa los mueve también) y más altos cuanto más altos están. La Luna también aparece de día, más tenue."
+      ]
+    },
     {
       "versao": "0.126.1",
       "data": "11/11/2026",
@@ -189,28 +213,6 @@
       "es": [
         "Pedidos combinados por voz más firmes: \"entra en ajustes y cambia el color de la app a azul\" funciona aunque el celular entienda mal una parte.",
         "La frase larga ya no se corta a la mitad: Vrumbi espera a que termines de hablar."
-      ]
-    },
-    {
-      "versao": "0.122.0",
-      "data": "11/11/2026",
-      "itens": [
-        "Conversa com o Vrumbi sem o \"blip\": com a conversa aberta, o microfone fica ouvindo o tempo todo, sem abrir e fechar. Fale quando quiser.",
-        "Pode interromper: se você falar enquanto o Vrumbi responde, ele para na hora e escuta o que você disse.",
-        "O eco da própria voz do Vrumbi não é confundido com a sua (cancelamento de eco do aparelho).",
-        "Busca de empresas em mais países com o cadastro oficial: México, Reino Unido e Noruega, além de Brasil e França."
-      ],
-      "en": [
-        "Talk to Vrumbi without the \"blip\": while the conversation is open, the microphone keeps listening, without turning on and off. Speak whenever you want.",
-        "You can interrupt: if you speak while Vrumbi is answering, he stops right away and listens to you.",
-        "The echo of Vrumbi's own voice is not mistaken for yours (the device's echo cancellation).",
-        "Business search in more countries with the official registry: Mexico, the United Kingdom and Norway, besides Brazil and France."
-      ],
-      "es": [
-        "Charla con Vrumbi sin el \"blip\": con la conversación abierta, el micrófono escucha todo el tiempo, sin abrirse y cerrarse. Habla cuando quieras.",
-        "Puedes interrumpir: si hablas mientras Vrumbi responde, se detiene al instante y te escucha.",
-        "El eco de la propia voz de Vrumbi no se confunde con la tuya (cancelación de eco del aparato).",
-        "Búsqueda de empresas en más países con el registro oficial: México, Reino Unido y Noruega, además de Brasil y Francia."
       ]
     }
   ]
