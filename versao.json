@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.6",
-  "codigo": 377,
+  "versao": "0.127.7",
+  "codigo": 378,
   "data": "12/11/2026",
-  "tamanho": 116501987,
-  "sha256": "7b288d7a9fe049d9bbec6b6783982a0772f728b9de2592d40d6257265a1c934e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.6/Vrumbi-0.127.6.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.6/Vrumbi-relogio-0.127.6.apk",
+  "tamanho": 116502295,
+  "sha256": "812c4006df3d3a28840a4b0c36b7e0e760c38ef623aec6b581d2e374c72fc9d1",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.7/Vrumbi-0.127.7.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.7/Vrumbi-relogio-0.127.7.apk",
   "notas": [
-    "Contatos: o ícone do alto da janela não fica mais torto, e o título \"Contatos\" aparece inteiro mesmo com a janela estreita."
+    "Contatos: no alto, só o título inteiro e o X; logo abaixo, uma linha com ligar, mandar mensagem, ajustes e o Limpar (que saiu do rodapé). O título não é mais cortado, mesmo com a janela estreita."
   ],
   "versoes": [
+    {
+      "versao": "0.127.7",
+      "data": "12/11/2026",
+      "itens": [
+        "Contatos: no alto, só o título inteiro e o X; logo abaixo, uma linha com ligar, mandar mensagem, ajustes e o Limpar (que saiu do rodapé). O título não é mais cortado, mesmo com a janela estreita."
+      ],
+      "en": [
+        "Contacts: the top now has only the full title and the X; right below, one row with call, send message, settings and Clear (moved up from the bottom). The title is no longer cut off, even in a narrow window."
+      ],
+      "es": [
+        "Contactos: arriba solo el título completo y la X; justo debajo, una fila con llamar, enviar mensaje, ajustes y Limpiar (que salió del pie). El título ya no se corta, aunque la ventana sea estrecha."
+      ]
+    },
     {
       "versao": "0.127.6",
       "data": "12/11/2026",
@@ -197,22 +210,6 @@
         "Más mapa en pantalla: Entrenamiento salió de la pantalla principal y pasó a Ajustes, en el grupo nuevo Día a día (con Clima y Ayuda cercana). Con un entrenamiento en curso, el botón vuelve mostrando el tiempo, para pausar o terminar.",
         "En horizontal la tarjeta de dirección es más ancha; en vertical la columna de botones es más corta.",
         "Ajustes reorganizados por tarea: Mapa, Navegación, Avisos, Día a día, Voz, Apariencia, Policía y Sistema, cada uno en orden de uso."
-      ]
-    },
-    {
-      "versao": "0.124.1",
-      "data": "11/11/2026",
-      "itens": [
-        "Conversa com o Vrumbi na rua: com trânsito, vento ou motor, ele agora entende o que você fala. Antes o barulho fazia o microfone parecer mudo.",
-        "Falar por cima funciona de verdade: o Vrumbi para na hora e entende a sua frase inteira, mesmo a parte dita enquanto ele ainda falava."
-      ],
-      "en": [
-        "Talking to Vrumbi on the street: with traffic, wind or engine noise, he now understands what you say. Before, the noise made the microphone seem dead.",
-        "Talking over him really works: Vrumbi stops right away and understands your whole sentence, even the part said while he was still talking."
-      ],
-      "es": [
-        "Hablar con Vrumbi en la calle: con tráfico, viento o motor, ahora entiende lo que dices. Antes el ruido hacía parecer que el micrófono no funcionaba.",
-        "Hablar encima funciona de verdad: Vrumbi se detiene al instante y entiende toda tu frase, incluso lo que dijiste mientras él hablaba."
       ]
     }
   ]
