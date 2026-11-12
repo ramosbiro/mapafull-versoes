@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.125.0",
-  "codigo": 368,
+  "versao": "0.126.0",
+  "codigo": 369,
   "data": "11/11/2026",
-  "tamanho": 116478633,
-  "sha256": "982437b943ab7ced64ee63a14d2a2b878a48a9f7ae092ccf9cd081d01b70d470",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.125.0/Vrumbi-0.125.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.125.0/Vrumbi-relogio-0.125.0.apk",
+  "tamanho": 116481117,
+  "sha256": "b5b083cdaa8104148cf406dfaae3d2dcc211811245932bd3a60ab2e39bba0fb6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.0/Vrumbi-0.126.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.0/Vrumbi-relogio-0.126.0.apk",
   "notas": [
-    "Gerenciador de janelas: tocou numa janela (Contatos ou Mídia), ela vem para a frente.",
-    "A janela de Contatos agora arrasta para qualquer lugar, muda de tamanho pelas bordas e gruda na borda da tela, como o player. Jogar para o lado continua fechando.",
-    "Tela dividida com as duas janelas: em pé, uma em cima e outra embaixo, com o mapa no meio; deitado, viram colunas. Tocar na divisória mostra trocar de lugar, soltar e fechar; puxar a divisória até o fim fecha a janela."
+    "Tela pequena: com a tela dividida do Android, a tela de fora de um dobrável ou janelas encostadas apertando o mapa, o Vrumbi entra sozinho no modo compacto: lupa, Seguir, Recursos, o endereço numa linha e o velocímetro menor.",
+    "Recursos junta Mídia, Contatos, Gravar, Avisar, Treino e Configurações num botão só.",
+    "No modo compacto, Pesquisar e Configurações ocupam exatamente a área do mapa, sem ficar por baixo das janelas."
   ],
   "versoes": [
+    {
+      "versao": "0.126.0",
+      "data": "11/11/2026",
+      "itens": [
+        "Tela pequena: com a tela dividida do Android, a tela de fora de um dobrável ou janelas encostadas apertando o mapa, o Vrumbi entra sozinho no modo compacto: lupa, Seguir, Recursos, o endereço numa linha e o velocímetro menor.",
+        "Recursos junta Mídia, Contatos, Gravar, Avisar, Treino e Configurações num botão só.",
+        "No modo compacto, Pesquisar e Configurações ocupam exatamente a área do mapa, sem ficar por baixo das janelas."
+      ],
+      "en": [
+        "Small screen: with Android split screen, a foldable cover screen or docked windows squeezing the map, Vrumbi switches to compact mode by itself: search, Follow, Features, the address in one line and a smaller speedometer.",
+        "Features groups Media, Contacts, Record, Report, Workout and Settings in one button.",
+        "In compact mode, Search and Settings take exactly the map area, never under the windows."
+      ],
+      "es": [
+        "Pantalla pequeña: con la pantalla dividida de Android, la pantalla externa de un plegable o ventanas acopladas apretando el mapa, Vrumbi entra solo en modo compacto: búsqueda, Seguir, Recursos, la dirección en una línea y el velocímetro más chico.",
+        "Recursos reúne Medios, Contactos, Grabar, Avisar, Entrenamiento y Ajustes en un solo botón.",
+        "En modo compacto, Buscar y Ajustes ocupan exactamente el área del mapa, sin quedar debajo de las ventanas."
+      ]
+    },
     {
       "versao": "0.125.0",
       "data": "11/11/2026",
@@ -199,19 +218,6 @@
         "Vrumbi cuenta chistes con emoción: la pregunta, la pausa de suspenso, la respuesta y la risa, con el autito saltando y bailando. \"Otro más\", \"otro\" siguen la charla sin trabarse.",
         "Pedidos de acción más firmes: \"entra en ajustes y cambia el color de la app a morado\" hace las dos cosas; Vrumbi ya no confunde charla con comando.",
         "El micrófono ya no se reabre encima de la voz de Vrumbi ni cuenta como silencio el tiempo en que piensa: no se despide en medio de la respuesta."
-      ]
-    },
-    {
-      "versao": "0.120.14",
-      "data": "11/11/2026",
-      "itens": [
-        "Mapas offline para o mundo inteiro: os outros 162 países começam a entrar na lista de mapas para baixar, aos poucos, conforme ficam prontos (com o novo grupo América Central e Caribe)."
-      ],
-      "en": [
-        "Offline maps for the whole world: the other 162 countries start appearing in the list of maps to download, little by little, as they are ready (with the new Central America and Caribbean group)."
-      ],
-      "es": [
-        "Mapas sin conexión para el mundo entero: los otros 162 países empiezan a entrar en la lista de mapas para descargar, poco a poco, a medida que estén listos (con el nuevo grupo América Central y Caribe)."
       ]
     }
   ]
