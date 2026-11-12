@@ -1,19 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.2",
-  "codigo": 373,
+  "versao": "0.127.3",
+  "codigo": 374,
   "data": "12/11/2026",
-  "tamanho": 116498267,
-  "sha256": "c4393863673833c6fcf9b6f3a224861846df9e0c800e17138a134ea670e280f2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.2/Vrumbi-0.127.2.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.2/Vrumbi-relogio-0.127.2.apk",
+  "tamanho": 116500667,
+  "sha256": "f06f8c7d0b339ed97f5e79243309799d107d602079ff020528097307de0f1c93",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.3/Vrumbi-0.127.3.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.3/Vrumbi-relogio-0.127.3.apk",
   "notas": [
-    "Planeta: o Sol e a Lua ficam onde estão de verdade. Do nosso lado, passam por cima do planeta, claros e translúcidos, exatamente sobre o país em que estão a pino agora. Atrás do planeta, saem pela beirada e se afastam quanto mais para trás estão.",
-    "O Sol do planeta ficou realista, como a Lua: disco com a borda mais escura, a textura da superfície e a coroa brilhando em volta.",
-    "Tocar no Sol ou na Lua abre a ficha dele: onde está a pino agora (o país ou o mar), a que horas nasce e se põe aqui, a altura no céu e a distância; a Lua com a fase, a iluminação e a próxima fase. Tocar no espaço fora do planeta não abre mais um ponto qualquer da Terra.",
-    "A Lua fica com o lado aceso virado para o Sol, no planeta e no céu do mapa inclinado."
+    "Planeta: o Sol e a Lua dão a volta lisa em torno da Terra ao girar o planeta, sem tremer nem grudar na borda. Passam por cima do país em que estão a pino e, quando vão para trás, se escondem atrás da Terra como no céu de verdade.",
+    "Céu do mapa igual ao Clima e tempo: as nuvens agora são de verdade e na quantidade do clima de agora (sol entre nuvens = céu com nuvens e frestas azuis; nublado = céu forrado). O Sol e a Lua aparecem entre as nuvens, e a chuva cai na frente delas.",
+    "O brilho do Sol acompanha o Sol no céu ao girar o mapa (antes ficava parado no canto); com nuvens, ele clareia as nuvens em volta. De noite, a Lua tem um halo suave."
   ],
   "versoes": [
+    {
+      "versao": "0.127.3",
+      "data": "12/11/2026",
+      "itens": [
+        "Planeta: o Sol e a Lua dão a volta lisa em torno da Terra ao girar o planeta, sem tremer nem grudar na borda. Passam por cima do país em que estão a pino e, quando vão para trás, se escondem atrás da Terra como no céu de verdade.",
+        "Céu do mapa igual ao Clima e tempo: as nuvens agora são de verdade e na quantidade do clima de agora (sol entre nuvens = céu com nuvens e frestas azuis; nublado = céu forrado). O Sol e a Lua aparecem entre as nuvens, e a chuva cai na frente delas.",
+        "O brilho do Sol acompanha o Sol no céu ao girar o mapa (antes ficava parado no canto); com nuvens, ele clareia as nuvens em volta. De noite, a Lua tem um halo suave."
+      ],
+      "en": [
+        "Planet: the Sun and the Moon circle the Earth smoothly as you turn the planet, without shaking or sticking to the edge. They pass over the country where they are overhead and, when they go around the back, hide behind the Earth like in the real sky.",
+        "Map sky matches Weather: clouds are now real and as many as the current weather says (sun and clouds = cloudy sky with blue gaps; overcast = fully covered). The Sun and the Moon peek between the clouds, and rain falls in front of them.",
+        "The Sun's glow follows the Sun across the sky as you turn the map (it used to stay stuck in the corner); with clouds, it lights up the clouds around it. At night the Moon has a soft halo."
+      ],
+      "es": [
+        "Planeta: el Sol y la Luna dan una vuelta suave alrededor de la Tierra al girar el planeta, sin temblar ni pegarse al borde. Pasan sobre el país donde están en el cenit y, cuando van hacia atrás, se esconden detrás de la Tierra como en el cielo real.",
+        "Cielo del mapa igual al Clima: las nubes ahora son reales y en la cantidad del clima actual (sol entre nubes = cielo con nubes y claros azules; nublado = cielo cubierto). El Sol y la Luna asoman entre las nubes, y la lluvia cae delante de ellas.",
+        "El brillo del Sol acompaña al Sol en el cielo al girar el mapa (antes quedaba fijo en la esquina); con nubes, ilumina las nubes alrededor. De noche la Luna tiene un halo suave."
+      ]
+    },
     {
       "versao": "0.127.2",
       "data": "12/11/2026",
@@ -200,19 +218,6 @@
       ],
       "es": [
         "Con el celular en horizontal, la barra de inclinación de la moto es aún más fina, para que quede más mapa."
-      ]
-    },
-    {
-      "versao": "0.123.1",
-      "data": "11/11/2026",
-      "itens": [
-        "A barra da inclinação da moto ficou fina e discreta no rodapé, no mesmo jeito do player de som encostado. Com o som encostado embaixo, ele fica por baixo da barra."
-      ],
-      "en": [
-        "The motorcycle lean bar is now thin and discreet at the bottom, like the docked sound player. With the player docked at the bottom, it stays below the bar."
-      ],
-      "es": [
-        "La barra de inclinación de la moto ahora es fina y discreta abajo, como el reproductor de sonido acoplado. Con el reproductor abajo, queda debajo de la barra."
       ]
     }
   ]
