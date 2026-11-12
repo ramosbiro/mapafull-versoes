@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.126.0",
-  "codigo": 369,
+  "versao": "0.126.1",
+  "codigo": 370,
   "data": "11/11/2026",
-  "tamanho": 116481117,
-  "sha256": "b5b083cdaa8104148cf406dfaae3d2dcc211811245932bd3a60ab2e39bba0fb6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.0/Vrumbi-0.126.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.0/Vrumbi-relogio-0.126.0.apk",
+  "tamanho": 116483121,
+  "sha256": "fb58ae81269827fc967aa6dfba67aef4b73481563754a98a9ba099e5f0b317cb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.1/Vrumbi-0.126.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.126.1/Vrumbi-relogio-0.126.1.apk",
   "notas": [
-    "Tela pequena: com a tela dividida do Android, a tela de fora de um dobrável ou janelas encostadas apertando o mapa, o Vrumbi entra sozinho no modo compacto: lupa, Seguir, Recursos, o endereço numa linha e o velocímetro menor.",
-    "Recursos junta Mídia, Contatos, Gravar, Avisar, Treino e Configurações num botão só.",
-    "No modo compacto, Pesquisar e Configurações ocupam exatamente a área do mapa, sem ficar por baixo das janelas."
+    "Contatos mais enxuto: ligar e mandar mensagem viraram dois botões pequenos no alto da janela; o espaço fica para os contatos recentes e as conversas.",
+    "Tela dividida: puxar a divisória até em cima da outra janela fecha a outra e fica a que você arrastou, como no Android."
   ],
   "versoes": [
+    {
+      "versao": "0.126.1",
+      "data": "11/11/2026",
+      "itens": [
+        "Contatos mais enxuto: ligar e mandar mensagem viraram dois botões pequenos no alto da janela; o espaço fica para os contatos recentes e as conversas.",
+        "Tela dividida: puxar a divisória até em cima da outra janela fecha a outra e fica a que você arrastou, como no Android."
+      ],
+      "en": [
+        "Leaner Contacts: call and send message became two small buttons at the top of the window; the space goes to recent contacts and conversations.",
+        "Split screen: dragging the divider over the other window closes that one and keeps the one you dragged, like on Android."
+      ],
+      "es": [
+        "Contactos más simple: llamar y enviar mensaje ahora son dos botones pequeños arriba de la ventana; el espacio queda para los contactos recientes y las conversaciones.",
+        "Pantalla dividida: arrastrar el divisor sobre la otra ventana cierra esa y queda la que arrastraste, como en Android."
+      ]
+    },
     {
       "versao": "0.126.0",
       "data": "11/11/2026",
@@ -196,28 +211,6 @@
         "Puedes interrumpir: si hablas mientras Vrumbi responde, se detiene al instante y te escucha.",
         "El eco de la propia voz de Vrumbi no se confunde con la tuya (cancelación de eco del aparato).",
         "Búsqueda de empresas en más países con el registro oficial: México, Reino Unido y Noruega, además de Brasil y Francia."
-      ]
-    },
-    {
-      "versao": "0.121.0",
-      "data": "11/11/2026",
-      "itens": [
-        "Gestos do Android: o cartão do endereço, o velocímetro e os botões de baixo ficam acima da faixa de gestos, então deslizar de baixo para sair ou trocar de app funciona sempre, em vez de mexer no mapa.",
-        "O Vrumbi conta piada com emoção: a pergunta, a pausa de suspense, a resposta e a risada, com o carrinho pulando e dançando. \"Mais uma\", \"outra\" e \"conta outra\" continuam a conversa sem travar.",
-        "Pedidos de ação mais firmes: \"entra nas configurações e troca a cor do app para roxo\" faz as duas coisas; o Vrumbi não confunde mais conversa com comando.",
-        "O microfone não reabre por cima da fala do Vrumbi nem conta como silêncio o tempo em que ele está pensando: ele não se despede no meio da resposta."
-      ],
-      "en": [
-        "Android gestures: the address card, the speedometer and the bottom buttons stay above the gesture area, so swiping up to leave or switch apps always works instead of moving the map.",
-        "Vrumbi tells jokes with emotion: the question, the suspense pause, the answer and the laugh, with the little car jumping and dancing. \"One more\", \"another\" keep the conversation going without freezing.",
-        "Firmer action requests: \"open settings and change the app color to purple\" does both; Vrumbi no longer mistakes chat for a command.",
-        "The microphone no longer reopens over Vrumbi's voice or counts his thinking time as silence: he does not say goodbye in the middle of an answer."
-      ],
-      "es": [
-        "Gestos de Android: la tarjeta de dirección, el velocímetro y los botones de abajo quedan por encima de la zona de gestos, así que deslizar desde abajo para salir o cambiar de app siempre funciona, en vez de mover el mapa.",
-        "Vrumbi cuenta chistes con emoción: la pregunta, la pausa de suspenso, la respuesta y la risa, con el autito saltando y bailando. \"Otro más\", \"otro\" siguen la charla sin trabarse.",
-        "Pedidos de acción más firmes: \"entra en ajustes y cambia el color de la app a morado\" hace las dos cosas; Vrumbi ya no confunde charla con comando.",
-        "El micrófono ya no se reabre encima de la voz de Vrumbi ni cuenta como silencio el tiempo en que piensa: no se despide en medio de la respuesta."
       ]
     }
   ]
