@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.1",
-  "codigo": 372,
+  "versao": "0.127.2",
+  "codigo": 373,
   "data": "12/11/2026",
-  "tamanho": 116488553,
-  "sha256": "976b090a9be5a1a6313d69ff88b5594c46eb58dc309fa316286a8551950455bf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.1/Vrumbi-0.127.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.1/Vrumbi-relogio-0.127.1.apk",
+  "tamanho": 116498267,
+  "sha256": "c4393863673833c6fcf9b6f3a224861846df9e0c800e17138a134ea670e280f2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.2/Vrumbi-0.127.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.2/Vrumbi-relogio-0.127.2.apk",
   "notas": [
-    "Zoom bem perto da rua sem travar: o mapa deixou de carregar tudo em detalhe máximo até o horizonte e de repetir setas e nomes de rua milhares de vezes. No teste, cada quadro passou de até 400 ms para cerca de 15 ms, do zoom da rua ao máximo."
+    "Planeta: o Sol e a Lua ficam onde estão de verdade. Do nosso lado, passam por cima do planeta, claros e translúcidos, exatamente sobre o país em que estão a pino agora. Atrás do planeta, saem pela beirada e se afastam quanto mais para trás estão.",
+    "O Sol do planeta ficou realista, como a Lua: disco com a borda mais escura, a textura da superfície e a coroa brilhando em volta.",
+    "Tocar no Sol ou na Lua abre a ficha dele: onde está a pino agora (o país ou o mar), a que horas nasce e se põe aqui, a altura no céu e a distância; a Lua com a fase, a iluminação e a próxima fase. Tocar no espaço fora do planeta não abre mais um ponto qualquer da Terra.",
+    "A Lua fica com o lado aceso virado para o Sol, no planeta e no céu do mapa inclinado."
   ],
   "versoes": [
+    {
+      "versao": "0.127.2",
+      "data": "12/11/2026",
+      "itens": [
+        "Planeta: o Sol e a Lua ficam onde estão de verdade. Do nosso lado, passam por cima do planeta, claros e translúcidos, exatamente sobre o país em que estão a pino agora. Atrás do planeta, saem pela beirada e se afastam quanto mais para trás estão.",
+        "O Sol do planeta ficou realista, como a Lua: disco com a borda mais escura, a textura da superfície e a coroa brilhando em volta.",
+        "Tocar no Sol ou na Lua abre a ficha dele: onde está a pino agora (o país ou o mar), a que horas nasce e se põe aqui, a altura no céu e a distância; a Lua com a fase, a iluminação e a próxima fase. Tocar no espaço fora do planeta não abre mais um ponto qualquer da Terra.",
+        "A Lua fica com o lado aceso virado para o Sol, no planeta e no céu do mapa inclinado."
+      ],
+      "en": [
+        "Planet: the Sun and the Moon stay where they really are. On our side they pass over the planet, bright and translucent, exactly over the country where they are overhead right now. Behind the planet, they come out at the edge and move farther the further back they are.",
+        "The planet's Sun is now realistic, like the Moon: a disk with a darker rim, the surface texture and the glowing corona around it.",
+        "Tap the Sun or the Moon to open its card: where it is overhead right now (country or sea), when it rises and sets here, its height in the sky and its distance; the Moon with its phase, illumination and next phase. Tapping space outside the planet no longer opens a random point on Earth.",
+        "The Moon's lit side faces the Sun, on the planet and in the sky of the tilted map."
+      ],
+      "es": [
+        "Planeta: el Sol y la Luna quedan donde realmente están. De nuestro lado pasan sobre el planeta, claros y translúcidos, exactamente sobre el país donde están en el cenit ahora. Detrás del planeta, salen por el borde y se alejan cuanto más atrás están.",
+        "El Sol del planeta ahora es realista, como la Luna: disco con el borde más oscuro, la textura de la superficie y la corona brillando alrededor.",
+        "Toca el Sol o la Luna para abrir su ficha: dónde está en el cenit ahora (país o mar), a qué hora sale y se pone aquí, su altura en el cielo y su distancia; la Luna con la fase, la iluminación y la próxima fase. Tocar el espacio fuera del planeta ya no abre un punto cualquiera de la Tierra.",
+        "La Luna queda con el lado iluminado hacia el Sol, en el planeta y en el cielo del mapa inclinado."
+      ]
+    },
     {
       "versao": "0.127.1",
       "data": "12/11/2026",
@@ -188,25 +213,6 @@
       ],
       "es": [
         "La barra de inclinación de la moto ahora es fina y discreta abajo, como el reproductor de sonido acoplado. Con el reproductor abajo, queda debajo de la barra."
-      ]
-    },
-    {
-      "versao": "0.123.0",
-      "data": "11/11/2026",
-      "itens": [
-        "Modo moto: com moto escolhida em Meus veículos, uma barra no rodapé mostra a inclinação da moto na curva: verde no meio, depois amarelo, laranja e vermelho para os dois lados, com marcas do máximo da viagem.",
-        "O ícone de moto no mapa deita na curva junto com você (a bicicleta também).",
-        "Escolheu moto em Meus veículos? O Vrumbi pergunta se quer trocar o ícone do mapa para moto. Voltou para outro veículo com o ícone de moto? Ele oferece a tela de ícones."
-      ],
-      "en": [
-        "Motorcycle mode: with a motorcycle chosen in My vehicles, a bar at the bottom shows the lean angle in curves: green in the middle, then yellow, orange and red on both sides, with marks for the trip maximum.",
-        "The motorcycle icon on the map leans into the curve with you (the bicycle too).",
-        "Chose motorcycle in My vehicles? Vrumbi asks if you want the map icon to be a motorcycle. Switched back with the motorcycle icon? He offers the icon screen."
-      ],
-      "es": [
-        "Modo moto: con moto elegida en Mis vehículos, una barra abajo muestra la inclinación de la moto en la curva: verde en el centro, luego amarillo, naranja y rojo a los dos lados, con marcas del máximo del viaje.",
-        "El icono de moto en el mapa se inclina en la curva contigo (la bicicleta también).",
-        "¿Elegiste moto en Mis vehículos? Vrumbi pregunta si quieres el icono del mapa de moto. ¿Volviste a otro vehículo con el icono de moto? Te ofrece la pantalla de iconos."
       ]
     }
   ]
