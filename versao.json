@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.124.1",
-  "codigo": 366,
+  "versao": "0.124.2",
+  "codigo": 367,
   "data": "11/11/2026",
-  "tamanho": 116472969,
-  "sha256": "b7c3f864ac71ffeb82a22889c8873c31920124de9d187be3f0111c48df46e4a7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.1/Vrumbi-0.124.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.1/Vrumbi-relogio-0.124.1.apk",
+  "tamanho": 116474657,
+  "sha256": "0d6866b43e49588340810609ec0a3d9f1edfb9fd9c80840c4c875aea66e9efcf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.2/Vrumbi-0.124.2.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.124.2/Vrumbi-relogio-0.124.2.apk",
   "notas": [
-    "Conversa com o Vrumbi na rua: com trânsito, vento ou motor, ele agora entende o que você fala. Antes o barulho fazia o microfone parecer mudo.",
-    "Falar por cima funciona de verdade: o Vrumbi para na hora e entende a sua frase inteira, mesmo a parte dita enquanto ele ainda falava."
+    "Mais mapa na tela: o Treino saiu da tela principal e foi para Configurações, no grupo novo Dia a dia (com Clima e tempo e Ajuda por perto). Com um treino em andamento, o botão volta mostrando o tempo, para pausar ou encerrar.",
+    "Deitado, o cartão do endereço ficou mais largo; em pé, a coluna de botões ficou mais curta.",
+    "Configurações reorganizadas por tarefa: Mapa, Navegação, Avisos, Dia a dia, Voz, Aparência, Polícia e Sistema, cada uma na ordem de uso."
   ],
   "versoes": [
+    {
+      "versao": "0.124.2",
+      "data": "11/11/2026",
+      "itens": [
+        "Mais mapa na tela: o Treino saiu da tela principal e foi para Configurações, no grupo novo Dia a dia (com Clima e tempo e Ajuda por perto). Com um treino em andamento, o botão volta mostrando o tempo, para pausar ou encerrar.",
+        "Deitado, o cartão do endereço ficou mais largo; em pé, a coluna de botões ficou mais curta.",
+        "Configurações reorganizadas por tarefa: Mapa, Navegação, Avisos, Dia a dia, Voz, Aparência, Polícia e Sistema, cada uma na ordem de uso."
+      ],
+      "en": [
+        "More map on screen: Workout left the main screen and moved to Settings, in the new Everyday group (with Weather and Help nearby). During a workout the button comes back showing the time, to pause or finish.",
+        "In landscape the address card is wider; in portrait the button column is shorter.",
+        "Settings reorganized by task: Map, Navigation, Alerts, Everyday, Voice, Appearance, Police and System, each in order of use."
+      ],
+      "es": [
+        "Más mapa en pantalla: Entrenamiento salió de la pantalla principal y pasó a Ajustes, en el grupo nuevo Día a día (con Clima y Ayuda cercana). Con un entrenamiento en curso, el botón vuelve mostrando el tiempo, para pausar o terminar.",
+        "En horizontal la tarjeta de dirección es más ancha; en vertical la columna de botones es más corta.",
+        "Ajustes reorganizados por tarea: Mapa, Navegación, Avisos, Día a día, Voz, Apariencia, Policía y Sistema, cada uno en orden de uso."
+      ]
+    },
     {
       "versao": "0.124.1",
       "data": "11/11/2026",
@@ -186,19 +206,6 @@
       ],
       "es": [
         "Cuando la dirección salta de línea, el punto \"·\" que separaba las partes desaparece: la línea termina limpia."
-      ]
-    },
-    {
-      "versao": "0.120.12",
-      "data": "11/11/2026",
-      "itens": [
-        "Endereço sem nome cortado ao meio: quando a linha não cabe, o bairro, a cidade ou o CEP desce inteiro para a linha de baixo (a quebra fica sempre no \"·\"), em qualquer país."
-      ],
-      "en": [
-        "Addresses no longer split a name in half: when the line does not fit, the neighborhood, city or postal code moves whole to the next line (the break is always at the \"·\"), in any country."
-      ],
-      "es": [
-        "La dirección ya no corta un nombre a la mitad: cuando la línea no cabe, el barrio, la ciudad o el código postal baja entero a la línea de abajo (el corte queda siempre en el \"·\"), en cualquier país."
       ]
     }
   ]
