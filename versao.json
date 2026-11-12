@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.3",
-  "codigo": 374,
+  "versao": "0.127.4",
+  "codigo": 375,
   "data": "12/11/2026",
-  "tamanho": 116500667,
-  "sha256": "f06f8c7d0b339ed97f5e79243309799d107d602079ff020528097307de0f1c93",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.3/Vrumbi-0.127.3.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.3/Vrumbi-relogio-0.127.3.apk",
+  "tamanho": 116500899,
+  "sha256": "4dbfe4fbf83cb401f88e60e9f90ade21ecaa536b6d2b690fed2505193b603865",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.4/Vrumbi-0.127.4.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.4/Vrumbi-relogio-0.127.4.apk",
   "notas": [
-    "Planeta: o Sol e a Lua dão a volta lisa em torno da Terra ao girar o planeta, sem tremer nem grudar na borda. Passam por cima do país em que estão a pino e, quando vão para trás, se escondem atrás da Terra como no céu de verdade.",
-    "Céu do mapa igual ao Clima e tempo: as nuvens agora são de verdade e na quantidade do clima de agora (sol entre nuvens = céu com nuvens e frestas azuis; nublado = céu forrado). O Sol e a Lua aparecem entre as nuvens, e a chuva cai na frente delas.",
-    "O brilho do Sol acompanha o Sol no céu ao girar o mapa (antes ficava parado no canto); com nuvens, ele clareia as nuvens em volta. De noite, a Lua tem um halo suave."
+    "O céu do mapa volta na hora depois de ver o planeta: afastar até o planeta e tocar em Seguir não deixa mais o céu preto."
   ],
   "versoes": [
+    {
+      "versao": "0.127.4",
+      "data": "12/11/2026",
+      "itens": [
+        "O céu do mapa volta na hora depois de ver o planeta: afastar até o planeta e tocar em Seguir não deixa mais o céu preto."
+      ],
+      "en": [
+        "The map sky comes back right away after viewing the planet: zooming out to the planet and tapping Follow no longer leaves the sky black."
+      ],
+      "es": [
+        "El cielo del mapa vuelve enseguida después de ver el planeta: alejarse hasta el planeta y tocar Seguir ya no deja el cielo negro."
+      ]
+    },
     {
       "versao": "0.127.3",
       "data": "12/11/2026",
@@ -205,19 +216,6 @@
       "es": [
         "Más mapa en pantalla: la tarjeta de dirección, los botones y el velocímetro bajaron cerca del borde inferior, con el mismo pequeño espacio que hay entre los botones.",
         "Solo suben cuando aparece una franja abajo (la barra de la moto o el reproductor acoplado), y solo su altura. Sin la franja, todo baja."
-      ]
-    },
-    {
-      "versao": "0.123.2",
-      "data": "11/11/2026",
-      "itens": [
-        "Com o celular deitado, a barra da inclinação da moto fica ainda mais fina, para sobrar mais mapa."
-      ],
-      "en": [
-        "With the phone in landscape, the motorcycle lean bar is even thinner, leaving more map visible."
-      ],
-      "es": [
-        "Con el celular en horizontal, la barra de inclinación de la moto es aún más fina, para que quede más mapa."
       ]
     }
   ]
