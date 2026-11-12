@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.0",
-  "codigo": 371,
+  "versao": "0.127.1",
+  "codigo": 372,
   "data": "12/11/2026",
-  "tamanho": 116487865,
-  "sha256": "08fae5dad0a1d6c98c7585005c02609e69c3f3237d6336c52049f16884c7aeca",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.0/Vrumbi-0.127.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.0/Vrumbi-relogio-0.127.0.apk",
+  "tamanho": 116488553,
+  "sha256": "976b090a9be5a1a6313d69ff88b5594c46eb58dc309fa316286a8551950455bf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.1/Vrumbi-0.127.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.1/Vrumbi-relogio-0.127.1.apk",
   "notas": [
-    "Planeta: o zoom para de afastar quando o planeta inteiro aparece com uma folga em volta; não vira mais um pontinho.",
-    "O Sol e a Lua aparecem em volta do planeta, na direção de verdade de agora (a Lua na fase de hoje). Do nosso lado ficam maiores; atrás do planeta, menores e apagados, espiando pela beirada. Tocar num deles gira o planeta para onde ele está a pino.",
-    "O lado da noite fica escuro no planeta, com o crepúsculo em degradê e as luzes das cidades acesas; o brilho da atmosfera fica do lado do Sol.",
-    "No mapa inclinado, o Sol e a Lua do céu ficam no lugar de verdade: só acima do horizonte, para o lado em que estão (girar o mapa leva os dois junto) e mais altos quanto mais alto estão. A Lua também aparece de dia, mais apagada."
+    "Zoom bem perto da rua sem travar: o mapa deixou de carregar tudo em detalhe máximo até o horizonte e de repetir setas e nomes de rua milhares de vezes. No teste, cada quadro passou de até 400 ms para cerca de 15 ms, do zoom da rua ao máximo."
   ],
   "versoes": [
+    {
+      "versao": "0.127.1",
+      "data": "12/11/2026",
+      "itens": [
+        "Zoom bem perto da rua sem travar: o mapa deixou de carregar tudo em detalhe máximo até o horizonte e de repetir setas e nomes de rua milhares de vezes. No teste, cada quadro passou de até 400 ms para cerca de 15 ms, do zoom da rua ao máximo."
+      ],
+      "en": [
+        "Zooming in close to the street without stutter: the map no longer loads everything in full detail up to the horizon nor repeats arrows and street names thousands of times. In testing, each frame went from up to 400 ms to about 15 ms, from street zoom to the maximum."
+      ],
+      "es": [
+        "Zoom muy cerca de la calle sin trabas: el mapa dejó de cargar todo con el máximo detalle hasta el horizonte y de repetir flechas y nombres de calles miles de veces. En la prueba, cada cuadro pasó de hasta 400 ms a unos 15 ms, del zoom de la calle al máximo."
+      ]
+    },
     {
       "versao": "0.127.0",
       "data": "12/11/2026",
@@ -197,22 +207,6 @@
         "Modo moto: con moto elegida en Mis vehículos, una barra abajo muestra la inclinación de la moto en la curva: verde en el centro, luego amarillo, naranja y rojo a los dos lados, con marcas del máximo del viaje.",
         "El icono de moto en el mapa se inclina en la curva contigo (la bicicleta también).",
         "¿Elegiste moto en Mis vehículos? Vrumbi pregunta si quieres el icono del mapa de moto. ¿Volviste a otro vehículo con el icono de moto? Te ofrece la pantalla de iconos."
-      ]
-    },
-    {
-      "versao": "0.122.1",
-      "data": "11/11/2026",
-      "itens": [
-        "Pedidos compostos pela voz mais firmes: \"entra nas configurações e troca a cor do app para azul\" funciona mesmo quando o celular entende \"de troca\" ou \"do ep\".",
-        "A frase longa não é mais cortada no meio: o Vrumbi espera você terminar de falar."
-      ],
-      "en": [
-        "Firmer combined voice requests: \"open settings and change the app color to blue\" works even when the phone mishears part of it.",
-        "Long sentences are no longer cut in the middle: Vrumbi waits for you to finish speaking."
-      ],
-      "es": [
-        "Pedidos combinados por voz más firmes: \"entra en ajustes y cambia el color de la app a azul\" funciona aunque el celular entienda mal una parte.",
-        "La frase larga ya no se corta a la mitad: Vrumbi espera a que termines de hablar."
       ]
     }
   ]
