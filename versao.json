@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.5",
-  "codigo": 376,
+  "versao": "0.127.6",
+  "codigo": 377,
   "data": "12/11/2026",
-  "tamanho": 116501767,
-  "sha256": "00eb1dff0a5c98146372ac9f7effeab9e44f43ef846a996905474a6d5fa24f4c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.5/Vrumbi-0.127.5.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.5/Vrumbi-relogio-0.127.5.apk",
+  "tamanho": 116501987,
+  "sha256": "7b288d7a9fe049d9bbec6b6783982a0772f728b9de2592d40d6257265a1c934e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.6/Vrumbi-0.127.6.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.6/Vrumbi-relogio-0.127.6.apk",
   "notas": [
-    "Radares e pontos do mapa não aparecem mais no céu: com o mapa deitado, só aparece o que está no chão à sua frente, até o horizonte. Os que ficavam atrás de você subiam invertidos para o céu; agora somem. Visto de cima, aparece tudo dentro do raio escolhido (1 km, 2 km, 3 km ou Completo)."
+    "Contatos: o ícone do alto da janela não fica mais torto, e o título \"Contatos\" aparece inteiro mesmo com a janela estreita."
   ],
   "versoes": [
+    {
+      "versao": "0.127.6",
+      "data": "12/11/2026",
+      "itens": [
+        "Contatos: o ícone do alto da janela não fica mais torto, e o título \"Contatos\" aparece inteiro mesmo com a janela estreita."
+      ],
+      "en": [
+        "Contacts: the icon at the top of the window is no longer crooked, and the \"Contacts\" title shows in full even when the window is narrow."
+      ],
+      "es": [
+        "Contactos: el ícono en lo alto de la ventana ya no queda torcido, y el título \"Contactos\" aparece completo aunque la ventana sea estrecha."
+      ]
+    },
     {
       "versao": "0.127.5",
       "data": "12/11/2026",
@@ -200,19 +213,6 @@
       "es": [
         "Hablar con Vrumbi en la calle: con tráfico, viento o motor, ahora entiende lo que dices. Antes el ruido hacía parecer que el micrófono no funcionaba.",
         "Hablar encima funciona de verdad: Vrumbi se detiene al instante y entiende toda tu frase, incluso lo que dijiste mientras él hablaba."
-      ]
-    },
-    {
-      "versao": "0.124.0",
-      "data": "11/11/2026",
-      "itens": [
-        "O sol e a lua do céu do mapa agora são os mesmos do clima: a lua aparece na fase de hoje (nova, crescente, cheia, minguante) e o sol com o mesmo desenho."
-      ],
-      "en": [
-        "The sun and moon in the map sky now match the weather: the moon shows today's phase (new, waxing, full, waning) and the sun has the same drawing."
-      ],
-      "es": [
-        "El sol y la luna del cielo del mapa ahora son los mismos del clima: la luna aparece en la fase de hoy (nueva, creciente, llena, menguante) y el sol con el mismo dibujo."
       ]
     }
   ]
