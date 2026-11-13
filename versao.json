@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.143.0",
-  "codigo": 394,
+  "versao": "0.143.1",
+  "codigo": 395,
   "data": "13/11/2026",
-  "tamanho": 116632785,
-  "sha256": "f89a21b7a855ec3f6c4f3d43bdaf0b939b9f151ec3ac13a4441d9c955fc7db3a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.0/Vrumbi-0.143.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.0/Vrumbi-relogio-0.143.0.apk",
+  "tamanho": 116633017,
+  "sha256": "203429f26c6dbedaeba5e7165187d39bf0e2c2bcee626f1861c4db065f1458c4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.1/Vrumbi-0.143.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.1/Vrumbi-relogio-0.143.1.apk",
   "notas": [
-    "Relógio, no treino: a hora de agora e o clima (temperatura e chance de chuva nas próximas horas) ficam sempre no alto da tela, seja qual for a grade escolhida. Tocar no clima abre a previsão hora a hora; o voltar retorna ao treino.",
-    "Relógio, no fim do treino: a tela do resultado, com tempo, distância, ritmo, calorias, batimentos, passos e as metas do dia e da semana. O botão Compartilhar abre o treino no celular com o compartilhamento pronto.",
-    "O celular avisa quando o treino do relógio termina: tocar no aviso abre o resumo com o compartilhar.",
-    "Relógio: o player próprio, que não comandava a música, saiu. No lugar, o botão Música abre o controle de música do próprio relógio."
+    "Relógio, no treino: os números ficam sempre dentro dos cartões, centrados (nas grades com muitos itens eles passavam da borda de baixo); quando não cabem, diminuem."
   ],
   "versoes": [
+    {
+      "versao": "0.143.1",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio, no treino: os números ficam sempre dentro dos cartões, centrados (nas grades com muitos itens eles passavam da borda de baixo); quando não cabem, diminuem."
+      ],
+      "en": [
+        "Watch, during a workout: the numbers always stay inside their cards, centered (in layouts with many items they went past the bottom edge); when they do not fit, they shrink."
+      ],
+      "es": [
+        "Reloj, en el entreno: los números quedan siempre dentro de sus tarjetas, centrados (en las cuadrículas con muchos elementos pasaban del borde inferior); si no caben, se achican."
+      ]
+    },
     {
       "versao": "0.143.0",
       "data": "13/11/2026",
@@ -176,19 +186,6 @@
       ],
       "es": [
         "Camión y autocaravana en la ficha del vehículo (Mis vehículos): el nuevo tipo Autocaravana y, para los dos, las medidas -- altura, ancho, largo, peso, ejes y carga peligrosa. La ruta de \"Camión\" usa las medidas del vehículo principal (evita viaductos bajos, puentes con límite de peso y vías prohibidas), y el peaje ya viene sumado por el número de ejes."
-      ]
-    },
-    {
-      "versao": "0.132.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Painel de bordo (Ajustes da navegação > Navegação): HUD para o para-brisa -- tela preta espelhada com a velocidade bem grande, o limite da via (fica vermelho acima dele), a próxima manobra e a chegada; deite o celular no painel e veja o reflexo no vidro. E o Cockpit: velocidade, altitude, rumo, força G com a bolinha e a máxima, e a inclinação. A tela fica acesa enquanto estiver aberto."
-      ],
-      "en": [
-        "Dashboard (Navigation settings > Navigation): windshield HUD -- a mirrored black screen with a huge speed, the road limit (turns red above it), the next turn and the arrival; lay the phone on the dashboard and see the reflection on the glass. And the Cockpit: speed, altitude, heading, G-force with the ball and the maximum, and the tilt. The screen stays on while it is open."
-      ],
-      "es": [
-        "Tablero (Ajustes de la navegación > Navegación): HUD para el parabrisas -- pantalla negra reflejada con la velocidad bien grande, el límite de la vía (se pone rojo por encima), la próxima maniobra y la llegada; acuesta el celular en el tablero y mira el reflejo en el vidrio. Y la Cabina: velocidad, altitud, rumbo, fuerza G con la bolita y la máxima, y la inclinación. La pantalla queda encendida mientras está abierto."
       ]
     }
   ]
