@@ -1,20 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.128.0",
-  "codigo": 379,
-  "data": "12/11/2026",
-  "tamanho": 116526420,
-  "sha256": "148dbc3f2fa9380fb839be7398d2b76cd142406d019d67f5a028aff3a5a61edb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.128.0/Vrumbi-0.128.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.128.0/Vrumbi-relogio-0.128.0.apk",
+  "versao": "0.129.0",
+  "codigo": 380,
+  "data": "13/11/2026",
+  "tamanho": 116542688,
+  "sha256": "091a8568b5a683e664f7a853c8dbb7ab40f45459cced9b11390f9470c8b4efc3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.129.0/Vrumbi-0.129.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.129.0/Vrumbi-relogio-0.129.0.apk",
   "notas": [
-    "Widget de Navegação refeito: não vira mais um \"Para onde?\" repetido. Pequeno, mostra onde virar, a distância, a rua e a placa do limite da via; com 2 fileiras, também as faixas, a manobra seguinte, o radar à frente, a barra até a curva e a chegada. Grande, mostra o mapa da navegação andando com você, na rota ou no modo livre (no livre, a sua velocidade e a rua).",
-    "Widget \"Para onde?\": você escolhe os botões e a ordem (Casa, Trabalho, Meu carro, Ajuda, Avisar, Mapa, Falar com o Vrumbi, Clima e Treino). Numa fileira cabem os que a largura deixa, e a seta › passa para os próximos.",
-    "Widget Clima e relógio: o tempo de agora (ícone e temperatura) fica sempre no centro, em qualquer tamanho do widget, e um pouco maior que a fileira de baixo. O relógio diminui sozinho se não couber.",
-    "Planeta: o Sol e a Lua não somem mais logo que você dá zoom. Continuam no céu enquanto o planeta cresce, vêm na sua direção, ficam enormes e passam pela borda da tela, até o zoom de país, em qualquer lugar do mundo.",
-    "Na lista de widgets do celular, as prévias não ficam mais com o texto apagado no tema escuro."
+    "Livro de viagem (Configurações > Carro e GPS): cada viagem fica anotada, com a rota ou no modo livre: distância, tempo em movimento, velocidade máxima, altitude máxima e subida. De moto, também a inclinação máxima de cada lado. Os números aparecem também no cartão da chegada.",
+    "Moto: a altitude atual aparece na ponta da barra de inclinação (a do relevo da rota, ou a do GPS no modo livre).",
+    "Perfil de elevação da rota: toque na linha da chegada para ver o sobe e desce do caminho inteiro, o trecho já feito, onde você está, a subida e a descida totais.",
+    "Ida e volta: no mesmo menu, ligue e, ao chegar ao destino, a rota já vira de volta para o ponto de partida, sem parar a navegação."
   ],
   "versoes": [
+    {
+      "versao": "0.129.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Livro de viagem (Configurações > Carro e GPS): cada viagem fica anotada, com a rota ou no modo livre: distância, tempo em movimento, velocidade máxima, altitude máxima e subida. De moto, também a inclinação máxima de cada lado. Os números aparecem também no cartão da chegada.",
+        "Moto: a altitude atual aparece na ponta da barra de inclinação (a do relevo da rota, ou a do GPS no modo livre).",
+        "Perfil de elevação da rota: toque na linha da chegada para ver o sobe e desce do caminho inteiro, o trecho já feito, onde você está, a subida e a descida totais.",
+        "Ida e volta: no mesmo menu, ligue e, ao chegar ao destino, a rota já vira de volta para o ponto de partida, sem parar a navegação."
+      ],
+      "en": [
+        "Trip log (Settings > Car and GPS): every trip is logged, with a route or in free drive: distance, moving time, top speed, max altitude and climb. On a motorcycle, also the max lean to each side. The numbers also show on the arrival card.",
+        "Motorcycle: your current altitude shows at the end of the lean bar (from the route terrain, or from GPS in free drive).",
+        "Route elevation profile: tap the arrival line to see the ups and downs of the whole way, the part already done, where you are, and the total climb and descent.",
+        "Round trip: turn it on in the same menu and, when you reach the destination, the route turns back to the starting point without stopping navigation."
+      ],
+      "es": [
+        "Libro de viaje (Ajustes > Auto y GPS): cada viaje queda anotado, con ruta o en modo libre: distancia, tiempo en movimiento, velocidad máxima, altitud máxima y subida. En moto, también la inclinación máxima de cada lado. Los números también aparecen en la tarjeta de llegada.",
+        "Moto: la altitud actual aparece en la punta de la barra de inclinación (la del relieve de la ruta, o la del GPS en modo libre).",
+        "Perfil de elevación de la ruta: toca la línea de llegada para ver las subidas y bajadas de todo el camino, el tramo ya hecho, dónde estás y la subida y bajada totales.",
+        "Ida y vuelta: actívala en el mismo menú y, al llegar al destino, la ruta vuelve al punto de partida sin detener la navegación."
+      ]
+    },
     {
       "versao": "0.128.0",
       "data": "12/11/2026",
@@ -201,25 +222,6 @@
         "Pantalla pequeña: con la pantalla dividida de Android, la pantalla externa de un plegable o ventanas acopladas apretando el mapa, Vrumbi entra solo en modo compacto: búsqueda, Seguir, Recursos, la dirección en una línea y el velocímetro más chico.",
         "Recursos reúne Medios, Contactos, Grabar, Avisar, Entrenamiento y Ajustes en un solo botón.",
         "En modo compacto, Buscar y Ajustes ocupan exactamente el área del mapa, sin quedar debajo de las ventanas."
-      ]
-    },
-    {
-      "versao": "0.125.0",
-      "data": "11/11/2026",
-      "itens": [
-        "Gerenciador de janelas: tocou numa janela (Contatos ou Mídia), ela vem para a frente.",
-        "A janela de Contatos agora arrasta para qualquer lugar, muda de tamanho pelas bordas e gruda na borda da tela, como o player. Jogar para o lado continua fechando.",
-        "Tela dividida com as duas janelas: em pé, uma em cima e outra embaixo, com o mapa no meio; deitado, viram colunas. Tocar na divisória mostra trocar de lugar, soltar e fechar; puxar a divisória até o fim fecha a janela."
-      ],
-      "en": [
-        "Window manager: tap a window (Contacts or Media) and it comes to the front.",
-        "The Contacts window now drags anywhere, resizes from its edges and docks to the screen edge, like the player. Flinging it sideways still closes it.",
-        "Split screen with both windows: in portrait one on top and one at the bottom, map in the middle; in landscape they become columns. Tap the divider for swap, undock and close; drag the divider all the way to close the window."
-      ],
-      "es": [
-        "Gestor de ventanas: tocas una ventana (Contactos o Medios) y pasa al frente.",
-        "La ventana de Contactos ahora se arrastra a cualquier lugar, cambia de tamaño por los bordes y se acopla al borde de la pantalla, como el reproductor. Lanzarla hacia el lado sigue cerrándola.",
-        "Pantalla dividida con las dos ventanas: en vertical una arriba y otra abajo, con el mapa al medio; en horizontal se vuelven columnas. Toca el divisor para cambiar de lugar, soltar y cerrar; arrastra el divisor hasta el final para cerrar la ventana."
       ]
     }
   ]
