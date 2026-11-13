@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.131.0",
-  "codigo": 382,
+  "versao": "0.132.0",
+  "codigo": 383,
   "data": "13/11/2026",
-  "tamanho": 116594737,
-  "sha256": "151b62eb6800b0035670e1a580e739392ebb79a0431b80038c3c74e0e7e779f4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.131.0/Vrumbi-0.131.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.131.0/Vrumbi-relogio-0.131.0.apk",
+  "tamanho": 116604649,
+  "sha256": "4f8cba3918d14d19cee756c42991aad01ad6103a9b3dd389eb0ca91efae8da59",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.132.0/Vrumbi-0.132.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.132.0/Vrumbi-relogio-0.132.0.apk",
   "notas": [
-    "Loja Vrumbi (Configurações > Vrumbi): o que vem por aí -- Premium mensal ou anual, o Vrumbi Completo e os módulos (Moto, Estrada Pesada, Dashcam Pro, Painel de Bordo, Garagem, Treino Pro, Mapas do Mundo). Nada é cobrado: no lançamento, tudo está liberado para você. E o que é de segurança fica grátis para sempre, sem anúncios."
+    "Painel de bordo (Ajustes da navegação > Navegação): HUD para o para-brisa -- tela preta espelhada com a velocidade bem grande, o limite da via (fica vermelho acima dele), a próxima manobra e a chegada; deite o celular no painel e veja o reflexo no vidro. E o Cockpit: velocidade, altitude, rumo, força G com a bolinha e a máxima, e a inclinação. A tela fica acesa enquanto estiver aberto."
   ],
   "versoes": [
+    {
+      "versao": "0.132.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Painel de bordo (Ajustes da navegação > Navegação): HUD para o para-brisa -- tela preta espelhada com a velocidade bem grande, o limite da via (fica vermelho acima dele), a próxima manobra e a chegada; deite o celular no painel e veja o reflexo no vidro. E o Cockpit: velocidade, altitude, rumo, força G com a bolinha e a máxima, e a inclinação. A tela fica acesa enquanto estiver aberto."
+      ],
+      "en": [
+        "Dashboard (Navigation settings > Navigation): windshield HUD -- a mirrored black screen with a huge speed, the road limit (turns red above it), the next turn and the arrival; lay the phone on the dashboard and see the reflection on the glass. And the Cockpit: speed, altitude, heading, G-force with the ball and the maximum, and the tilt. The screen stays on while it is open."
+      ],
+      "es": [
+        "Tablero (Ajustes de la navegación > Navegación): HUD para el parabrisas -- pantalla negra reflejada con la velocidad bien grande, el límite de la vía (se pone rojo por encima), la próxima maniobra y la llegada; acuesta el celular en el tablero y mira el reflejo en el vidrio. Y la Cabina: velocidad, altitud, rumbo, fuerza G con la bolita y la máxima, y la inclinación. La pantalla queda encendida mientras está abierto."
+      ]
+    },
     {
       "versao": "0.131.0",
       "data": "13/11/2026",
@@ -197,28 +210,6 @@
       ],
       "es": [
         "Zoom muy cerca de la calle sin trabas: el mapa dejó de cargar todo con el máximo detalle hasta el horizonte y de repetir flechas y nombres de calles miles de veces. En la prueba, cada cuadro pasó de hasta 400 ms a unos 15 ms, del zoom de la calle al máximo."
-      ]
-    },
-    {
-      "versao": "0.127.0",
-      "data": "12/11/2026",
-      "itens": [
-        "Planeta: o zoom para de afastar quando o planeta inteiro aparece com uma folga em volta; não vira mais um pontinho.",
-        "O Sol e a Lua aparecem em volta do planeta, na direção de verdade de agora (a Lua na fase de hoje). Do nosso lado ficam maiores; atrás do planeta, menores e apagados, espiando pela beirada. Tocar num deles gira o planeta para onde ele está a pino.",
-        "O lado da noite fica escuro no planeta, com o crepúsculo em degradê e as luzes das cidades acesas; o brilho da atmosfera fica do lado do Sol.",
-        "No mapa inclinado, o Sol e a Lua do céu ficam no lugar de verdade: só acima do horizonte, para o lado em que estão (girar o mapa leva os dois junto) e mais altos quanto mais alto estão. A Lua também aparece de dia, mais apagada."
-      ],
-      "en": [
-        "Planet: zooming out stops when the whole planet fits with a margin around it; it no longer shrinks to a dot.",
-        "The Sun and the Moon show around the planet, in their real direction right now (the Moon in today's phase). On our side they are bigger; behind the planet, smaller and dimmer, peeking over the edge. Tap one to turn the planet to where it is overhead.",
-        "The night side of the planet is dark, with a soft twilight and the city lights on; the atmosphere glows on the Sun's side.",
-        "On the tilted map, the Sun and the Moon in the sky are in their real place: only above the horizon, toward the side where they are (turning the map moves them too) and higher the higher they are. The Moon also shows by day, dimmer."
-      ],
-      "es": [
-        "Planeta: el zoom deja de alejarse cuando el planeta entero cabe con un margen alrededor; ya no se vuelve un puntito.",
-        "El Sol y la Luna aparecen alrededor del planeta, en su dirección real de ahora (la Luna en la fase de hoy). De nuestro lado son más grandes; detrás del planeta, más pequeños y apagados, asomándose por el borde. Toca uno para girar el planeta hacia donde está en el cenit.",
-        "El lado de la noche queda oscuro en el planeta, con el crepúsculo en degradado y las luces de las ciudades encendidas; el brillo de la atmósfera queda del lado del Sol.",
-        "En el mapa inclinado, el Sol y la Luna del cielo están en su lugar real: solo sobre el horizonte, hacia el lado donde están (girar el mapa los mueve también) y más altos cuanto más altos están. La Luna también aparece de día, más tenue."
       ]
     }
   ]
