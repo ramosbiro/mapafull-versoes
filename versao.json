@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.130.0",
-  "codigo": 381,
+  "versao": "0.131.0",
+  "codigo": 382,
   "data": "13/11/2026",
-  "tamanho": 116559181,
-  "sha256": "e93a13bd586f4e5a7b04b2bab054e7283231dca6f8ac86ac50e8ebd87d313346",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.130.0/Vrumbi-0.130.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.130.0/Vrumbi-relogio-0.130.0.apk",
+  "tamanho": 116594737,
+  "sha256": "151b62eb6800b0035670e1a580e739392ebb79a0431b80038c3c74e0e7e779f4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.131.0/Vrumbi-0.131.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.131.0/Vrumbi-relogio-0.131.0.apk",
   "notas": [
-    "Clima no caminho durante a navegação: a previsão de cada trecho na hora em que você vai passar por ele (no menu da rota). Chuva, tempestade ou vento forte à frente: o Vrumbi avisa, falando, quantos km faltam e a hora. De moto, avisa com menos chance de chuva e rajadas menores.",
-    "Postos à frente: no menu da rota, os postos dos próximos 60 km perto do caminho, com a distância e o desvio. Toque num e a rota passa por ele, seguindo para o mesmo destino.",
-    "Moto: a opção de rota \"mais curvas\", o caminho com mais curvas por km (até 60% mais tempo que a mais rápida).",
-    "Moto: os botões do mapa e da navegação aceitam o toque um pouco além da borda e têm ícones maiores, para usar de luva."
+    "Loja Vrumbi (Configurações > Vrumbi): o que vem por aí -- Premium mensal ou anual, o Vrumbi Completo e os módulos (Moto, Estrada Pesada, Dashcam Pro, Painel de Bordo, Garagem, Treino Pro, Mapas do Mundo). Nada é cobrado: no lançamento, tudo está liberado para você. E o que é de segurança fica grátis para sempre, sem anúncios."
   ],
   "versoes": [
+    {
+      "versao": "0.131.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Loja Vrumbi (Configurações > Vrumbi): o que vem por aí -- Premium mensal ou anual, o Vrumbi Completo e os módulos (Moto, Estrada Pesada, Dashcam Pro, Painel de Bordo, Garagem, Treino Pro, Mapas do Mundo). Nada é cobrado: no lançamento, tudo está liberado para você. E o que é de segurança fica grátis para sempre, sem anúncios."
+      ],
+      "en": [
+        "Vrumbi Store (Settings > Vrumbi): what is coming -- monthly or yearly Premium, Vrumbi Complete and the modules (Motorcycle, Heavy Road, Dashcam Pro, Dashboard, Garage, Workout Pro, World Maps). Nothing is charged: during the launch, everything is unlocked for you. Safety features stay free forever, with no ads."
+      ],
+      "es": [
+        "Tienda Vrumbi (Ajustes > Vrumbi): lo que viene -- Premium mensual o anual, Vrumbi Completo y los módulos (Moto, Ruta Pesada, Dashcam Pro, Tablero, Garaje, Entreno Pro, Mapas del Mundo). No se cobra nada: durante el lanzamiento, todo está liberado para ti. Lo de seguridad sigue gratis para siempre, sin anuncios."
+      ]
+    },
     {
       "versao": "0.130.0",
       "data": "13/11/2026",
@@ -209,22 +219,6 @@
         "El Sol y la Luna aparecen alrededor del planeta, en su dirección real de ahora (la Luna en la fase de hoy). De nuestro lado son más grandes; detrás del planeta, más pequeños y apagados, asomándose por el borde. Toca uno para girar el planeta hacia donde está en el cenit.",
         "El lado de la noche queda oscuro en el planeta, con el crepúsculo en degradado y las luces de las ciudades encendidas; el brillo de la atmósfera queda del lado del Sol.",
         "En el mapa inclinado, el Sol y la Luna del cielo están en su lugar real: solo sobre el horizonte, hacia el lado donde están (girar el mapa los mueve también) y más altos cuanto más altos están. La Luna también aparece de día, más tenue."
-      ]
-    },
-    {
-      "versao": "0.126.1",
-      "data": "11/11/2026",
-      "itens": [
-        "Contatos mais enxuto: ligar e mandar mensagem viraram dois botões pequenos no alto da janela; o espaço fica para os contatos recentes e as conversas.",
-        "Tela dividida: puxar a divisória até em cima da outra janela fecha a outra e fica a que você arrastou, como no Android."
-      ],
-      "en": [
-        "Leaner Contacts: call and send message became two small buttons at the top of the window; the space goes to recent contacts and conversations.",
-        "Split screen: dragging the divider over the other window closes that one and keeps the one you dragged, like on Android."
-      ],
-      "es": [
-        "Contactos más simple: llamar y enviar mensaje ahora son dos botones pequeños arriba de la ventana; el espacio queda para los contactos recientes y las conversaciones.",
-        "Pantalla dividida: arrastrar el divisor sobre la otra ventana cierra esa y queda la que arrastraste, como en Android."
       ]
     }
   ]
