@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.137.0",
-  "codigo": 388,
+  "versao": "0.138.0",
+  "codigo": 389,
   "data": "13/11/2026",
-  "tamanho": 116615673,
-  "sha256": "f48f68ad20f483ddeac9ee00c363d4c48cf9571f58bbc806aa36397f84f1ad94",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.137.0/Vrumbi-0.137.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.137.0/Vrumbi-relogio-0.137.0.apk",
+  "tamanho": 116616117,
+  "sha256": "af7b0032b3eafa0efd9159e3c2cc349ef3e9ce2ae064644f2a85741ea06fade2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.138.0/Vrumbi-0.138.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.138.0/Vrumbi-relogio-0.138.0.apk",
   "notas": [
-    "Relógio: Falar com o Vrumbi. Na tela da rota, o botão Falar abre o ditado do relógio; o que você disser vai para o Vrumbi do celular, que atende como se tivesse ouvido -- \"tem um buraco aqui\", \"ir para casa\", \"como está o tempo?\" -- e responde pela voz do celular."
+    "Relógio: o carro estacionado. Na tela da rota do relógio, o cartão \"Meu carro\" mostra a que distância e para que lado ele ficou e há quanto tempo; tocar nele já começa a rota até o carro pelo celular. Marcou ou tirou o carro no celular, o relógio fica sabendo na hora."
   ],
   "versoes": [
+    {
+      "versao": "0.138.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio: o carro estacionado. Na tela da rota do relógio, o cartão \"Meu carro\" mostra a que distância e para que lado ele ficou e há quanto tempo; tocar nele já começa a rota até o carro pelo celular. Marcou ou tirou o carro no celular, o relógio fica sabendo na hora."
+      ],
+      "en": [
+        "Watch: your parked car. On the watch route screen, the \"My car\" card shows how far it is, in which direction and how long ago you parked; tap it and the phone starts the route to the car. Mark or clear the car on the phone and the watch knows right away."
+      ],
+      "es": [
+        "Reloj: el auto estacionado. En la pantalla de la ruta del reloj, la tarjeta \"Mi auto\" muestra a qué distancia y hacia dónde quedó y hace cuánto; al tocarla, el celular empieza la ruta hasta el auto. Marcaste o quitaste el auto en el celular y el reloj lo sabe al instante."
+      ]
+    },
     {
       "versao": "0.137.0",
       "data": "13/11/2026",
@@ -185,19 +198,6 @@
       ],
       "es": [
         "Contactos: arriba solo el título completo y la X; justo debajo, una fila con llamar, enviar mensaje, ajustes y Limpiar (que salió del pie). El título ya no se corta, aunque la ventana sea estrecha."
-      ]
-    },
-    {
-      "versao": "0.127.6",
-      "data": "12/11/2026",
-      "itens": [
-        "Contatos: o ícone do alto da janela não fica mais torto, e o título \"Contatos\" aparece inteiro mesmo com a janela estreita."
-      ],
-      "en": [
-        "Contacts: the icon at the top of the window is no longer crooked, and the \"Contacts\" title shows in full even when the window is narrow."
-      ],
-      "es": [
-        "Contactos: el ícono en lo alto de la ventana ya no queda torcido, y el título \"Contactos\" aparece completo aunque la ventana sea estrecha."
       ]
     }
   ]
