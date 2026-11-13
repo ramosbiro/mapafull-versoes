@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.138.0",
-  "codigo": 389,
+  "versao": "0.139.0",
+  "codigo": 390,
   "data": "13/11/2026",
-  "tamanho": 116616117,
-  "sha256": "af7b0032b3eafa0efd9159e3c2cc349ef3e9ce2ae064644f2a85741ea06fade2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.138.0/Vrumbi-0.138.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.138.0/Vrumbi-relogio-0.138.0.apk",
+  "tamanho": 116616593,
+  "sha256": "efab9083e45d1b9c188b5b166eccafa91f0bf58926b6066e5f0f5cd57609f28f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.139.0/Vrumbi-0.139.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.139.0/Vrumbi-relogio-0.139.0.apk",
   "notas": [
-    "Relógio: o carro estacionado. Na tela da rota do relógio, o cartão \"Meu carro\" mostra a que distância e para que lado ele ficou e há quanto tempo; tocar nele já começa a rota até o carro pelo celular. Marcou ou tirou o carro no celular, o relógio fica sabendo na hora."
+    "Relógio: o mini mapa. Na tela da rota do relógio (e no modo livre), logo abaixo da manobra, o mapa da navegação com a sua seta, atualizado pelo celular a cada 5 segundos. Dá para desligar em Configurações > Rota e direção, no relógio."
   ],
   "versoes": [
+    {
+      "versao": "0.139.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio: o mini mapa. Na tela da rota do relógio (e no modo livre), logo abaixo da manobra, o mapa da navegação com a sua seta, atualizado pelo celular a cada 5 segundos. Dá para desligar em Configurações > Rota e direção, no relógio."
+      ],
+      "en": [
+        "Watch: the mini map. On the watch route screen (and in free drive), right below the turn, the navigation map with your arrow, refreshed by the phone every 5 seconds. You can turn it off in Settings > Route and driving, on the watch."
+      ],
+      "es": [
+        "Reloj: el minimapa. En la pantalla de la ruta del reloj (y en modo libre), justo debajo de la maniobra, el mapa de la navegación con tu flecha, actualizado por el celular cada 5 segundos. Se puede apagar en Ajustes > Ruta y conducción, en el reloj."
+      ]
+    },
     {
       "versao": "0.138.0",
       "data": "13/11/2026",
@@ -185,19 +198,6 @@
         "Widget Clima y reloj: el tiempo actual (ícono y temperatura) queda siempre en el centro, en cualquier tamaño del widget, y un poco más grande que la fila de abajo. El reloj se achica solo si no cabe.",
         "Planeta: el Sol y la Luna ya no desaparecen apenas haces zoom. Siguen en el cielo mientras el planeta crece, vienen hacia ti, se hacen enormes y pasan por el borde de la pantalla, hasta el zoom de país, en cualquier lugar del mundo.",
         "En la lista de widgets del celular, las vistas previas ya no tienen el texto apagado en el tema oscuro."
-      ]
-    },
-    {
-      "versao": "0.127.7",
-      "data": "12/11/2026",
-      "itens": [
-        "Contatos: no alto, só o título inteiro e o X; logo abaixo, uma linha com ligar, mandar mensagem, ajustes e o Limpar (que saiu do rodapé). O título não é mais cortado, mesmo com a janela estreita."
-      ],
-      "en": [
-        "Contacts: the top now has only the full title and the X; right below, one row with call, send message, settings and Clear (moved up from the bottom). The title is no longer cut off, even in a narrow window."
-      ],
-      "es": [
-        "Contactos: arriba solo el título completo y la X; justo debajo, una fila con llamar, enviar mensaje, ajustes y Limpiar (que salió del pie). El título ya no se corta, aunque la ventana sea estrecha."
       ]
     }
   ]
