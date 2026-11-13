@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.134.0",
-  "codigo": 385,
+  "versao": "0.135.0",
+  "codigo": 386,
   "data": "13/11/2026",
-  "tamanho": 116614301,
-  "sha256": "8485f59cb97f8b0ca1bc76d4c1ca8f1f5d7170414c804795faa64c6fa13de6ea",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.134.0/Vrumbi-0.134.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.134.0/Vrumbi-relogio-0.134.0.apk",
+  "tamanho": 116614785,
+  "sha256": "cbcb9ea6a206a371eaf6bdae83314346e0f11dc77ea713d0a101b651427d445e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.135.0/Vrumbi-0.135.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.135.0/Vrumbi-relogio-0.135.0.apk",
   "notas": [
-    "Relógio na rota: girando a coroa (ou rolando), as próximas manobras depois da atual, cada uma com a distância daqui.",
-    "Relógio: \"Ir para\" Casa, Trabalho ou Meu carro direto do pulso -- o celular já começa a rota. Fica na tela da rota quando não há rota e no modo livre. Com o app do celular fechado, chega um aviso nele para tocar e ir."
+    "Relógio: a complicação \"Vrumbi · Rota\" para o mostrador. Na rota, a seta e a distância da próxima manobra (no formato longo, também a instrução; no de arco, o progresso da viagem); no modo livre, a sua velocidade. Tocar nela abre a navegação no relógio. Para pôr: segure o mostrador, Personalizar, escolha um espaço de complicação e \"Vrumbi · Rota\"."
   ],
   "versoes": [
+    {
+      "versao": "0.135.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio: a complicação \"Vrumbi · Rota\" para o mostrador. Na rota, a seta e a distância da próxima manobra (no formato longo, também a instrução; no de arco, o progresso da viagem); no modo livre, a sua velocidade. Tocar nela abre a navegação no relógio. Para pôr: segure o mostrador, Personalizar, escolha um espaço de complicação e \"Vrumbi · Rota\"."
+      ],
+      "en": [
+        "Watch: the \"Vrumbi · Route\" complication for your watch face. On a route, the arrow and distance of the next turn (the long format also shows the instruction; the arc format, the trip progress); in free drive, your speed. Tap it to open navigation on the watch. To add it: long-press the watch face, Customize, pick a complication slot and \"Vrumbi · Route\"."
+      ],
+      "es": [
+        "Reloj: la complicación \"Vrumbi · Ruta\" para la esfera. En la ruta, la flecha y la distancia de la próxima maniobra (en el formato largo, también la instrucción; en el de arco, el progreso del viaje); en modo libre, tu velocidad. Al tocarla se abre la navegación en el reloj. Para ponerla: mantén pulsada la esfera, Personalizar, elige un espacio de complicación y \"Vrumbi · Ruta\"."
+      ]
+    },
     {
       "versao": "0.134.0",
       "data": "13/11/2026",
@@ -186,25 +198,6 @@
       ],
       "es": [
         "El cielo del mapa vuelve enseguida después de ver el planeta: alejarse hasta el planeta y tocar Seguir ya no deja el cielo negro."
-      ]
-    },
-    {
-      "versao": "0.127.3",
-      "data": "12/11/2026",
-      "itens": [
-        "Planeta: o Sol e a Lua dão a volta lisa em torno da Terra ao girar o planeta, sem tremer nem grudar na borda. Passam por cima do país em que estão a pino e, quando vão para trás, se escondem atrás da Terra como no céu de verdade.",
-        "Céu do mapa igual ao Clima e tempo: as nuvens agora são de verdade e na quantidade do clima de agora (sol entre nuvens = céu com nuvens e frestas azuis; nublado = céu forrado). O Sol e a Lua aparecem entre as nuvens, e a chuva cai na frente delas.",
-        "O brilho do Sol acompanha o Sol no céu ao girar o mapa (antes ficava parado no canto); com nuvens, ele clareia as nuvens em volta. De noite, a Lua tem um halo suave."
-      ],
-      "en": [
-        "Planet: the Sun and the Moon circle the Earth smoothly as you turn the planet, without shaking or sticking to the edge. They pass over the country where they are overhead and, when they go around the back, hide behind the Earth like in the real sky.",
-        "Map sky matches Weather: clouds are now real and as many as the current weather says (sun and clouds = cloudy sky with blue gaps; overcast = fully covered). The Sun and the Moon peek between the clouds, and rain falls in front of them.",
-        "The Sun's glow follows the Sun across the sky as you turn the map (it used to stay stuck in the corner); with clouds, it lights up the clouds around it. At night the Moon has a soft halo."
-      ],
-      "es": [
-        "Planeta: el Sol y la Luna dan una vuelta suave alrededor de la Tierra al girar el planeta, sin temblar ni pegarse al borde. Pasan sobre el país donde están en el cenit y, cuando van hacia atrás, se esconden detrás de la Tierra como en el cielo real.",
-        "Cielo del mapa igual al Clima: las nubes ahora son reales y en la cantidad del clima actual (sol entre nubes = cielo con nubes y claros azules; nublado = cielo cubierto). El Sol y la Luna asoman entre las nubes, y la lluvia cae delante de ellas.",
-        "El brillo del Sol acompaña al Sol en el cielo al girar el mapa (antes quedaba fijo en la esquina); con nubes, ilumina las nubes alrededor. De noche la Luna tiene un halo suave."
       ]
     }
   ]
