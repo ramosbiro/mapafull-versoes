@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.142.0",
-  "codigo": 393,
+  "versao": "0.143.0",
+  "codigo": 394,
   "data": "13/11/2026",
-  "tamanho": 116630581,
-  "sha256": "f5289026fe22c3583ec6cf6ee639236c8a9fae4a7a227ac081afa3419f5b4538",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.142.0/Vrumbi-0.142.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.142.0/Vrumbi-relogio-0.142.0.apk",
+  "tamanho": 116632785,
+  "sha256": "f89a21b7a855ec3f6c4f3d43bdaf0b939b9f151ec3ac13a4441d9c955fc7db3a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.0/Vrumbi-0.143.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.0/Vrumbi-relogio-0.143.0.apk",
   "notas": [
-    "O Vrumbi responde mais rápido: quando você abre a janela dele, o cérebro já se prepara enquanto você fala. No teste, a primeira palavra da resposta caiu de 8,8 s para 1,7 s.",
-    "Perguntas de conhecimento (\"qual a capital da França?\", \"quem descobriu o Brasil?\") vão para o cérebro, e não mais para a busca de lugares. Se ele não terminar a tempo, avisa e pede para perguntar de novo.",
-    "Configurações > Cérebro do Vrumbi: escolha onde ele roda (Automático, Placa de vídeo ou Processador) e compare com Testar a velocidade. Em alguns celulares o processador é mais rápido."
+    "Relógio, no treino: a hora de agora e o clima (temperatura e chance de chuva nas próximas horas) ficam sempre no alto da tela, seja qual for a grade escolhida. Tocar no clima abre a previsão hora a hora; o voltar retorna ao treino.",
+    "Relógio, no fim do treino: a tela do resultado, com tempo, distância, ritmo, calorias, batimentos, passos e as metas do dia e da semana. O botão Compartilhar abre o treino no celular com o compartilhamento pronto.",
+    "O celular avisa quando o treino do relógio termina: tocar no aviso abre o resumo com o compartilhar.",
+    "Relógio: o player próprio, que não comandava a música, saiu. No lugar, o botão Música abre o controle de música do próprio relógio."
   ],
   "versoes": [
+    {
+      "versao": "0.143.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio, no treino: a hora de agora e o clima (temperatura e chance de chuva nas próximas horas) ficam sempre no alto da tela, seja qual for a grade escolhida. Tocar no clima abre a previsão hora a hora; o voltar retorna ao treino.",
+        "Relógio, no fim do treino: a tela do resultado, com tempo, distância, ritmo, calorias, batimentos, passos e as metas do dia e da semana. O botão Compartilhar abre o treino no celular com o compartilhamento pronto.",
+        "O celular avisa quando o treino do relógio termina: tocar no aviso abre o resumo com o compartilhar.",
+        "Relógio: o player próprio, que não comandava a música, saiu. No lugar, o botão Música abre o controle de música do próprio relógio."
+      ],
+      "en": [
+        "Watch, during a workout: the current time and the weather (temperature and rain chance in the next hours) always stay at the top of the screen, whatever layout you chose. Tap the weather for the hourly forecast; back returns to the workout.",
+        "Watch, at the end of a workout: the result screen, with time, distance, pace, calories, heart rate, steps and the daily and weekly goals. The Share button opens the workout on the phone ready to share.",
+        "The phone lets you know when the watch workout ends: tap the alert to open the summary with sharing.",
+        "Watch: the built-in player, which did not control the music, is gone. Instead, the Music button opens the watch media controls."
+      ],
+      "es": [
+        "Reloj, en el entreno: la hora actual y el clima (temperatura y probabilidad de lluvia en las próximas horas) quedan siempre arriba, sea cual sea la cuadrícula elegida. Toca el clima para el pronóstico por hora; volver regresa al entreno.",
+        "Reloj, al terminar el entreno: la pantalla del resultado, con tiempo, distancia, ritmo, calorías, pulsaciones, pasos y las metas del día y de la semana. El botón Compartir abre el entreno en el móvil listo para compartir.",
+        "El móvil avisa cuando termina el entreno del reloj: toca el aviso para abrir el resumen con compartir.",
+        "Reloj: el reproductor propio, que no controlaba la música, se quitó. En su lugar, el botón Música abre el control de música del reloj."
+      ]
+    },
     {
       "versao": "0.142.0",
       "data": "13/11/2026",
@@ -166,19 +189,6 @@
       ],
       "es": [
         "Tablero (Ajustes de la navegación > Navegación): HUD para el parabrisas -- pantalla negra reflejada con la velocidad bien grande, el límite de la vía (se pone rojo por encima), la próxima maniobra y la llegada; acuesta el celular en el tablero y mira el reflejo en el vidrio. Y la Cabina: velocidad, altitud, rumbo, fuerza G con la bolita y la máxima, y la inclinación. La pantalla queda encendida mientras está abierto."
-      ]
-    },
-    {
-      "versao": "0.131.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Loja Vrumbi (Configurações > Vrumbi): o que vem por aí -- Premium mensal ou anual, o Vrumbi Completo e os módulos (Moto, Estrada Pesada, Dashcam Pro, Painel de Bordo, Garagem, Treino Pro, Mapas do Mundo). Nada é cobrado: no lançamento, tudo está liberado para você. E o que é de segurança fica grátis para sempre, sem anúncios."
-      ],
-      "en": [
-        "Vrumbi Store (Settings > Vrumbi): what is coming -- monthly or yearly Premium, Vrumbi Complete and the modules (Motorcycle, Heavy Road, Dashcam Pro, Dashboard, Garage, Workout Pro, World Maps). Nothing is charged: during the launch, everything is unlocked for you. Safety features stay free forever, with no ads."
-      ],
-      "es": [
-        "Tienda Vrumbi (Ajustes > Vrumbi): lo que viene -- Premium mensual o anual, Vrumbi Completo y los módulos (Moto, Ruta Pesada, Dashcam Pro, Tablero, Garaje, Entreno Pro, Mapas del Mundo). No se cobra nada: durante el lanzamiento, todo está liberado para ti. Lo de seguridad sigue gratis para siempre, sin anuncios."
       ]
     }
   ]
