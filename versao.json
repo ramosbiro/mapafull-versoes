@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.132.0",
-  "codigo": 383,
+  "versao": "0.133.0",
+  "codigo": 384,
   "data": "13/11/2026",
-  "tamanho": 116604649,
-  "sha256": "4f8cba3918d14d19cee756c42991aad01ad6103a9b3dd389eb0ca91efae8da59",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.132.0/Vrumbi-0.132.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.132.0/Vrumbi-relogio-0.132.0.apk",
+  "tamanho": 116612953,
+  "sha256": "57b85d11d919f5c7f0cf90a043cacda67fb0fb0a3b0b548d88a32f1df62dbcdb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.133.0/Vrumbi-0.133.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.133.0/Vrumbi-relogio-0.133.0.apk",
   "notas": [
-    "Painel de bordo (Ajustes da navegação > Navegação): HUD para o para-brisa -- tela preta espelhada com a velocidade bem grande, o limite da via (fica vermelho acima dele), a próxima manobra e a chegada; deite o celular no painel e veja o reflexo no vidro. E o Cockpit: velocidade, altitude, rumo, força G com a bolinha e a máxima, e a inclinação. A tela fica acesa enquanto estiver aberto."
+    "Caminhão e motorhome na ficha do veículo (Meus veículos): o novo tipo Motorhome e, para os dois, as medidas -- altura, largura, comprimento, peso, eixos e carga perigosa. A rota de \"Caminhão\" usa as medidas do veículo principal (desvia de viaduto baixo, ponte com limite de peso e vias proibidas), e o pedágio já vem somado pelo número de eixos."
   ],
   "versoes": [
+    {
+      "versao": "0.133.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Caminhão e motorhome na ficha do veículo (Meus veículos): o novo tipo Motorhome e, para os dois, as medidas -- altura, largura, comprimento, peso, eixos e carga perigosa. A rota de \"Caminhão\" usa as medidas do veículo principal (desvia de viaduto baixo, ponte com limite de peso e vias proibidas), e o pedágio já vem somado pelo número de eixos."
+      ],
+      "en": [
+        "Truck and motorhome in the vehicle record (My vehicles): the new Motorhome type and, for both, the dimensions -- height, width, length, weight, axles and hazardous load. The \"Truck\" route uses the main vehicle's dimensions (avoids low overpasses, weight-limited bridges and banned roads), and tolls come totaled by the number of axles."
+      ],
+      "es": [
+        "Camión y autocaravana en la ficha del vehículo (Mis vehículos): el nuevo tipo Autocaravana y, para los dos, las medidas -- altura, ancho, largo, peso, ejes y carga peligrosa. La ruta de \"Camión\" usa las medidas del vehículo principal (evita viaductos bajos, puentes con límite de peso y vías prohibidas), y el peaje ya viene sumado por el número de ejes."
+      ]
+    },
     {
       "versao": "0.132.0",
       "data": "13/11/2026",
@@ -197,19 +210,6 @@
         "El Sol del planeta ahora es realista, como la Luna: disco con el borde más oscuro, la textura de la superficie y la corona brillando alrededor.",
         "Toca el Sol o la Luna para abrir su ficha: dónde está en el cenit ahora (país o mar), a qué hora sale y se pone aquí, su altura en el cielo y su distancia; la Luna con la fase, la iluminación y la próxima fase. Tocar el espacio fuera del planeta ya no abre un punto cualquiera de la Tierra.",
         "La Luna queda con el lado iluminado hacia el Sol, en el planeta y en el cielo del mapa inclinado."
-      ]
-    },
-    {
-      "versao": "0.127.1",
-      "data": "12/11/2026",
-      "itens": [
-        "Zoom bem perto da rua sem travar: o mapa deixou de carregar tudo em detalhe máximo até o horizonte e de repetir setas e nomes de rua milhares de vezes. No teste, cada quadro passou de até 400 ms para cerca de 15 ms, do zoom da rua ao máximo."
-      ],
-      "en": [
-        "Zooming in close to the street without stutter: the map no longer loads everything in full detail up to the horizon nor repeats arrows and street names thousands of times. In testing, each frame went from up to 400 ms to about 15 ms, from street zoom to the maximum."
-      ],
-      "es": [
-        "Zoom muy cerca de la calle sin trabas: el mapa dejó de cargar todo con el máximo detalle hasta el horizonte y de repetir flechas y nombres de calles miles de veces. En la prueba, cada cuadro pasó de hasta 400 ms a unos 15 ms, del zoom de la calle al máximo."
       ]
     }
   ]
