@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.140.0",
-  "codigo": 391,
+  "versao": "0.141.0",
+  "codigo": 392,
   "data": "13/11/2026",
-  "tamanho": 116616777,
-  "sha256": "d210a0f95dcdef7732483a5573aa3b4a76a9e2a15425ddaf6a05768640c68779",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.140.0/Vrumbi-0.140.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.140.0/Vrumbi-relogio-0.140.0.apk",
+  "tamanho": 116623081,
+  "sha256": "664e3501deedec324601d2161f91f7fb2c28645c86fe22d2c17b03b9ec7158da",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.141.0/Vrumbi-0.141.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.141.0/Vrumbi-relogio-0.141.0.apk",
   "notas": [
-    "Relógio: no detalhe de Passos (e de Hoje), o gráfico dos passos de cada hora do dia, com a hora de agora em destaque -- como o de batimentos."
+    "Pontos cardio, como no Google Fit: cada minuto de treino moderado vale 1 ponto e cada minuto vigoroso, 2 (pelos batimentos quando houver; senão pela intensidade do esporte). A meta da semana é 150 pontos, a recomendação da OMS. Aparecem no painel de metas (Treino) e no resumo de cada treino.",
+    "Hora de dormir sugerida (Saúde > Sono): com o relógio medindo o seu sono, o Vrumbi vê a hora em que você costuma acordar e sugere a hora de deitar para dormir 8 h. Mostra também a média de quando você deita e quanto dorme."
   ],
   "versoes": [
+    {
+      "versao": "0.141.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Pontos cardio, como no Google Fit: cada minuto de treino moderado vale 1 ponto e cada minuto vigoroso, 2 (pelos batimentos quando houver; senão pela intensidade do esporte). A meta da semana é 150 pontos, a recomendação da OMS. Aparecem no painel de metas (Treino) e no resumo de cada treino.",
+        "Hora de dormir sugerida (Saúde > Sono): com o relógio medindo o seu sono, o Vrumbi vê a hora em que você costuma acordar e sugere a hora de deitar para dormir 8 h. Mostra também a média de quando você deita e quanto dorme."
+      ],
+      "en": [
+        "Heart Points, like Google Fit: each minute of moderate training is worth 1 point and each vigorous minute, 2 (by heart rate when available; otherwise by the sport intensity). The weekly goal is 150 points, the WHO recommendation. They show on the goals panel (Workout) and on each workout summary.",
+        "Suggested bedtime (Health > Sleep): with the watch measuring your sleep, Vrumbi sees when you usually wake up and suggests when to go to bed to get 8 h. It also shows your average bedtime and sleep length."
+      ],
+      "es": [
+        "Puntos cardio, como en Google Fit: cada minuto de entreno moderado vale 1 punto y cada minuto vigoroso, 2 (por las pulsaciones cuando las hay; si no, por la intensidad del deporte). La meta semanal es 150 puntos, la recomendación de la OMS. Aparecen en el panel de metas (Entreno) y en el resumen de cada entreno.",
+        "Hora de dormir sugerida (Salud > Sueño): con el reloj midiendo tu sueño, Vrumbi ve a qué hora sueles despertar y sugiere la hora de acostarte para dormir 8 h. También muestra tu promedio de hora de acostarte y de sueño."
+      ]
+    },
     {
       "versao": "0.140.0",
       "data": "13/11/2026",
@@ -164,28 +181,6 @@
         "Gasolineras adelante: en el menú de la ruta, las de los próximos 60 km cerca del camino, con la distancia y el desvío. Toca una y la ruta pasa por ella, hacia el mismo destino.",
         "Moto: la opción de ruta \"más curvas\", el camino con más curvas por km (hasta 60% más de tiempo que la más rápida).",
         "Moto: los botones del mapa y de la navegación aceptan el toque un poco más allá del borde y tienen íconos más grandes, para usar con guantes."
-      ]
-    },
-    {
-      "versao": "0.129.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Livro de viagem (Configurações > Carro e GPS): cada viagem fica anotada, com a rota ou no modo livre: distância, tempo em movimento, velocidade máxima, altitude máxima e subida. De moto, também a inclinação máxima de cada lado. Os números aparecem também no cartão da chegada.",
-        "Moto: a altitude atual aparece na ponta da barra de inclinação (a do relevo da rota, ou a do GPS no modo livre).",
-        "Perfil de elevação da rota: toque na linha da chegada para ver o sobe e desce do caminho inteiro, o trecho já feito, onde você está, a subida e a descida totais.",
-        "Ida e volta: no mesmo menu, ligue e, ao chegar ao destino, a rota já vira de volta para o ponto de partida, sem parar a navegação."
-      ],
-      "en": [
-        "Trip log (Settings > Car and GPS): every trip is logged, with a route or in free drive: distance, moving time, top speed, max altitude and climb. On a motorcycle, also the max lean to each side. The numbers also show on the arrival card.",
-        "Motorcycle: your current altitude shows at the end of the lean bar (from the route terrain, or from GPS in free drive).",
-        "Route elevation profile: tap the arrival line to see the ups and downs of the whole way, the part already done, where you are, and the total climb and descent.",
-        "Round trip: turn it on in the same menu and, when you reach the destination, the route turns back to the starting point without stopping navigation."
-      ],
-      "es": [
-        "Libro de viaje (Ajustes > Auto y GPS): cada viaje queda anotado, con ruta o en modo libre: distancia, tiempo en movimiento, velocidad máxima, altitud máxima y subida. En moto, también la inclinación máxima de cada lado. Los números también aparecen en la tarjeta de llegada.",
-        "Moto: la altitud actual aparece en la punta de la barra de inclinación (la del relieve de la ruta, o la del GPS en modo libre).",
-        "Perfil de elevación de la ruta: toca la línea de llegada para ver las subidas y bajadas de todo el camino, el tramo ya hecho, dónde estás y la subida y bajada totales.",
-        "Ida y vuelta: actívala en el mismo menú y, al llegar al destino, la ruta vuelve al punto de partida sin detener la navegación."
       ]
     }
   ]
