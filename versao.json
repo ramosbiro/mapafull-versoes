@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.133.0",
-  "codigo": 384,
+  "versao": "0.134.0",
+  "codigo": 385,
   "data": "13/11/2026",
-  "tamanho": 116612953,
-  "sha256": "57b85d11d919f5c7f0cf90a043cacda67fb0fb0a3b0b548d88a32f1df62dbcdb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.133.0/Vrumbi-0.133.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.133.0/Vrumbi-relogio-0.133.0.apk",
+  "tamanho": 116614301,
+  "sha256": "8485f59cb97f8b0ca1bc76d4c1ca8f1f5d7170414c804795faa64c6fa13de6ea",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.134.0/Vrumbi-0.134.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.134.0/Vrumbi-relogio-0.134.0.apk",
   "notas": [
-    "Caminhão e motorhome na ficha do veículo (Meus veículos): o novo tipo Motorhome e, para os dois, as medidas -- altura, largura, comprimento, peso, eixos e carga perigosa. A rota de \"Caminhão\" usa as medidas do veículo principal (desvia de viaduto baixo, ponte com limite de peso e vias proibidas), e o pedágio já vem somado pelo número de eixos."
+    "Relógio na rota: girando a coroa (ou rolando), as próximas manobras depois da atual, cada uma com a distância daqui.",
+    "Relógio: \"Ir para\" Casa, Trabalho ou Meu carro direto do pulso -- o celular já começa a rota. Fica na tela da rota quando não há rota e no modo livre. Com o app do celular fechado, chega um aviso nele para tocar e ir."
   ],
   "versoes": [
+    {
+      "versao": "0.134.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio na rota: girando a coroa (ou rolando), as próximas manobras depois da atual, cada uma com a distância daqui.",
+        "Relógio: \"Ir para\" Casa, Trabalho ou Meu carro direto do pulso -- o celular já começa a rota. Fica na tela da rota quando não há rota e no modo livre. Com o app do celular fechado, chega um aviso nele para tocar e ir."
+      ],
+      "en": [
+        "Watch on a route: turn the crown (or scroll) to see the next turns after the current one, each with its distance from here.",
+        "Watch: \"Go to\" Home, Work or My car right from your wrist -- the phone starts the route. It is on the route screen when there is no route and in free drive. If the phone app is closed, a notification there lets you tap and go."
+      ],
+      "es": [
+        "Reloj en la ruta: girando la corona (o deslizando), las próximas maniobras después de la actual, cada una con la distancia desde aquí.",
+        "Reloj: \"Ir a\" Casa, Trabajo o Mi auto desde la muñeca -- el celular ya empieza la ruta. Está en la pantalla de la ruta cuando no hay ruta y en el modo libre. Con la app del celular cerrada, llega un aviso para tocar e ir."
+      ]
+    },
     {
       "versao": "0.133.0",
       "data": "13/11/2026",
@@ -188,28 +205,6 @@
         "Planeta: el Sol y la Luna dan una vuelta suave alrededor de la Tierra al girar el planeta, sin temblar ni pegarse al borde. Pasan sobre el país donde están en el cenit y, cuando van hacia atrás, se esconden detrás de la Tierra como en el cielo real.",
         "Cielo del mapa igual al Clima: las nubes ahora son reales y en la cantidad del clima actual (sol entre nubes = cielo con nubes y claros azules; nublado = cielo cubierto). El Sol y la Luna asoman entre las nubes, y la lluvia cae delante de ellas.",
         "El brillo del Sol acompaña al Sol en el cielo al girar el mapa (antes quedaba fijo en la esquina); con nubes, ilumina las nubes alrededor. De noche la Luna tiene un halo suave."
-      ]
-    },
-    {
-      "versao": "0.127.2",
-      "data": "12/11/2026",
-      "itens": [
-        "Planeta: o Sol e a Lua ficam onde estão de verdade. Do nosso lado, passam por cima do planeta, claros e translúcidos, exatamente sobre o país em que estão a pino agora. Atrás do planeta, saem pela beirada e se afastam quanto mais para trás estão.",
-        "O Sol do planeta ficou realista, como a Lua: disco com a borda mais escura, a textura da superfície e a coroa brilhando em volta.",
-        "Tocar no Sol ou na Lua abre a ficha dele: onde está a pino agora (o país ou o mar), a que horas nasce e se põe aqui, a altura no céu e a distância; a Lua com a fase, a iluminação e a próxima fase. Tocar no espaço fora do planeta não abre mais um ponto qualquer da Terra.",
-        "A Lua fica com o lado aceso virado para o Sol, no planeta e no céu do mapa inclinado."
-      ],
-      "en": [
-        "Planet: the Sun and the Moon stay where they really are. On our side they pass over the planet, bright and translucent, exactly over the country where they are overhead right now. Behind the planet, they come out at the edge and move farther the further back they are.",
-        "The planet's Sun is now realistic, like the Moon: a disk with a darker rim, the surface texture and the glowing corona around it.",
-        "Tap the Sun or the Moon to open its card: where it is overhead right now (country or sea), when it rises and sets here, its height in the sky and its distance; the Moon with its phase, illumination and next phase. Tapping space outside the planet no longer opens a random point on Earth.",
-        "The Moon's lit side faces the Sun, on the planet and in the sky of the tilted map."
-      ],
-      "es": [
-        "Planeta: el Sol y la Luna quedan donde realmente están. De nuestro lado pasan sobre el planeta, claros y translúcidos, exactamente sobre el país donde están en el cenit ahora. Detrás del planeta, salen por el borde y se alejan cuanto más atrás están.",
-        "El Sol del planeta ahora es realista, como la Luna: disco con el borde más oscuro, la textura de la superficie y la corona brillando alrededor.",
-        "Toca el Sol o la Luna para abrir su ficha: dónde está en el cenit ahora (país o mar), a qué hora sale y se pone aquí, su altura en el cielo y su distancia; la Luna con la fase, la iluminación y la próxima fase. Tocar el espacio fuera del planeta ya no abre un punto cualquiera de la Tierra.",
-        "La Luna queda con el lado iluminado hacia el Sol, en el planeta y en el cielo del mapa inclinado."
       ]
     }
   ]
