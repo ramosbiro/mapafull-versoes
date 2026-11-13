@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.143.1",
-  "codigo": 395,
+  "versao": "0.144.0",
+  "codigo": 396,
   "data": "13/11/2026",
-  "tamanho": 116633017,
-  "sha256": "203429f26c6dbedaeba5e7165187d39bf0e2c2bcee626f1861c4db065f1458c4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.1/Vrumbi-0.143.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.143.1/Vrumbi-relogio-0.143.1.apk",
+  "tamanho": 116651213,
+  "sha256": "3031e38a7c1b0cbbea248069040046ae27a59fe93f4b270023ddf6b5328aa38a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.144.0/Vrumbi-0.144.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.144.0/Vrumbi-relogio-0.144.0.apk",
   "notas": [
-    "Relógio, no treino: os números ficam sempre dentro dos cartões, centrados (nas grades com muitos itens eles passavam da borda de baixo); quando não cabem, diminuem."
+    "Vídeo do treino refeito: montado quadro a quadro, liso a 30 quadros por segundo e em 1080x1920 (o formato dos stories). O satélite sai nítido, sem borrão nem buraco branco.",
+    "O vídeo agora tem roteiro: abre com o percurso inteiro visto de cima e desce até a largada; a seta do Vrumbi segue o caminho com a câmera suave; os números não pulam (o ritmo é o dos últimos 400 m) e há uma barra de progresso; no fim, a câmera sobe e entra o resumo do treino.",
+    "O ícone da sua posição de agora e os radares não aparecem mais no vídeo do treino."
   ],
   "versoes": [
+    {
+      "versao": "0.144.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Vídeo do treino refeito: montado quadro a quadro, liso a 30 quadros por segundo e em 1080x1920 (o formato dos stories). O satélite sai nítido, sem borrão nem buraco branco.",
+        "O vídeo agora tem roteiro: abre com o percurso inteiro visto de cima e desce até a largada; a seta do Vrumbi segue o caminho com a câmera suave; os números não pulam (o ritmo é o dos últimos 400 m) e há uma barra de progresso; no fim, a câmera sobe e entra o resumo do treino.",
+        "O ícone da sua posição de agora e os radares não aparecem mais no vídeo do treino."
+      ],
+      "en": [
+        "Workout video rebuilt: assembled frame by frame, smooth at 30 frames per second and in 1080x1920 (the stories format). The satellite map is sharp, with no blur or white holes.",
+        "The video now has a script: it opens with the whole route seen from above and drops down to the start; the Vrumbi arrow follows the path with a smooth camera; the numbers do not jump (the pace is from the last 400 m) and there is a progress bar; at the end the camera rises and the workout summary comes in.",
+        "Your current position icon and the speed cameras no longer show in the workout video."
+      ],
+      "es": [
+        "Video del entreno rehecho: armado cuadro a cuadro, fluido a 30 cuadros por segundo y en 1080x1920 (el formato de las historias). El satélite sale nítido, sin borrones ni huecos blancos.",
+        "El video ahora tiene guion: abre con el recorrido entero visto desde arriba y baja hasta la salida; la flecha de Vrumbi sigue el camino con la cámara suave; los números no saltan (el ritmo es el de los últimos 400 m) y hay una barra de progreso; al final la cámara sube y entra el resumen del entreno.",
+        "El ícono de tu posición actual y los radares ya no aparecen en el video del entreno."
+      ]
+    },
     {
       "versao": "0.143.1",
       "data": "13/11/2026",
@@ -173,19 +194,6 @@
       "es": [
         "Reloj en la ruta: girando la corona (o deslizando), las próximas maniobras después de la actual, cada una con la distancia desde aquí.",
         "Reloj: \"Ir a\" Casa, Trabajo o Mi auto desde la muñeca -- el celular ya empieza la ruta. Está en la pantalla de la ruta cuando no hay ruta y en el modo libre. Con la app del celular cerrada, llega un aviso para tocar e ir."
-      ]
-    },
-    {
-      "versao": "0.133.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Caminhão e motorhome na ficha do veículo (Meus veículos): o novo tipo Motorhome e, para os dois, as medidas -- altura, largura, comprimento, peso, eixos e carga perigosa. A rota de \"Caminhão\" usa as medidas do veículo principal (desvia de viaduto baixo, ponte com limite de peso e vias proibidas), e o pedágio já vem somado pelo número de eixos."
-      ],
-      "en": [
-        "Truck and motorhome in the vehicle record (My vehicles): the new Motorhome type and, for both, the dimensions -- height, width, length, weight, axles and hazardous load. The \"Truck\" route uses the main vehicle's dimensions (avoids low overpasses, weight-limited bridges and banned roads), and tolls come totaled by the number of axles."
-      ],
-      "es": [
-        "Camión y autocaravana en la ficha del vehículo (Mis vehículos): el nuevo tipo Autocaravana y, para los dos, las medidas -- altura, ancho, largo, peso, ejes y carga peligrosa. La ruta de \"Camión\" usa las medidas del vehículo principal (evita viaductos bajos, puentes con límite de peso y vías prohibidas), y el peaje ya viene sumado por el número de ejes."
       ]
     }
   ]
