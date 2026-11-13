@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.135.0",
-  "codigo": 386,
+  "versao": "0.136.0",
+  "codigo": 387,
   "data": "13/11/2026",
-  "tamanho": 116614785,
-  "sha256": "cbcb9ea6a206a371eaf6bdae83314346e0f11dc77ea713d0a101b651427d445e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.135.0/Vrumbi-0.135.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.135.0/Vrumbi-relogio-0.135.0.apk",
+  "tamanho": 116615277,
+  "sha256": "6b9f155285f907a565bfb7b1d446a12ff13d554e343fcb4f54f74a2866fbdf80",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.136.0/Vrumbi-0.136.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.136.0/Vrumbi-relogio-0.136.0.apk",
   "notas": [
-    "Relógio: a complicação \"Vrumbi · Rota\" para o mostrador. Na rota, a seta e a distância da próxima manobra (no formato longo, também a instrução; no de arco, o progresso da viagem); no modo livre, a sua velocidade. Tocar nela abre a navegação no relógio. Para pôr: segure o mostrador, Personalizar, escolha um espaço de complicação e \"Vrumbi · Rota\"."
+    "Relógio: Avisar pelo pulso. Na tela da rota (e no modo livre), o botão Avisar abre os alertas mais comuns -- buraco, objeto na pista, acidente, trânsito parado, veículo parado, blitz, radar móvel e alagamento. Um toque e o celular marca no ponto e no sentido em que você anda, para todos os motoristas."
   ],
   "versoes": [
+    {
+      "versao": "0.136.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio: Avisar pelo pulso. Na tela da rota (e no modo livre), o botão Avisar abre os alertas mais comuns -- buraco, objeto na pista, acidente, trânsito parado, veículo parado, blitz, radar móvel e alagamento. Um toque e o celular marca no ponto e no sentido em que você anda, para todos os motoristas."
+      ],
+      "en": [
+        "Watch: report from your wrist. On the route screen (and in free drive), the Report button opens the most common alerts -- pothole, object on the road, crash, traffic jam, stopped vehicle, checkpoint, mobile camera and flooding. One tap and the phone marks it at your position and direction, for every driver."
+      ],
+      "es": [
+        "Reloj: Avisar desde la muñeca. En la pantalla de la ruta (y en modo libre), el botón Avisar abre las alertas más comunes -- bache, objeto en la vía, accidente, tráfico parado, vehículo detenido, control, radar móvil e inundación. Un toque y el celular la marca en el punto y en el sentido en que vas, para todos los conductores."
+      ]
+    },
     {
       "versao": "0.135.0",
       "data": "13/11/2026",
@@ -185,19 +198,6 @@
       ],
       "es": [
         "Los radares y puntos del mapa ya no aparecen en el cielo: con el mapa inclinado solo aparece lo que está en el suelo delante de ti, hasta el horizonte. Los que quedaban detrás subían invertidos al cielo; ahora se ocultan. Visto desde arriba aparece todo dentro del radio elegido (1 km, 2 km, 3 km o Completo)."
-      ]
-    },
-    {
-      "versao": "0.127.4",
-      "data": "12/11/2026",
-      "itens": [
-        "O céu do mapa volta na hora depois de ver o planeta: afastar até o planeta e tocar em Seguir não deixa mais o céu preto."
-      ],
-      "en": [
-        "The map sky comes back right away after viewing the planet: zooming out to the planet and tapping Follow no longer leaves the sky black."
-      ],
-      "es": [
-        "El cielo del mapa vuelve enseguida después de ver el planeta: alejarse hasta el planeta y tocar Seguir ya no deja el cielo negro."
       ]
     }
   ]
