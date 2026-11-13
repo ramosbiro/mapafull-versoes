@@ -1,16 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.127.7",
-  "codigo": 378,
+  "versao": "0.128.0",
+  "codigo": 379,
   "data": "12/11/2026",
-  "tamanho": 116502295,
-  "sha256": "812c4006df3d3a28840a4b0c36b7e0e760c38ef623aec6b581d2e374c72fc9d1",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.7/Vrumbi-0.127.7.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.127.7/Vrumbi-relogio-0.127.7.apk",
+  "tamanho": 116526420,
+  "sha256": "148dbc3f2fa9380fb839be7398d2b76cd142406d019d67f5a028aff3a5a61edb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.128.0/Vrumbi-0.128.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.128.0/Vrumbi-relogio-0.128.0.apk",
   "notas": [
-    "Contatos: no alto, só o título inteiro e o X; logo abaixo, uma linha com ligar, mandar mensagem, ajustes e o Limpar (que saiu do rodapé). O título não é mais cortado, mesmo com a janela estreita."
+    "Widget de Navegação refeito: não vira mais um \"Para onde?\" repetido. Pequeno, mostra onde virar, a distância, a rua e a placa do limite da via; com 2 fileiras, também as faixas, a manobra seguinte, o radar à frente, a barra até a curva e a chegada. Grande, mostra o mapa da navegação andando com você, na rota ou no modo livre (no livre, a sua velocidade e a rua).",
+    "Widget \"Para onde?\": você escolhe os botões e a ordem (Casa, Trabalho, Meu carro, Ajuda, Avisar, Mapa, Falar com o Vrumbi, Clima e Treino). Numa fileira cabem os que a largura deixa, e a seta › passa para os próximos.",
+    "Widget Clima e relógio: o tempo de agora (ícone e temperatura) fica sempre no centro, em qualquer tamanho do widget, e um pouco maior que a fileira de baixo. O relógio diminui sozinho se não couber.",
+    "Planeta: o Sol e a Lua não somem mais logo que você dá zoom. Continuam no céu enquanto o planeta cresce, vêm na sua direção, ficam enormes e passam pela borda da tela, até o zoom de país, em qualquer lugar do mundo.",
+    "Na lista de widgets do celular, as prévias não ficam mais com o texto apagado no tema escuro."
   ],
   "versoes": [
+    {
+      "versao": "0.128.0",
+      "data": "12/11/2026",
+      "itens": [
+        "Widget de Navegação refeito: não vira mais um \"Para onde?\" repetido. Pequeno, mostra onde virar, a distância, a rua e a placa do limite da via; com 2 fileiras, também as faixas, a manobra seguinte, o radar à frente, a barra até a curva e a chegada. Grande, mostra o mapa da navegação andando com você, na rota ou no modo livre (no livre, a sua velocidade e a rua).",
+        "Widget \"Para onde?\": você escolhe os botões e a ordem (Casa, Trabalho, Meu carro, Ajuda, Avisar, Mapa, Falar com o Vrumbi, Clima e Treino). Numa fileira cabem os que a largura deixa, e a seta › passa para os próximos.",
+        "Widget Clima e relógio: o tempo de agora (ícone e temperatura) fica sempre no centro, em qualquer tamanho do widget, e um pouco maior que a fileira de baixo. O relógio diminui sozinho se não couber.",
+        "Planeta: o Sol e a Lua não somem mais logo que você dá zoom. Continuam no céu enquanto o planeta cresce, vêm na sua direção, ficam enormes e passam pela borda da tela, até o zoom de país, em qualquer lugar do mundo.",
+        "Na lista de widgets do celular, as prévias não ficam mais com o texto apagado no tema escuro."
+      ],
+      "en": [
+        "Navigation widget rebuilt: it no longer turns into a duplicate \"Where to?\". Small, it shows where to turn, the distance, the street and the speed-limit sign; with 2 rows, also the lanes, the next turn, the speed camera ahead, the bar to the turn and the arrival. Big, it shows the navigation map moving with you, on a route or in free drive (in free drive, your speed and the street).",
+        "\"Where to?\" widget: you choose the buttons and their order (Home, Work, My car, Help, Report, Map, Talk to Vrumbi, Weather and Workout). One row shows as many as the width allows, and the › arrow goes to the next ones.",
+        "Weather and clock widget: the current weather (icon and temperature) always stays in the center, at any widget size, and a bit bigger than the row below. The clock shrinks by itself if it does not fit.",
+        "Planet: the Sun and the Moon no longer vanish as soon as you zoom in. They stay in the sky while the planet grows, come toward you, get huge and pass by the edge of the screen, until the country zoom, anywhere in the world.",
+        "In the phone widget list, the previews no longer have faded text in the dark theme."
+      ],
+      "es": [
+        "Widget de Navegación rehecho: ya no se convierte en un \"¿A dónde?\" repetido. Pequeño, muestra dónde girar, la distancia, la calle y la señal del límite de la vía; con 2 filas, también los carriles, la maniobra siguiente, el radar adelante, la barra hasta la curva y la llegada. Grande, muestra el mapa de la navegación andando contigo, en la ruta o en modo libre (en libre, tu velocidad y la calle).",
+        "Widget \"¿A dónde?\": tú eliges los botones y el orden (Casa, Trabajo, Mi auto, Ayuda, Avisar, Mapa, Hablar con Vrumbi, Clima y Entreno). En una fila caben los que permite el ancho, y la flecha › pasa a los siguientes.",
+        "Widget Clima y reloj: el tiempo actual (ícono y temperatura) queda siempre en el centro, en cualquier tamaño del widget, y un poco más grande que la fila de abajo. El reloj se achica solo si no cabe.",
+        "Planeta: el Sol y la Luna ya no desaparecen apenas haces zoom. Siguen en el cielo mientras el planeta crece, vienen hacia ti, se hacen enormes y pasan por el borde de la pantalla, hasta el zoom de país, en cualquier lugar del mundo.",
+        "En la lista de widgets del celular, las vistas previas ya no tienen el texto apagado en el tema oscuro."
+      ]
+    },
     {
       "versao": "0.127.7",
       "data": "12/11/2026",
@@ -191,25 +220,6 @@
         "Gestor de ventanas: tocas una ventana (Contactos o Medios) y pasa al frente.",
         "La ventana de Contactos ahora se arrastra a cualquier lugar, cambia de tamaño por los bordes y se acopla al borde de la pantalla, como el reproductor. Lanzarla hacia el lado sigue cerrándola.",
         "Pantalla dividida con las dos ventanas: en vertical una arriba y otra abajo, con el mapa al medio; en horizontal se vuelven columnas. Toca el divisor para cambiar de lugar, soltar y cerrar; arrastra el divisor hasta el final para cerrar la ventana."
-      ]
-    },
-    {
-      "versao": "0.124.2",
-      "data": "11/11/2026",
-      "itens": [
-        "Mais mapa na tela: o Treino saiu da tela principal e foi para Configurações, no grupo novo Dia a dia (com Clima e tempo e Ajuda por perto). Com um treino em andamento, o botão volta mostrando o tempo, para pausar ou encerrar.",
-        "Deitado, o cartão do endereço ficou mais largo; em pé, a coluna de botões ficou mais curta.",
-        "Configurações reorganizadas por tarefa: Mapa, Navegação, Avisos, Dia a dia, Voz, Aparência, Polícia e Sistema, cada uma na ordem de uso."
-      ],
-      "en": [
-        "More map on screen: Workout left the main screen and moved to Settings, in the new Everyday group (with Weather and Help nearby). During a workout the button comes back showing the time, to pause or finish.",
-        "In landscape the address card is wider; in portrait the button column is shorter.",
-        "Settings reorganized by task: Map, Navigation, Alerts, Everyday, Voice, Appearance, Police and System, each in order of use."
-      ],
-      "es": [
-        "Más mapa en pantalla: Entrenamiento salió de la pantalla principal y pasó a Ajustes, en el grupo nuevo Día a día (con Clima y Ayuda cercana). Con un entrenamiento en curso, el botón vuelve mostrando el tiempo, para pausar o terminar.",
-        "En horizontal la tarjeta de dirección es más ancha; en vertical la columna de botones es más corta.",
-        "Ajustes reorganizados por tarea: Mapa, Navegación, Avisos, Día a día, Voz, Apariencia, Policía y Sistema, cada uno en orden de uso."
       ]
     }
   ]
