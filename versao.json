@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.136.0",
-  "codigo": 387,
+  "versao": "0.137.0",
+  "codigo": 388,
   "data": "13/11/2026",
-  "tamanho": 116615277,
-  "sha256": "6b9f155285f907a565bfb7b1d446a12ff13d554e343fcb4f54f74a2866fbdf80",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.136.0/Vrumbi-0.136.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.136.0/Vrumbi-relogio-0.136.0.apk",
+  "tamanho": 116615673,
+  "sha256": "f48f68ad20f483ddeac9ee00c363d4c48cf9571f58bbc806aa36397f84f1ad94",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.137.0/Vrumbi-0.137.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.137.0/Vrumbi-relogio-0.137.0.apk",
   "notas": [
-    "Relógio: Avisar pelo pulso. Na tela da rota (e no modo livre), o botão Avisar abre os alertas mais comuns -- buraco, objeto na pista, acidente, trânsito parado, veículo parado, blitz, radar móvel e alagamento. Um toque e o celular marca no ponto e no sentido em que você anda, para todos os motoristas."
+    "Relógio: Falar com o Vrumbi. Na tela da rota, o botão Falar abre o ditado do relógio; o que você disser vai para o Vrumbi do celular, que atende como se tivesse ouvido -- \"tem um buraco aqui\", \"ir para casa\", \"como está o tempo?\" -- e responde pela voz do celular."
   ],
   "versoes": [
+    {
+      "versao": "0.137.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Relógio: Falar com o Vrumbi. Na tela da rota, o botão Falar abre o ditado do relógio; o que você disser vai para o Vrumbi do celular, que atende como se tivesse ouvido -- \"tem um buraco aqui\", \"ir para casa\", \"como está o tempo?\" -- e responde pela voz do celular."
+      ],
+      "en": [
+        "Watch: Talk to Vrumbi. On the route screen, the Talk button opens the watch dictation; what you say goes to Vrumbi on the phone, which handles it as if it had heard you -- \"there is a pothole here\", \"go home\", \"how is the weather?\" -- and answers with the phone voice."
+      ],
+      "es": [
+        "Reloj: Hablar con Vrumbi. En la pantalla de la ruta, el botón Hablar abre el dictado del reloj; lo que digas va al Vrumbi del celular, que lo atiende como si lo hubiera oído -- \"hay un bache aquí\", \"ir a casa\", \"¿cómo está el tiempo?\" -- y responde con la voz del celular."
+      ]
+    },
     {
       "versao": "0.136.0",
       "data": "13/11/2026",
@@ -185,19 +198,6 @@
       ],
       "es": [
         "Contactos: el ícono en lo alto de la ventana ya no queda torcido, y el título \"Contactos\" aparece completo aunque la ventana sea estrecha."
-      ]
-    },
-    {
-      "versao": "0.127.5",
-      "data": "12/11/2026",
-      "itens": [
-        "Radares e pontos do mapa não aparecem mais no céu: com o mapa deitado, só aparece o que está no chão à sua frente, até o horizonte. Os que ficavam atrás de você subiam invertidos para o céu; agora somem. Visto de cima, aparece tudo dentro do raio escolhido (1 km, 2 km, 3 km ou Completo)."
-      ],
-      "en": [
-        "Speed cameras and map points no longer show up in the sky: with the map tilted, only what is on the ground ahead of you, up to the horizon, appears. The ones behind you used to float upside-down into the sky; now they are hidden. Seen from above, everything within the chosen radius (1 km, 2 km, 3 km or Full) shows."
-      ],
-      "es": [
-        "Los radares y puntos del mapa ya no aparecen en el cielo: con el mapa inclinado solo aparece lo que está en el suelo delante de ti, hasta el horizonte. Los que quedaban detrás subían invertidos al cielo; ahora se ocultan. Visto desde arriba aparece todo dentro del radio elegido (1 km, 2 km, 3 km o Completo)."
       ]
     }
   ]
