@@ -1,19 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.129.0",
-  "codigo": 380,
+  "versao": "0.130.0",
+  "codigo": 381,
   "data": "13/11/2026",
-  "tamanho": 116542688,
-  "sha256": "091a8568b5a683e664f7a853c8dbb7ab40f45459cced9b11390f9470c8b4efc3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.129.0/Vrumbi-0.129.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.129.0/Vrumbi-relogio-0.129.0.apk",
+  "tamanho": 116559181,
+  "sha256": "e93a13bd586f4e5a7b04b2bab054e7283231dca6f8ac86ac50e8ebd87d313346",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.130.0/Vrumbi-0.130.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.130.0/Vrumbi-relogio-0.130.0.apk",
   "notas": [
-    "Livro de viagem (Configurações > Carro e GPS): cada viagem fica anotada, com a rota ou no modo livre: distância, tempo em movimento, velocidade máxima, altitude máxima e subida. De moto, também a inclinação máxima de cada lado. Os números aparecem também no cartão da chegada.",
-    "Moto: a altitude atual aparece na ponta da barra de inclinação (a do relevo da rota, ou a do GPS no modo livre).",
-    "Perfil de elevação da rota: toque na linha da chegada para ver o sobe e desce do caminho inteiro, o trecho já feito, onde você está, a subida e a descida totais.",
-    "Ida e volta: no mesmo menu, ligue e, ao chegar ao destino, a rota já vira de volta para o ponto de partida, sem parar a navegação."
+    "Clima no caminho durante a navegação: a previsão de cada trecho na hora em que você vai passar por ele (no menu da rota). Chuva, tempestade ou vento forte à frente: o Vrumbi avisa, falando, quantos km faltam e a hora. De moto, avisa com menos chance de chuva e rajadas menores.",
+    "Postos à frente: no menu da rota, os postos dos próximos 60 km perto do caminho, com a distância e o desvio. Toque num e a rota passa por ele, seguindo para o mesmo destino.",
+    "Moto: a opção de rota \"mais curvas\", o caminho com mais curvas por km (até 60% mais tempo que a mais rápida).",
+    "Moto: os botões do mapa e da navegação aceitam o toque um pouco além da borda e têm ícones maiores, para usar de luva."
   ],
   "versoes": [
+    {
+      "versao": "0.130.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Clima no caminho durante a navegação: a previsão de cada trecho na hora em que você vai passar por ele (no menu da rota). Chuva, tempestade ou vento forte à frente: o Vrumbi avisa, falando, quantos km faltam e a hora. De moto, avisa com menos chance de chuva e rajadas menores.",
+        "Postos à frente: no menu da rota, os postos dos próximos 60 km perto do caminho, com a distância e o desvio. Toque num e a rota passa por ele, seguindo para o mesmo destino.",
+        "Moto: a opção de rota \"mais curvas\", o caminho com mais curvas por km (até 60% mais tempo que a mais rápida).",
+        "Moto: os botões do mapa e da navegação aceitam o toque um pouco além da borda e têm ícones maiores, para usar de luva."
+      ],
+      "en": [
+        "Weather along the way while navigating: the forecast for each stretch at the time you will pass it (in the route menu). Rain, storm or strong wind ahead: Vrumbi tells you out loud how many km away and at what time. On a motorcycle, it warns at a lower rain chance and lighter gusts.",
+        "Gas stations ahead: in the route menu, the stations in the next 60 km near the way, with distance and detour. Tap one and the route goes through it, on to the same destination.",
+        "Motorcycle: the \"more curves\" route option, the way with the most curves per km (up to 60% more time than the fastest).",
+        "Motorcycle: map and navigation buttons accept taps slightly beyond their edge and have bigger icons, for gloves."
+      ],
+      "es": [
+        "Clima en el camino durante la navegación: el pronóstico de cada tramo a la hora en que vas a pasar (en el menú de la ruta). Lluvia, tormenta o viento fuerte adelante: Vrumbi avisa en voz alta a cuántos km y a qué hora. En moto, avisa con menor probabilidad de lluvia y ráfagas más suaves.",
+        "Gasolineras adelante: en el menú de la ruta, las de los próximos 60 km cerca del camino, con la distancia y el desvío. Toca una y la ruta pasa por ella, hacia el mismo destino.",
+        "Moto: la opción de ruta \"más curvas\", el camino con más curvas por km (hasta 60% más de tiempo que la más rápida).",
+        "Moto: los botones del mapa y de la navegación aceptan el toque un poco más allá del borde y tienen íconos más grandes, para usar con guantes."
+      ]
+    },
     {
       "versao": "0.129.0",
       "data": "13/11/2026",
@@ -203,25 +225,6 @@
       "es": [
         "Contactos más simple: llamar y enviar mensaje ahora son dos botones pequeños arriba de la ventana; el espacio queda para los contactos recientes y las conversaciones.",
         "Pantalla dividida: arrastrar el divisor sobre la otra ventana cierra esa y queda la que arrastraste, como en Android."
-      ]
-    },
-    {
-      "versao": "0.126.0",
-      "data": "11/11/2026",
-      "itens": [
-        "Tela pequena: com a tela dividida do Android, a tela de fora de um dobrável ou janelas encostadas apertando o mapa, o Vrumbi entra sozinho no modo compacto: lupa, Seguir, Recursos, o endereço numa linha e o velocímetro menor.",
-        "Recursos junta Mídia, Contatos, Gravar, Avisar, Treino e Configurações num botão só.",
-        "No modo compacto, Pesquisar e Configurações ocupam exatamente a área do mapa, sem ficar por baixo das janelas."
-      ],
-      "en": [
-        "Small screen: with Android split screen, a foldable cover screen or docked windows squeezing the map, Vrumbi switches to compact mode by itself: search, Follow, Features, the address in one line and a smaller speedometer.",
-        "Features groups Media, Contacts, Record, Report, Workout and Settings in one button.",
-        "In compact mode, Search and Settings take exactly the map area, never under the windows."
-      ],
-      "es": [
-        "Pantalla pequeña: con la pantalla dividida de Android, la pantalla externa de un plegable o ventanas acopladas apretando el mapa, Vrumbi entra solo en modo compacto: búsqueda, Seguir, Recursos, la dirección en una línea y el velocímetro más chico.",
-        "Recursos reúne Medios, Contactos, Grabar, Avisar, Entrenamiento y Ajustes en un solo botón.",
-        "En modo compacto, Buscar y Ajustes ocupan exactamente el área del mapa, sin quedar debajo de las ventanas."
       ]
     }
   ]
