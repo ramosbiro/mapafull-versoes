@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.141.0",
-  "codigo": 392,
+  "versao": "0.142.0",
+  "codigo": 393,
   "data": "13/11/2026",
-  "tamanho": 116623081,
-  "sha256": "664e3501deedec324601d2161f91f7fb2c28645c86fe22d2c17b03b9ec7158da",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.141.0/Vrumbi-0.141.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.141.0/Vrumbi-relogio-0.141.0.apk",
+  "tamanho": 116630581,
+  "sha256": "f5289026fe22c3583ec6cf6ee639236c8a9fae4a7a227ac081afa3419f5b4538",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.142.0/Vrumbi-0.142.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.142.0/Vrumbi-relogio-0.142.0.apk",
   "notas": [
-    "Pontos cardio, como no Google Fit: cada minuto de treino moderado vale 1 ponto e cada minuto vigoroso, 2 (pelos batimentos quando houver; senão pela intensidade do esporte). A meta da semana é 150 pontos, a recomendação da OMS. Aparecem no painel de metas (Treino) e no resumo de cada treino.",
-    "Hora de dormir sugerida (Saúde > Sono): com o relógio medindo o seu sono, o Vrumbi vê a hora em que você costuma acordar e sugere a hora de deitar para dormir 8 h. Mostra também a média de quando você deita e quanto dorme."
+    "O Vrumbi responde mais rápido: quando você abre a janela dele, o cérebro já se prepara enquanto você fala. No teste, a primeira palavra da resposta caiu de 8,8 s para 1,7 s.",
+    "Perguntas de conhecimento (\"qual a capital da França?\", \"quem descobriu o Brasil?\") vão para o cérebro, e não mais para a busca de lugares. Se ele não terminar a tempo, avisa e pede para perguntar de novo.",
+    "Configurações > Cérebro do Vrumbi: escolha onde ele roda (Automático, Placa de vídeo ou Processador) e compare com Testar a velocidade. Em alguns celulares o processador é mais rápido."
   ],
   "versoes": [
+    {
+      "versao": "0.142.0",
+      "data": "13/11/2026",
+      "itens": [
+        "O Vrumbi responde mais rápido: quando você abre a janela dele, o cérebro já se prepara enquanto você fala. No teste, a primeira palavra da resposta caiu de 8,8 s para 1,7 s.",
+        "Perguntas de conhecimento (\"qual a capital da França?\", \"quem descobriu o Brasil?\") vão para o cérebro, e não mais para a busca de lugares. Se ele não terminar a tempo, avisa e pede para perguntar de novo.",
+        "Configurações > Cérebro do Vrumbi: escolha onde ele roda (Automático, Placa de vídeo ou Processador) e compare com Testar a velocidade. Em alguns celulares o processador é mais rápido."
+      ],
+      "en": [
+        "Vrumbi answers faster: when you open its window, the brain gets ready while you speak. In testing, the first word of the answer dropped from 8.8 s to 1.7 s.",
+        "Knowledge questions (\"what is the capital of France?\", \"who discovered Brazil?\") go to the brain, no longer to the place search. If it does not finish in time, it tells you and asks you to try again.",
+        "Settings > Vrumbi brain: choose where it runs (Automatic, Graphics card or Processor) and compare with Test the speed. On some phones the processor is faster."
+      ],
+      "es": [
+        "Vrumbi responde más rápido: cuando abres su ventana, el cerebro se prepara mientras hablas. En la prueba, la primera palabra de la respuesta bajó de 8,8 s a 1,7 s.",
+        "Las preguntas de conocimiento (\"¿cuál es la capital de Francia?\", \"¿quién descubrió Brasil?\") van al cerebro, ya no a la búsqueda de lugares. Si no termina a tiempo, te avisa y pide que preguntes de nuevo.",
+        "Ajustes > Cerebro de Vrumbi: elige dónde funciona (Automático, Tarjeta gráfica o Procesador) y compara con Probar la velocidad. En algunos celulares el procesador es más rápido."
+      ]
+    },
     {
       "versao": "0.141.0",
       "data": "13/11/2026",
@@ -159,28 +179,6 @@
       ],
       "es": [
         "Tienda Vrumbi (Ajustes > Vrumbi): lo que viene -- Premium mensual o anual, Vrumbi Completo y los módulos (Moto, Ruta Pesada, Dashcam Pro, Tablero, Garaje, Entreno Pro, Mapas del Mundo). No se cobra nada: durante el lanzamiento, todo está liberado para ti. Lo de seguridad sigue gratis para siempre, sin anuncios."
-      ]
-    },
-    {
-      "versao": "0.130.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Clima no caminho durante a navegação: a previsão de cada trecho na hora em que você vai passar por ele (no menu da rota). Chuva, tempestade ou vento forte à frente: o Vrumbi avisa, falando, quantos km faltam e a hora. De moto, avisa com menos chance de chuva e rajadas menores.",
-        "Postos à frente: no menu da rota, os postos dos próximos 60 km perto do caminho, com a distância e o desvio. Toque num e a rota passa por ele, seguindo para o mesmo destino.",
-        "Moto: a opção de rota \"mais curvas\", o caminho com mais curvas por km (até 60% mais tempo que a mais rápida).",
-        "Moto: os botões do mapa e da navegação aceitam o toque um pouco além da borda e têm ícones maiores, para usar de luva."
-      ],
-      "en": [
-        "Weather along the way while navigating: the forecast for each stretch at the time you will pass it (in the route menu). Rain, storm or strong wind ahead: Vrumbi tells you out loud how many km away and at what time. On a motorcycle, it warns at a lower rain chance and lighter gusts.",
-        "Gas stations ahead: in the route menu, the stations in the next 60 km near the way, with distance and detour. Tap one and the route goes through it, on to the same destination.",
-        "Motorcycle: the \"more curves\" route option, the way with the most curves per km (up to 60% more time than the fastest).",
-        "Motorcycle: map and navigation buttons accept taps slightly beyond their edge and have bigger icons, for gloves."
-      ],
-      "es": [
-        "Clima en el camino durante la navegación: el pronóstico de cada tramo a la hora en que vas a pasar (en el menú de la ruta). Lluvia, tormenta o viento fuerte adelante: Vrumbi avisa en voz alta a cuántos km y a qué hora. En moto, avisa con menor probabilidad de lluvia y ráfagas más suaves.",
-        "Gasolineras adelante: en el menú de la ruta, las de los próximos 60 km cerca del camino, con la distancia y el desvío. Toca una y la ruta pasa por ella, hacia el mismo destino.",
-        "Moto: la opción de ruta \"más curvas\", el camino con más curvas por km (hasta 60% más de tiempo que la más rápida).",
-        "Moto: los botones del mapa y de la navegación aceptan el toque un poco más allá del borde y tienen íconos más grandes, para usar con guantes."
       ]
     }
   ]
