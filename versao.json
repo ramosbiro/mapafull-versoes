@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.153.0",
-  "codigo": 405,
+  "versao": "0.154.0",
+  "codigo": 406,
   "data": "14/11/2026",
-  "tamanho": 116791638,
-  "sha256": "bf2dca7ee13945db7a1fe8a241dc7c829c0d7cd24d4d23be1931b36be87f0037",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.153.0/Vrumbi-0.153.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.153.0/Vrumbi-relogio-0.153.0.apk",
+  "tamanho": 116792162,
+  "sha256": "75d79ee9de39ae4e2ac58e1f0201f01898bc7d7b898481c32def0a562d272ac2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.154.0/Vrumbi-0.154.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.154.0/Vrumbi-relogio-0.154.0.apk",
   "notas": [
-    "Janelas encaixadas (player, Contatos) ganharam dois botões pequenos no canto de cima à direita, como no computador: restaurar (volta a ser janela solta, arrastável) e fechar. Saiu a pílula grande de botões que abria ao tocar na divisa."
+    "Player encaixado embaixo de outra janela: esticou, aparece o player completo (lista, fontes e tudo); antes ele ficava só com a barrinha de controles no meio e um espaço vazio em volta.",
+    "Botões das janelas encaixadas iguais em todas: cada janela tem os seus dois -- restaurar e fechar -- no canto de cima à direita. O botão de expandir do player saiu (esticar já abre o player completo)."
   ],
   "versoes": [
+    {
+      "versao": "0.154.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Player encaixado embaixo de outra janela: esticou, aparece o player completo (lista, fontes e tudo); antes ele ficava só com a barrinha de controles no meio e um espaço vazio em volta.",
+        "Botões das janelas encaixadas iguais em todas: cada janela tem os seus dois -- restaurar e fechar -- no canto de cima à direita. O botão de expandir do player saiu (esticar já abre o player completo)."
+      ],
+      "en": [
+        "Player docked below another window: stretch it and the full player appears (list, sources and everything); before, it showed only the control strip in the middle with empty space around.",
+        "Docked window buttons are now the same everywhere: each window has its own two -- restore and close -- in the top right corner. The player expand button is gone (stretching already opens the full player)."
+      ],
+      "es": [
+        "Reproductor acoplado debajo de otra ventana: al estirarlo aparece el reproductor completo (lista, fuentes y todo); antes quedaba solo la barrita de controles en el medio con espacio vacío alrededor.",
+        "Botones de las ventanas acopladas iguales en todas: cada ventana tiene los suyos -- restaurar y cerrar -- en la esquina superior derecha. Se quitó el botón de expandir del reproductor (estirar ya abre el reproductor completo)."
+      ]
+    },
     {
       "versao": "0.153.0",
       "data": "14/11/2026",
@@ -179,28 +196,6 @@
       ],
       "es": [
         "Reloj, en el entreno: los números quedan siempre dentro de sus tarjetas, centrados (en las cuadrículas con muchos elementos pasaban del borde inferior); si no caben, se achican."
-      ]
-    },
-    {
-      "versao": "0.143.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio, no treino: a hora de agora e o clima (temperatura e chance de chuva nas próximas horas) ficam sempre no alto da tela, seja qual for a grade escolhida. Tocar no clima abre a previsão hora a hora; o voltar retorna ao treino.",
-        "Relógio, no fim do treino: a tela do resultado, com tempo, distância, ritmo, calorias, batimentos, passos e as metas do dia e da semana. O botão Compartilhar abre o treino no celular com o compartilhamento pronto.",
-        "O celular avisa quando o treino do relógio termina: tocar no aviso abre o resumo com o compartilhar.",
-        "Relógio: o player próprio, que não comandava a música, saiu. No lugar, o botão Música abre o controle de música do próprio relógio."
-      ],
-      "en": [
-        "Watch, during a workout: the current time and the weather (temperature and rain chance in the next hours) always stay at the top of the screen, whatever layout you chose. Tap the weather for the hourly forecast; back returns to the workout.",
-        "Watch, at the end of a workout: the result screen, with time, distance, pace, calories, heart rate, steps and the daily and weekly goals. The Share button opens the workout on the phone ready to share.",
-        "The phone lets you know when the watch workout ends: tap the alert to open the summary with sharing.",
-        "Watch: the built-in player, which did not control the music, is gone. Instead, the Music button opens the watch media controls."
-      ],
-      "es": [
-        "Reloj, en el entreno: la hora actual y el clima (temperatura y probabilidad de lluvia en las próximas horas) quedan siempre arriba, sea cual sea la cuadrícula elegida. Toca el clima para el pronóstico por hora; volver regresa al entreno.",
-        "Reloj, al terminar el entreno: la pantalla del resultado, con tiempo, distancia, ritmo, calorías, pulsaciones, pasos y las metas del día y de la semana. El botón Compartir abre el entreno en el móvil listo para compartir.",
-        "El móvil avisa cuando termina el entreno del reloj: toca el aviso para abrir el resumen con compartir.",
-        "Reloj: el reproductor propio, que no controlaba la música, se quitó. En su lugar, el botón Música abre el control de música del reloj."
       ]
     }
   ]
