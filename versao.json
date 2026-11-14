@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.158.0",
-  "codigo": 410,
+  "versao": "0.159.0",
+  "codigo": 411,
   "data": "14/11/2026",
-  "tamanho": 116796222,
-  "sha256": "02e55d6e0f078be189813cbe0c9dae08a8f01b3752e9857f5a820dc48502356a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.158.0/Vrumbi-0.158.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.158.0/Vrumbi-relogio-0.158.0.apk",
+  "tamanho": 116796918,
+  "sha256": "9bc989620e759344c7282668694f4ddc5bdb9333f9c3ac16bd6b56c2d64588ed",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.159.0/Vrumbi-0.159.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.159.0/Vrumbi-relogio-0.159.0.apk",
   "notas": [
-    "Janelas lado a lado não descem mais sozinhas até o fim da tela; arrastar a borda de uma muda a altura das duas juntas.",
-    "Encaixar na borda ficou mais rápido: com a janela já encostada na beira, basta continuar empurrando que o encaixe aparece (antes o dedo precisava chegar quase na beira).",
-    "Contatos: o botão de janelas ficou alinhado e do tamanho do X."
+    "O gerenciador da borda abre na hora: é encostar o dedo na borda entre as janelas (antes só ao soltar). Arrastou, ele some e a janela muda de tamanho; a área de toque da borda ficou maior.",
+    "Contatos encaixado: voltaram os ícones de ligar, enviar mensagem e ajustes no alto.",
+    "Contatos se ajusta à largura da janela, em pé e deitado: estreita, o Limpar fica só com o ícone e os botões diminuem."
   ],
   "versoes": [
+    {
+      "versao": "0.159.0",
+      "data": "14/11/2026",
+      "itens": [
+        "O gerenciador da borda abre na hora: é encostar o dedo na borda entre as janelas (antes só ao soltar). Arrastou, ele some e a janela muda de tamanho; a área de toque da borda ficou maior.",
+        "Contatos encaixado: voltaram os ícones de ligar, enviar mensagem e ajustes no alto.",
+        "Contatos se ajusta à largura da janela, em pé e deitado: estreita, o Limpar fica só com o ícone e os botões diminuem."
+      ],
+      "en": [
+        "The border manager opens instantly: just touch the border between the windows (before, only on release). Drag and it goes away while the window resizes; the border touch area is bigger.",
+        "Docked Contacts: the call, send message and settings icons are back at the top.",
+        "Contacts adapts to the window width, portrait and landscape: when narrow, Clear shows only its icon and the buttons get smaller."
+      ],
+      "es": [
+        "El administrador del borde abre al instante: basta tocar el borde entre las ventanas (antes, solo al soltar). Si arrastras, desaparece y la ventana cambia de tamaño; el área de toque del borde es mayor.",
+        "Contactos acoplado: volvieron los íconos de llamar, enviar mensaje y ajustes arriba.",
+        "Contactos se ajusta al ancho de la ventana, vertical y horizontal: angosta, Limpiar queda solo con el ícono y los botones se achican."
+      ]
+    },
     {
       "versao": "0.158.0",
       "data": "14/11/2026",
@@ -178,22 +197,6 @@
       "es": [
         "Aviso de paso a nivel: en la ruta, Vrumbi muestra y dice el cruce con vía férrea adelante, indicando si tiene barrera, señal luminosa o nada (entonces mira a ambos lados). Los datos vienen de OpenStreetMap, una vez por ruta.",
         "Se activa y desactiva en Ajustes rápidos > Avisos > Paso a nivel (viene activado)."
-      ]
-    },
-    {
-      "versao": "0.147.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Aviso de curva perigosa: na rota, o Vrumbi acha as curvas fechadas da estrada (serra, alça, curva que não é esquina) e, se você vier rápido demais para ela, mostra o cartão e fala a velocidade segura, uma vez por curva. Devagar, ele fica quieto.",
-        "Liga e desliga em Ajustes rápidos > Avisos > Curvas perigosas (vem ligado)."
-      ],
-      "en": [
-        "Dangerous curve warning: on a route, Vrumbi finds the sharp curves of the road (mountain roads, ramps, bends that are not intersections) and, if you come in too fast, shows a card and says the safe speed, once per curve. If you are slow, it stays quiet.",
-        "Turn it on or off in Quick settings > Alerts > Dangerous curves (on by default)."
-      ],
-      "es": [
-        "Aviso de curva peligrosa: en la ruta, Vrumbi encuentra las curvas cerradas de la carretera (sierra, rampas, curvas que no son esquinas) y, si vienes demasiado rápido, muestra la tarjeta y dice la velocidad segura, una vez por curva. Si vas despacio, se queda callado.",
-        "Se activa y desactiva en Ajustes rápidos > Avisos > Curvas peligrosas (viene activado)."
       ]
     }
   ]
