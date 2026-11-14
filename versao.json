@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.149.0",
-  "codigo": 401,
+  "versao": "0.150.0",
+  "codigo": 402,
   "data": "14/11/2026",
-  "tamanho": 116674461,
-  "sha256": "bd32f13e7d7397eded3e4365ca28c615e619cc3a39dd05ae68c4954d29b81c5b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.149.0/Vrumbi-0.149.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.149.0/Vrumbi-relogio-0.149.0.apk",
+  "tamanho": 116679893,
+  "sha256": "5ad9a5e4c1f9a53d77f6ec8724c75da16d611753c435e2b61b22635e90c6bdbb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.150.0/Vrumbi-0.150.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.150.0/Vrumbi-relogio-0.150.0.apk",
   "notas": [
-    "Unidades de medida: quilômetros ou milhas na tela e na voz -- distâncias (pés e milhas), velocímetro e placas em mph, limite, radares e curvas. No Automático, o Vrumbi segue o país do idioma do celular (milhas nos EUA e no Reino Unido).",
-    "Fica em Ajustes rápidos > Navegação > Unidades de medida."
+    "Giro da tela: escolha Automático (gira com o celular), Sempre em pé ou Sempre deitado -- no suporte do carro, a tela não vira mais com os buracos da rua. Em Ajustes rápidos > Sistema > Giro da tela."
   ],
   "versoes": [
+    {
+      "versao": "0.150.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Giro da tela: escolha Automático (gira com o celular), Sempre em pé ou Sempre deitado -- no suporte do carro, a tela não vira mais com os buracos da rua. Em Ajustes rápidos > Sistema > Giro da tela."
+      ],
+      "en": [
+        "Screen rotation: choose Automatic (turns with the phone), Always portrait or Always landscape -- in the car mount, the screen no longer flips over bumps. In Quick settings > System > Screen rotation."
+      ],
+      "es": [
+        "Giro de la pantalla: elige Automático (gira con el celular), Siempre vertical o Siempre horizontal -- en el soporte del auto, la pantalla ya no gira con los baches. En Ajustes rápidos > Sistema > Giro de la pantalla."
+      ]
+    },
     {
       "versao": "0.149.0",
       "data": "14/11/2026",
@@ -192,19 +204,6 @@
       ],
       "es": [
         "Reloj: en el detalle de Pasos (y de Hoy), el gráfico de los pasos de cada hora del día, con la hora actual destacada -- como el de pulsaciones."
-      ]
-    },
-    {
-      "versao": "0.139.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: o mini mapa. Na tela da rota do relógio (e no modo livre), logo abaixo da manobra, o mapa da navegação com a sua seta, atualizado pelo celular a cada 5 segundos. Dá para desligar em Configurações > Rota e direção, no relógio."
-      ],
-      "en": [
-        "Watch: the mini map. On the watch route screen (and in free drive), right below the turn, the navigation map with your arrow, refreshed by the phone every 5 seconds. You can turn it off in Settings > Route and driving, on the watch."
-      ],
-      "es": [
-        "Reloj: el minimapa. En la pantalla de la ruta del reloj (y en modo libre), justo debajo de la maniobra, el mapa de la navegación con tu flecha, actualizado por el celular cada 5 segundos. Se puede apagar en Ajustes > Ruta y conducción, en el reloj."
       ]
     }
   ]
