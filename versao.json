@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.146.0",
-  "codigo": 398,
+  "versao": "0.147.0",
+  "codigo": 399,
   "data": "14/11/2026",
-  "tamanho": 116653633,
-  "sha256": "9117afade194bc327d194fe2e24f5c25933f218b4fc40b0dd6c91fabe6c700fd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.146.0/Vrumbi-0.146.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.146.0/Vrumbi-relogio-0.146.0.apk",
+  "tamanho": 116659057,
+  "sha256": "440f5bb7d422a0010ee23f5cd66c2d46c23b70cdf83537266f42cceb1b208b80",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.147.0/Vrumbi-0.147.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.147.0/Vrumbi-relogio-0.147.0.apk",
   "notas": [
-    "Janelas no mesmo lado da tela (player e Contatos) agora ficam encostadas uma na outra, cada uma com o tamanho que precisa: em pé, a faixa do player em cima e os Contatos logo abaixo, na largura toda; deitado, a coluna do player, a dos Contatos e o mapa. Acabou o espaço vazio que sobrava quando o player estava recolhido."
+    "Aviso de curva perigosa: na rota, o Vrumbi acha as curvas fechadas da estrada (serra, alça, curva que não é esquina) e, se você vier rápido demais para ela, mostra o cartão e fala a velocidade segura, uma vez por curva. Devagar, ele fica quieto.",
+    "Liga e desliga em Ajustes rápidos > Avisos > Curvas perigosas (vem ligado)."
   ],
   "versoes": [
+    {
+      "versao": "0.147.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Aviso de curva perigosa: na rota, o Vrumbi acha as curvas fechadas da estrada (serra, alça, curva que não é esquina) e, se você vier rápido demais para ela, mostra o cartão e fala a velocidade segura, uma vez por curva. Devagar, ele fica quieto.",
+        "Liga e desliga em Ajustes rápidos > Avisos > Curvas perigosas (vem ligado)."
+      ],
+      "en": [
+        "Dangerous curve warning: on a route, Vrumbi finds the sharp curves of the road (mountain roads, ramps, bends that are not intersections) and, if you come in too fast, shows a card and says the safe speed, once per curve. If you are slow, it stays quiet.",
+        "Turn it on or off in Quick settings > Alerts > Dangerous curves (on by default)."
+      ],
+      "es": [
+        "Aviso de curva peligrosa: en la ruta, Vrumbi encuentra las curvas cerradas de la carretera (sierra, rampas, curvas que no son esquinas) y, si vienes demasiado rápido, muestra la tarjeta y dice la velocidad segura, una vez por curva. Si vas despacio, se queda callado.",
+        "Se activa y desactiva en Ajustes rápidos > Avisos > Curvas peligrosas (viene activado)."
+      ]
+    },
     {
       "versao": "0.146.0",
       "data": "14/11/2026",
@@ -182,19 +199,6 @@
       ],
       "es": [
         "Reloj: Hablar con Vrumbi. En la pantalla de la ruta, el botón Hablar abre el dictado del reloj; lo que digas va al Vrumbi del celular, que lo atiende como si lo hubiera oído -- \"hay un bache aquí\", \"ir a casa\", \"¿cómo está el tiempo?\" -- y responde con la voz del celular."
-      ]
-    },
-    {
-      "versao": "0.136.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: Avisar pelo pulso. Na tela da rota (e no modo livre), o botão Avisar abre os alertas mais comuns -- buraco, objeto na pista, acidente, trânsito parado, veículo parado, blitz, radar móvel e alagamento. Um toque e o celular marca no ponto e no sentido em que você anda, para todos os motoristas."
-      ],
-      "en": [
-        "Watch: report from your wrist. On the route screen (and in free drive), the Report button opens the most common alerts -- pothole, object on the road, crash, traffic jam, stopped vehicle, checkpoint, mobile camera and flooding. One tap and the phone marks it at your position and direction, for every driver."
-      ],
-      "es": [
-        "Reloj: Avisar desde la muñeca. En la pantalla de la ruta (y en modo libre), el botón Avisar abre las alertas más comunes -- bache, objeto en la vía, accidente, tráfico parado, vehículo detenido, control, radar móvil e inundación. Un toque y el celular la marca en el punto y en el sentido en que vas, para todos los conductores."
       ]
     }
   ]
