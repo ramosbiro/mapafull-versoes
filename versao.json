@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.160.0",
-  "codigo": 412,
+  "versao": "0.161.0",
+  "codigo": 413,
   "data": "14/11/2026",
-  "tamanho": 116798918,
-  "sha256": "57a946e3c6f972de0c611885b25231fbf37086fe17df3e29d9a6c311880db513",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.160.0/Vrumbi-0.160.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.160.0/Vrumbi-relogio-0.160.0.apk",
+  "tamanho": 116799166,
+  "sha256": "3395ad1a5cdd4b55645ec990935980e214ab299dd35251d61027c5fd48f43f22",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.161.0/Vrumbi-0.161.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.161.0/Vrumbi-relogio-0.161.0.apk",
   "notas": [
-    "Janelas lado a lado: a barra entre elas abre o gerenciador ao tocar -- soltar e fechar cada uma, trocar a ordem e colocar uma em cima da outra. A barra com o mapa só muda o tamanho.",
-    "Player no tamanho mínimo nunca fica vazio: sem música, a coluna fina vira uma barra de atalhos (os apps de música um embaixo do outro, como a barra Edge) e a faixa baixa mostra os mesmos ícones. Saiu o botão de expandir, que repetia o gerenciador."
+    "Janelas lado a lado: o gerenciador da barra entre elas agora fica em pé, com os botões um embaixo do outro ao longo da barra (antes abria deitado, atravessado no meio das janelas)."
   ],
   "versoes": [
+    {
+      "versao": "0.161.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Janelas lado a lado: o gerenciador da barra entre elas agora fica em pé, com os botões um embaixo do outro ao longo da barra (antes abria deitado, atravessado no meio das janelas)."
+      ],
+      "en": [
+        "Side-by-side windows: the manager on the bar between them now stands upright, with the buttons stacked along the bar (before it opened sideways across the middle of the windows)."
+      ],
+      "es": [
+        "Ventanas lado a lado: el administrador de la barra entre ellas ahora queda vertical, con los botones uno debajo del otro a lo largo de la barra (antes se abría acostado, atravesado en medio de las ventanas)."
+      ]
+    },
     {
       "versao": "0.160.0",
       "data": "14/11/2026",
@@ -180,22 +192,6 @@
       ],
       "es": [
         "Giro de la pantalla: elige Automático (gira con el celular), Siempre vertical o Siempre horizontal -- en el soporte del auto, la pantalla ya no gira con los baches. En Ajustes rápidos > Sistema > Giro de la pantalla."
-      ]
-    },
-    {
-      "versao": "0.149.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Unidades de medida: quilômetros ou milhas na tela e na voz -- distâncias (pés e milhas), velocímetro e placas em mph, limite, radares e curvas. No Automático, o Vrumbi segue o país do idioma do celular (milhas nos EUA e no Reino Unido).",
-        "Fica em Ajustes rápidos > Navegação > Unidades de medida."
-      ],
-      "en": [
-        "Units of measure: kilometers or miles on screen and in the voice -- distances (feet and miles), speedometer and signs in mph, speed limit, cameras and curves. On Automatic, Vrumbi follows the country of the phone language (miles in the US and the UK).",
-        "It is in Quick settings > Navigation > Units of measure."
-      ],
-      "es": [
-        "Unidades de medida: kilómetros o millas en la pantalla y en la voz -- distancias (pies y millas), velocímetro y señales en mph, límite, radares y curvas. En Automático, Vrumbi sigue el país del idioma del celular (millas en EE. UU. y el Reino Unido).",
-        "Está en Ajustes rápidos > Navegación > Unidades de medida."
       ]
     }
   ]
