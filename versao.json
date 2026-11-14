@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.161.0",
-  "codigo": 413,
+  "versao": "0.162.0",
+  "codigo": 414,
   "data": "14/11/2026",
-  "tamanho": 116799166,
-  "sha256": "3395ad1a5cdd4b55645ec990935980e214ab299dd35251d61027c5fd48f43f22",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.161.0/Vrumbi-0.161.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.161.0/Vrumbi-relogio-0.161.0.apk",
+  "tamanho": 116800154,
+  "sha256": "259f9338be7db761c011324ce19c7700eebc7f4ed3e1d206850e9e73461458b4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.162.0/Vrumbi-0.162.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.162.0/Vrumbi-relogio-0.162.0.apk",
   "notas": [
-    "Janelas lado a lado: o gerenciador da barra entre elas agora fica em pé, com os botões um embaixo do outro ao longo da barra (antes abria deitado, atravessado no meio das janelas)."
+    "Gerenciador da barra das janelas mais enxuto: só trocar de lado, uma em cima da outra / lado a lado, e o X, que recolhe -- todas as janelas encaixadas voltam a ser janelas soltas, arrastáveis. Restaurar e fechar cada janela ficam só no alto de cada uma."
   ],
   "versoes": [
+    {
+      "versao": "0.162.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Gerenciador da barra das janelas mais enxuto: só trocar de lado, uma em cima da outra / lado a lado, e o X, que recolhe -- todas as janelas encaixadas voltam a ser janelas soltas, arrastáveis. Restaurar e fechar cada janela ficam só no alto de cada uma."
+      ],
+      "en": [
+        "Leaner window bar manager: just swap sides, stacked / side by side, and the X, which collapses -- every docked window goes back to being a floating, draggable window. Restore and close for each window stay only at its top."
+      ],
+      "es": [
+        "Administrador de la barra de ventanas más simple: solo cambiar de lado, una encima de la otra / lado a lado, y la X, que recoge -- todas las ventanas acopladas vuelven a ser ventanas sueltas y arrastrables. Restaurar y cerrar cada ventana quedan solo arriba de cada una."
+      ]
+    },
     {
       "versao": "0.161.0",
       "data": "14/11/2026",
@@ -179,19 +192,6 @@
       "es": [
         "Cerca del destino: al llegar (a 1,5 km), Vrumbi pregunta dónde estacionar y muestra estacionamientos, gasolineras y dónde comer alrededor del destino, el más cercano primero. Tocar te lleva allí. También en la tarjeta de llegada.",
         "Funciona sin internet (la búsqueda local de la app)."
-      ]
-    },
-    {
-      "versao": "0.150.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Giro da tela: escolha Automático (gira com o celular), Sempre em pé ou Sempre deitado -- no suporte do carro, a tela não vira mais com os buracos da rua. Em Ajustes rápidos > Sistema > Giro da tela."
-      ],
-      "en": [
-        "Screen rotation: choose Automatic (turns with the phone), Always portrait or Always landscape -- in the car mount, the screen no longer flips over bumps. In Quick settings > System > Screen rotation."
-      ],
-      "es": [
-        "Giro de la pantalla: elige Automático (gira con el celular), Siempre vertical o Siempre horizontal -- en el soporte del auto, la pantalla ya no gira con los baches. En Ajustes rápidos > Sistema > Giro de la pantalla."
       ]
     }
   ]
