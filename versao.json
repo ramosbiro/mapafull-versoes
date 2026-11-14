@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.155.0",
-  "codigo": 407,
+  "versao": "0.156.0",
+  "codigo": 408,
   "data": "14/11/2026",
-  "tamanho": 116793110,
-  "sha256": "62f543582b81096eac9fd8117812ecd859969bd6c750deecb7e7e205f5d8c162",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.155.0/Vrumbi-0.155.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.155.0/Vrumbi-relogio-0.155.0.apk",
+  "tamanho": 116793678,
+  "sha256": "9b1398200b65a8813f00819843a79ec40e40b7baca9b710e9c927c0260c9d573",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.156.0/Vrumbi-0.156.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.156.0/Vrumbi-relogio-0.156.0.apk",
   "notas": [
-    "O gerenciador da borda voltou: tocar na borda entre duas janelas encaixadas abre os botões trocar de lugar, soltar (vira janela movimentável) e fechar -- agora menores e sempre inteiros, por cima das janelas."
+    "Contatos com o mesmo gerenciamento do player: o botão de janelas no alto escolhe o tamanho, encaixar num canto ou encaixar numa borda (em cima, embaixo, nas laterais).",
+    "Player encaixado: passou da altura de uma linha de controles, ele já mostra a listagem completa -- acabou o espaço em branco em volta da barrinha."
   ],
   "versoes": [
+    {
+      "versao": "0.156.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Contatos com o mesmo gerenciamento do player: o botão de janelas no alto escolhe o tamanho, encaixar num canto ou encaixar numa borda (em cima, embaixo, nas laterais).",
+        "Player encaixado: passou da altura de uma linha de controles, ele já mostra a listagem completa -- acabou o espaço em branco em volta da barrinha."
+      ],
+      "en": [
+        "Contacts with the same window management as the player: the windows button at the top picks the size, docking in a corner or docking on an edge (top, bottom, sides).",
+        "Docked player: once taller than one row of controls, it shows the full list -- no more empty space around the control strip."
+      ],
+      "es": [
+        "Contactos con la misma gestión de ventana que el reproductor: el botón de ventanas arriba elige el tamaño, acoplar en una esquina o en un borde (arriba, abajo, laterales).",
+        "Reproductor acoplado: al pasar la altura de una fila de controles, ya muestra la lista completa -- se acabó el espacio en blanco alrededor de la barrita."
+      ]
+    },
     {
       "versao": "0.155.0",
       "data": "14/11/2026",
@@ -176,25 +193,6 @@
         "Elección de la ruta: el mapa gira para que tu posición quede abajo y el destino arriba, como quien va hacia allá.",
         "Las tarjetas de las rutas (15 min, 16 min...) quedaron del tamaño del texto, todas iguales, y el panel acostado ya no tiene espacio sobrante.",
         "Botones en el orden correcto: Guardar como viaje (discreto) arriba, Iniciar navegación grande y destacado, y Cancelar al final."
-      ]
-    },
-    {
-      "versao": "0.144.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Vídeo do treino refeito: montado quadro a quadro, liso a 30 quadros por segundo e em 1080x1920 (o formato dos stories). O satélite sai nítido, sem borrão nem buraco branco.",
-        "O vídeo agora tem roteiro: abre com o percurso inteiro visto de cima e desce até a largada; a seta do Vrumbi segue o caminho com a câmera suave; os números não pulam (o ritmo é o dos últimos 400 m) e há uma barra de progresso; no fim, a câmera sobe e entra o resumo do treino.",
-        "O ícone da sua posição de agora e os radares não aparecem mais no vídeo do treino."
-      ],
-      "en": [
-        "Workout video rebuilt: assembled frame by frame, smooth at 30 frames per second and in 1080x1920 (the stories format). The satellite map is sharp, with no blur or white holes.",
-        "The video now has a script: it opens with the whole route seen from above and drops down to the start; the Vrumbi arrow follows the path with a smooth camera; the numbers do not jump (the pace is from the last 400 m) and there is a progress bar; at the end the camera rises and the workout summary comes in.",
-        "Your current position icon and the speed cameras no longer show in the workout video."
-      ],
-      "es": [
-        "Video del entreno rehecho: armado cuadro a cuadro, fluido a 30 cuadros por segundo y en 1080x1920 (el formato de las historias). El satélite sale nítido, sin borrones ni huecos blancos.",
-        "El video ahora tiene guion: abre con el recorrido entero visto desde arriba y baja hasta la salida; la flecha de Vrumbi sigue el camino con la cámara suave; los números no saltan (el ritmo es el de los últimos 400 m) y hay una barra de progreso; al final la cámara sube y entra el resumen del entreno.",
-        "El ícono de tu posición actual y los radares ya no aparecen en el video del entreno."
       ]
     }
   ]
