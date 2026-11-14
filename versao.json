@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.163.0",
-  "codigo": 415,
+  "versao": "0.164.0",
+  "codigo": 416,
   "data": "14/11/2026",
-  "tamanho": 116800482,
-  "sha256": "9b683fead932908f950c4a4a06f1ecd9be43a99372f506ee0d7a9a13daa668f9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.163.0/Vrumbi-0.163.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.163.0/Vrumbi-relogio-0.163.0.apk",
+  "tamanho": 116800690,
+  "sha256": "3753f68b1a6ff8cc4a68b6fd36e69238f27d65ad4aa8d257c88b6ba697fd8201",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.164.0/Vrumbi-0.164.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.164.0/Vrumbi-relogio-0.164.0.apk",
   "notas": [
-    "Player encolhido até o mínimo não fica mais vazio: sem nada tocando, a faixa e a coluna fina mostram sempre os atalhos dos apps de música, mesmo que a última fonte aberta tenha sido Minhas músicas ou o YouTube."
+    "Player na lateral bem fina: os botões da janela ficam um embaixo do outro no alto (antes saíam cortados na beira da tela) e os atalhos ou os controles aparecem logo abaixo."
   ],
   "versoes": [
+    {
+      "versao": "0.164.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Player na lateral bem fina: os botões da janela ficam um embaixo do outro no alto (antes saíam cortados na beira da tela) e os atalhos ou os controles aparecem logo abaixo."
+      ],
+      "en": [
+        "Player in a very thin side column: the window buttons are stacked at the top (before they were cut off at the screen edge) and the shortcuts or controls show right below."
+      ],
+      "es": [
+        "Reproductor en la columna lateral muy angosta: los botones de la ventana quedan uno debajo del otro arriba (antes se cortaban en el borde de la pantalla) y los atajos o controles aparecen justo debajo."
+      ]
+    },
     {
       "versao": "0.163.0",
       "data": "14/11/2026",
@@ -173,22 +186,6 @@
       ],
       "es": [
         "Las ventanas acopladas (reproductor, Contactos) tienen dos botones pequeños en la esquina superior derecha, como en la computadora: restaurar (vuelve a ser ventana suelta y arrastrable) y cerrar. Se quitó la píldora grande de botones que se abría al tocar la división."
-      ]
-    },
-    {
-      "versao": "0.152.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Risco onde você estaciona: ao marcar o carro (chegando de uma rota ou à mão), o Vrumbi diz o risco para o veículo ali -- baixo, moderado, alto ou muito alto -- com quantos roubos e furtos de veículos houve a até 300 m nos últimos 3 meses e uma dica. Dados públicos da SSP-SP, estado de São Paulo, sem internet. Também na ficha Meu carro; liga e desliga em Ajustes rápidos > Avisos.",
-        "Janelas encaixadas (player, Contatos) ficam com os cantos retos; borda redonda só na janela solta. Os botões da divisa (trocar, soltar, fechar) não ficam mais cortados embaixo da outra janela."
-      ],
-      "en": [
-        "Risk where you park: when you mark the car (arriving from a route or by hand), Vrumbi tells the risk for the vehicle there -- low, moderate, high or very high -- with how many vehicle thefts and robberies happened within 300 m in the last 3 months and a tip. Public data from SSP-SP, São Paulo state, works offline. Also in My car; turn it on or off in Quick settings > Alerts.",
-        "Docked windows (player, Contacts) now have square corners; rounded corners only on floating windows. The divider buttons (swap, undock, close) are no longer cut off under the other window."
-      ],
-      "es": [
-        "Riesgo donde estacionas: al marcar el auto (llegando de una ruta o a mano), Vrumbi dice el riesgo para el vehículo allí -- bajo, moderado, alto o muy alto -- con cuántos robos y hurtos de vehículos hubo a menos de 300 m en los últimos 3 meses y un consejo. Datos públicos de la SSP-SP, estado de São Paulo, sin internet. También en Mi auto; se activa en Ajustes rápidos > Avisos.",
-        "Las ventanas acopladas (reproductor, Contactos) quedan con esquinas rectas; borde redondeado solo en la ventana suelta. Los botones de la división (cambiar, soltar, cerrar) ya no quedan cortados debajo de la otra ventana."
       ]
     }
   ]
