@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.147.0",
-  "codigo": 399,
+  "versao": "0.148.0",
+  "codigo": 400,
   "data": "14/11/2026",
-  "tamanho": 116659057,
-  "sha256": "440f5bb7d422a0010ee23f5cd66c2d46c23b70cdf83537266f42cceb1b208b80",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.147.0/Vrumbi-0.147.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.147.0/Vrumbi-relogio-0.147.0.apk",
+  "tamanho": 116664985,
+  "sha256": "5ca4cf90f8bb0ed7866ff98f37ede7f44e06fa15edcb4db7c58f30d0cbbf6162",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.148.0/Vrumbi-0.148.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.148.0/Vrumbi-relogio-0.148.0.apk",
   "notas": [
-    "Aviso de curva perigosa: na rota, o Vrumbi acha as curvas fechadas da estrada (serra, alça, curva que não é esquina) e, se você vier rápido demais para ela, mostra o cartão e fala a velocidade segura, uma vez por curva. Devagar, ele fica quieto.",
-    "Liga e desliga em Ajustes rápidos > Avisos > Curvas perigosas (vem ligado)."
+    "Aviso de passagem de nível: na rota, o Vrumbi mostra e fala o cruzamento com trilho à frente, dizendo se tem cancela, sinal luminoso ou nada (aí, olhe para os dois lados). Os dados vêm do OpenStreetMap, uma vez por rota.",
+    "Liga e desliga em Ajustes rápidos > Avisos > Passagem de nível (vem ligado)."
   ],
   "versoes": [
+    {
+      "versao": "0.148.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Aviso de passagem de nível: na rota, o Vrumbi mostra e fala o cruzamento com trilho à frente, dizendo se tem cancela, sinal luminoso ou nada (aí, olhe para os dois lados). Os dados vêm do OpenStreetMap, uma vez por rota.",
+        "Liga e desliga em Ajustes rápidos > Avisos > Passagem de nível (vem ligado)."
+      ],
+      "en": [
+        "Level crossing warning: on a route, Vrumbi shows and says the railway crossing ahead, telling whether it has a barrier, warning lights or nothing (then look both ways). The data comes from OpenStreetMap, once per route.",
+        "Turn it on or off in Quick settings > Alerts > Level crossing (on by default)."
+      ],
+      "es": [
+        "Aviso de paso a nivel: en la ruta, Vrumbi muestra y dice el cruce con vía férrea adelante, indicando si tiene barrera, señal luminosa o nada (entonces mira a ambos lados). Los datos vienen de OpenStreetMap, una vez por ruta.",
+        "Se activa y desactiva en Ajustes rápidos > Avisos > Paso a nivel (viene activado)."
+      ]
+    },
     {
       "versao": "0.147.0",
       "data": "14/11/2026",
@@ -186,19 +202,6 @@
       ],
       "es": [
         "Reloj: el auto estacionado. En la pantalla de la ruta del reloj, la tarjeta \"Mi auto\" muestra a qué distancia y hacia dónde quedó y hace cuánto; al tocarla, el celular empieza la ruta hasta el auto. Marcaste o quitaste el auto en el celular y el reloj lo sabe al instante."
-      ]
-    },
-    {
-      "versao": "0.137.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: Falar com o Vrumbi. Na tela da rota, o botão Falar abre o ditado do relógio; o que você disser vai para o Vrumbi do celular, que atende como se tivesse ouvido -- \"tem um buraco aqui\", \"ir para casa\", \"como está o tempo?\" -- e responde pela voz do celular."
-      ],
-      "en": [
-        "Watch: Talk to Vrumbi. On the route screen, the Talk button opens the watch dictation; what you say goes to Vrumbi on the phone, which handles it as if it had heard you -- \"there is a pothole here\", \"go home\", \"how is the weather?\" -- and answers with the phone voice."
-      ],
-      "es": [
-        "Reloj: Hablar con Vrumbi. En la pantalla de la ruta, el botón Hablar abre el dictado del reloj; lo que digas va al Vrumbi del celular, que lo atiende como si lo hubiera oído -- \"hay un bache aquí\", \"ir a casa\", \"¿cómo está el tiempo?\" -- y responde con la voz del celular."
       ]
     }
   ]
