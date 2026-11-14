@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.157.0",
-  "codigo": 409,
+  "versao": "0.158.0",
+  "codigo": 410,
   "data": "14/11/2026",
-  "tamanho": 116795282,
-  "sha256": "623ad8a65f094b219c73eed8a19c028f528706fcb15e8aabf7e9267b6e3c78db",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.157.0/Vrumbi-0.157.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.157.0/Vrumbi-relogio-0.157.0.apk",
+  "tamanho": 116796222,
+  "sha256": "02e55d6e0f078be189813cbe0c9dae08a8f01b3752e9857f5a820dc48502356a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.158.0/Vrumbi-0.158.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.158.0/Vrumbi-relogio-0.158.0.apk",
   "notas": [
-    "Duas janelas grudadas no mesmo lado agora podem ficar uma ao lado da outra (dividindo a faixa, como na primeira versão) ou uma embaixo da outra: toque na borda entre elas e escolha no gerenciador. A escolha fica guardada."
+    "Janelas lado a lado não descem mais sozinhas até o fim da tela; arrastar a borda de uma muda a altura das duas juntas.",
+    "Encaixar na borda ficou mais rápido: com a janela já encostada na beira, basta continuar empurrando que o encaixe aparece (antes o dedo precisava chegar quase na beira).",
+    "Contatos: o botão de janelas ficou alinhado e do tamanho do X."
   ],
   "versoes": [
+    {
+      "versao": "0.158.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Janelas lado a lado não descem mais sozinhas até o fim da tela; arrastar a borda de uma muda a altura das duas juntas.",
+        "Encaixar na borda ficou mais rápido: com a janela já encostada na beira, basta continuar empurrando que o encaixe aparece (antes o dedo precisava chegar quase na beira).",
+        "Contatos: o botão de janelas ficou alinhado e do tamanho do X."
+      ],
+      "en": [
+        "Side-by-side windows no longer slide down to the bottom of the screen on their own; dragging the border of one changes the height of both.",
+        "Docking to an edge is faster: with the window already touching the edge, just keep pushing and the dock preview appears (before, your finger had to reach almost the edge).",
+        "Contacts: the windows button is now aligned and the same size as the X."
+      ],
+      "es": [
+        "Las ventanas lado a lado ya no bajan solas hasta el final de la pantalla; arrastrar el borde de una cambia la altura de las dos juntas.",
+        "Acoplar al borde es más rápido: con la ventana ya tocando el borde, basta seguir empujando y aparece el acople (antes el dedo tenía que llegar casi al borde).",
+        "Contactos: el botón de ventanas quedó alineado y del tamaño de la X."
+      ]
+    },
     {
       "versao": "0.157.0",
       "data": "14/11/2026",
@@ -173,19 +194,6 @@
       "es": [
         "Aviso de curva peligrosa: en la ruta, Vrumbi encuentra las curvas cerradas de la carretera (sierra, rampas, curvas que no son esquinas) y, si vienes demasiado rápido, muestra la tarjeta y dice la velocidad segura, una vez por curva. Si vas despacio, se queda callado.",
         "Se activa y desactiva en Ajustes rápidos > Avisos > Curvas peligrosas (viene activado)."
-      ]
-    },
-    {
-      "versao": "0.146.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Janelas no mesmo lado da tela (player e Contatos) agora ficam encostadas uma na outra, cada uma com o tamanho que precisa: em pé, a faixa do player em cima e os Contatos logo abaixo, na largura toda; deitado, a coluna do player, a dos Contatos e o mapa. Acabou o espaço vazio que sobrava quando o player estava recolhido."
-      ],
-      "en": [
-        "Windows on the same side of the screen (player and Contacts) now sit against each other, each with the size it needs: in portrait, the player strip on top and Contacts right below, full width; in landscape, the player column, the Contacts column and the map. No more empty space when the player is collapsed."
-      ],
-      "es": [
-        "Las ventanas del mismo lado de la pantalla (reproductor y Contactos) ahora quedan pegadas una a la otra, cada una con el tamaño que necesita: de pie, la franja del reproductor arriba y Contactos justo debajo, a todo el ancho; acostado, la columna del reproductor, la de Contactos y el mapa. Se acabó el espacio vacío cuando el reproductor está recogido."
       ]
     }
   ]
