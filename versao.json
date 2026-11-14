@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.144.0",
-  "codigo": 396,
+  "versao": "0.145.0",
+  "codigo": 397,
   "data": "13/11/2026",
-  "tamanho": 116651213,
-  "sha256": "3031e38a7c1b0cbbea248069040046ae27a59fe93f4b270023ddf6b5328aa38a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.144.0/Vrumbi-0.144.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.144.0/Vrumbi-relogio-0.144.0.apk",
+  "tamanho": 116653105,
+  "sha256": "d5139cc3801d6bc716379a9e4e64154eb1863fa14996f96a97c34b8da807307d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.145.0/Vrumbi-0.145.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.145.0/Vrumbi-relogio-0.145.0.apk",
   "notas": [
-    "Vídeo do treino refeito: montado quadro a quadro, liso a 30 quadros por segundo e em 1080x1920 (o formato dos stories). O satélite sai nítido, sem borrão nem buraco branco.",
-    "O vídeo agora tem roteiro: abre com o percurso inteiro visto de cima e desce até a largada; a seta do Vrumbi segue o caminho com a câmera suave; os números não pulam (o ritmo é o dos últimos 400 m) e há uma barra de progresso; no fim, a câmera sobe e entra o resumo do treino.",
-    "O ícone da sua posição de agora e os radares não aparecem mais no vídeo do treino."
+    "Escolha da rota: o mapa gira para a sua posição ficar embaixo e o destino em cima, como quem está indo para lá.",
+    "Os cartões das rotas (15 min, 16 min...) ficaram do tamanho do texto, todos iguais, e o painel deitado deixou de ter espaço sobrando.",
+    "Botões na ordem certa: Salvar como viagem (discreto) em cima, Iniciar navegação grande e em destaque, e Cancelar por último."
   ],
   "versoes": [
+    {
+      "versao": "0.145.0",
+      "data": "13/11/2026",
+      "itens": [
+        "Escolha da rota: o mapa gira para a sua posição ficar embaixo e o destino em cima, como quem está indo para lá.",
+        "Os cartões das rotas (15 min, 16 min...) ficaram do tamanho do texto, todos iguais, e o painel deitado deixou de ter espaço sobrando.",
+        "Botões na ordem certa: Salvar como viagem (discreto) em cima, Iniciar navegação grande e em destaque, e Cancelar por último."
+      ],
+      "en": [
+        "Route choice: the map turns so your position is at the bottom and the destination at the top, as if you were heading there.",
+        "The route cards (15 min, 16 min...) are now the size of their text, all the same, and the landscape panel no longer has empty space.",
+        "Buttons in the right order: Save as trip (subtle) on top, Start navigation large and highlighted, and Cancel last."
+      ],
+      "es": [
+        "Elección de la ruta: el mapa gira para que tu posición quede abajo y el destino arriba, como quien va hacia allá.",
+        "Las tarjetas de las rutas (15 min, 16 min...) quedaron del tamaño del texto, todas iguales, y el panel acostado ya no tiene espacio sobrante.",
+        "Botones en el orden correcto: Guardar como viaje (discreto) arriba, Iniciar navegación grande y destacado, y Cancelar al final."
+      ]
+    },
     {
       "versao": "0.144.0",
       "data": "13/11/2026",
@@ -178,22 +197,6 @@
       ],
       "es": [
         "Reloj: la complicación \"Vrumbi · Ruta\" para la esfera. En la ruta, la flecha y la distancia de la próxima maniobra (en el formato largo, también la instrucción; en el de arco, el progreso del viaje); en modo libre, tu velocidad. Al tocarla se abre la navegación en el reloj. Para ponerla: mantén pulsada la esfera, Personalizar, elige un espacio de complicación y \"Vrumbi · Ruta\"."
-      ]
-    },
-    {
-      "versao": "0.134.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio na rota: girando a coroa (ou rolando), as próximas manobras depois da atual, cada uma com a distância daqui.",
-        "Relógio: \"Ir para\" Casa, Trabalho ou Meu carro direto do pulso -- o celular já começa a rota. Fica na tela da rota quando não há rota e no modo livre. Com o app do celular fechado, chega um aviso nele para tocar e ir."
-      ],
-      "en": [
-        "Watch on a route: turn the crown (or scroll) to see the next turns after the current one, each with its distance from here.",
-        "Watch: \"Go to\" Home, Work or My car right from your wrist -- the phone starts the route. It is on the route screen when there is no route and in free drive. If the phone app is closed, a notification there lets you tap and go."
-      ],
-      "es": [
-        "Reloj en la ruta: girando la corona (o deslizando), las próximas maniobras después de la actual, cada una con la distancia desde aquí.",
-        "Reloj: \"Ir a\" Casa, Trabajo o Mi auto desde la muñeca -- el celular ya empieza la ruta. Está en la pantalla de la ruta cuando no hay ruta y en el modo libre. Con la app del celular cerrada, llega un aviso para tocar e ir."
       ]
     }
   ]
