@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.162.0",
-  "codigo": 414,
+  "versao": "0.163.0",
+  "codigo": 415,
   "data": "14/11/2026",
-  "tamanho": 116800154,
-  "sha256": "259f9338be7db761c011324ce19c7700eebc7f4ed3e1d206850e9e73461458b4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.162.0/Vrumbi-0.162.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.162.0/Vrumbi-relogio-0.162.0.apk",
+  "tamanho": 116800482,
+  "sha256": "9b683fead932908f950c4a4a06f1ecd9be43a99372f506ee0d7a9a13daa668f9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.163.0/Vrumbi-0.163.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.163.0/Vrumbi-relogio-0.163.0.apk",
   "notas": [
-    "Gerenciador da barra das janelas mais enxuto: só trocar de lado, uma em cima da outra / lado a lado, e o X, que recolhe -- todas as janelas encaixadas voltam a ser janelas soltas, arrastáveis. Restaurar e fechar cada janela ficam só no alto de cada uma."
+    "Player encolhido até o mínimo não fica mais vazio: sem nada tocando, a faixa e a coluna fina mostram sempre os atalhos dos apps de música, mesmo que a última fonte aberta tenha sido Minhas músicas ou o YouTube."
   ],
   "versoes": [
+    {
+      "versao": "0.163.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Player encolhido até o mínimo não fica mais vazio: sem nada tocando, a faixa e a coluna fina mostram sempre os atalhos dos apps de música, mesmo que a última fonte aberta tenha sido Minhas músicas ou o YouTube."
+      ],
+      "en": [
+        "The player shrunk to the minimum is no longer empty: with nothing playing, the strip and the thin column always show the music app shortcuts, even if the last source opened was My music or YouTube."
+      ],
+      "es": [
+        "El reproductor reducido al mínimo ya no queda vacío: sin nada sonando, la franja y la columna angosta muestran siempre los atajos de las apps de música, aunque la última fuente abierta haya sido Mi música o YouTube."
+      ]
+    },
     {
       "versao": "0.162.0",
       "data": "14/11/2026",
@@ -176,22 +189,6 @@
       "es": [
         "Riesgo donde estacionas: al marcar el auto (llegando de una ruta o a mano), Vrumbi dice el riesgo para el vehículo allí -- bajo, moderado, alto o muy alto -- con cuántos robos y hurtos de vehículos hubo a menos de 300 m en los últimos 3 meses y un consejo. Datos públicos de la SSP-SP, estado de São Paulo, sin internet. También en Mi auto; se activa en Ajustes rápidos > Avisos.",
         "Las ventanas acopladas (reproductor, Contactos) quedan con esquinas rectas; borde redondeado solo en la ventana suelta. Los botones de la división (cambiar, soltar, cerrar) ya no quedan cortados debajo de la otra ventana."
-      ]
-    },
-    {
-      "versao": "0.151.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Perto do destino: chegando (a 1,5 km), o Vrumbi pergunta onde estacionar e mostra estacionamentos, postos e onde comer em volta do destino, o mais perto primeiro. Tocar leva até lá. Também no cartão de chegada.",
-        "Funciona sem internet (a busca local do app)."
-      ],
-      "en": [
-        "Near the destination: when arriving (1.5 km), Vrumbi asks where to park and shows parking, gas stations and places to eat around the destination, closest first. Tap to go there. Also on the arrival card.",
-        "Works offline (the app local search)."
-      ],
-      "es": [
-        "Cerca del destino: al llegar (a 1,5 km), Vrumbi pregunta dónde estacionar y muestra estacionamientos, gasolineras y dónde comer alrededor del destino, el más cercano primero. Tocar te lleva allí. También en la tarjeta de llegada.",
-        "Funciona sin internet (la búsqueda local de la app)."
       ]
     }
   ]
