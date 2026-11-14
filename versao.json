@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.156.0",
-  "codigo": 408,
+  "versao": "0.157.0",
+  "codigo": 409,
   "data": "14/11/2026",
-  "tamanho": 116793678,
-  "sha256": "9b1398200b65a8813f00819843a79ec40e40b7baca9b710e9c927c0260c9d573",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.156.0/Vrumbi-0.156.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.156.0/Vrumbi-relogio-0.156.0.apk",
+  "tamanho": 116795282,
+  "sha256": "623ad8a65f094b219c73eed8a19c028f528706fcb15e8aabf7e9267b6e3c78db",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.157.0/Vrumbi-0.157.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.157.0/Vrumbi-relogio-0.157.0.apk",
   "notas": [
-    "Contatos com o mesmo gerenciamento do player: o botão de janelas no alto escolhe o tamanho, encaixar num canto ou encaixar numa borda (em cima, embaixo, nas laterais).",
-    "Player encaixado: passou da altura de uma linha de controles, ele já mostra a listagem completa -- acabou o espaço em branco em volta da barrinha."
+    "Duas janelas grudadas no mesmo lado agora podem ficar uma ao lado da outra (dividindo a faixa, como na primeira versão) ou uma embaixo da outra: toque na borda entre elas e escolha no gerenciador. A escolha fica guardada."
   ],
   "versoes": [
+    {
+      "versao": "0.157.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Duas janelas grudadas no mesmo lado agora podem ficar uma ao lado da outra (dividindo a faixa, como na primeira versão) ou uma embaixo da outra: toque na borda entre elas e escolha no gerenciador. A escolha fica guardada."
+      ],
+      "en": [
+        "Two windows docked on the same side can now sit side by side (sharing the strip, like the first version) or one below the other: tap the border between them and choose in the manager. The choice is saved."
+      ],
+      "es": [
+        "Dos ventanas acopladas en el mismo lado ahora pueden quedar una al lado de la otra (dividiendo la franja, como en la primera versión) o una debajo de la otra: toca el borde entre ellas y elige en el administrador. La elección queda guardada."
+      ]
+    },
     {
       "versao": "0.156.0",
       "data": "14/11/2026",
@@ -174,25 +186,6 @@
       ],
       "es": [
         "Las ventanas del mismo lado de la pantalla (reproductor y Contactos) ahora quedan pegadas una a la otra, cada una con el tamaño que necesita: de pie, la franja del reproductor arriba y Contactos justo debajo, a todo el ancho; acostado, la columna del reproductor, la de Contactos y el mapa. Se acabó el espacio vacío cuando el reproductor está recogido."
-      ]
-    },
-    {
-      "versao": "0.145.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Escolha da rota: o mapa gira para a sua posição ficar embaixo e o destino em cima, como quem está indo para lá.",
-        "Os cartões das rotas (15 min, 16 min...) ficaram do tamanho do texto, todos iguais, e o painel deitado deixou de ter espaço sobrando.",
-        "Botões na ordem certa: Salvar como viagem (discreto) em cima, Iniciar navegação grande e em destaque, e Cancelar por último."
-      ],
-      "en": [
-        "Route choice: the map turns so your position is at the bottom and the destination at the top, as if you were heading there.",
-        "The route cards (15 min, 16 min...) are now the size of their text, all the same, and the landscape panel no longer has empty space.",
-        "Buttons in the right order: Save as trip (subtle) on top, Start navigation large and highlighted, and Cancel last."
-      ],
-      "es": [
-        "Elección de la ruta: el mapa gira para que tu posición quede abajo y el destino arriba, como quien va hacia allá.",
-        "Las tarjetas de las rutas (15 min, 16 min...) quedaron del tamaño del texto, todas iguales, y el panel acostado ya no tiene espacio sobrante.",
-        "Botones en el orden correcto: Guardar como viaje (discreto) arriba, Iniciar navegación grande y destacado, y Cancelar al final."
       ]
     }
   ]
