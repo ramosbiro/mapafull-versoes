@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.159.0",
-  "codigo": 411,
+  "versao": "0.160.0",
+  "codigo": 412,
   "data": "14/11/2026",
-  "tamanho": 116796918,
-  "sha256": "9bc989620e759344c7282668694f4ddc5bdb9333f9c3ac16bd6b56c2d64588ed",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.159.0/Vrumbi-0.159.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.159.0/Vrumbi-relogio-0.159.0.apk",
+  "tamanho": 116798918,
+  "sha256": "57a946e3c6f972de0c611885b25231fbf37086fe17df3e29d9a6c311880db513",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.160.0/Vrumbi-0.160.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.160.0/Vrumbi-relogio-0.160.0.apk",
   "notas": [
-    "O gerenciador da borda abre na hora: é encostar o dedo na borda entre as janelas (antes só ao soltar). Arrastou, ele some e a janela muda de tamanho; a área de toque da borda ficou maior.",
-    "Contatos encaixado: voltaram os ícones de ligar, enviar mensagem e ajustes no alto.",
-    "Contatos se ajusta à largura da janela, em pé e deitado: estreita, o Limpar fica só com o ícone e os botões diminuem."
+    "Janelas lado a lado: a barra entre elas abre o gerenciador ao tocar -- soltar e fechar cada uma, trocar a ordem e colocar uma em cima da outra. A barra com o mapa só muda o tamanho.",
+    "Player no tamanho mínimo nunca fica vazio: sem música, a coluna fina vira uma barra de atalhos (os apps de música um embaixo do outro, como a barra Edge) e a faixa baixa mostra os mesmos ícones. Saiu o botão de expandir, que repetia o gerenciador."
   ],
   "versoes": [
+    {
+      "versao": "0.160.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Janelas lado a lado: a barra entre elas abre o gerenciador ao tocar -- soltar e fechar cada uma, trocar a ordem e colocar uma em cima da outra. A barra com o mapa só muda o tamanho.",
+        "Player no tamanho mínimo nunca fica vazio: sem música, a coluna fina vira uma barra de atalhos (os apps de música um embaixo do outro, como a barra Edge) e a faixa baixa mostra os mesmos ícones. Saiu o botão de expandir, que repetia o gerenciador."
+      ],
+      "en": [
+        "Side-by-side windows: the bar between them opens the manager when tapped -- undock and close each one, swap the order and put one above the other. The bar next to the map only resizes.",
+        "The player at minimum size is never empty: with no music, the thin column becomes a shortcut bar (music apps stacked, like an Edge panel) and the low strip shows the same icons. The expand button, which repeated the manager, is gone."
+      ],
+      "es": [
+        "Ventanas lado a lado: la barra entre ellas abre el administrador al tocarla -- soltar y cerrar cada una, cambiar el orden y poner una encima de la otra. La barra junto al mapa solo cambia el tamaño.",
+        "El reproductor en tamaño mínimo nunca queda vacío: sin música, la columna angosta se vuelve una barra de atajos (las apps de música una debajo de otra, como el panel Edge) y la franja baja muestra los mismos íconos. Se quitó el botón de expandir, que repetía el administrador."
+      ]
+    },
     {
       "versao": "0.159.0",
       "data": "14/11/2026",
@@ -181,22 +196,6 @@
       "es": [
         "Unidades de medida: kilómetros o millas en la pantalla y en la voz -- distancias (pies y millas), velocímetro y señales en mph, límite, radares y curvas. En Automático, Vrumbi sigue el país del idioma del celular (millas en EE. UU. y el Reino Unido).",
         "Está en Ajustes rápidos > Navegación > Unidades de medida."
-      ]
-    },
-    {
-      "versao": "0.148.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Aviso de passagem de nível: na rota, o Vrumbi mostra e fala o cruzamento com trilho à frente, dizendo se tem cancela, sinal luminoso ou nada (aí, olhe para os dois lados). Os dados vêm do OpenStreetMap, uma vez por rota.",
-        "Liga e desliga em Ajustes rápidos > Avisos > Passagem de nível (vem ligado)."
-      ],
-      "en": [
-        "Level crossing warning: on a route, Vrumbi shows and says the railway crossing ahead, telling whether it has a barrier, warning lights or nothing (then look both ways). The data comes from OpenStreetMap, once per route.",
-        "Turn it on or off in Quick settings > Alerts > Level crossing (on by default)."
-      ],
-      "es": [
-        "Aviso de paso a nivel: en la ruta, Vrumbi muestra y dice el cruce con vía férrea adelante, indicando si tiene barrera, señal luminosa o nada (entonces mira a ambos lados). Los datos vienen de OpenStreetMap, una vez por ruta.",
-        "Se activa y desactiva en Ajustes rápidos > Avisos > Paso a nivel (viene activado)."
       ]
     }
   ]
