@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.150.0",
-  "codigo": 402,
+  "versao": "0.151.0",
+  "codigo": 403,
   "data": "14/11/2026",
-  "tamanho": 116679893,
-  "sha256": "5ad9a5e4c1f9a53d77f6ec8724c75da16d611753c435e2b61b22635e90c6bdbb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.150.0/Vrumbi-0.150.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.150.0/Vrumbi-relogio-0.150.0.apk",
+  "tamanho": 116685097,
+  "sha256": "85953dddb7ec65b6f29819b23511f95cb0104a6b10f0d028f574bda94f6ac1c4",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.151.0/Vrumbi-0.151.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.151.0/Vrumbi-relogio-0.151.0.apk",
   "notas": [
-    "Giro da tela: escolha Automático (gira com o celular), Sempre em pé ou Sempre deitado -- no suporte do carro, a tela não vira mais com os buracos da rua. Em Ajustes rápidos > Sistema > Giro da tela."
+    "Perto do destino: chegando (a 1,5 km), o Vrumbi pergunta onde estacionar e mostra estacionamentos, postos e onde comer em volta do destino, o mais perto primeiro. Tocar leva até lá. Também no cartão de chegada.",
+    "Funciona sem internet (a busca local do app)."
   ],
   "versoes": [
+    {
+      "versao": "0.151.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Perto do destino: chegando (a 1,5 km), o Vrumbi pergunta onde estacionar e mostra estacionamentos, postos e onde comer em volta do destino, o mais perto primeiro. Tocar leva até lá. Também no cartão de chegada.",
+        "Funciona sem internet (a busca local do app)."
+      ],
+      "en": [
+        "Near the destination: when arriving (1.5 km), Vrumbi asks where to park and shows parking, gas stations and places to eat around the destination, closest first. Tap to go there. Also on the arrival card.",
+        "Works offline (the app local search)."
+      ],
+      "es": [
+        "Cerca del destino: al llegar (a 1,5 km), Vrumbi pregunta dónde estacionar y muestra estacionamientos, gasolineras y dónde comer alrededor del destino, el más cercano primero. Tocar te lleva allí. También en la tarjeta de llegada.",
+        "Funciona sin internet (la búsqueda local de la app)."
+      ]
+    },
     {
       "versao": "0.150.0",
       "data": "14/11/2026",
@@ -191,19 +208,6 @@
       "es": [
         "Puntos cardio, como en Google Fit: cada minuto de entreno moderado vale 1 punto y cada minuto vigoroso, 2 (por las pulsaciones cuando las hay; si no, por la intensidad del deporte). La meta semanal es 150 puntos, la recomendación de la OMS. Aparecen en el panel de metas (Entreno) y en el resumen de cada entreno.",
         "Hora de dormir sugerida (Salud > Sueño): con el reloj midiendo tu sueño, Vrumbi ve a qué hora sueles despertar y sugiere la hora de acostarte para dormir 8 h. También muestra tu promedio de hora de acostarte y de sueño."
-      ]
-    },
-    {
-      "versao": "0.140.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: no detalhe de Passos (e de Hoje), o gráfico dos passos de cada hora do dia, com a hora de agora em destaque -- como o de batimentos."
-      ],
-      "en": [
-        "Watch: in the Steps (and Today) detail, a chart of your steps for each hour of the day, with the current hour highlighted -- like the heart rate one."
-      ],
-      "es": [
-        "Reloj: en el detalle de Pasos (y de Hoy), el gráfico de los pasos de cada hora del día, con la hora actual destacada -- como el de pulsaciones."
       ]
     }
   ]
