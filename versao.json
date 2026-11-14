@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.165.0",
-  "codigo": 417,
+  "versao": "0.166.0",
+  "codigo": 418,
   "data": "14/11/2026",
-  "tamanho": 116801382,
-  "sha256": "d10eb20bcb96f3a50b580b6450a374bb418eabdb613118e554b348e9e10414ac",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.165.0/Vrumbi-0.165.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.165.0/Vrumbi-relogio-0.165.0.apk",
+  "tamanho": 116802702,
+  "sha256": "7f087543a0d87eb2bd953f358a426583ff6c9942ff533b21cf0865eac0911532",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.166.0/Vrumbi-0.166.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.166.0/Vrumbi-relogio-0.166.0.apk",
   "notas": [
-    "Player encostado na borda (faixa, coluna fina ou canto): sem nada tocando, aparecem sempre os ícones dos apps de música, um embaixo do outro, como uma barra lateral. Música pausada ou parada também mostra os ícones; os controles só voltam quando um áudio ou vídeo está tocando."
+    "Player encostado na lateral fina ou na faixa, com música tocando: agora aparecem a capa e os botões anterior, tocar/pausar e próxima (antes a coluna ficava vazia). Pausou por ali, os botões ficam alguns segundos para voltar a tocar; depois voltam os ícones dos apps."
   ],
   "versoes": [
+    {
+      "versao": "0.166.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Player encostado na lateral fina ou na faixa, com música tocando: agora aparecem a capa e os botões anterior, tocar/pausar e próxima (antes a coluna ficava vazia). Pausou por ali, os botões ficam alguns segundos para voltar a tocar; depois voltam os ícones dos apps."
+      ],
+      "en": [
+        "Player docked in the thin side column or the strip, with music playing: the cover and the previous, play/pause and next buttons now show (before the column was empty). Paused from there, the buttons stay a few seconds so you can resume; then the app icons come back."
+      ],
+      "es": [
+        "Reproductor pegado en la columna lateral angosta o en la franja, con música sonando: ahora aparecen la portada y los botones anterior, reproducir/pausar y siguiente (antes la columna quedaba vacía). Si pausas desde ahí, los botones quedan unos segundos para volver a reproducir; después vuelven los íconos de las apps."
+      ]
+    },
     {
       "versao": "0.165.0",
       "data": "14/11/2026",
@@ -170,22 +183,6 @@
       ],
       "es": [
         "Volvió el administrador del borde: tocar el borde entre dos ventanas acopladas abre los botones cambiar de lugar, soltar (se vuelve ventana movible) y cerrar -- ahora más pequeños y siempre enteros, encima de las ventanas."
-      ]
-    },
-    {
-      "versao": "0.154.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Player encaixado embaixo de outra janela: esticou, aparece o player completo (lista, fontes e tudo); antes ele ficava só com a barrinha de controles no meio e um espaço vazio em volta.",
-        "Botões das janelas encaixadas iguais em todas: cada janela tem os seus dois -- restaurar e fechar -- no canto de cima à direita. O botão de expandir do player saiu (esticar já abre o player completo)."
-      ],
-      "en": [
-        "Player docked below another window: stretch it and the full player appears (list, sources and everything); before, it showed only the control strip in the middle with empty space around.",
-        "Docked window buttons are now the same everywhere: each window has its own two -- restore and close -- in the top right corner. The player expand button is gone (stretching already opens the full player)."
-      ],
-      "es": [
-        "Reproductor acoplado debajo de otra ventana: al estirarlo aparece el reproductor completo (lista, fuentes y todo); antes quedaba solo la barrita de controles en el medio con espacio vacío alrededor.",
-        "Botones de las ventanas acopladas iguales en todas: cada ventana tiene los suyos -- restaurar y cerrar -- en la esquina superior derecha. Se quitó el botón de expandir del reproductor (estirar ya abre el reproductor completo)."
       ]
     }
   ]
