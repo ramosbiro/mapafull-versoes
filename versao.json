@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.164.0",
-  "codigo": 416,
+  "versao": "0.165.0",
+  "codigo": 417,
   "data": "14/11/2026",
-  "tamanho": 116800690,
-  "sha256": "3753f68b1a6ff8cc4a68b6fd36e69238f27d65ad4aa8d257c88b6ba697fd8201",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.164.0/Vrumbi-0.164.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.164.0/Vrumbi-relogio-0.164.0.apk",
+  "tamanho": 116801382,
+  "sha256": "d10eb20bcb96f3a50b580b6450a374bb418eabdb613118e554b348e9e10414ac",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.165.0/Vrumbi-0.165.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.165.0/Vrumbi-relogio-0.165.0.apk",
   "notas": [
-    "Player na lateral bem fina: os botões da janela ficam um embaixo do outro no alto (antes saíam cortados na beira da tela) e os atalhos ou os controles aparecem logo abaixo."
+    "Player encostado na borda (faixa, coluna fina ou canto): sem nada tocando, aparecem sempre os ícones dos apps de música, um embaixo do outro, como uma barra lateral. Música pausada ou parada também mostra os ícones; os controles só voltam quando um áudio ou vídeo está tocando."
   ],
   "versoes": [
+    {
+      "versao": "0.165.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Player encostado na borda (faixa, coluna fina ou canto): sem nada tocando, aparecem sempre os ícones dos apps de música, um embaixo do outro, como uma barra lateral. Música pausada ou parada também mostra os ícones; os controles só voltam quando um áudio ou vídeo está tocando."
+      ],
+      "en": [
+        "Player docked to the edge (strip, thin column or corner): with nothing playing, the music app icons always show, one below the other, like a side bar. A paused or stopped track also shows the icons; the controls come back only while audio or video is playing."
+      ],
+      "es": [
+        "Reproductor pegado al borde (franja, columna angosta o esquina): sin nada sonando, siempre aparecen los íconos de las apps de música, uno debajo del otro, como una barra lateral. Una canción en pausa o detenida también muestra los íconos; los controles vuelven solo cuando suena un audio o video."
+      ]
+    },
     {
       "versao": "0.164.0",
       "data": "14/11/2026",
@@ -173,19 +186,6 @@
       "es": [
         "Reproductor acoplado debajo de otra ventana: al estirarlo aparece el reproductor completo (lista, fuentes y todo); antes quedaba solo la barrita de controles en el medio con espacio vacío alrededor.",
         "Botones de las ventanas acopladas iguales en todas: cada ventana tiene los suyos -- restaurar y cerrar -- en la esquina superior derecha. Se quitó el botón de expandir del reproductor (estirar ya abre el reproductor completo)."
-      ]
-    },
-    {
-      "versao": "0.153.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Janelas encaixadas (player, Contatos) ganharam dois botões pequenos no canto de cima à direita, como no computador: restaurar (volta a ser janela solta, arrastável) e fechar. Saiu a pílula grande de botões que abria ao tocar na divisa."
-      ],
-      "en": [
-        "Docked windows (player, Contacts) now have two small buttons in the top right corner, like on a computer: restore (back to a floating, draggable window) and close. The big button pill that opened when tapping the divider is gone."
-      ],
-      "es": [
-        "Las ventanas acopladas (reproductor, Contactos) tienen dos botones pequeños en la esquina superior derecha, como en la computadora: restaurar (vuelve a ser ventana suelta y arrastrable) y cerrar. Se quitó la píldora grande de botones que se abría al tocar la división."
       ]
     }
   ]
