@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.152.0",
-  "codigo": 404,
+  "versao": "0.153.0",
+  "codigo": 405,
   "data": "14/11/2026",
-  "tamanho": 116791362,
-  "sha256": "66407e950ac73cd57dac1347593dbb943453bc542c8f59d7451ab47b2cc50ddd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.152.0/Vrumbi-0.152.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.152.0/Vrumbi-relogio-0.152.0.apk",
+  "tamanho": 116791638,
+  "sha256": "bf2dca7ee13945db7a1fe8a241dc7c829c0d7cd24d4d23be1931b36be87f0037",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.153.0/Vrumbi-0.153.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.153.0/Vrumbi-relogio-0.153.0.apk",
   "notas": [
-    "Risco onde você estaciona: ao marcar o carro (chegando de uma rota ou à mão), o Vrumbi diz o risco para o veículo ali -- baixo, moderado, alto ou muito alto -- com quantos roubos e furtos de veículos houve a até 300 m nos últimos 3 meses e uma dica. Dados públicos da SSP-SP, estado de São Paulo, sem internet. Também na ficha Meu carro; liga e desliga em Ajustes rápidos > Avisos.",
-    "Janelas encaixadas (player, Contatos) ficam com os cantos retos; borda redonda só na janela solta. Os botões da divisa (trocar, soltar, fechar) não ficam mais cortados embaixo da outra janela."
+    "Janelas encaixadas (player, Contatos) ganharam dois botões pequenos no canto de cima à direita, como no computador: restaurar (volta a ser janela solta, arrastável) e fechar. Saiu a pílula grande de botões que abria ao tocar na divisa."
   ],
   "versoes": [
+    {
+      "versao": "0.153.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Janelas encaixadas (player, Contatos) ganharam dois botões pequenos no canto de cima à direita, como no computador: restaurar (volta a ser janela solta, arrastável) e fechar. Saiu a pílula grande de botões que abria ao tocar na divisa."
+      ],
+      "en": [
+        "Docked windows (player, Contacts) now have two small buttons in the top right corner, like on a computer: restore (back to a floating, draggable window) and close. The big button pill that opened when tapping the divider is gone."
+      ],
+      "es": [
+        "Las ventanas acopladas (reproductor, Contactos) tienen dos botones pequeños en la esquina superior derecha, como en la computadora: restaurar (vuelve a ser ventana suelta y arrastrable) y cerrar. Se quitó la píldora grande de botones que se abría al tocar la división."
+      ]
+    },
     {
       "versao": "0.152.0",
       "data": "14/11/2026",
@@ -189,25 +201,6 @@
         "Reloj, al terminar el entreno: la pantalla del resultado, con tiempo, distancia, ritmo, calorías, pulsaciones, pasos y las metas del día y de la semana. El botón Compartir abre el entreno en el móvil listo para compartir.",
         "El móvil avisa cuando termina el entreno del reloj: toca el aviso para abrir el resumen con compartir.",
         "Reloj: el reproductor propio, que no controlaba la música, se quitó. En su lugar, el botón Música abre el control de música del reloj."
-      ]
-    },
-    {
-      "versao": "0.142.0",
-      "data": "13/11/2026",
-      "itens": [
-        "O Vrumbi responde mais rápido: quando você abre a janela dele, o cérebro já se prepara enquanto você fala. No teste, a primeira palavra da resposta caiu de 8,8 s para 1,7 s.",
-        "Perguntas de conhecimento (\"qual a capital da França?\", \"quem descobriu o Brasil?\") vão para o cérebro, e não mais para a busca de lugares. Se ele não terminar a tempo, avisa e pede para perguntar de novo.",
-        "Configurações > Cérebro do Vrumbi: escolha onde ele roda (Automático, Placa de vídeo ou Processador) e compare com Testar a velocidade. Em alguns celulares o processador é mais rápido."
-      ],
-      "en": [
-        "Vrumbi answers faster: when you open its window, the brain gets ready while you speak. In testing, the first word of the answer dropped from 8.8 s to 1.7 s.",
-        "Knowledge questions (\"what is the capital of France?\", \"who discovered Brazil?\") go to the brain, no longer to the place search. If it does not finish in time, it tells you and asks you to try again.",
-        "Settings > Vrumbi brain: choose where it runs (Automatic, Graphics card or Processor) and compare with Test the speed. On some phones the processor is faster."
-      ],
-      "es": [
-        "Vrumbi responde más rápido: cuando abres su ventana, el cerebro se prepara mientras hablas. En la prueba, la primera palabra de la respuesta bajó de 8,8 s a 1,7 s.",
-        "Las preguntas de conocimiento (\"¿cuál es la capital de Francia?\", \"¿quién descubrió Brasil?\") van al cerebro, ya no a la búsqueda de lugares. Si no termina a tiempo, te avisa y pide que preguntes de nuevo.",
-        "Ajustes > Cerebro de Vrumbi: elige dónde funciona (Automático, Tarjeta gráfica o Procesador) y compara con Probar la velocidad. En algunos celulares el procesador es más rápido."
       ]
     }
   ]
