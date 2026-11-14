@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.145.0",
-  "codigo": 397,
-  "data": "13/11/2026",
-  "tamanho": 116653105,
-  "sha256": "d5139cc3801d6bc716379a9e4e64154eb1863fa14996f96a97c34b8da807307d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.145.0/Vrumbi-0.145.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.145.0/Vrumbi-relogio-0.145.0.apk",
+  "versao": "0.146.0",
+  "codigo": 398,
+  "data": "14/11/2026",
+  "tamanho": 116653633,
+  "sha256": "9117afade194bc327d194fe2e24f5c25933f218b4fc40b0dd6c91fabe6c700fd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.146.0/Vrumbi-0.146.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.146.0/Vrumbi-relogio-0.146.0.apk",
   "notas": [
-    "Escolha da rota: o mapa gira para a sua posição ficar embaixo e o destino em cima, como quem está indo para lá.",
-    "Os cartões das rotas (15 min, 16 min...) ficaram do tamanho do texto, todos iguais, e o painel deitado deixou de ter espaço sobrando.",
-    "Botões na ordem certa: Salvar como viagem (discreto) em cima, Iniciar navegação grande e em destaque, e Cancelar por último."
+    "Janelas no mesmo lado da tela (player e Contatos) agora ficam encostadas uma na outra, cada uma com o tamanho que precisa: em pé, a faixa do player em cima e os Contatos logo abaixo, na largura toda; deitado, a coluna do player, a dos Contatos e o mapa. Acabou o espaço vazio que sobrava quando o player estava recolhido."
   ],
   "versoes": [
+    {
+      "versao": "0.146.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Janelas no mesmo lado da tela (player e Contatos) agora ficam encostadas uma na outra, cada uma com o tamanho que precisa: em pé, a faixa do player em cima e os Contatos logo abaixo, na largura toda; deitado, a coluna do player, a dos Contatos e o mapa. Acabou o espaço vazio que sobrava quando o player estava recolhido."
+      ],
+      "en": [
+        "Windows on the same side of the screen (player and Contacts) now sit against each other, each with the size it needs: in portrait, the player strip on top and Contacts right below, full width; in landscape, the player column, the Contacts column and the map. No more empty space when the player is collapsed."
+      ],
+      "es": [
+        "Las ventanas del mismo lado de la pantalla (reproductor y Contactos) ahora quedan pegadas una a la otra, cada una con el tamaño que necesita: de pie, la franja del reproductor arriba y Contactos justo debajo, a todo el ancho; acostado, la columna del reproductor, la de Contactos y el mapa. Se acabó el espacio vacío cuando el reproductor está recogido."
+      ]
+    },
     {
       "versao": "0.145.0",
       "data": "13/11/2026",
@@ -184,19 +195,6 @@
       ],
       "es": [
         "Reloj: Avisar desde la muñeca. En la pantalla de la ruta (y en modo libre), el botón Avisar abre las alertas más comunes -- bache, objeto en la vía, accidente, tráfico parado, vehículo detenido, control, radar móvil e inundación. Un toque y el celular la marca en el punto y en el sentido en que vas, para todos los conductores."
-      ]
-    },
-    {
-      "versao": "0.135.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: a complicação \"Vrumbi · Rota\" para o mostrador. Na rota, a seta e a distância da próxima manobra (no formato longo, também a instrução; no de arco, o progresso da viagem); no modo livre, a sua velocidade. Tocar nela abre a navegação no relógio. Para pôr: segure o mostrador, Personalizar, escolha um espaço de complicação e \"Vrumbi · Rota\"."
-      ],
-      "en": [
-        "Watch: the \"Vrumbi · Route\" complication for your watch face. On a route, the arrow and distance of the next turn (the long format also shows the instruction; the arc format, the trip progress); in free drive, your speed. Tap it to open navigation on the watch. To add it: long-press the watch face, Customize, pick a complication slot and \"Vrumbi · Route\"."
-      ],
-      "es": [
-        "Reloj: la complicación \"Vrumbi · Ruta\" para la esfera. En la ruta, la flecha y la distancia de la próxima maniobra (en el formato largo, también la instrucción; en el de arco, el progreso del viaje); en modo libre, tu velocidad. Al tocarla se abre la navegación en el reloj. Para ponerla: mantén pulsada la esfera, Personalizar, elige un espacio de complicación y \"Vrumbi · Ruta\"."
       ]
     }
   ]
