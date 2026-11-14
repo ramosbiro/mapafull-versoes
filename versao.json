@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.148.0",
-  "codigo": 400,
+  "versao": "0.149.0",
+  "codigo": 401,
   "data": "14/11/2026",
-  "tamanho": 116664985,
-  "sha256": "5ca4cf90f8bb0ed7866ff98f37ede7f44e06fa15edcb4db7c58f30d0cbbf6162",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.148.0/Vrumbi-0.148.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.148.0/Vrumbi-relogio-0.148.0.apk",
+  "tamanho": 116674461,
+  "sha256": "bd32f13e7d7397eded3e4365ca28c615e619cc3a39dd05ae68c4954d29b81c5b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.149.0/Vrumbi-0.149.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.149.0/Vrumbi-relogio-0.149.0.apk",
   "notas": [
-    "Aviso de passagem de nível: na rota, o Vrumbi mostra e fala o cruzamento com trilho à frente, dizendo se tem cancela, sinal luminoso ou nada (aí, olhe para os dois lados). Os dados vêm do OpenStreetMap, uma vez por rota.",
-    "Liga e desliga em Ajustes rápidos > Avisos > Passagem de nível (vem ligado)."
+    "Unidades de medida: quilômetros ou milhas na tela e na voz -- distâncias (pés e milhas), velocímetro e placas em mph, limite, radares e curvas. No Automático, o Vrumbi segue o país do idioma do celular (milhas nos EUA e no Reino Unido).",
+    "Fica em Ajustes rápidos > Navegação > Unidades de medida."
   ],
   "versoes": [
+    {
+      "versao": "0.149.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Unidades de medida: quilômetros ou milhas na tela e na voz -- distâncias (pés e milhas), velocímetro e placas em mph, limite, radares e curvas. No Automático, o Vrumbi segue o país do idioma do celular (milhas nos EUA e no Reino Unido).",
+        "Fica em Ajustes rápidos > Navegação > Unidades de medida."
+      ],
+      "en": [
+        "Units of measure: kilometers or miles on screen and in the voice -- distances (feet and miles), speedometer and signs in mph, speed limit, cameras and curves. On Automatic, Vrumbi follows the country of the phone language (miles in the US and the UK).",
+        "It is in Quick settings > Navigation > Units of measure."
+      ],
+      "es": [
+        "Unidades de medida: kilómetros o millas en la pantalla y en la voz -- distancias (pies y millas), velocímetro y señales en mph, límite, radares y curvas. En Automático, Vrumbi sigue el país del idioma del celular (millas en EE. UU. y el Reino Unido).",
+        "Está en Ajustes rápidos > Navegación > Unidades de medida."
+      ]
+    },
     {
       "versao": "0.148.0",
       "data": "14/11/2026",
@@ -189,19 +205,6 @@
       ],
       "es": [
         "Reloj: el minimapa. En la pantalla de la ruta del reloj (y en modo libre), justo debajo de la maniobra, el mapa de la navegación con tu flecha, actualizado por el celular cada 5 segundos. Se puede apagar en Ajustes > Ruta y conducción, en el reloj."
-      ]
-    },
-    {
-      "versao": "0.138.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Relógio: o carro estacionado. Na tela da rota do relógio, o cartão \"Meu carro\" mostra a que distância e para que lado ele ficou e há quanto tempo; tocar nele já começa a rota até o carro pelo celular. Marcou ou tirou o carro no celular, o relógio fica sabendo na hora."
-      ],
-      "en": [
-        "Watch: your parked car. On the watch route screen, the \"My car\" card shows how far it is, in which direction and how long ago you parked; tap it and the phone starts the route to the car. Mark or clear the car on the phone and the watch knows right away."
-      ],
-      "es": [
-        "Reloj: el auto estacionado. En la pantalla de la ruta del reloj, la tarjeta \"Mi auto\" muestra a qué distancia y hacia dónde quedó y hace cuánto; al tocarla, el celular empieza la ruta hasta el auto. Marcaste o quitaste el auto en el celular y el reloj lo sabe al instante."
       ]
     }
   ]
