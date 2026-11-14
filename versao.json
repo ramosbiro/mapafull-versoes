@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.151.0",
-  "codigo": 403,
+  "versao": "0.152.0",
+  "codigo": 404,
   "data": "14/11/2026",
-  "tamanho": 116685097,
-  "sha256": "85953dddb7ec65b6f29819b23511f95cb0104a6b10f0d028f574bda94f6ac1c4",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.151.0/Vrumbi-0.151.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.151.0/Vrumbi-relogio-0.151.0.apk",
+  "tamanho": 116791362,
+  "sha256": "66407e950ac73cd57dac1347593dbb943453bc542c8f59d7451ab47b2cc50ddd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.152.0/Vrumbi-0.152.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.152.0/Vrumbi-relogio-0.152.0.apk",
   "notas": [
-    "Perto do destino: chegando (a 1,5 km), o Vrumbi pergunta onde estacionar e mostra estacionamentos, postos e onde comer em volta do destino, o mais perto primeiro. Tocar leva até lá. Também no cartão de chegada.",
-    "Funciona sem internet (a busca local do app)."
+    "Risco onde você estaciona: ao marcar o carro (chegando de uma rota ou à mão), o Vrumbi diz o risco para o veículo ali -- baixo, moderado, alto ou muito alto -- com quantos roubos e furtos de veículos houve a até 300 m nos últimos 3 meses e uma dica. Dados públicos da SSP-SP, estado de São Paulo, sem internet. Também na ficha Meu carro; liga e desliga em Ajustes rápidos > Avisos.",
+    "Janelas encaixadas (player, Contatos) ficam com os cantos retos; borda redonda só na janela solta. Os botões da divisa (trocar, soltar, fechar) não ficam mais cortados embaixo da outra janela."
   ],
   "versoes": [
+    {
+      "versao": "0.152.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Risco onde você estaciona: ao marcar o carro (chegando de uma rota ou à mão), o Vrumbi diz o risco para o veículo ali -- baixo, moderado, alto ou muito alto -- com quantos roubos e furtos de veículos houve a até 300 m nos últimos 3 meses e uma dica. Dados públicos da SSP-SP, estado de São Paulo, sem internet. Também na ficha Meu carro; liga e desliga em Ajustes rápidos > Avisos.",
+        "Janelas encaixadas (player, Contatos) ficam com os cantos retos; borda redonda só na janela solta. Os botões da divisa (trocar, soltar, fechar) não ficam mais cortados embaixo da outra janela."
+      ],
+      "en": [
+        "Risk where you park: when you mark the car (arriving from a route or by hand), Vrumbi tells the risk for the vehicle there -- low, moderate, high or very high -- with how many vehicle thefts and robberies happened within 300 m in the last 3 months and a tip. Public data from SSP-SP, São Paulo state, works offline. Also in My car; turn it on or off in Quick settings > Alerts.",
+        "Docked windows (player, Contacts) now have square corners; rounded corners only on floating windows. The divider buttons (swap, undock, close) are no longer cut off under the other window."
+      ],
+      "es": [
+        "Riesgo donde estacionas: al marcar el auto (llegando de una ruta o a mano), Vrumbi dice el riesgo para el vehículo allí -- bajo, moderado, alto o muy alto -- con cuántos robos y hurtos de vehículos hubo a menos de 300 m en los últimos 3 meses y un consejo. Datos públicos de la SSP-SP, estado de São Paulo, sin internet. También en Mi auto; se activa en Ajustes rápidos > Avisos.",
+        "Las ventanas acopladas (reproductor, Contactos) quedan con esquinas rectas; borde redondeado solo en la ventana suelta. Los botones de la división (cambiar, soltar, cerrar) ya no quedan cortados debajo de la otra ventana."
+      ]
+    },
     {
       "versao": "0.151.0",
       "data": "14/11/2026",
@@ -192,22 +208,6 @@
         "Vrumbi responde más rápido: cuando abres su ventana, el cerebro se prepara mientras hablas. En la prueba, la primera palabra de la respuesta bajó de 8,8 s a 1,7 s.",
         "Las preguntas de conocimiento (\"¿cuál es la capital de Francia?\", \"¿quién descubrió Brasil?\") van al cerebro, ya no a la búsqueda de lugares. Si no termina a tiempo, te avisa y pide que preguntes de nuevo.",
         "Ajustes > Cerebro de Vrumbi: elige dónde funciona (Automático, Tarjeta gráfica o Procesador) y compara con Probar la velocidad. En algunos celulares el procesador es más rápido."
-      ]
-    },
-    {
-      "versao": "0.141.0",
-      "data": "13/11/2026",
-      "itens": [
-        "Pontos cardio, como no Google Fit: cada minuto de treino moderado vale 1 ponto e cada minuto vigoroso, 2 (pelos batimentos quando houver; senão pela intensidade do esporte). A meta da semana é 150 pontos, a recomendação da OMS. Aparecem no painel de metas (Treino) e no resumo de cada treino.",
-        "Hora de dormir sugerida (Saúde > Sono): com o relógio medindo o seu sono, o Vrumbi vê a hora em que você costuma acordar e sugere a hora de deitar para dormir 8 h. Mostra também a média de quando você deita e quanto dorme."
-      ],
-      "en": [
-        "Heart Points, like Google Fit: each minute of moderate training is worth 1 point and each vigorous minute, 2 (by heart rate when available; otherwise by the sport intensity). The weekly goal is 150 points, the WHO recommendation. They show on the goals panel (Workout) and on each workout summary.",
-        "Suggested bedtime (Health > Sleep): with the watch measuring your sleep, Vrumbi sees when you usually wake up and suggests when to go to bed to get 8 h. It also shows your average bedtime and sleep length."
-      ],
-      "es": [
-        "Puntos cardio, como en Google Fit: cada minuto de entreno moderado vale 1 punto y cada minuto vigoroso, 2 (por las pulsaciones cuando las hay; si no, por la intensidad del deporte). La meta semanal es 150 puntos, la recomendación de la OMS. Aparecen en el panel de metas (Entreno) y en el resumen de cada entreno.",
-        "Hora de dormir sugerida (Salud > Sueño): con el reloj midiendo tu sueño, Vrumbi ve a qué hora sueles despertar y sugiere la hora de acostarte para dormir 8 h. También muestra tu promedio de hora de acostarte y de sueño."
       ]
     }
   ]
