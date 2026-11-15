@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.168.0",
-  "codigo": 420,
-  "data": "14/11/2026",
-  "tamanho": 117863310,
-  "sha256": "17e0bfacf5e15eede365676fd31d5a6fa2c9c21add27a2f2879ccc4be91d8d0a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.168.0/Vrumbi-0.168.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.168.0/Vrumbi-relogio-0.168.0.apk",
+  "versao": "0.169.0",
+  "codigo": 421,
+  "data": "15/11/2026",
+  "tamanho": 117866966,
+  "sha256": "d86762d8cee5b619d9582a6e6df12d31490d65b5886e72bfbb39393e7644d38e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.169.0/Vrumbi-0.169.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.169.0/Vrumbi-relogio-0.169.0.apk",
   "notas": [
-    "Novo: Carro conectado (OBD2). Com um adaptador OBD2 Bluetooth no conector do carro, o Vrumbi mostra ao vivo a velocidade real, o giro do motor, o combustível no tanque, a temperatura, a bateria, o consumo e o que mais o carro tiver. Fica no Menu > Navegação.",
-    "Defeitos do carro: o Vrumbi lê os códigos (confirmados, pendentes e permanentes), explica cada um com as causas mais comuns e o que se nota, mostra se a luz de injeção está acesa e pode apagar os códigos.",
-    "Avisos do carro: defeito novo, motor esquentando, bateria sem carregar e combustível na reserva. Com o adaptador, o velocímetro usa a velocidade do painel do carro.",
-    "Funciona com adaptadores de Bluetooth comum (ELM327) e de Bluetooth 4.0. Sem adaptador, dá para ver tudo na demonstração."
+    "Novo: relevo do terreno no mapa (Configurações > Mapa 3D). Sombreado deixa morros e serras desenhados por baixo das ruas; 3D levanta o terreno de verdade, e a seta da posição anda em cima dele. Precisa de internet; vem desligado."
   ],
   "versoes": [
+    {
+      "versao": "0.169.0",
+      "data": "15/11/2026",
+      "itens": [
+        "Novo: relevo do terreno no mapa (Configurações > Mapa 3D). Sombreado deixa morros e serras desenhados por baixo das ruas; 3D levanta o terreno de verdade, e a seta da posição anda em cima dele. Precisa de internet; vem desligado."
+      ],
+      "en": [
+        "New: terrain relief on the map (Settings > 3D map). Shaded draws hills and mountains under the streets; 3D raises the terrain for real, and the position arrow drives on top of it. Needs internet; off by default."
+      ],
+      "es": [
+        "Nuevo: relieve del terreno en el mapa (Configuración > Mapa 3D). Sombreado dibuja cerros y sierras debajo de las calles; 3D levanta el terreno de verdad, y la flecha de la posición anda encima de él. Necesita internet; viene apagado."
+      ]
+    },
     {
       "versao": "0.168.0",
       "data": "14/11/2026",
@@ -179,19 +189,6 @@
         "Las ventanas lado a lado ya no bajan solas hasta el final de la pantalla; arrastrar el borde de una cambia la altura de las dos juntas.",
         "Acoplar al borde es más rápido: con la ventana ya tocando el borde, basta seguir empujando y aparece el acople (antes el dedo tenía que llegar casi al borde).",
         "Contactos: el botón de ventanas quedó alineado y del tamaño de la X."
-      ]
-    },
-    {
-      "versao": "0.157.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Duas janelas grudadas no mesmo lado agora podem ficar uma ao lado da outra (dividindo a faixa, como na primeira versão) ou uma embaixo da outra: toque na borda entre elas e escolha no gerenciador. A escolha fica guardada."
-      ],
-      "en": [
-        "Two windows docked on the same side can now sit side by side (sharing the strip, like the first version) or one below the other: tap the border between them and choose in the manager. The choice is saved."
-      ],
-      "es": [
-        "Dos ventanas acopladas en el mismo lado ahora pueden quedar una al lado de la otra (dividiendo la franja, como en la primera versión) o una debajo de la otra: toca el borde entre ellas y elige en el administrador. La elección queda guardada."
       ]
     }
   ]
