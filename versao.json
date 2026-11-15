@@ -1,16 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.167.0",
-  "codigo": 419,
+  "versao": "0.168.0",
+  "codigo": 420,
   "data": "14/11/2026",
-  "tamanho": 116803206,
-  "sha256": "838a4368d0351663f4cb48678b01ea0c28bde5b4911de56ffaddb64e1f527fb7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.167.0/Vrumbi-0.167.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.167.0/Vrumbi-relogio-0.167.0.apk",
+  "tamanho": 117863310,
+  "sha256": "17e0bfacf5e15eede365676fd31d5a6fa2c9c21add27a2f2879ccc4be91d8d0a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.168.0/Vrumbi-0.168.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.168.0/Vrumbi-relogio-0.168.0.apk",
   "notas": [
-    "Celular deitado com o player (ou outra janela) encostado na lateral: a coluna agora soma o espaço da câmera e os ícones não saem mais cortados; os botões da janela ficam no meio da parte que se vê."
+    "Novo: Carro conectado (OBD2). Com um adaptador OBD2 Bluetooth no conector do carro, o Vrumbi mostra ao vivo a velocidade real, o giro do motor, o combustível no tanque, a temperatura, a bateria, o consumo e o que mais o carro tiver. Fica no Menu > Navegação.",
+    "Defeitos do carro: o Vrumbi lê os códigos (confirmados, pendentes e permanentes), explica cada um com as causas mais comuns e o que se nota, mostra se a luz de injeção está acesa e pode apagar os códigos.",
+    "Avisos do carro: defeito novo, motor esquentando, bateria sem carregar e combustível na reserva. Com o adaptador, o velocímetro usa a velocidade do painel do carro.",
+    "Funciona com adaptadores de Bluetooth comum (ELM327) e de Bluetooth 4.0. Sem adaptador, dá para ver tudo na demonstração."
   ],
   "versoes": [
+    {
+      "versao": "0.168.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Novo: Carro conectado (OBD2). Com um adaptador OBD2 Bluetooth no conector do carro, o Vrumbi mostra ao vivo a velocidade real, o giro do motor, o combustível no tanque, a temperatura, a bateria, o consumo e o que mais o carro tiver. Fica no Menu > Navegação.",
+        "Defeitos do carro: o Vrumbi lê os códigos (confirmados, pendentes e permanentes), explica cada um com as causas mais comuns e o que se nota, mostra se a luz de injeção está acesa e pode apagar os códigos.",
+        "Avisos do carro: defeito novo, motor esquentando, bateria sem carregar e combustível na reserva. Com o adaptador, o velocímetro usa a velocidade do painel do carro.",
+        "Funciona com adaptadores de Bluetooth comum (ELM327) e de Bluetooth 4.0. Sem adaptador, dá para ver tudo na demonstração."
+      ],
+      "en": [
+        "New: Connected car (OBD2). With a Bluetooth OBD2 adapter in the car port, Vrumbi shows live the real speed, engine RPM, fuel level, temperature, battery, fuel economy and whatever else the car reports. It is in Menu > Navigation.",
+        "Car faults: Vrumbi reads the trouble codes (stored, pending and permanent), explains each one with the most common causes and symptoms, shows whether the check engine light is on and can clear the codes.",
+        "Car alerts: new fault, engine overheating, battery not charging and low fuel. With the adapter, the speedometer uses the car dashboard speed.",
+        "Works with classic Bluetooth (ELM327) and Bluetooth 4.0 adapters. Without an adapter, you can see everything in the demo."
+      ],
+      "es": [
+        "Nuevo: Auto conectado (OBD2). Con un adaptador OBD2 Bluetooth en el conector del auto, Vrumbi muestra en vivo la velocidad real, las revoluciones del motor, el combustible, la temperatura, la batería, el consumo y lo demás que el auto informe. Está en Menú > Navegación.",
+        "Fallas del auto: Vrumbi lee los códigos (confirmados, pendientes y permanentes), explica cada uno con las causas más comunes y los síntomas, muestra si la luz de check engine está encendida y puede borrar los códigos.",
+        "Avisos del auto: falla nueva, motor recalentando, batería sin cargar y reserva de combustible. Con el adaptador, el velocímetro usa la velocidad del tablero del auto.",
+        "Funciona con adaptadores de Bluetooth clásico (ELM327) y Bluetooth 4.0. Sin adaptador, se puede ver todo en la demostración."
+      ]
+    },
     {
       "versao": "0.167.0",
       "data": "14/11/2026",
@@ -167,22 +192,6 @@
       ],
       "es": [
         "Dos ventanas acopladas en el mismo lado ahora pueden quedar una al lado de la otra (dividiendo la franja, como en la primera versión) o una debajo de la otra: toca el borde entre ellas y elige en el administrador. La elección queda guardada."
-      ]
-    },
-    {
-      "versao": "0.156.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Contatos com o mesmo gerenciamento do player: o botão de janelas no alto escolhe o tamanho, encaixar num canto ou encaixar numa borda (em cima, embaixo, nas laterais).",
-        "Player encaixado: passou da altura de uma linha de controles, ele já mostra a listagem completa -- acabou o espaço em branco em volta da barrinha."
-      ],
-      "en": [
-        "Contacts with the same window management as the player: the windows button at the top picks the size, docking in a corner or docking on an edge (top, bottom, sides).",
-        "Docked player: once taller than one row of controls, it shows the full list -- no more empty space around the control strip."
-      ],
-      "es": [
-        "Contactos con la misma gestión de ventana que el reproductor: el botón de ventanas arriba elige el tamaño, acoplar en una esquina o en un borde (arriba, abajo, laterales).",
-        "Reproductor acoplado: al pasar la altura de una fila de controles, ya muestra la lista completa -- se acabó el espacio en blanco alrededor de la barrita."
       ]
     }
   ]
