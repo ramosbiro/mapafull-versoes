@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.166.0",
-  "codigo": 418,
+  "versao": "0.167.0",
+  "codigo": 419,
   "data": "14/11/2026",
-  "tamanho": 116802702,
-  "sha256": "7f087543a0d87eb2bd953f358a426583ff6c9942ff533b21cf0865eac0911532",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.166.0/Vrumbi-0.166.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.166.0/Vrumbi-relogio-0.166.0.apk",
+  "tamanho": 116803206,
+  "sha256": "838a4368d0351663f4cb48678b01ea0c28bde5b4911de56ffaddb64e1f527fb7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.167.0/Vrumbi-0.167.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.167.0/Vrumbi-relogio-0.167.0.apk",
   "notas": [
-    "Player encostado na lateral fina ou na faixa, com música tocando: agora aparecem a capa e os botões anterior, tocar/pausar e próxima (antes a coluna ficava vazia). Pausou por ali, os botões ficam alguns segundos para voltar a tocar; depois voltam os ícones dos apps."
+    "Celular deitado com o player (ou outra janela) encostado na lateral: a coluna agora soma o espaço da câmera e os ícones não saem mais cortados; os botões da janela ficam no meio da parte que se vê."
   ],
   "versoes": [
+    {
+      "versao": "0.167.0",
+      "data": "14/11/2026",
+      "itens": [
+        "Celular deitado com o player (ou outra janela) encostado na lateral: a coluna agora soma o espaço da câmera e os ícones não saem mais cortados; os botões da janela ficam no meio da parte que se vê."
+      ],
+      "en": [
+        "Phone in landscape with the player (or another window) docked on the side: the column now adds the camera area to its width, so the icons are no longer cut off; the window buttons sit in the middle of the visible part."
+      ],
+      "es": [
+        "Celular acostado con el reproductor (u otra ventana) pegado al costado: la columna ahora suma el espacio de la cámara y los íconos ya no salen cortados; los botones de la ventana quedan en el medio de la parte visible."
+      ]
+    },
     {
       "versao": "0.166.0",
       "data": "14/11/2026",
@@ -170,19 +183,6 @@
       "es": [
         "Contactos con la misma gestión de ventana que el reproductor: el botón de ventanas arriba elige el tamaño, acoplar en una esquina o en un borde (arriba, abajo, laterales).",
         "Reproductor acoplado: al pasar la altura de una fila de controles, ya muestra la lista completa -- se acabó el espacio en blanco alrededor de la barrita."
-      ]
-    },
-    {
-      "versao": "0.155.0",
-      "data": "14/11/2026",
-      "itens": [
-        "O gerenciador da borda voltou: tocar na borda entre duas janelas encaixadas abre os botões trocar de lugar, soltar (vira janela movimentável) e fechar -- agora menores e sempre inteiros, por cima das janelas."
-      ],
-      "en": [
-        "The divider manager is back: tapping the border between two docked windows opens the swap, undock (becomes a movable window) and close buttons -- now smaller and always whole, on top of the windows."
-      ],
-      "es": [
-        "Volvió el administrador del borde: tocar el borde entre dos ventanas acopladas abre los botones cambiar de lugar, soltar (se vuelve ventana movible) y cerrar -- ahora más pequeños y siempre enteros, encima de las ventanas."
       ]
     }
   ]
