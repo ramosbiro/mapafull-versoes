@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.171.0",
-  "codigo": 423,
+  "versao": "0.172.0",
+  "codigo": 424,
   "data": "16/11/2026",
-  "tamanho": 117913486,
-  "sha256": "ae7f1db5e652879587929ad1dcf5f2ecd8d4f3cec5ee305fbdde81acc9d2a879",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.171.0/Vrumbi-0.171.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.171.0/Vrumbi-relogio-0.171.0.apk",
+  "tamanho": 117917266,
+  "sha256": "17cd6a740b1918713cbdf24f46011f294981292edd09789526b5cd7b3eb6c941",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.172.0/Vrumbi-0.172.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.172.0/Vrumbi-relogio-0.172.0.apk",
   "notas": [
-    "Modo caminhão: zona de restrição de São Paulo (ZMRC), pelo contorno oficial da CET. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido (seg a sex 5h às 21h, sáb 10h às 14h). VUC fica liberado, como manda a regra."
+    "Novo: hora e coordenadas na tela, embaixo do clima (Ajustes rápidos > Mapa > Hora na tela / Coordenadas).",
+    "Novo: tela cheia, sem as barras do Android; deslizar da borda mostra de novo (Ajustes rápidos > Mapa > Tela cheia).",
+    "Modo caminhão: limite legal de 140 países (antes 57), cada um com a fonte oficial — África, América Central, Caribe, Oceania e o resto da Europa."
   ],
   "versoes": [
+    {
+      "versao": "0.172.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Novo: hora e coordenadas na tela, embaixo do clima (Ajustes rápidos > Mapa > Hora na tela / Coordenadas).",
+        "Novo: tela cheia, sem as barras do Android; deslizar da borda mostra de novo (Ajustes rápidos > Mapa > Tela cheia).",
+        "Modo caminhão: limite legal de 140 países (antes 57), cada um com a fonte oficial — África, América Central, Caribe, Oceania e o resto da Europa."
+      ],
+      "en": [
+        "New: clock and coordinates on screen, below the weather (Quick settings > Map > Clock on screen / Coordinates).",
+        "New: full screen, without the Android bars; swipe from the edge to show them (Quick settings > Map > Full screen).",
+        "Truck mode: legal limits for 140 countries (was 57), each with its official source — Africa, Central America, the Caribbean, Oceania and the rest of Europe."
+      ],
+      "es": [
+        "Nuevo: hora y coordenadas en pantalla, debajo del clima (Ajustes rápidos > Mapa > Hora en pantalla / Coordenadas).",
+        "Nuevo: pantalla completa, sin las barras de Android; deslizar desde el borde las muestra (Ajustes rápidos > Mapa > Pantalla completa).",
+        "Modo camión: límite legal de 140 países (antes 57), cada uno con su fuente oficial — África, Centroamérica, el Caribe, Oceanía y el resto de Europa."
+      ]
+    },
     {
       "versao": "0.171.0",
       "data": "16/11/2026",
@@ -173,22 +194,6 @@
       ],
       "es": [
         "Ventanas lado a lado: el administrador de la barra entre ellas ahora queda vertical, con los botones uno debajo del otro a lo largo de la barra (antes se abría acostado, atravesado en medio de las ventanas)."
-      ]
-    },
-    {
-      "versao": "0.160.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Janelas lado a lado: a barra entre elas abre o gerenciador ao tocar -- soltar e fechar cada uma, trocar a ordem e colocar uma em cima da outra. A barra com o mapa só muda o tamanho.",
-        "Player no tamanho mínimo nunca fica vazio: sem música, a coluna fina vira uma barra de atalhos (os apps de música um embaixo do outro, como a barra Edge) e a faixa baixa mostra os mesmos ícones. Saiu o botão de expandir, que repetia o gerenciador."
-      ],
-      "en": [
-        "Side-by-side windows: the bar between them opens the manager when tapped -- undock and close each one, swap the order and put one above the other. The bar next to the map only resizes.",
-        "The player at minimum size is never empty: with no music, the thin column becomes a shortcut bar (music apps stacked, like an Edge panel) and the low strip shows the same icons. The expand button, which repeated the manager, is gone."
-      ],
-      "es": [
-        "Ventanas lado a lado: la barra entre ellas abre el administrador al tocarla -- soltar y cerrar cada una, cambiar el orden y poner una encima de la otra. La barra junto al mapa solo cambia el tamaño.",
-        "El reproductor en tamaño mínimo nunca queda vacío: sin música, la columna angosta se vuelve una barra de atajos (las apps de música una debajo de otra, como el panel Edge) y la franja baja muestra los mismos íconos. Se quitó el botón de expandir, que repetía el administrador."
       ]
     }
   ]
