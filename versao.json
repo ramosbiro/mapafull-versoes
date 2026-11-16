@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.189.0",
-  "codigo": 441,
+  "versao": "0.190.0",
+  "codigo": 442,
   "data": "16/11/2026",
-  "tamanho": 120483621,
-  "sha256": "5cffb8b129e8dea22541d2919829bf6da34cf9fa3f6c6145a68f4376a2410f09",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.189.0/Vrumbi-0.189.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.189.0/Vrumbi-relogio-0.189.0.apk",
+  "tamanho": 120501241,
+  "sha256": "64dc9aa2e347ed85c03fb7814eae52c9eda1f1d7a3f43d0335cd8c742d6a5a26",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.190.0/Vrumbi-0.190.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.190.0/Vrumbi-relogio-0.190.0.apk",
   "notas": [
-    "Carro conectado: o alfinete nos dados do fabricante leva o dado (pressão do pneu, óleo do câmbio, bateria do híbrido...) para o painel Ao vivo e para o Cockpit do Painel de bordo."
+    "Vrumbi e o Carro conectado: pergunte \"como está o carro?\", \"qual a temperatura do motor?\", \"quanto tem no tanque?\", \"qual a pressão dos pneus?\", \"como está a bateria do carro?\" ou \"qual a minha nota?\" e ele responde com os dados do próprio carro."
   ],
   "versoes": [
+    {
+      "versao": "0.190.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Vrumbi e o Carro conectado: pergunte \"como está o carro?\", \"qual a temperatura do motor?\", \"quanto tem no tanque?\", \"qual a pressão dos pneus?\", \"como está a bateria do carro?\" ou \"qual a minha nota?\" e ele responde com os dados do próprio carro."
+      ],
+      "en": [
+        "Vrumbi and the connected car: ask \"how is the car?\", \"what's the engine temperature?\", \"how much is in the tank?\", \"what's the tire pressure?\", \"how is the car battery?\" or \"what's my score?\" and it answers with the car's own data."
+      ],
+      "es": [
+        "Vrumbi y el auto conectado: pregunta \"¿cómo está el auto?\", \"¿cuál es la temperatura del motor?\", \"¿cuánto hay en el depósito?\", \"¿cuál es la presión de los neumáticos?\", \"¿cómo está la batería del auto?\" o \"¿cuál es mi nota?\" y responde con los datos del propio auto."
+      ]
+    },
     {
       "versao": "0.189.0",
       "data": "16/11/2026",
@@ -176,19 +189,6 @@
       ],
       "es": [
         "Zonas de bajas emisiones del mundo (226, casi todas en Europa) en modo camión: Vrumbi avisa antes de entrar y dice la clase Euro exigida. En la ficha del camión (Mis vehículos), elige la \"Clase de emisión\" (Euro III a Euro VI); si la tuya es menor que la exigida, el aviso dice que el camión no puede entrar. Los camiones eléctricos pasan."
-      ]
-    },
-    {
-      "versao": "0.178.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: zona de restrição de Salvador (Centro, Barra, Graça, Rio Vermelho e a orla até o Jardim dos Namorados): caminhão com mais de 6,5 m ou 2,2 m de largura não circula de seg a sex 6h–10h e 17h–20h, nem sábado 6h–10h. VUC liberado."
-      ],
-      "en": [
-        "Truck mode: Salvador restriction zone (downtown, Barra, Graça, Rio Vermelho and the seafront up to Jardim dos Namorados): trucks over 6.5 m long or 2.2 m wide may not drive Mon–Fri 6–10 am and 5–8 pm, or Saturday 6–10 am. Light urban trucks (VUC) allowed."
-      ],
-      "es": [
-        "Modo camión: zona de restricción de Salvador (Centro, Barra, Graça, Rio Vermelho y la costanera hasta el Jardim dos Namorados): camiones de más de 6,5 m o 2,2 m de ancho no circulan lun a vie 6–10 h y 17–20 h, ni sábado 6–10 h. VUC permitido."
       ]
     }
   ]
