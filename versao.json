@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.188.0",
-  "codigo": 440,
+  "versao": "0.189.0",
+  "codigo": 441,
   "data": "16/11/2026",
-  "tamanho": 120480577,
-  "sha256": "538f39f271526ed4848e2ea0b6c3b18a57fcfb1c663d8a9d5778893f6570a236",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.188.0/Vrumbi-0.188.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.188.0/Vrumbi-relogio-0.188.0.apk",
+  "tamanho": 120483621,
+  "sha256": "5cffb8b129e8dea22541d2919829bf6da34cf9fa3f6c6145a68f4376a2410f09",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.189.0/Vrumbi-0.189.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.189.0/Vrumbi-relogio-0.189.0.apk",
   "notas": [
-    "Modo caminhão: mais duas zonas de Campinas -- o Anel Rodoviário (D. Pedro I, Anhanguera e SP-083: acima de 14 m proibido seg–sex 6h–9h e 16h–20h, sáb 9h–14h) e o Distrito de Nova Aparecida (acima de 14 m não passa por dentro, a qualquer hora).",
-    "Risco onde você estaciona: agora também no Rio de Janeiro (por delegacia, ISP-RJ), Espírito Santo e Bahia (por bairro; onde o IBGE não tem bairros, o município). Esses estados não publicam o local exato, então o aviso é da área."
+    "Carro conectado: o alfinete nos dados do fabricante leva o dado (pressão do pneu, óleo do câmbio, bateria do híbrido...) para o painel Ao vivo e para o Cockpit do Painel de bordo."
   ],
   "versoes": [
+    {
+      "versao": "0.189.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: o alfinete nos dados do fabricante leva o dado (pressão do pneu, óleo do câmbio, bateria do híbrido...) para o painel Ao vivo e para o Cockpit do Painel de bordo."
+      ],
+      "en": [
+        "Connected car: the pin on manufacturer readings puts them (tire pressure, transmission oil, hybrid battery...) on the Live panel and in the Dashboard Cockpit."
+      ],
+      "es": [
+        "Auto conectado: el alfiler en los datos del fabricante lleva el dato (presión del neumático, aceite de la caja, batería del híbrido...) al panel En vivo y al Cockpit del Panel de a bordo."
+      ]
+    },
     {
       "versao": "0.188.0",
       "data": "16/11/2026",
@@ -177,19 +189,6 @@
       ],
       "es": [
         "Modo camión: zona de restricción de Salvador (Centro, Barra, Graça, Rio Vermelho y la costanera hasta el Jardim dos Namorados): camiones de más de 6,5 m o 2,2 m de ancho no circulan lun a vie 6–10 h y 17–20 h, ni sábado 6–10 h. VUC permitido."
-      ]
-    },
-    {
-      "versao": "0.177.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: mais duas zonas de restrição — Curitiba (Zona Central de Tráfego: acima de 7 t de carga ou 7 m, dias úteis 9h–19h e sábado 9h–13h30) e Campinas (dentro do Anel Rebouças: acima de 6,30 m, seg a sex 6h–20h e sábado 6h–14h). O contorno segue, rua por rua, o perímetro descrito na norma de cada cidade."
-      ],
-      "en": [
-        "Truck mode: two more restriction zones — Curitiba (Central Traffic Zone: over 7 t payload or 7 m, weekdays 9 am–7 pm and Saturday 9 am–1:30 pm) and Campinas (inside the Rebouças Ring: over 6.30 m, Mon–Fri 6 am–8 pm and Saturday 6 am–2 pm). The outline follows, street by street, the perimeter set out in each city's rule."
-      ],
-      "es": [
-        "Modo camión: dos zonas de restricción más — Curitiba (Zona Central de Tráfico: más de 7 t de carga o 7 m, días hábiles 9–19 h y sábado 9–13:30 h) y Campinas (dentro del Anillo Rebouças: más de 6,30 m, lun a vie 6–20 h y sábado 6–14 h). El contorno sigue, calle por calle, el perímetro descrito en la norma de cada ciudad."
       ]
     }
   ]
