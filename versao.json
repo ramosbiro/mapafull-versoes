@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.190.0",
-  "codigo": 442,
+  "versao": "0.191.0",
+  "codigo": 443,
   "data": "16/11/2026",
-  "tamanho": 120501241,
-  "sha256": "64dc9aa2e347ed85c03fb7814eae52c9eda1f1d7a3f43d0335cd8c742d6a5a26",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.190.0/Vrumbi-0.190.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.190.0/Vrumbi-relogio-0.190.0.apk",
+  "tamanho": 120521278,
+  "sha256": "0b52fbfbea2e9f386c5d866074111cd9dd464964abcafaa469356ab9cc6d529c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.191.0/Vrumbi-0.191.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.191.0/Vrumbi-relogio-0.191.0.apk",
   "notas": [
-    "Vrumbi e o Carro conectado: pergunte \"como está o carro?\", \"qual a temperatura do motor?\", \"quanto tem no tanque?\", \"qual a pressão dos pneus?\", \"como está a bateria do carro?\" ou \"qual a minha nota?\" e ele responde com os dados do próprio carro."
+    "Risco onde você estaciona: agora também no Distrito Federal, por Região Administrativa (SSP-DF: roubo de veículo e furto de objetos de dentro do carro)."
   ],
   "versoes": [
+    {
+      "versao": "0.191.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Risco onde você estaciona: agora também no Distrito Federal, por Região Administrativa (SSP-DF: roubo de veículo e furto de objetos de dentro do carro)."
+      ],
+      "en": [
+        "Risk where you park: now also in the Federal District, by Administrative Region (SSP-DF: vehicle robbery and theft from inside cars)."
+      ],
+      "es": [
+        "Riesgo donde estacionas: ahora también en el Distrito Federal, por Región Administrativa (SSP-DF: robo de vehículo y hurto de objetos de dentro del auto)."
+      ]
+    },
     {
       "versao": "0.190.0",
       "data": "16/11/2026",
@@ -176,19 +189,6 @@
       ],
       "es": [
         "Pídele a Vrumbi las novedades: \"activa el modo camión\", \"mi camión es Euro 5\", \"pantalla completa\", \"muestra las coordenadas\", \"hora en la pantalla\", \"relieve en 3D\" o \"desactiva el relieve\"."
-      ]
-    },
-    {
-      "versao": "0.179.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Zonas de baixa emissão do mundo (226, quase todas na Europa) no modo caminhão: o Vrumbi avisa antes de entrar e diz a classe Euro exigida. Na ficha do caminhão (Meus veículos), escolha a \"Classe de emissão\" (Euro III/P5 a Euro VI/P8); com a classe abaixo da exigida, o aviso diz que o caminhão não pode entrar. Caminhão elétrico passa."
-      ],
-      "en": [
-        "Low emission zones worldwide (226, mostly in Europe) in truck mode: Vrumbi warns before you enter and tells you the required Euro class. In the truck profile (My vehicles), choose the \"Emission class\" (Euro III to Euro VI); if yours is below the requirement, the warning says the truck may not enter. Electric trucks pass."
-      ],
-      "es": [
-        "Zonas de bajas emisiones del mundo (226, casi todas en Europa) en modo camión: Vrumbi avisa antes de entrar y dice la clase Euro exigida. En la ficha del camión (Mis vehículos), elige la \"Clase de emisión\" (Euro III a Euro VI); si la tuya es menor que la exigida, el aviso dice que el camión no puede entrar. Los camiones eléctricos pasan."
       ]
     }
   ]
