@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.198.0",
-  "codigo": 450,
+  "versao": "0.199.0",
+  "codigo": 451,
   "data": "16/11/2026",
-  "tamanho": 120656299,
-  "sha256": "9b4a4befaaebd0e9539386ac381f54073a4cc2fc45179717f9045e4ea4934461",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.198.0/Vrumbi-0.198.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.198.0/Vrumbi-relogio-0.198.0.apk",
+  "tamanho": 120660995,
+  "sha256": "a48289f7fd6ded1e730dcaffd241c01a0f48f1686703b044b6df2f8e3b905fc2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.199.0/Vrumbi-0.199.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.199.0/Vrumbi-relogio-0.199.0.apk",
   "notas": [
-    "Busca: os locais comerciais abertos da cidade de Madri (100 mil, com o tipo de cada um), e as licenças de Calgary, New Orleans e Norfolk.",
-    "Sobre o app: a lista de todos os cadastros de empresas usados na busca, com as licenças."
+    "Vrumbi por voz: \"abre o carro conectado\", \"abre portão e casa\", \"modo HUD\", \"abre o cockpit\" e \"conecta o carro\" (liga no adaptador OBD2 salvo)."
   ],
   "versoes": [
+    {
+      "versao": "0.199.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Vrumbi por voz: \"abre o carro conectado\", \"abre portão e casa\", \"modo HUD\", \"abre o cockpit\" e \"conecta o carro\" (liga no adaptador OBD2 salvo)."
+      ],
+      "en": [
+        "Vrumbi by voice: \"open connected car\", \"open gate and home\", \"HUD mode\", \"open the cockpit\" and \"connect the car\" (connects to the saved OBD2 adapter)."
+      ],
+      "es": [
+        "Vrumbi por voz: \"abre el auto conectado\", \"abre portón y casa\", \"modo HUD\", \"abre el cockpit\" y \"conecta el auto\" (se conecta al adaptador OBD2 guardado)."
+      ]
+    },
     {
       "versao": "0.198.0",
       "data": "16/11/2026",
@@ -165,22 +177,6 @@
       "es": [
         "Modo camión: dos zonas más de Campinas -- el Anillo Vial (D. Pedro I, Anhanguera y SP-083: más de 14 m prohibido lun–vie 6–9 h y 16–20 h, sáb 9–14 h) y el Distrito de Nova Aparecida (más de 14 m no pasa por dentro, a cualquier hora).",
         "Riesgo donde estacionas: ahora también en Río de Janeiro (por comisaría), Espírito Santo y Bahía (por barrio, o el municipio entero donde el IBGE no tiene barrios). Estos estados no publican el lugar exacto, así que el aviso es del área."
-      ]
-    },
-    {
-      "versao": "0.187.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Dados do fabricante: agora também as centrais que falam em CAN de 29 bits, com endereço estendido ou sessão de diagnóstico -- entram Honda, BMW e mais modelos de VW, Audi, GM e Renault (645 modelos de 60 marcas).",
-        "Dados do fabricante: os nomes dos dados mais comuns em português e espanhol (pressão e temperatura de cada pneu, velocidade de cada roda, óleo, câmbio, falhas por cilindro...)."
-      ],
-      "en": [
-        "Manufacturer data: now also modules on 29-bit CAN, extended addressing or diagnostic session -- adds Honda, BMW and more VW, Audi, GM and Renault models (645 models from 60 makes).",
-        "Manufacturer data: the most common data names in Portuguese and Spanish."
-      ],
-      "es": [
-        "Datos del fabricante: ahora también las centralitas que hablan en CAN de 29 bits, con dirección extendida o sesión de diagnóstico -- entran Honda, BMW y más modelos de VW, Audi, GM y Renault (645 modelos de 60 marcas).",
-        "Datos del fabricante: los nombres de los datos más comunes en portugués y español (presión y temperatura de cada neumático, velocidad de cada rueda, aceite, caja, fallos por cilindro...)."
       ]
     }
   ]
