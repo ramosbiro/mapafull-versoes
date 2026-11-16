@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.196.0",
-  "codigo": 448,
+  "versao": "0.197.0",
+  "codigo": 449,
   "data": "16/11/2026",
-  "tamanho": 120648819,
-  "sha256": "238ac3b345413b4ec701ac3ffa1673ff3d380e53f9cd0d651d3b6d7be3f133af",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.196.0/Vrumbi-0.196.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.196.0/Vrumbi-relogio-0.196.0.apk",
+  "tamanho": 120655015,
+  "sha256": "4245a664f4c6a532b023bdc232ea2c5e3cc1351ac1f4bd8fe7be455bca6314fa",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.197.0/Vrumbi-0.197.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.197.0/Vrumbi-relogio-0.197.0.apk",
   "notas": [
-    "Portão e casa: com o celular no bolso ou a tela apagada (navegando), a pergunta \"Chegando em casa!\" vem na notificação, com o botão \"Abrir\" direto nela."
+    "Portão e casa: no Home Assistant, o botão \"Buscar portões e portas na central\" lista o que a sua casa tem (portões, portas, fechaduras, relés) para escolher, sem digitar o nome técnico.",
+    "Modo caminhão: Montevidéu, dentro do Anillo Perimetral (Zona B), combinação articulada proibida o dia todo."
   ],
   "versoes": [
+    {
+      "versao": "0.197.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Portão e casa: no Home Assistant, o botão \"Buscar portões e portas na central\" lista o que a sua casa tem (portões, portas, fechaduras, relés) para escolher, sem digitar o nome técnico.",
+        "Modo caminhão: Montevidéu, dentro do Anillo Perimetral (Zona B), combinação articulada proibida o dia todo."
+      ],
+      "en": [
+        "Gate & home: with Home Assistant, the \"Find gates and doors on the hub\" button lists what your home has (gates, doors, locks, relays) to pick, without typing the technical name.",
+        "Truck mode: Montevideo, inside the Anillo Perimetral (Zone B), articulated combinations banned all day."
+      ],
+      "es": [
+        "Portón y casa: con Home Assistant, el botón \"Buscar portones y puertas en la central\" lista lo que tiene tu casa (portones, puertas, cerraduras, relés) para elegir, sin escribir el nombre técnico.",
+        "Modo camión: Montevideo, dentro del Anillo Perimetral (Zona B), combinación articulada prohibida todo el día."
+      ]
+    },
     {
       "versao": "0.196.0",
       "data": "16/11/2026",
@@ -161,25 +178,6 @@
       ],
       "es": [
         "Auto conectado: \"Datos del fabricante\" -- elige el modelo (la marca y el año salen del chasis) y Vrumbi lee también lo que informan las centralitas del auto más allá de lo básico: caja, batería del híbrido o eléctrico, neumáticos, odómetro, puertas y más. 544 modelos de 54 marcas, de la base abierta OBDb."
-      ]
-    },
-    {
-      "versao": "0.185.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: \"Arrumar o painel\" -- escolha quais números aparecem ao vivo e em que ordem.",
-        "Carro conectado: nota de direção econômica da viagem (0 a 100), pelas arrancadas e freadas bruscas, motor ligado parado, giro alto e velocidade, com a dica do que mais pesou.",
-        "Painel de bordo: com o Carro conectado, o Cockpit mostra o giro, a temperatura do motor, o tanque e o consumo, e o HUD mostra o giro."
-      ],
-      "en": [
-        "Connected car: \"Arrange the panel\" -- choose which live numbers appear and in what order.",
-        "Connected car: eco driving score for the trip (0 to 100), from harsh starts and braking, idling, high rpm and speed, with a tip on what weighed most.",
-        "Dashboard: with the connected car, the Cockpit shows rpm, engine temperature, fuel tank and consumption, and the HUD shows rpm."
-      ],
-      "es": [
-        "Auto conectado: \"Organizar el panel\" -- elige qué números aparecen en vivo y en qué orden.",
-        "Auto conectado: nota de conducción económica del viaje (0 a 100), por arrancadas y frenadas bruscas, motor encendido parado, revoluciones altas y velocidad, con el consejo de lo que más pesó.",
-        "Panel de a bordo: con el auto conectado, el Cockpit muestra rpm, temperatura del motor, tanque y consumo, y el HUD muestra las rpm."
       ]
     }
   ]
