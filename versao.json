@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.193.0",
-  "codigo": 445,
+  "versao": "0.194.0",
+  "codigo": 446,
   "data": "16/11/2026",
-  "tamanho": 120565530,
-  "sha256": "661f7cccddfffbc7033d7c1079f95bb89804e5949a2821866d5882ebba640f3c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.193.0/Vrumbi-0.193.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.193.0/Vrumbi-relogio-0.193.0.apk",
+  "tamanho": 120602950,
+  "sha256": "d4a9353c29db411ddbb45d812f360cef052b0f6affbee95e84dab2af5730f710",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.194.0/Vrumbi-0.194.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.194.0/Vrumbi-relogio-0.194.0.apk",
   "notas": [
-    "Carro conectado: mais mil códigos de defeito com o nome em português (4.100 no total), inclusive os de carro elétrico e híbrido."
+    "Modo caminhão fora do Brasil: zonas de restrição de Londres (Lorry Control, acima de 18 t à noite e no fim de semana), Paris (pela área do caminhão no chão), Madri (dentro da M-30 acima de 18 t e Distrito Centro acima de 12 t), Roma (Anello Ferroviario, acima de 7,5 m) e Milão (Area C acima de 7,5 m e Area B acima de 12 m)."
   ],
   "versoes": [
+    {
+      "versao": "0.194.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão fora do Brasil: zonas de restrição de Londres (Lorry Control, acima de 18 t à noite e no fim de semana), Paris (pela área do caminhão no chão), Madri (dentro da M-30 acima de 18 t e Distrito Centro acima de 12 t), Roma (Anello Ferroviario, acima de 7,5 m) e Milão (Area C acima de 7,5 m e Area B acima de 12 m)."
+      ],
+      "en": [
+        "Truck mode outside Brazil: restriction zones in London (Lorry Control, over 18 t at night and weekends), Paris (by the truck footprint), Madrid (inside the M-30 over 18 t and Centro district over 12 t), Rome (Anello Ferroviario, over 7.5 m) and Milan (Area C over 7.5 m and Area B over 12 m)."
+      ],
+      "es": [
+        "Modo camión fuera de Brasil: zonas de restricción de Londres (Lorry Control, más de 18 t de noche y fines de semana), París (por la superficie del camión), Madrid (dentro de la M-30 más de 18 t y Distrito Centro más de 12 t), Roma (Anello Ferroviario, más de 7,5 m) y Milán (Area C más de 7,5 m y Area B más de 12 m)."
+      ]
+    },
     {
       "versao": "0.193.0",
       "data": "16/11/2026",
@@ -170,19 +183,6 @@
         "Auto conectado: \"Pruebas de la central\" (modo 06) -- el resultado de cada sistema que prueba la central del auto (sondas, catalizador, vapores, EGR...) y los fallos de combustión por cilindro, para hallar la bujía, el cable, la bobina o el inyector con problema.",
         "Modo camión: límites legales en 168 países y territorios (además Arabia Saudita, Baréin, Omán, Yemen, Hong Kong, Tailandia, Bután, Timor Oriental, Eritrea, Etiopía, Congo, Mayotte y San Pedro y Miquelón), todos con fuente.",
         "La prohibición para camiones y los defectos del auto quedan siempre en rojo, sea cual sea el color elegido para la app."
-      ]
-    },
-    {
-      "versao": "0.182.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: a 1/4 de milha (402 m) medida sozinha junto do 0 a 100 (o tempo e a velocidade no fim), e \"Exportar a viagem\" em planilha CSV, com velocidade, giro, consumo e temperatura a cada segundo -- salva no celular, no Drive ou em outra nuvem."
-      ],
-      "en": [
-        "Connected car: the quarter mile (402 m) timed automatically along with 0–100 (time and trap speed), and \"Export the trip\" as a CSV spreadsheet with speed, rpm, consumption and temperature every second -- saved to the phone, Drive or another cloud."
-      ],
-      "es": [
-        "Auto conectado: la 1/4 de milla (402 m) medida sola junto al 0 a 100 (tiempo y velocidad final), y \"Exportar el viaje\" en planilla CSV, con velocidad, rpm, consumo y temperatura cada segundo -- guardada en el celular, en Drive o en otra nube."
       ]
     }
   ]
