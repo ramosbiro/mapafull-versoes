@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.178.0",
-  "codigo": 430,
+  "versao": "0.179.0",
+  "codigo": 431,
   "data": "16/11/2026",
-  "tamanho": 119468305,
-  "sha256": "36f726a9da368e3c5c8aca8d1bbadf5b1c17527c9a14edb8f4d13e8d3a3a0bc0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.178.0/Vrumbi-0.178.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.178.0/Vrumbi-relogio-0.178.0.apk",
+  "tamanho": 119647938,
+  "sha256": "ad6330ab3632c5e660ef8fa62a57d151683c7b53e774aa5c80df94ed063e60d0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.179.0/Vrumbi-0.179.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.179.0/Vrumbi-relogio-0.179.0.apk",
   "notas": [
-    "Modo caminhão: zona de restrição de Salvador (Centro, Barra, Graça, Rio Vermelho e a orla até o Jardim dos Namorados): caminhão com mais de 6,5 m ou 2,2 m de largura não circula de seg a sex 6h–10h e 17h–20h, nem sábado 6h–10h. VUC liberado."
+    "Zonas de baixa emissão do mundo (226, quase todas na Europa) no modo caminhão: o Vrumbi avisa antes de entrar e diz a classe Euro exigida. Na ficha do caminhão (Meus veículos), escolha a \"Classe de emissão\" (Euro III/P5 a Euro VI/P8); com a classe abaixo da exigida, o aviso diz que o caminhão não pode entrar. Caminhão elétrico passa."
   ],
   "versoes": [
+    {
+      "versao": "0.179.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Zonas de baixa emissão do mundo (226, quase todas na Europa) no modo caminhão: o Vrumbi avisa antes de entrar e diz a classe Euro exigida. Na ficha do caminhão (Meus veículos), escolha a \"Classe de emissão\" (Euro III/P5 a Euro VI/P8); com a classe abaixo da exigida, o aviso diz que o caminhão não pode entrar. Caminhão elétrico passa."
+      ],
+      "en": [
+        "Low emission zones worldwide (226, mostly in Europe) in truck mode: Vrumbi warns before you enter and tells you the required Euro class. In the truck profile (My vehicles), choose the \"Emission class\" (Euro III to Euro VI); if yours is below the requirement, the warning says the truck may not enter. Electric trucks pass."
+      ],
+      "es": [
+        "Zonas de bajas emisiones del mundo (226, casi todas en Europa) en modo camión: Vrumbi avisa antes de entrar y dice la clase Euro exigida. En la ficha del camión (Mis vehículos), elige la \"Clase de emisión\" (Euro III a Euro VI); si la tuya es menor que la exigida, el aviso dice que el camión no puede entrar. Los camiones eléctricos pasan."
+      ]
+    },
     {
       "versao": "0.178.0",
       "data": "16/11/2026",
@@ -203,19 +216,6 @@
         "Fallas del auto: Vrumbi lee los códigos (confirmados, pendientes y permanentes), explica cada uno con las causas más comunes y los síntomas, muestra si la luz de check engine está encendida y puede borrar los códigos.",
         "Avisos del auto: falla nueva, motor recalentando, batería sin cargar y reserva de combustible. Con el adaptador, el velocímetro usa la velocidad del tablero del auto.",
         "Funciona con adaptadores de Bluetooth clásico (ELM327) y Bluetooth 4.0. Sin adaptador, se puede ver todo en la demostración."
-      ]
-    },
-    {
-      "versao": "0.167.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Celular deitado com o player (ou outra janela) encostado na lateral: a coluna agora soma o espaço da câmera e os ícones não saem mais cortados; os botões da janela ficam no meio da parte que se vê."
-      ],
-      "en": [
-        "Phone in landscape with the player (or another window) docked on the side: the column now adds the camera area to its width, so the icons are no longer cut off; the window buttons sit in the middle of the visible part."
-      ],
-      "es": [
-        "Celular acostado con el reproductor (u otra ventana) pegado al costado: la columna ahora suma el espacio de la cámara y los íconos ya no salen cortados; los botones de la ventana quedan en el medio de la parte visible."
       ]
     }
   ]
