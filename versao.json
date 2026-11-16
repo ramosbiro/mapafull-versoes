@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.181.0",
-  "codigo": 433,
+  "versao": "0.182.0",
+  "codigo": 434,
   "data": "16/11/2026",
-  "tamanho": 119668382,
-  "sha256": "7cce6a395d5afd5f8b78dafba1ed4d6855307a3298e54b7213390113f1eede34",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.181.0/Vrumbi-0.181.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.181.0/Vrumbi-relogio-0.181.0.apk",
+  "tamanho": 119673682,
+  "sha256": "7b964831f1dfe93c896dffcd541e39badbb431b7bd0ab8b80032815d055d8f7f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.182.0/Vrumbi-0.182.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.182.0/Vrumbi-relogio-0.182.0.apk",
   "notas": [
-    "Carro conectado (OBD2): cartão \"Esta viagem\" com a distância, o tempo, o combustível gasto e a média em km/L pelo consumo que o próprio carro informa; e o 0 a 100 km/h medido sozinho (o último e o melhor).",
-    "Junto dos defeitos, \"como o carro estava quando o defeito apareceu\" (freeze frame): velocidade, giro, temperatura, carga e mistura no instante em que a central gravou o código.",
-    "Mapas offline do mundo completos: os 253 pacotes, agora também Costa do Marfim e o Extremo Oriente russo."
+    "Carro conectado: a 1/4 de milha (402 m) medida sozinha junto do 0 a 100 (o tempo e a velocidade no fim), e \"Exportar a viagem\" em planilha CSV, com velocidade, giro, consumo e temperatura a cada segundo -- salva no celular, no Drive ou em outra nuvem."
   ],
   "versoes": [
+    {
+      "versao": "0.182.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: a 1/4 de milha (402 m) medida sozinha junto do 0 a 100 (o tempo e a velocidade no fim), e \"Exportar a viagem\" em planilha CSV, com velocidade, giro, consumo e temperatura a cada segundo -- salva no celular, no Drive ou em outra nuvem."
+      ],
+      "en": [
+        "Connected car: the quarter mile (402 m) timed automatically along with 0–100 (time and trap speed), and \"Export the trip\" as a CSV spreadsheet with speed, rpm, consumption and temperature every second -- saved to the phone, Drive or another cloud."
+      ],
+      "es": [
+        "Auto conectado: la 1/4 de milla (402 m) medida sola junto al 0 a 100 (tiempo y velocidad final), y \"Exportar el viaje\" en planilla CSV, con velocidad, rpm, consumo y temperatura cada segundo -- guardada en el celular, en Drive o en otra nube."
+      ]
+    },
     {
       "versao": "0.181.0",
       "data": "16/11/2026",
@@ -190,31 +201,6 @@
       ],
       "es": [
         "Modo camión: zona de restricción de São Paulo (ZMRC), con el contorno oficial de la CET. El contorno aparece en el mapa y Vrumbi avisa antes de entrar y si estás dentro en el horario prohibido (lun a vie 5 a 21 h, sáb 10 a 14 h). Los VUC quedan permitidos, como indica la regla."
-      ]
-    },
-    {
-      "versao": "0.170.0",
-      "data": "15/11/2026",
-      "itens": [
-        "Novo: modo caminhão. Ao escolher um ícone de caminhão, o Vrumbi oferece o modo caminhão e pergunta a altura do seu caminhão (com a carga). Em Meus veículos, escolher Caminhão oferece o ícone.",
-        "No modo caminhão, o mapa mostra em vermelho as vias que o seu caminhão não pode usar (viaduto baixo, limite de peso, peso por eixo, largura, comprimento e proibido para caminhão), com a placa do limite. Restrições com horário, como as das marginais, valem só no horário.",
-        "Aviso antes de chegar, com e sem rota: cartão com a placa e voz uma vez (\"altura máxima de 3,8 metros à frente, seu caminhão não passa\"). Dados do mundo inteiro (OpenStreetMap). Liga e desliga em Ajustes rápidos > Restrições de caminhão.",
-        "Limite legal do país: se o seu caminhão passa da altura, largura, comprimento ou peso permitidos por lei no país (Brasil: 4,40 m de altura), o Vrumbi avisa que só circula com autorização especial.",
-        "Correção: os centros comerciais fora do Brasil não carregavam no celular."
-      ],
-      "en": [
-        "New: truck mode. When you pick a truck icon, Vrumbi offers truck mode and asks your truck height (with the load). In My vehicles, choosing Truck offers the icon.",
-        "In truck mode, the map shows in red the roads your truck cannot use (low bridge, weight limit, axle load, width, length and no trucks), with the limit sign. Time-based restrictions only apply at those times.",
-        "Warning before you get there, with or without a route: a card with the sign and a voice alert once (\"maximum height 3.8 meters ahead, your truck does not fit\"). Worldwide data (OpenStreetMap). Toggle it in Quick settings > Truck restrictions.",
-        "Legal limit of the country: if your truck exceeds the legal height, width, length or weight of the country, Vrumbi warns that it needs a special permit.",
-        "Fix: shopping centers outside Brazil did not load on the phone."
-      ],
-      "es": [
-        "Nuevo: modo camión. Al elegir un ícono de camión, Vrumbi ofrece el modo camión y pregunta la altura de tu camión (con la carga). En Mis vehículos, elegir Camión ofrece el ícono.",
-        "En el modo camión, el mapa muestra en rojo las vías que tu camión no puede usar (viaducto bajo, límite de peso, peso por eje, ancho, largo y prohibido para camiones), con la señal del límite. Las restricciones con horario valen solo en ese horario.",
-        "Aviso antes de llegar, con o sin ruta: tarjeta con la señal y voz una vez (\"altura máxima de 3,8 metros adelante, tu camión no pasa\"). Datos de todo el mundo (OpenStreetMap). Se activa en Ajustes rápidos > Restricciones para camiones.",
-        "Límite legal del país: si tu camión supera la altura, el ancho, el largo o el peso permitidos por ley en el país, Vrumbi avisa que solo circula con autorización especial.",
-        "Corrección: los centros comerciales fuera de Brasil no cargaban en el celular."
       ]
     }
   ]
