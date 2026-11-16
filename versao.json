@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.183.0",
-  "codigo": 435,
+  "versao": "0.184.0",
+  "codigo": 436,
   "data": "16/11/2026",
-  "tamanho": 119690966,
-  "sha256": "a9e9b285e1fa386ca9a35a6c5f71f66838e2ccd389ee44b0cfeb803e243612c2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.183.0/Vrumbi-0.183.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.183.0/Vrumbi-relogio-0.183.0.apk",
+  "tamanho": 119693650,
+  "sha256": "c1cdac77e25b1d07bd089431a6379afe4cf8170eaba98be356eebc1e0625e241",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.184.0/Vrumbi-0.184.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.184.0/Vrumbi-relogio-0.184.0.apk",
   "notas": [
-    "Carro conectado: \"Testes da central\" (modo 06) -- o resultado de cada sistema que a central do carro testa (sondas, catalisador, vapores, EGR...) e as falhas de combustão contadas por cilindro, para achar a vela, o cabo, a bobina ou o bico com problema.",
-    "Modo caminhão: limites legais em 168 países e territórios (mais Arábia Saudita, Bahrein, Omã, Iêmen, Hong Kong, Tailândia, Butão, Timor-Leste, Eritreia, Etiópia, Congo, Mayotte e Saint-Pierre-et-Miquelon), todos com fonte.",
-    "Proibição para caminhão e defeito do carro ficam sempre em vermelho, qualquer que seja a cor escolhida para o app."
+    "Carro conectado: \"Gráfico da viagem\" com a velocidade, o giro e o consumo do motor dos últimos minutos (até 15), com o valor de agora e o máximo."
   ],
   "versoes": [
+    {
+      "versao": "0.184.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: \"Gráfico da viagem\" com a velocidade, o giro e o consumo do motor dos últimos minutos (até 15), com o valor de agora e o máximo."
+      ],
+      "en": [
+        "Connected car: \"Trip chart\" with speed, rpm and engine consumption over the last minutes (up to 15), showing the current value and the maximum."
+      ],
+      "es": [
+        "Auto conectado: \"Gráfico del viaje\" con velocidad, rpm y consumo del motor de los últimos minutos (hasta 15), con el valor actual y el máximo."
+      ]
+    },
     {
       "versao": "0.183.0",
       "data": "16/11/2026",
@@ -190,25 +201,6 @@
         "Clima más preciso: el \"ahora\" usa la lluvia MEDIDA — el radar meteorológico sobre tu ubicación y, en Brasil, los pluviómetros de Cemaden — y no solo el pronóstico. Con lluvia en el radar, la app muestra lluvia aunque el modelo diga otra cosa.",
         "Aviso \"lluvia llegando\" rehecho: ya no llega con la lluvia cayendo; el tiempo de llegada sale del movimiento de la lluvia en el radar, y el pronóstico solo avisa si el radar ve lluvia a menos de 40 km.",
         "Tocar el cielo (las nubes) con el mapa inclinado abre el Clima, y no una dirección."
-      ]
-    },
-    {
-      "versao": "0.172.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Novo: hora e coordenadas na tela, embaixo do clima (Ajustes rápidos > Mapa > Hora na tela / Coordenadas).",
-        "Novo: tela cheia, sem as barras do Android; deslizar da borda mostra de novo (Ajustes rápidos > Mapa > Tela cheia).",
-        "Modo caminhão: limite legal de 140 países (antes 57), cada um com a fonte oficial — África, América Central, Caribe, Oceania e o resto da Europa."
-      ],
-      "en": [
-        "New: clock and coordinates on screen, below the weather (Quick settings > Map > Clock on screen / Coordinates).",
-        "New: full screen, without the Android bars; swipe from the edge to show them (Quick settings > Map > Full screen).",
-        "Truck mode: legal limits for 140 countries (was 57), each with its official source — Africa, Central America, the Caribbean, Oceania and the rest of Europe."
-      ],
-      "es": [
-        "Nuevo: hora y coordenadas en pantalla, debajo del clima (Ajustes rápidos > Mapa > Hora en pantalla / Coordenadas).",
-        "Nuevo: pantalla completa, sin las barras de Android; deslizar desde el borde las muestra (Ajustes rápidos > Mapa > Pantalla completa).",
-        "Modo camión: límite legal de 140 países (antes 57), cada uno con su fuente oficial — África, Centroamérica, el Caribe, Oceanía y el resto de Europa."
       ]
     }
   ]
