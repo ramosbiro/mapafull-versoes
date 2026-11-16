@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.201.0",
-  "codigo": 453,
+  "versao": "0.202.0",
+  "codigo": 454,
   "data": "16/11/2026",
-  "tamanho": 120909052,
-  "sha256": "3455be94531e996001da381f4e2407341fdfa2a9cdf49a2e07ded45346400e40",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.201.0/Vrumbi-0.201.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.201.0/Vrumbi-relogio-0.201.0.apk",
+  "tamanho": 120910608,
+  "sha256": "d6cd179871474927fbc6d242f83f212b1650f5c4f01a84dd2905b860c7b8aa28",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.202.0/Vrumbi-0.202.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.202.0/Vrumbi-relogio-0.202.0.apk",
   "notas": [
-    "Modo caminhão: Cidade de Ho Chi Minh, área dentro do anel (QL1, Nguyễn Văn Linh, ponte Phú Mỹ, Xa lộ Hà Nội): caminhão pesado proibido das 6h às 22h, leve nos picos.",
-    "Busca: 142 mil empresas de Iowa (EUA)."
+    "Clima: ao abrir o app, o céu do mapa não começa mais chovendo com a previsão velha guardada -- vale a hora certa da previsão, e o tempo novo chega na hora (antes demorava 1 a 2 minutos).",
+    "Ícone: trocar o modo de navegação troca o ícone junto (moto vira moto, bicicleta vira bicicleta, a pé vira pessoa). Se você escolher outro ícone num modo, ele fica lembrado para aquele modo.",
+    "Mais leve: o mapa deixou de ler a placa de vídeo a cada posição do GPS (era quase metade do trabalho do app parado no mapa); com pouca memória no celular, o cérebro do Vrumbi sai da memória para o mapa não travar."
   ],
   "versoes": [
+    {
+      "versao": "0.202.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Clima: ao abrir o app, o céu do mapa não começa mais chovendo com a previsão velha guardada -- vale a hora certa da previsão, e o tempo novo chega na hora (antes demorava 1 a 2 minutos).",
+        "Ícone: trocar o modo de navegação troca o ícone junto (moto vira moto, bicicleta vira bicicleta, a pé vira pessoa). Se você escolher outro ícone num modo, ele fica lembrado para aquele modo.",
+        "Mais leve: o mapa deixou de ler a placa de vídeo a cada posição do GPS (era quase metade do trabalho do app parado no mapa); com pouca memória no celular, o cérebro do Vrumbi sai da memória para o mapa não travar."
+      ],
+      "en": [
+        "Weather: when the app opens, the map sky no longer starts raining from the old saved forecast -- it uses the right hour of the forecast, and fresh weather arrives right away (it used to take 1 to 2 minutes).",
+        "Icon: changing the navigation mode changes the icon too (motorcycle, bicycle, walking). If you pick another icon in a mode, it is remembered for that mode.",
+        "Lighter: the map no longer reads the graphics card on every GPS fix (almost half of the app's work while idle on the map); on phones low on memory, the Vrumbi brain leaves memory so the map does not stutter."
+      ],
+      "es": [
+        "Clima: al abrir la app, el cielo del mapa ya no empieza lloviendo con el pronóstico viejo guardado -- vale la hora correcta del pronóstico, y el tiempo nuevo llega enseguida (antes tardaba 1 a 2 minutos).",
+        "Ícono: cambiar el modo de navegación cambia el ícono también (moto, bicicleta, a pie). Si eliges otro ícono en un modo, queda recordado para ese modo.",
+        "Más liviana: el mapa dejó de leer la tarjeta de video en cada posición del GPS (casi la mitad del trabajo de la app quieta en el mapa); con poca memoria, el cerebro del Vrumbi sale de la memoria para que el mapa no se trabe."
+      ]
+    },
     {
       "versao": "0.201.0",
       "data": "16/11/2026",
@@ -168,19 +188,6 @@
       ],
       "es": [
         "Riesgo donde estacionas: ahora también en el Distrito Federal, por Región Administrativa (SSP-DF: robo de vehículo y hurto de objetos de dentro del auto)."
-      ]
-    },
-    {
-      "versao": "0.190.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Vrumbi e o Carro conectado: pergunte \"como está o carro?\", \"qual a temperatura do motor?\", \"quanto tem no tanque?\", \"qual a pressão dos pneus?\", \"como está a bateria do carro?\" ou \"qual a minha nota?\" e ele responde com os dados do próprio carro."
-      ],
-      "en": [
-        "Vrumbi and the connected car: ask \"how is the car?\", \"what's the engine temperature?\", \"how much is in the tank?\", \"what's the tire pressure?\", \"how is the car battery?\" or \"what's my score?\" and it answers with the car's own data."
-      ],
-      "es": [
-        "Vrumbi y el auto conectado: pregunta \"¿cómo está el auto?\", \"¿cuál es la temperatura del motor?\", \"¿cuánto hay en el depósito?\", \"¿cuál es la presión de los neumáticos?\", \"¿cómo está la batería del auto?\" o \"¿cuál es mi nota?\" y responde con los datos del propio auto."
       ]
     }
   ]
