@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.175.0",
-  "codigo": 427,
+  "versao": "0.176.0",
+  "codigo": 428,
   "data": "16/11/2026",
-  "tamanho": 119457661,
-  "sha256": "6369378c34b199adce29cc98639682c49cbcc568084af5138faeb50ec1a0a13f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.175.0/Vrumbi-0.175.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.175.0/Vrumbi-relogio-0.175.0.apk",
+  "tamanho": 119462777,
+  "sha256": "e538169e583a7f11d6c7a8e45c597eeda0c83e435a215466150ee6bed9c9b1a6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.176.0/Vrumbi-0.176.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.176.0/Vrumbi-relogio-0.176.0.apk",
   "notas": [
-    "Limite legal do caminhão pela posição: o app sabe em que país você está pelo GPS (fronteiras no próprio aparelho, sem internet), e não mais só pelo fuso do celular — na fronteira, vale o lado em que o caminhão está.",
-    "Estados Unidos estado por estado: a altura legal muda de 13'6\" (4,11 m) a 14'6\" (4,42 m) — e 15' no Alasca —, e o aviso usa a do estado onde você está.",
-    "Limites legais de caminhão em mais 15 países da Ásia (Coreia do Sul, Taiwan, Filipinas, Laos, Cazaquistão, Quirguistão, Tadjiquistão, Irã, Israel, Singapura, Indonésia, Vietnã, Paquistão, Uzbequistão, Mongólia): 155 países, todos com fonte."
+    "Modo caminhão: zonas de restrição de Belo Horizonte (área central, dentro da Av. do Contorno), Porto Alegre (Centro Histórico) e Juiz de Fora (área oficial da Prefeitura), além da ZMRC de São Paulo. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido.",
+    "A regra muda com o caminhão: em BH, carreta e cavalo mecânico não entram em hora nenhuma; em Porto Alegre, acima de 15 t é proibido sempre. Caminhão pequeno (BH até 6,5 m; Porto Alegre até 10 t e 7 m) fica liberado."
   ],
   "versoes": [
+    {
+      "versao": "0.176.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: zonas de restrição de Belo Horizonte (área central, dentro da Av. do Contorno), Porto Alegre (Centro Histórico) e Juiz de Fora (área oficial da Prefeitura), além da ZMRC de São Paulo. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido.",
+        "A regra muda com o caminhão: em BH, carreta e cavalo mecânico não entram em hora nenhuma; em Porto Alegre, acima de 15 t é proibido sempre. Caminhão pequeno (BH até 6,5 m; Porto Alegre até 10 t e 7 m) fica liberado."
+      ],
+      "en": [
+        "Truck mode: restriction zones in Belo Horizonte (central area, inside Av. do Contorno), Porto Alegre (Historic center) and Juiz de Fora (official city area), besides São Paulo's ZMRC. The outline shows on the map and Vrumbi warns before you enter and if you are inside during restricted hours.",
+        "The rule depends on the truck: in Belo Horizonte, tractor-trailers may never enter; in Porto Alegre, over 15 t is always banned. Small trucks (BH up to 6.5 m; Porto Alegre up to 10 t and 7 m) are allowed."
+      ],
+      "es": [
+        "Modo camión: zonas de restricción de Belo Horizonte (área central, dentro de la Av. do Contorno), Porto Alegre (Centro Histórico) y Juiz de Fora (área oficial de la Prefectura), además de la ZMRC de São Paulo. El contorno aparece en el mapa y Vrumbi avisa antes de entrar y si estás dentro en el horario prohibido.",
+        "La regla cambia con el camión: en Belo Horizonte, tractocamiones nunca entran; en Porto Alegre, más de 15 t está prohibido siempre. Los camiones pequeños (BH hasta 6,5 m; Porto Alegre hasta 10 t y 7 m) quedan permitidos."
+      ]
+    },
     {
       "versao": "0.175.0",
       "data": "16/11/2026",
@@ -202,19 +217,6 @@
       ],
       "es": [
         "Reproductor pegado al borde (franja, columna angosta o esquina): sin nada sonando, siempre aparecen los íconos de las apps de música, uno debajo del otro, como una barra lateral. Una canción en pausa o detenida también muestra los íconos; los controles vuelven solo cuando suena un audio o video."
-      ]
-    },
-    {
-      "versao": "0.164.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Player na lateral bem fina: os botões da janela ficam um embaixo do outro no alto (antes saíam cortados na beira da tela) e os atalhos ou os controles aparecem logo abaixo."
-      ],
-      "en": [
-        "Player in a very thin side column: the window buttons are stacked at the top (before they were cut off at the screen edge) and the shortcuts or controls show right below."
-      ],
-      "es": [
-        "Reproductor en la columna lateral muy angosta: los botones de la ventana quedan uno debajo del otro arriba (antes se cortaban en el borde de la pantalla) y los atajos o controles aparecen justo debajo."
       ]
     }
   ]
