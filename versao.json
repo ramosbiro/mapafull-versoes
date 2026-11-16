@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.177.0",
-  "codigo": 429,
+  "versao": "0.178.0",
+  "codigo": 430,
   "data": "16/11/2026",
-  "tamanho": 119465933,
-  "sha256": "ed41a2dd9bdd4a9261a26874cfddd13d66781d9e4c193540f523594f579891cf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.177.0/Vrumbi-0.177.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.177.0/Vrumbi-relogio-0.177.0.apk",
+  "tamanho": 119468305,
+  "sha256": "36f726a9da368e3c5c8aca8d1bbadf5b1c17527c9a14edb8f4d13e8d3a3a0bc0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.178.0/Vrumbi-0.178.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.178.0/Vrumbi-relogio-0.178.0.apk",
   "notas": [
-    "Modo caminhão: mais duas zonas de restrição — Curitiba (Zona Central de Tráfego: acima de 7 t de carga ou 7 m, dias úteis 9h–19h e sábado 9h–13h30) e Campinas (dentro do Anel Rebouças: acima de 6,30 m, seg a sex 6h–20h e sábado 6h–14h). O contorno segue, rua por rua, o perímetro descrito na norma de cada cidade."
+    "Modo caminhão: zona de restrição de Salvador (Centro, Barra, Graça, Rio Vermelho e a orla até o Jardim dos Namorados): caminhão com mais de 6,5 m ou 2,2 m de largura não circula de seg a sex 6h–10h e 17h–20h, nem sábado 6h–10h. VUC liberado."
   ],
   "versoes": [
+    {
+      "versao": "0.178.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: zona de restrição de Salvador (Centro, Barra, Graça, Rio Vermelho e a orla até o Jardim dos Namorados): caminhão com mais de 6,5 m ou 2,2 m de largura não circula de seg a sex 6h–10h e 17h–20h, nem sábado 6h–10h. VUC liberado."
+      ],
+      "en": [
+        "Truck mode: Salvador restriction zone (downtown, Barra, Graça, Rio Vermelho and the seafront up to Jardim dos Namorados): trucks over 6.5 m long or 2.2 m wide may not drive Mon–Fri 6–10 am and 5–8 pm, or Saturday 6–10 am. Light urban trucks (VUC) allowed."
+      ],
+      "es": [
+        "Modo camión: zona de restricción de Salvador (Centro, Barra, Graça, Rio Vermelho y la costanera hasta el Jardim dos Namorados): camiones de más de 6,5 m o 2,2 m de ancho no circulan lun a vie 6–10 h y 17–20 h, ni sábado 6–10 h. VUC permitido."
+      ]
+    },
     {
       "versao": "0.177.0",
       "data": "16/11/2026",
@@ -203,19 +216,6 @@
       ],
       "es": [
         "Celular acostado con el reproductor (u otra ventana) pegado al costado: la columna ahora suma el espacio de la cámara y los íconos ya no salen cortados; los botones de la ventana quedan en el medio de la parte visible."
-      ]
-    },
-    {
-      "versao": "0.166.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Player encostado na lateral fina ou na faixa, com música tocando: agora aparecem a capa e os botões anterior, tocar/pausar e próxima (antes a coluna ficava vazia). Pausou por ali, os botões ficam alguns segundos para voltar a tocar; depois voltam os ícones dos apps."
-      ],
-      "en": [
-        "Player docked in the thin side column or the strip, with music playing: the cover and the previous, play/pause and next buttons now show (before the column was empty). Paused from there, the buttons stay a few seconds so you can resume; then the app icons come back."
-      ],
-      "es": [
-        "Reproductor pegado en la columna lateral angosta o en la franja, con música sonando: ahora aparecen la portada y los botones anterior, reproducir/pausar y siguiente (antes la columna quedaba vacía). Si pausas desde ahí, los botones quedan unos segundos para volver a reproducir; después vuelven los íconos de las apps."
       ]
     }
   ]
