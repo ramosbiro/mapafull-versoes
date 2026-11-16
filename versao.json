@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.184.0",
-  "codigo": 436,
+  "versao": "0.185.0",
+  "codigo": 437,
   "data": "16/11/2026",
-  "tamanho": 119693650,
-  "sha256": "c1cdac77e25b1d07bd089431a6379afe4cf8170eaba98be356eebc1e0625e241",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.184.0/Vrumbi-0.184.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.184.0/Vrumbi-relogio-0.184.0.apk",
+  "tamanho": 119709590,
+  "sha256": "ee090f796d728931579ac0829d9ff5bf2b34c00bc00d2e1cbb0c5690070e019a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.185.0/Vrumbi-0.185.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.185.0/Vrumbi-relogio-0.185.0.apk",
   "notas": [
-    "Carro conectado: \"Gráfico da viagem\" com a velocidade, o giro e o consumo do motor dos últimos minutos (até 15), com o valor de agora e o máximo."
+    "Carro conectado: \"Arrumar o painel\" -- escolha quais números aparecem ao vivo e em que ordem.",
+    "Carro conectado: nota de direção econômica da viagem (0 a 100), pelas arrancadas e freadas bruscas, motor ligado parado, giro alto e velocidade, com a dica do que mais pesou.",
+    "Painel de bordo: com o Carro conectado, o Cockpit mostra o giro, a temperatura do motor, o tanque e o consumo, e o HUD mostra o giro."
   ],
   "versoes": [
+    {
+      "versao": "0.185.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: \"Arrumar o painel\" -- escolha quais números aparecem ao vivo e em que ordem.",
+        "Carro conectado: nota de direção econômica da viagem (0 a 100), pelas arrancadas e freadas bruscas, motor ligado parado, giro alto e velocidade, com a dica do que mais pesou.",
+        "Painel de bordo: com o Carro conectado, o Cockpit mostra o giro, a temperatura do motor, o tanque e o consumo, e o HUD mostra o giro."
+      ],
+      "en": [
+        "Connected car: \"Arrange the panel\" -- choose which live numbers appear and in what order.",
+        "Connected car: eco driving score for the trip (0 to 100), from harsh starts and braking, idling, high rpm and speed, with a tip on what weighed most.",
+        "Dashboard: with the connected car, the Cockpit shows rpm, engine temperature, fuel tank and consumption, and the HUD shows rpm."
+      ],
+      "es": [
+        "Auto conectado: \"Organizar el panel\" -- elige qué números aparecen en vivo y en qué orden.",
+        "Auto conectado: nota de conducción económica del viaje (0 a 100), por arrancadas y frenadas bruscas, motor encendido parado, revoluciones altas y velocidad, con el consejo de lo que más pesó.",
+        "Panel de a bordo: con el auto conectado, el Cockpit muestra rpm, temperatura del motor, tanque y consumo, y el HUD muestra las rpm."
+      ]
+    },
     {
       "versao": "0.184.0",
       "data": "16/11/2026",
@@ -182,25 +203,6 @@
         "El dibujo del camión a escala real, con ejes y enganches, y las medidas de largo y alto. Los ejes suspendidos (camión vacío) no cuentan en el peaje; la ruta de camión también usa el número de ejes y el peso por eje.",
         "Las alertas oficiales entran en el clima: con alerta del INMET o de Cemaden donde estás, el aviso de lluvia mira más adelante y avisa lluvia cerca, y Vrumbi en la pantalla del clima habla de la alerta.",
         "Configuración: tocar + o cambiar una opción ya no vuelve la pantalla arriba."
-      ]
-    },
-    {
-      "versao": "0.173.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Clima mais preciso: o \"agora\" passa a usar a chuva MEDIDA — o radar meteorológico em cima de onde você está e, no Brasil, os pluviômetros do Cemaden — e não só a previsão. Com chuva no radar, o app mostra chuva, mesmo que o modelo diga outra coisa.",
-        "Aviso \"chuva chegando\" refeito: não chega mais com a chuva já caindo; o tempo de chegada vem do deslocamento da chuva no radar, e a previsão sozinha só avisa se o radar vê chuva a até 40 km.",
-        "Tocar no céu (nas nuvens) com o mapa inclinado abre o Clima e tempo, e não mais um endereço."
-      ],
-      "en": [
-        "More accurate weather: \"now\" uses MEASURED rain — weather radar over your location and, in Brazil, Cemaden rain gauges — not just the forecast. With rain on radar, the app shows rain even if the model says otherwise.",
-        "\"Rain coming\" alert redone: it no longer arrives when it is already raining; the arrival time comes from how the rain moves on radar, and the forecast alone only warns if radar sees rain within 40 km.",
-        "Tapping the sky (the clouds) with the map tilted opens Weather, not an address."
-      ],
-      "es": [
-        "Clima más preciso: el \"ahora\" usa la lluvia MEDIDA — el radar meteorológico sobre tu ubicación y, en Brasil, los pluviómetros de Cemaden — y no solo el pronóstico. Con lluvia en el radar, la app muestra lluvia aunque el modelo diga otra cosa.",
-        "Aviso \"lluvia llegando\" rehecho: ya no llega con la lluvia cayendo; el tiempo de llegada sale del movimiento de la lluvia en el radar, y el pronóstico solo avisa si el radar ve lluvia a menos de 40 km.",
-        "Tocar el cielo (las nubes) con el mapa inclinado abre el Clima, y no una dirección."
       ]
     }
   ]
