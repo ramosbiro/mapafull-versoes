@@ -1,18 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.172.0",
-  "codigo": 424,
+  "versao": "0.173.0",
+  "codigo": 425,
   "data": "16/11/2026",
-  "tamanho": 117917266,
-  "sha256": "17cd6a740b1918713cbdf24f46011f294981292edd09789526b5cd7b3eb6c941",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.172.0/Vrumbi-0.172.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.172.0/Vrumbi-relogio-0.172.0.apk",
+  "tamanho": 117925490,
+  "sha256": "d80b9c72470106bfe2815366c27e2822d1cb45cb37c53c2146cc3aa7592f4b5f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.173.0/Vrumbi-0.173.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.173.0/Vrumbi-relogio-0.173.0.apk",
   "notas": [
-    "Novo: hora e coordenadas na tela, embaixo do clima (Ajustes rápidos > Mapa > Hora na tela / Coordenadas).",
-    "Novo: tela cheia, sem as barras do Android; deslizar da borda mostra de novo (Ajustes rápidos > Mapa > Tela cheia).",
-    "Modo caminhão: limite legal de 140 países (antes 57), cada um com a fonte oficial — África, América Central, Caribe, Oceania e o resto da Europa."
+    "Clima mais preciso: o \"agora\" passa a usar a chuva MEDIDA — o radar meteorológico em cima de onde você está e, no Brasil, os pluviômetros do Cemaden — e não só a previsão. Com chuva no radar, o app mostra chuva, mesmo que o modelo diga outra coisa.",
+    "Aviso \"chuva chegando\" refeito: não chega mais com a chuva já caindo; o tempo de chegada vem do deslocamento da chuva no radar, e a previsão sozinha só avisa se o radar vê chuva a até 40 km.",
+    "Tocar no céu (nas nuvens) com o mapa inclinado abre o Clima e tempo, e não mais um endereço."
   ],
   "versoes": [
+    {
+      "versao": "0.173.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Clima mais preciso: o \"agora\" passa a usar a chuva MEDIDA — o radar meteorológico em cima de onde você está e, no Brasil, os pluviômetros do Cemaden — e não só a previsão. Com chuva no radar, o app mostra chuva, mesmo que o modelo diga outra coisa.",
+        "Aviso \"chuva chegando\" refeito: não chega mais com a chuva já caindo; o tempo de chegada vem do deslocamento da chuva no radar, e a previsão sozinha só avisa se o radar vê chuva a até 40 km.",
+        "Tocar no céu (nas nuvens) com o mapa inclinado abre o Clima e tempo, e não mais um endereço."
+      ],
+      "en": [
+        "More accurate weather: \"now\" uses MEASURED rain — weather radar over your location and, in Brazil, Cemaden rain gauges — not just the forecast. With rain on radar, the app shows rain even if the model says otherwise.",
+        "\"Rain coming\" alert redone: it no longer arrives when it is already raining; the arrival time comes from how the rain moves on radar, and the forecast alone only warns if radar sees rain within 40 km.",
+        "Tapping the sky (the clouds) with the map tilted opens Weather, not an address."
+      ],
+      "es": [
+        "Clima más preciso: el \"ahora\" usa la lluvia MEDIDA — el radar meteorológico sobre tu ubicación y, en Brasil, los pluviómetros de Cemaden — y no solo el pronóstico. Con lluvia en el radar, la app muestra lluvia aunque el modelo diga otra cosa.",
+        "Aviso \"lluvia llegando\" rehecho: ya no llega con la lluvia cayendo; el tiempo de llegada sale del movimiento de la lluvia en el radar, y el pronóstico solo avisa si el radar ve lluvia a menos de 40 km.",
+        "Tocar el cielo (las nubes) con el mapa inclinado abre el Clima, y no una dirección."
+      ]
+    },
     {
       "versao": "0.172.0",
       "data": "16/11/2026",
@@ -181,19 +200,6 @@
       ],
       "es": [
         "Administrador de la barra de ventanas más simple: solo cambiar de lado, una encima de la otra / lado a lado, y la X, que recoge -- todas las ventanas acopladas vuelven a ser ventanas sueltas y arrastrables. Restaurar y cerrar cada ventana quedan solo arriba de cada una."
-      ]
-    },
-    {
-      "versao": "0.161.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Janelas lado a lado: o gerenciador da barra entre elas agora fica em pé, com os botões um embaixo do outro ao longo da barra (antes abria deitado, atravessado no meio das janelas)."
-      ],
-      "en": [
-        "Side-by-side windows: the manager on the bar between them now stands upright, with the buttons stacked along the bar (before it opened sideways across the middle of the windows)."
-      ],
-      "es": [
-        "Ventanas lado a lado: el administrador de la barra entre ellas ahora queda vertical, con los botones uno debajo del otro a lo largo de la barra (antes se abría acostado, atravesado en medio de las ventanas)."
       ]
     }
   ]
