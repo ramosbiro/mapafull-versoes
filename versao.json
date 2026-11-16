@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.176.0",
-  "codigo": 428,
+  "versao": "0.177.0",
+  "codigo": 429,
   "data": "16/11/2026",
-  "tamanho": 119462777,
-  "sha256": "e538169e583a7f11d6c7a8e45c597eeda0c83e435a215466150ee6bed9c9b1a6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.176.0/Vrumbi-0.176.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.176.0/Vrumbi-relogio-0.176.0.apk",
+  "tamanho": 119465933,
+  "sha256": "ed41a2dd9bdd4a9261a26874cfddd13d66781d9e4c193540f523594f579891cf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.177.0/Vrumbi-0.177.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.177.0/Vrumbi-relogio-0.177.0.apk",
   "notas": [
-    "Modo caminhão: zonas de restrição de Belo Horizonte (área central, dentro da Av. do Contorno), Porto Alegre (Centro Histórico) e Juiz de Fora (área oficial da Prefeitura), além da ZMRC de São Paulo. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido.",
-    "A regra muda com o caminhão: em BH, carreta e cavalo mecânico não entram em hora nenhuma; em Porto Alegre, acima de 15 t é proibido sempre. Caminhão pequeno (BH até 6,5 m; Porto Alegre até 10 t e 7 m) fica liberado."
+    "Modo caminhão: mais duas zonas de restrição — Curitiba (Zona Central de Tráfego: acima de 7 t de carga ou 7 m, dias úteis 9h–19h e sábado 9h–13h30) e Campinas (dentro do Anel Rebouças: acima de 6,30 m, seg a sex 6h–20h e sábado 6h–14h). O contorno segue, rua por rua, o perímetro descrito na norma de cada cidade."
   ],
   "versoes": [
+    {
+      "versao": "0.177.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: mais duas zonas de restrição — Curitiba (Zona Central de Tráfego: acima de 7 t de carga ou 7 m, dias úteis 9h–19h e sábado 9h–13h30) e Campinas (dentro do Anel Rebouças: acima de 6,30 m, seg a sex 6h–20h e sábado 6h–14h). O contorno segue, rua por rua, o perímetro descrito na norma de cada cidade."
+      ],
+      "en": [
+        "Truck mode: two more restriction zones — Curitiba (Central Traffic Zone: over 7 t payload or 7 m, weekdays 9 am–7 pm and Saturday 9 am–1:30 pm) and Campinas (inside the Rebouças Ring: over 6.30 m, Mon–Fri 6 am–8 pm and Saturday 6 am–2 pm). The outline follows, street by street, the perimeter set out in each city's rule."
+      ],
+      "es": [
+        "Modo camión: dos zonas de restricción más — Curitiba (Zona Central de Tráfico: más de 7 t de carga o 7 m, días hábiles 9–19 h y sábado 9–13:30 h) y Campinas (dentro del Anillo Rebouças: más de 6,30 m, lun a vie 6–20 h y sábado 6–14 h). El contorno sigue, calle por calle, el perímetro descrito en la norma de cada ciudad."
+      ]
+    },
     {
       "versao": "0.176.0",
       "data": "16/11/2026",
@@ -204,19 +216,6 @@
       ],
       "es": [
         "Reproductor pegado en la columna lateral angosta o en la franja, con música sonando: ahora aparecen la portada y los botones anterior, reproducir/pausar y siguiente (antes la columna quedaba vacía). Si pausas desde ahí, los botones quedan unos segundos para volver a reproducir; después vuelven los íconos de las apps."
-      ]
-    },
-    {
-      "versao": "0.165.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Player encostado na borda (faixa, coluna fina ou canto): sem nada tocando, aparecem sempre os ícones dos apps de música, um embaixo do outro, como uma barra lateral. Música pausada ou parada também mostra os ícones; os controles só voltam quando um áudio ou vídeo está tocando."
-      ],
-      "en": [
-        "Player docked to the edge (strip, thin column or corner): with nothing playing, the music app icons always show, one below the other, like a side bar. A paused or stopped track also shows the icons; the controls come back only while audio or video is playing."
-      ],
-      "es": [
-        "Reproductor pegado al borde (franja, columna angosta o esquina): sin nada sonando, siempre aparecen los íconos de las apps de música, uno debajo del otro, como una barra lateral. Una canción en pausa o detenida también muestra los íconos; los controles vuelven solo cuando suena un audio o video."
       ]
     }
   ]
