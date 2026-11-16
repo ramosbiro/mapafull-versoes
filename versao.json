@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.180.0",
-  "codigo": 432,
+  "versao": "0.181.0",
+  "codigo": 433,
   "data": "16/11/2026",
-  "tamanho": 119659722,
-  "sha256": "05714731766875acaffa7f042e341d2f923962bf27cf684aeb9fd14a62334d05",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.180.0/Vrumbi-0.180.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.180.0/Vrumbi-relogio-0.180.0.apk",
+  "tamanho": 119668382,
+  "sha256": "7cce6a395d5afd5f8b78dafba1ed4d6855307a3298e54b7213390113f1eede34",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.181.0/Vrumbi-0.181.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.181.0/Vrumbi-relogio-0.181.0.apk",
   "notas": [
-    "Fale com o Vrumbi para ligar as novidades: \"liga o modo caminhão\", \"meu caminhão é Euro 5\", \"tela cheia\", \"mostra as coordenadas\", \"coloca a hora na tela\", \"relevo em 3D\" ou \"desliga o relevo\"."
+    "Carro conectado (OBD2): cartão \"Esta viagem\" com a distância, o tempo, o combustível gasto e a média em km/L pelo consumo que o próprio carro informa; e o 0 a 100 km/h medido sozinho (o último e o melhor).",
+    "Junto dos defeitos, \"como o carro estava quando o defeito apareceu\" (freeze frame): velocidade, giro, temperatura, carga e mistura no instante em que a central gravou o código.",
+    "Mapas offline do mundo completos: os 253 pacotes, agora também Costa do Marfim e o Extremo Oriente russo."
   ],
   "versoes": [
+    {
+      "versao": "0.181.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado (OBD2): cartão \"Esta viagem\" com a distância, o tempo, o combustível gasto e a média em km/L pelo consumo que o próprio carro informa; e o 0 a 100 km/h medido sozinho (o último e o melhor).",
+        "Junto dos defeitos, \"como o carro estava quando o defeito apareceu\" (freeze frame): velocidade, giro, temperatura, carga e mistura no instante em que a central gravou o código.",
+        "Mapas offline do mundo completos: os 253 pacotes, agora também Costa do Marfim e o Extremo Oriente russo."
+      ],
+      "en": [
+        "Connected car (OBD2): a \"This trip\" card with distance, time, fuel used and average km/L from the consumption the car itself reports; plus 0–100 km/h timed automatically (last and best).",
+        "Next to the faults, \"how the car was when the fault appeared\" (freeze frame): speed, rpm, temperature, load and fuel trim at the moment the ECU stored the code.",
+        "Offline maps for the whole world: all 253 packages, now including Côte d'Ivoire and the Russian Far East."
+      ],
+      "es": [
+        "Auto conectado (OBD2): tarjeta \"Este viaje\" con distancia, tiempo, combustible gastado y promedio en km/L según el consumo que informa el propio auto; y el 0 a 100 km/h medido solo (el último y el mejor).",
+        "Junto a los defectos, \"cómo estaba el auto cuando apareció el defecto\" (freeze frame): velocidad, rpm, temperatura, carga y mezcla en el instante en que la central grabó el código.",
+        "Mapas sin conexión del mundo completos: los 253 paquetes, ahora también Costa de Marfil y el Lejano Oriente ruso."
+      ]
+    },
     {
       "versao": "0.180.0",
       "data": "16/11/2026",
@@ -194,19 +215,6 @@
         "Aviso antes de llegar, con o sin ruta: tarjeta con la señal y voz una vez (\"altura máxima de 3,8 metros adelante, tu camión no pasa\"). Datos de todo el mundo (OpenStreetMap). Se activa en Ajustes rápidos > Restricciones para camiones.",
         "Límite legal del país: si tu camión supera la altura, el ancho, el largo o el peso permitidos por ley en el país, Vrumbi avisa que solo circula con autorización especial.",
         "Corrección: los centros comerciales fuera de Brasil no cargaban en el celular."
-      ]
-    },
-    {
-      "versao": "0.169.0",
-      "data": "15/11/2026",
-      "itens": [
-        "Novo: relevo do terreno no mapa (Configurações > Mapa 3D). Sombreado deixa morros e serras desenhados por baixo das ruas; 3D levanta o terreno de verdade, e a seta da posição anda em cima dele. Precisa de internet; vem desligado."
-      ],
-      "en": [
-        "New: terrain relief on the map (Settings > 3D map). Shaded draws hills and mountains under the streets; 3D raises the terrain for real, and the position arrow drives on top of it. Needs internet; off by default."
-      ],
-      "es": [
-        "Nuevo: relieve del terreno en el mapa (Configuración > Mapa 3D). Sombreado dibuja cerros y sierras debajo de las calles; 3D levanta el terreno de verdad, y la flecha de la posición anda encima de él. Necesita internet; viene apagado."
       ]
     }
   ]
