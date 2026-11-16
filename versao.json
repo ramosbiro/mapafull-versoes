@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.200.0",
-  "codigo": 452,
+  "versao": "0.201.0",
+  "codigo": 453,
   "data": "16/11/2026",
-  "tamanho": 120904560,
-  "sha256": "841a7104ee69cc7ac8f3bc05ad33538fecb97761be50f4c263847428b7836e2b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.200.0/Vrumbi-0.200.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.200.0/Vrumbi-relogio-0.200.0.apk",
+  "tamanho": 120909052,
+  "sha256": "3455be94531e996001da381f4e2407341fdfa2a9cdf49a2e07ded45346400e40",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.201.0/Vrumbi-0.201.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.201.0/Vrumbi-relogio-0.201.0.apk",
   "notas": [
-    "Risco onde você estaciona: agora também no Mato Grosso do Sul, por município (SEJUSP-MS).",
-    "Busca: 2,75 milhões de lojas da Coreia do Sul, com o ponto de cada uma."
+    "Modo caminhão: Cidade de Ho Chi Minh, área dentro do anel (QL1, Nguyễn Văn Linh, ponte Phú Mỹ, Xa lộ Hà Nội): caminhão pesado proibido das 6h às 22h, leve nos picos.",
+    "Busca: 142 mil empresas de Iowa (EUA)."
   ],
   "versoes": [
+    {
+      "versao": "0.201.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: Cidade de Ho Chi Minh, área dentro do anel (QL1, Nguyễn Văn Linh, ponte Phú Mỹ, Xa lộ Hà Nội): caminhão pesado proibido das 6h às 22h, leve nos picos.",
+        "Busca: 142 mil empresas de Iowa (EUA)."
+      ],
+      "en": [
+        "Truck mode: Ho Chi Minh City, the area inside the ring (QL1, Nguyễn Văn Linh, Phú Mỹ bridge, Hanoi Highway): heavy trucks banned 6 am–10 pm, light trucks at peak hours.",
+        "Search: 142 thousand businesses in Iowa (USA)."
+      ],
+      "es": [
+        "Modo camión: Ciudad Ho Chi Minh, el área dentro del anillo (QL1, Nguyễn Văn Linh, puente Phú Mỹ, Xa lộ Hà Nội): camión pesado prohibido de 6 a 22 h, ligero en las horas pico.",
+        "Búsqueda: 142 mil empresas de Iowa (EE. UU.)."
+      ]
+    },
     {
       "versao": "0.200.0",
       "data": "16/11/2026",
@@ -165,19 +181,6 @@
       ],
       "es": [
         "Vrumbi y el auto conectado: pregunta \"¿cómo está el auto?\", \"¿cuál es la temperatura del motor?\", \"¿cuánto hay en el depósito?\", \"¿cuál es la presión de los neumáticos?\", \"¿cómo está la batería del auto?\" o \"¿cuál es mi nota?\" y responde con los datos del propio auto."
-      ]
-    },
-    {
-      "versao": "0.189.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: o alfinete nos dados do fabricante leva o dado (pressão do pneu, óleo do câmbio, bateria do híbrido...) para o painel Ao vivo e para o Cockpit do Painel de bordo."
-      ],
-      "en": [
-        "Connected car: the pin on manufacturer readings puts them (tire pressure, transmission oil, hybrid battery...) on the Live panel and in the Dashboard Cockpit."
-      ],
-      "es": [
-        "Auto conectado: el alfiler en los datos del fabricante lleva el dato (presión del neumático, aceite de la caja, batería del híbrido...) al panel En vivo y al Cockpit del Panel de a bordo."
       ]
     }
   ]
