@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.191.0",
-  "codigo": 443,
+  "versao": "0.192.0",
+  "codigo": 444,
   "data": "16/11/2026",
-  "tamanho": 120521278,
-  "sha256": "0b52fbfbea2e9f386c5d866074111cd9dd464964abcafaa469356ab9cc6d529c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.191.0/Vrumbi-0.191.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.191.0/Vrumbi-relogio-0.191.0.apk",
+  "tamanho": 120553046,
+  "sha256": "06d433a52e69bfa16a69fd634e1f8a69c041644af0075095ff047425132e44de",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.192.0/Vrumbi-0.192.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.192.0/Vrumbi-relogio-0.192.0.apk",
   "notas": [
-    "Risco onde você estaciona: agora também no Distrito Federal, por Região Administrativa (SSP-DF: roubo de veículo e furto de objetos de dentro do carro)."
+    "Carro conectado: quase 3 mil códigos de defeito a mais com o nome em português (injetores, sondas, solenoides do câmbio, bateria do híbrido, Arla 32...)."
   ],
   "versoes": [
+    {
+      "versao": "0.192.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: quase 3 mil códigos de defeito a mais com o nome em português (injetores, sondas, solenoides do câmbio, bateria do híbrido, Arla 32...)."
+      ],
+      "en": [
+        "Connected car: almost 3,000 more fault codes with a Portuguese title (for Portuguese users)."
+      ],
+      "es": [
+        "Auto conectado: casi 3 mil códigos de avería más con el nombre en portugués (para quien usa el app en portugués)."
+      ]
+    },
     {
       "versao": "0.191.0",
       "data": "16/11/2026",
@@ -176,19 +189,6 @@
         "Auto conectado (OBD2): tarjeta \"Este viaje\" con distancia, tiempo, combustible gastado y promedio en km/L según el consumo que informa el propio auto; y el 0 a 100 km/h medido solo (el último y el mejor).",
         "Junto a los defectos, \"cómo estaba el auto cuando apareció el defecto\" (freeze frame): velocidad, rpm, temperatura, carga y mezcla en el instante en que la central grabó el código.",
         "Mapas sin conexión del mundo completos: los 253 paquetes, ahora también Costa de Marfil y el Lejano Oriente ruso."
-      ]
-    },
-    {
-      "versao": "0.180.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Fale com o Vrumbi para ligar as novidades: \"liga o modo caminhão\", \"meu caminhão é Euro 5\", \"tela cheia\", \"mostra as coordenadas\", \"coloca a hora na tela\", \"relevo em 3D\" ou \"desliga o relevo\"."
-      ],
-      "en": [
-        "Ask Vrumbi to turn on the new features: \"turn on truck mode\", \"my truck is Euro 5\", \"full screen\", \"show coordinates\", \"clock on screen\", \"3D terrain\" or \"turn off terrain\"."
-      ],
-      "es": [
-        "Pídele a Vrumbi las novedades: \"activa el modo camión\", \"mi camión es Euro 5\", \"pantalla completa\", \"muestra las coordenadas\", \"hora en la pantalla\", \"relieve en 3D\" o \"desactiva el relieve\"."
       ]
     }
   ]
