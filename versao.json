@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.192.0",
-  "codigo": 444,
+  "versao": "0.193.0",
+  "codigo": 445,
   "data": "16/11/2026",
-  "tamanho": 120553046,
-  "sha256": "06d433a52e69bfa16a69fd634e1f8a69c041644af0075095ff047425132e44de",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.192.0/Vrumbi-0.192.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.192.0/Vrumbi-relogio-0.192.0.apk",
+  "tamanho": 120565530,
+  "sha256": "661f7cccddfffbc7033d7c1079f95bb89804e5949a2821866d5882ebba640f3c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.193.0/Vrumbi-0.193.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.193.0/Vrumbi-relogio-0.193.0.apk",
   "notas": [
-    "Carro conectado: quase 3 mil códigos de defeito a mais com o nome em português (injetores, sondas, solenoides do câmbio, bateria do híbrido, Arla 32...)."
+    "Carro conectado: mais mil códigos de defeito com o nome em português (4.100 no total), inclusive os de carro elétrico e híbrido."
   ],
   "versoes": [
+    {
+      "versao": "0.193.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: mais mil códigos de defeito com o nome em português (4.100 no total), inclusive os de carro elétrico e híbrido."
+      ],
+      "en": [
+        "Connected car: another thousand fault codes with a Portuguese title (4,100 in total), including electric and hybrid ones."
+      ],
+      "es": [
+        "Auto conectado: mil códigos de avería más con el nombre en portugués (4.100 en total), incluidos los de autos eléctricos e híbridos."
+      ]
+    },
     {
       "versao": "0.192.0",
       "data": "16/11/2026",
@@ -170,25 +183,6 @@
       ],
       "es": [
         "Auto conectado: la 1/4 de milla (402 m) medida sola junto al 0 a 100 (tiempo y velocidad final), y \"Exportar el viaje\" en planilla CSV, con velocidad, rpm, consumo y temperatura cada segundo -- guardada en el celular, en Drive o en otra nube."
-      ]
-    },
-    {
-      "versao": "0.181.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado (OBD2): cartão \"Esta viagem\" com a distância, o tempo, o combustível gasto e a média em km/L pelo consumo que o próprio carro informa; e o 0 a 100 km/h medido sozinho (o último e o melhor).",
-        "Junto dos defeitos, \"como o carro estava quando o defeito apareceu\" (freeze frame): velocidade, giro, temperatura, carga e mistura no instante em que a central gravou o código.",
-        "Mapas offline do mundo completos: os 253 pacotes, agora também Costa do Marfim e o Extremo Oriente russo."
-      ],
-      "en": [
-        "Connected car (OBD2): a \"This trip\" card with distance, time, fuel used and average km/L from the consumption the car itself reports; plus 0–100 km/h timed automatically (last and best).",
-        "Next to the faults, \"how the car was when the fault appeared\" (freeze frame): speed, rpm, temperature, load and fuel trim at the moment the ECU stored the code.",
-        "Offline maps for the whole world: all 253 packages, now including Côte d'Ivoire and the Russian Far East."
-      ],
-      "es": [
-        "Auto conectado (OBD2): tarjeta \"Este viaje\" con distancia, tiempo, combustible gastado y promedio en km/L según el consumo que informa el propio auto; y el 0 a 100 km/h medido solo (el último y el mejor).",
-        "Junto a los defectos, \"cómo estaba el auto cuando apareció el defecto\" (freeze frame): velocidad, rpm, temperatura, carga y mezcla en el instante en que la central grabó el código.",
-        "Mapas sin conexión del mundo completos: los 253 paquetes, ahora también Costa de Marfil y el Lejano Oriente ruso."
       ]
     }
   ]
