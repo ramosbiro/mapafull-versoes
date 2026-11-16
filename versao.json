@@ -1,17 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.197.0",
-  "codigo": 449,
+  "versao": "0.198.0",
+  "codigo": 450,
   "data": "16/11/2026",
-  "tamanho": 120655015,
-  "sha256": "4245a664f4c6a532b023bdc232ea2c5e3cc1351ac1f4bd8fe7be455bca6314fa",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.197.0/Vrumbi-0.197.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.197.0/Vrumbi-relogio-0.197.0.apk",
+  "tamanho": 120656299,
+  "sha256": "9b4a4befaaebd0e9539386ac381f54073a4cc2fc45179717f9045e4ea4934461",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.198.0/Vrumbi-0.198.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.198.0/Vrumbi-relogio-0.198.0.apk",
   "notas": [
-    "Portão e casa: no Home Assistant, o botão \"Buscar portões e portas na central\" lista o que a sua casa tem (portões, portas, fechaduras, relés) para escolher, sem digitar o nome técnico.",
-    "Modo caminhão: Montevidéu, dentro do Anillo Perimetral (Zona B), combinação articulada proibida o dia todo."
+    "Busca: os locais comerciais abertos da cidade de Madri (100 mil, com o tipo de cada um), e as licenças de Calgary, New Orleans e Norfolk.",
+    "Sobre o app: a lista de todos os cadastros de empresas usados na busca, com as licenças."
   ],
   "versoes": [
+    {
+      "versao": "0.198.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Busca: os locais comerciais abertos da cidade de Madri (100 mil, com o tipo de cada um), e as licenças de Calgary, New Orleans e Norfolk.",
+        "Sobre o app: a lista de todos os cadastros de empresas usados na busca, com as licenças."
+      ],
+      "en": [
+        "Search: the open commercial premises of the city of Madrid (100 thousand, with each one's type), plus business licenses from Calgary, New Orleans and Norfolk.",
+        "About the app: the list of every business registry used in search, with its license."
+      ],
+      "es": [
+        "Búsqueda: los locales comerciales abiertos de la ciudad de Madrid (100 mil, con el tipo de cada uno), y las licencias de Calgary, Nueva Orleans y Norfolk.",
+        "Sobre la app: la lista de todos los registros de empresas usados en la búsqueda, con sus licencias."
+      ]
+    },
     {
       "versao": "0.197.0",
       "data": "16/11/2026",
@@ -165,19 +181,6 @@
       "es": [
         "Datos del fabricante: ahora también las centralitas que hablan en CAN de 29 bits, con dirección extendida o sesión de diagnóstico -- entran Honda, BMW y más modelos de VW, Audi, GM y Renault (645 modelos de 60 marcas).",
         "Datos del fabricante: los nombres de los datos más comunes en portugués y español (presión y temperatura de cada neumático, velocidad de cada rueda, aceite, caja, fallos por cilindro...)."
-      ]
-    },
-    {
-      "versao": "0.186.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: \"Dados do fabricante\" -- escolha o modelo (a marca e o ano já vêm do chassi) e o Vrumbi lê também o que as centrais do carro informam além do básico: câmbio, bateria do híbrido ou elétrico, pneus, odômetro, portas e mais. 544 modelos de 54 marcas, da base aberta OBDb."
-      ],
-      "en": [
-        "Connected car: \"Manufacturer data\" -- choose the model (make and year come from the VIN) and Vrumbi also reads what the car's modules report beyond the basics: transmission, hybrid or EV battery, tires, odometer, doors and more. 544 models from 54 makes, from the open OBDb database."
-      ],
-      "es": [
-        "Auto conectado: \"Datos del fabricante\" -- elige el modelo (la marca y el año salen del chasis) y Vrumbi lee también lo que informan las centralitas del auto más allá de lo básico: caja, batería del híbrido o eléctrico, neumáticos, odómetro, puertas y más. 544 modelos de 54 marcas, de la base abierta OBDb."
       ]
     }
   ]
