@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.199.0",
-  "codigo": 451,
+  "versao": "0.200.0",
+  "codigo": 452,
   "data": "16/11/2026",
-  "tamanho": 120660995,
-  "sha256": "a48289f7fd6ded1e730dcaffd241c01a0f48f1686703b044b6df2f8e3b905fc2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.199.0/Vrumbi-0.199.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.199.0/Vrumbi-relogio-0.199.0.apk",
+  "tamanho": 120904560,
+  "sha256": "841a7104ee69cc7ac8f3bc05ad33538fecb97761be50f4c263847428b7836e2b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.200.0/Vrumbi-0.200.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.200.0/Vrumbi-relogio-0.200.0.apk",
   "notas": [
-    "Vrumbi por voz: \"abre o carro conectado\", \"abre portão e casa\", \"modo HUD\", \"abre o cockpit\" e \"conecta o carro\" (liga no adaptador OBD2 salvo)."
+    "Risco onde você estaciona: agora também no Mato Grosso do Sul, por município (SEJUSP-MS).",
+    "Busca: 2,75 milhões de lojas da Coreia do Sul, com o ponto de cada uma."
   ],
   "versoes": [
+    {
+      "versao": "0.200.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Risco onde você estaciona: agora também no Mato Grosso do Sul, por município (SEJUSP-MS).",
+        "Busca: 2,75 milhões de lojas da Coreia do Sul, com o ponto de cada uma."
+      ],
+      "en": [
+        "Risk where you park: now also in Mato Grosso do Sul, by municipality (SEJUSP-MS).",
+        "Search: 2.75 million shops in South Korea, each with its exact point."
+      ],
+      "es": [
+        "Riesgo donde estacionas: ahora también en Mato Grosso do Sul, por municipio (SEJUSP-MS).",
+        "Búsqueda: 2,75 millones de tiendas de Corea del Sur, cada una con su punto."
+      ]
+    },
     {
       "versao": "0.199.0",
       "data": "16/11/2026",
@@ -161,22 +178,6 @@
       ],
       "es": [
         "Auto conectado: el alfiler en los datos del fabricante lleva el dato (presión del neumático, aceite de la caja, batería del híbrido...) al panel En vivo y al Cockpit del Panel de a bordo."
-      ]
-    },
-    {
-      "versao": "0.188.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: mais duas zonas de Campinas -- o Anel Rodoviário (D. Pedro I, Anhanguera e SP-083: acima de 14 m proibido seg–sex 6h–9h e 16h–20h, sáb 9h–14h) e o Distrito de Nova Aparecida (acima de 14 m não passa por dentro, a qualquer hora).",
-        "Risco onde você estaciona: agora também no Rio de Janeiro (por delegacia, ISP-RJ), Espírito Santo e Bahia (por bairro; onde o IBGE não tem bairros, o município). Esses estados não publicam o local exato, então o aviso é da área."
-      ],
-      "en": [
-        "Truck mode: two more Campinas zones -- the Highway Ring (D. Pedro I, Anhanguera and SP-083: over 14 m banned Mon–Fri 6–9 am and 4–8 pm, Sat 9 am–2 pm) and the Nova Aparecida district (over 14 m no through traffic, any time).",
-        "Risk where you park: now also in Rio de Janeiro (by police precinct), Espírito Santo and Bahia (by neighborhood, or the whole municipality where IBGE has no neighborhoods). These states do not publish exact locations, so the warning is for the area."
-      ],
-      "es": [
-        "Modo camión: dos zonas más de Campinas -- el Anillo Vial (D. Pedro I, Anhanguera y SP-083: más de 14 m prohibido lun–vie 6–9 h y 16–20 h, sáb 9–14 h) y el Distrito de Nova Aparecida (más de 14 m no pasa por dentro, a cualquier hora).",
-        "Riesgo donde estacionas: ahora también en Río de Janeiro (por comisaría), Espírito Santo y Bahía (por barrio, o el municipio entero donde el IBGE no tiene barrios). Estos estados no publican el lugar exacto, así que el aviso es del área."
       ]
     }
   ]
