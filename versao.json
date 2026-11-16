@@ -1,16 +1,49 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.186.0",
-  "codigo": 438,
+  "versao": "0.188.0",
+  "codigo": 440,
   "data": "16/11/2026",
-  "tamanho": 119737338,
-  "sha256": "c1a6fa1390fda36f37b8c30814bc4bfa4d1d5d8ba275fa9aaa1e56bb295fa3b8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.186.0/Vrumbi-0.186.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.186.0/Vrumbi-relogio-0.186.0.apk",
+  "tamanho": 120480577,
+  "sha256": "538f39f271526ed4848e2ea0b6c3b18a57fcfb1c663d8a9d5778893f6570a236",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.188.0/Vrumbi-0.188.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.188.0/Vrumbi-relogio-0.188.0.apk",
   "notas": [
-    "Carro conectado: \"Dados do fabricante\" -- escolha o modelo (a marca e o ano já vêm do chassi) e o Vrumbi lê também o que as centrais do carro informam além do básico: câmbio, bateria do híbrido ou elétrico, pneus, odômetro, portas e mais. 544 modelos de 54 marcas, da base aberta OBDb."
+    "Modo caminhão: mais duas zonas de Campinas -- o Anel Rodoviário (D. Pedro I, Anhanguera e SP-083: acima de 14 m proibido seg–sex 6h–9h e 16h–20h, sáb 9h–14h) e o Distrito de Nova Aparecida (acima de 14 m não passa por dentro, a qualquer hora).",
+    "Risco onde você estaciona: agora também no Rio de Janeiro (por delegacia, ISP-RJ), Espírito Santo e Bahia (por bairro; onde o IBGE não tem bairros, o município). Esses estados não publicam o local exato, então o aviso é da área."
   ],
   "versoes": [
+    {
+      "versao": "0.188.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: mais duas zonas de Campinas -- o Anel Rodoviário (D. Pedro I, Anhanguera e SP-083: acima de 14 m proibido seg–sex 6h–9h e 16h–20h, sáb 9h–14h) e o Distrito de Nova Aparecida (acima de 14 m não passa por dentro, a qualquer hora).",
+        "Risco onde você estaciona: agora também no Rio de Janeiro (por delegacia, ISP-RJ), Espírito Santo e Bahia (por bairro; onde o IBGE não tem bairros, o município). Esses estados não publicam o local exato, então o aviso é da área."
+      ],
+      "en": [
+        "Truck mode: two more Campinas zones -- the Highway Ring (D. Pedro I, Anhanguera and SP-083: over 14 m banned Mon–Fri 6–9 am and 4–8 pm, Sat 9 am–2 pm) and the Nova Aparecida district (over 14 m no through traffic, any time).",
+        "Risk where you park: now also in Rio de Janeiro (by police precinct), Espírito Santo and Bahia (by neighborhood, or the whole municipality where IBGE has no neighborhoods). These states do not publish exact locations, so the warning is for the area."
+      ],
+      "es": [
+        "Modo camión: dos zonas más de Campinas -- el Anillo Vial (D. Pedro I, Anhanguera y SP-083: más de 14 m prohibido lun–vie 6–9 h y 16–20 h, sáb 9–14 h) y el Distrito de Nova Aparecida (más de 14 m no pasa por dentro, a cualquier hora).",
+        "Riesgo donde estacionas: ahora también en Río de Janeiro (por comisaría), Espírito Santo y Bahía (por barrio, o el municipio entero donde el IBGE no tiene barrios). Estos estados no publican el lugar exacto, así que el aviso es del área."
+      ]
+    },
+    {
+      "versao": "0.187.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Dados do fabricante: agora também as centrais que falam em CAN de 29 bits, com endereço estendido ou sessão de diagnóstico -- entram Honda, BMW e mais modelos de VW, Audi, GM e Renault (645 modelos de 60 marcas).",
+        "Dados do fabricante: os nomes dos dados mais comuns em português e espanhol (pressão e temperatura de cada pneu, velocidade de cada roda, óleo, câmbio, falhas por cilindro...)."
+      ],
+      "en": [
+        "Manufacturer data: now also modules on 29-bit CAN, extended addressing or diagnostic session -- adds Honda, BMW and more VW, Audi, GM and Renault models (645 models from 60 makes).",
+        "Manufacturer data: the most common data names in Portuguese and Spanish."
+      ],
+      "es": [
+        "Datos del fabricante: ahora también las centralitas que hablan en CAN de 29 bits, con dirección extendida o sesión de diagnóstico -- entran Honda, BMW y más modelos de VW, Audi, GM y Renault (645 modelos de 60 marcas).",
+        "Datos del fabricante: los nombres de los datos más comunes en portugués y español (presión y temperatura de cada neumático, velocidad de cada rueda, aceite, caja, fallos por cilindro...)."
+      ]
+    },
     {
       "versao": "0.186.0",
       "data": "16/11/2026",
@@ -157,41 +190,6 @@
       ],
       "es": [
         "Modo camión: dos zonas de restricción más — Curitiba (Zona Central de Tráfico: más de 7 t de carga o 7 m, días hábiles 9–19 h y sábado 9–13:30 h) y Campinas (dentro del Anillo Rebouças: más de 6,30 m, lun a vie 6–20 h y sábado 6–14 h). El contorno sigue, calle por calle, el perímetro descrito en la norma de cada ciudad."
-      ]
-    },
-    {
-      "versao": "0.176.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: zonas de restrição de Belo Horizonte (área central, dentro da Av. do Contorno), Porto Alegre (Centro Histórico) e Juiz de Fora (área oficial da Prefeitura), além da ZMRC de São Paulo. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido.",
-        "A regra muda com o caminhão: em BH, carreta e cavalo mecânico não entram em hora nenhuma; em Porto Alegre, acima de 15 t é proibido sempre. Caminhão pequeno (BH até 6,5 m; Porto Alegre até 10 t e 7 m) fica liberado."
-      ],
-      "en": [
-        "Truck mode: restriction zones in Belo Horizonte (central area, inside Av. do Contorno), Porto Alegre (Historic center) and Juiz de Fora (official city area), besides São Paulo's ZMRC. The outline shows on the map and Vrumbi warns before you enter and if you are inside during restricted hours.",
-        "The rule depends on the truck: in Belo Horizonte, tractor-trailers may never enter; in Porto Alegre, over 15 t is always banned. Small trucks (BH up to 6.5 m; Porto Alegre up to 10 t and 7 m) are allowed."
-      ],
-      "es": [
-        "Modo camión: zonas de restricción de Belo Horizonte (área central, dentro de la Av. do Contorno), Porto Alegre (Centro Histórico) y Juiz de Fora (área oficial de la Prefectura), además de la ZMRC de São Paulo. El contorno aparece en el mapa y Vrumbi avisa antes de entrar y si estás dentro en el horario prohibido.",
-        "La regla cambia con el camión: en Belo Horizonte, tractocamiones nunca entran; en Porto Alegre, más de 15 t está prohibido siempre. Los camiones pequeños (BH hasta 6,5 m; Porto Alegre hasta 10 t y 7 m) quedan permitidos."
-      ]
-    },
-    {
-      "versao": "0.175.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Limite legal do caminhão pela posição: o app sabe em que país você está pelo GPS (fronteiras no próprio aparelho, sem internet), e não mais só pelo fuso do celular — na fronteira, vale o lado em que o caminhão está.",
-        "Estados Unidos estado por estado: a altura legal muda de 13'6\" (4,11 m) a 14'6\" (4,42 m) — e 15' no Alasca —, e o aviso usa a do estado onde você está.",
-        "Limites legais de caminhão em mais 15 países da Ásia (Coreia do Sul, Taiwan, Filipinas, Laos, Cazaquistão, Quirguistão, Tadjiquistão, Irã, Israel, Singapura, Indonésia, Vietnã, Paquistão, Uzbequistão, Mongólia): 155 países, todos com fonte."
-      ],
-      "en": [
-        "Truck legal limits by position: the app knows which country you are in from GPS (borders stored on the device, no internet), not just the phone time zone — at a border, the side the truck is on counts.",
-        "United States state by state: the legal height ranges from 13'6\" (4.11 m) to 14'6\" (4.42 m) — and 15' in Alaska — and the warning uses the one for the state you are in.",
-        "Truck legal limits for 15 more countries in Asia (South Korea, Taiwan, Philippines, Laos, Kazakhstan, Kyrgyzstan, Tajikistan, Iran, Israel, Singapore, Indonesia, Vietnam, Pakistan, Uzbekistan, Mongolia): 155 countries, all sourced."
-      ],
-      "es": [
-        "Límite legal del camión por la posición: la app sabe en qué país estás por el GPS (fronteras en el propio aparato, sin internet), y no solo por la zona horaria del celular — en la frontera vale el lado donde está el camión.",
-        "Estados Unidos estado por estado: la altura legal va de 13'6\" (4,11 m) a 14'6\" (4,42 m) — y 15' en Alaska —, y el aviso usa la del estado donde estás.",
-        "Límites legales de camión en 15 países más de Asia (Corea del Sur, Taiwán, Filipinas, Laos, Kazajistán, Kirguistán, Tayikistán, Irán, Israel, Singapur, Indonesia, Vietnam, Pakistán, Uzbekistán, Mongolia): 155 países, todos con fuente."
       ]
     }
   ]
