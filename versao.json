@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.182.0",
-  "codigo": 434,
+  "versao": "0.183.0",
+  "codigo": 435,
   "data": "16/11/2026",
-  "tamanho": 119673682,
-  "sha256": "7b964831f1dfe93c896dffcd541e39badbb431b7bd0ab8b80032815d055d8f7f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.182.0/Vrumbi-0.182.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.182.0/Vrumbi-relogio-0.182.0.apk",
+  "tamanho": 119690966,
+  "sha256": "a9e9b285e1fa386ca9a35a6c5f71f66838e2ccd389ee44b0cfeb803e243612c2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.183.0/Vrumbi-0.183.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.183.0/Vrumbi-relogio-0.183.0.apk",
   "notas": [
-    "Carro conectado: a 1/4 de milha (402 m) medida sozinha junto do 0 a 100 (o tempo e a velocidade no fim), e \"Exportar a viagem\" em planilha CSV, com velocidade, giro, consumo e temperatura a cada segundo -- salva no celular, no Drive ou em outra nuvem."
+    "Carro conectado: \"Testes da central\" (modo 06) -- o resultado de cada sistema que a central do carro testa (sondas, catalisador, vapores, EGR...) e as falhas de combustão contadas por cilindro, para achar a vela, o cabo, a bobina ou o bico com problema.",
+    "Modo caminhão: limites legais em 168 países e territórios (mais Arábia Saudita, Bahrein, Omã, Iêmen, Hong Kong, Tailândia, Butão, Timor-Leste, Eritreia, Etiópia, Congo, Mayotte e Saint-Pierre-et-Miquelon), todos com fonte.",
+    "Proibição para caminhão e defeito do carro ficam sempre em vermelho, qualquer que seja a cor escolhida para o app."
   ],
   "versoes": [
+    {
+      "versao": "0.183.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: \"Testes da central\" (modo 06) -- o resultado de cada sistema que a central do carro testa (sondas, catalisador, vapores, EGR...) e as falhas de combustão contadas por cilindro, para achar a vela, o cabo, a bobina ou o bico com problema.",
+        "Modo caminhão: limites legais em 168 países e territórios (mais Arábia Saudita, Bahrein, Omã, Iêmen, Hong Kong, Tailândia, Butão, Timor-Leste, Eritreia, Etiópia, Congo, Mayotte e Saint-Pierre-et-Miquelon), todos com fonte.",
+        "Proibição para caminhão e defeito do carro ficam sempre em vermelho, qualquer que seja a cor escolhida para o app."
+      ],
+      "en": [
+        "Connected car: \"ECU tests\" (mode 06) -- the result of every system the car's ECU tests (O2 sensors, catalyst, EVAP, EGR...) and misfires counted per cylinder, to find the bad plug, wire, coil or injector.",
+        "Truck mode: legal limits in 168 countries and territories (adding Saudi Arabia, Bahrain, Oman, Yemen, Hong Kong, Thailand, Bhutan, Timor-Leste, Eritrea, Ethiopia, DR Congo, Mayotte and Saint-Pierre-et-Miquelon), all sourced.",
+        "Truck bans and car faults always show in red, whatever color you chose for the app."
+      ],
+      "es": [
+        "Auto conectado: \"Pruebas de la central\" (modo 06) -- el resultado de cada sistema que prueba la central del auto (sondas, catalizador, vapores, EGR...) y los fallos de combustión por cilindro, para hallar la bujía, el cable, la bobina o el inyector con problema.",
+        "Modo camión: límites legales en 168 países y territorios (además Arabia Saudita, Baréin, Omán, Yemen, Hong Kong, Tailandia, Bután, Timor Oriental, Eritrea, Etiopía, Congo, Mayotte y San Pedro y Miquelón), todos con fuente.",
+        "La prohibición para camiones y los defectos del auto quedan siempre en rojo, sea cual sea el color elegido para la app."
+      ]
+    },
     {
       "versao": "0.182.0",
       "data": "16/11/2026",
@@ -188,19 +209,6 @@
         "Nuevo: hora y coordenadas en pantalla, debajo del clima (Ajustes rápidos > Mapa > Hora en pantalla / Coordenadas).",
         "Nuevo: pantalla completa, sin las barras de Android; deslizar desde el borde las muestra (Ajustes rápidos > Mapa > Pantalla completa).",
         "Modo camión: límite legal de 140 países (antes 57), cada uno con su fuente oficial — África, Centroamérica, el Caribe, Oceanía y el resto de Europa."
-      ]
-    },
-    {
-      "versao": "0.171.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: zona de restrição de São Paulo (ZMRC), pelo contorno oficial da CET. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido (seg a sex 5h às 21h, sáb 10h às 14h). VUC fica liberado, como manda a regra."
-      ],
-      "en": [
-        "Truck mode: São Paulo truck restriction zone (ZMRC), from the official CET boundary. The outline shows on the map and Vrumbi warns before you enter and if you are inside during restricted hours (Mon–Fri 5 am–9 pm, Sat 10 am–2 pm). Light urban trucks (VUC) are allowed, as the rule says."
-      ],
-      "es": [
-        "Modo camión: zona de restricción de São Paulo (ZMRC), con el contorno oficial de la CET. El contorno aparece en el mapa y Vrumbi avisa antes de entrar y si estás dentro en el horario prohibido (lun a vie 5 a 21 h, sáb 10 a 14 h). Los VUC quedan permitidos, como indica la regla."
       ]
     }
   ]
