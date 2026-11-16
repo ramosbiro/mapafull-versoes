@@ -1,18 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.202.0",
-  "codigo": 454,
+  "versao": "0.203.0",
+  "codigo": 455,
   "data": "16/11/2026",
-  "tamanho": 120910608,
-  "sha256": "d6cd179871474927fbc6d242f83f212b1650f5c4f01a84dd2905b860c7b8aa28",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.202.0/Vrumbi-0.202.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.202.0/Vrumbi-relogio-0.202.0.apk",
+  "tamanho": 120918296,
+  "sha256": "f3b6cf32d2898d70fdb2ca5c91c768a5f23d83a0db7232434952728cd5671a4b",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.203.0/Vrumbi-0.203.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.203.0/Vrumbi-relogio-0.203.0.apk",
   "notas": [
-    "Clima: ao abrir o app, o céu do mapa não começa mais chovendo com a previsão velha guardada -- vale a hora certa da previsão, e o tempo novo chega na hora (antes demorava 1 a 2 minutos).",
-    "Ícone: trocar o modo de navegação troca o ícone junto (moto vira moto, bicicleta vira bicicleta, a pé vira pessoa). Se você escolher outro ícone num modo, ele fica lembrado para aquele modo.",
-    "Mais leve: o mapa deixou de ler a placa de vídeo a cada posição do GPS (era quase metade do trabalho do app parado no mapa); com pouca memória no celular, o cérebro do Vrumbi sai da memória para o mapa não travar."
+    "Vrumbi: \"agora não\", \"não\", \"nada\", \"deixa pra lá\" e \"tchau\" encerram na hora -- antes viravam pergunta para o cérebro e podiam travar a navegação.",
+    "Vrumbi: o cérebro nunca mais trava o app. Em celular com menos de 10 GB ele não abre sozinho com a janela, só abre com memória livre de sobra (e no processador quando falta memória para a placa de vídeo), e cada pergunta tem prazo: demorou, ele avisa e solta você."
   ],
   "versoes": [
+    {
+      "versao": "0.203.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Vrumbi: \"agora não\", \"não\", \"nada\", \"deixa pra lá\" e \"tchau\" encerram na hora -- antes viravam pergunta para o cérebro e podiam travar a navegação.",
+        "Vrumbi: o cérebro nunca mais trava o app. Em celular com menos de 10 GB ele não abre sozinho com a janela, só abre com memória livre de sobra (e no processador quando falta memória para a placa de vídeo), e cada pergunta tem prazo: demorou, ele avisa e solta você."
+      ],
+      "en": [
+        "Vrumbi: \"not now\", \"no\", \"nothing\", \"never mind\" and \"bye\" end it right away -- before, they became a question for the brain and could freeze navigation.",
+        "Vrumbi: the brain never freezes the app again. On phones under 10 GB it no longer opens with the window, it only opens with plenty of free memory (on the processor when the graphics card lacks room), and every question has a deadline: if it takes too long, it tells you and lets go."
+      ],
+      "es": [
+        "Vrumbi: \"ahora no\", \"no\", \"nada\", \"déjalo\" y \"chau\" terminan enseguida -- antes se volvían una pregunta para el cerebro y podían trabar la navegación.",
+        "Vrumbi: el cerebro ya no traba la app. En celulares con menos de 10 GB ya no se abre solo con la ventana, solo con memoria libre de sobra (en el procesador cuando falta memoria para la tarjeta de video), y cada pregunta tiene plazo: si tarda, avisa y te suelta."
+      ]
+    },
     {
       "versao": "0.202.0",
       "data": "16/11/2026",
@@ -175,19 +190,6 @@
       ],
       "es": [
         "Auto conectado: casi 3 mil códigos de avería más con el nombre en portugués (para quien usa el app en portugués)."
-      ]
-    },
-    {
-      "versao": "0.191.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Risco onde você estaciona: agora também no Distrito Federal, por Região Administrativa (SSP-DF: roubo de veículo e furto de objetos de dentro do carro)."
-      ],
-      "en": [
-        "Risk where you park: now also in the Federal District, by Administrative Region (SSP-DF: vehicle robbery and theft from inside cars)."
-      ],
-      "es": [
-        "Riesgo donde estacionas: ahora también en el Distrito Federal, por Región Administrativa (SSP-DF: robo de vehículo y hurto de objetos de dentro del auto)."
       ]
     }
   ]
