@@ -1,16 +1,45 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.169.0",
-  "codigo": 421,
+  "versao": "0.170.0",
+  "codigo": 422,
   "data": "15/11/2026",
-  "tamanho": 117866966,
-  "sha256": "d86762d8cee5b619d9582a6e6df12d31490d65b5886e72bfbb39393e7644d38e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.169.0/Vrumbi-0.169.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.169.0/Vrumbi-relogio-0.169.0.apk",
+  "tamanho": 117906562,
+  "sha256": "65387334559118e92b043c7e9975494bf35790e8dc5de04e217dead0bd22a87a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.170.0/Vrumbi-0.170.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.170.0/Vrumbi-relogio-0.170.0.apk",
   "notas": [
-    "Novo: relevo do terreno no mapa (Configurações > Mapa 3D). Sombreado deixa morros e serras desenhados por baixo das ruas; 3D levanta o terreno de verdade, e a seta da posição anda em cima dele. Precisa de internet; vem desligado."
+    "Novo: modo caminhão. Ao escolher um ícone de caminhão, o Vrumbi oferece o modo caminhão e pergunta a altura do seu caminhão (com a carga). Em Meus veículos, escolher Caminhão oferece o ícone.",
+    "No modo caminhão, o mapa mostra em vermelho as vias que o seu caminhão não pode usar (viaduto baixo, limite de peso, peso por eixo, largura, comprimento e proibido para caminhão), com a placa do limite. Restrições com horário, como as das marginais, valem só no horário.",
+    "Aviso antes de chegar, com e sem rota: cartão com a placa e voz uma vez (\"altura máxima de 3,8 metros à frente, seu caminhão não passa\"). Dados do mundo inteiro (OpenStreetMap). Liga e desliga em Ajustes rápidos > Restrições de caminhão.",
+    "Limite legal do país: se o seu caminhão passa da altura, largura, comprimento ou peso permitidos por lei no país (Brasil: 4,40 m de altura), o Vrumbi avisa que só circula com autorização especial.",
+    "Correção: os centros comerciais fora do Brasil não carregavam no celular."
   ],
   "versoes": [
+    {
+      "versao": "0.170.0",
+      "data": "15/11/2026",
+      "itens": [
+        "Novo: modo caminhão. Ao escolher um ícone de caminhão, o Vrumbi oferece o modo caminhão e pergunta a altura do seu caminhão (com a carga). Em Meus veículos, escolher Caminhão oferece o ícone.",
+        "No modo caminhão, o mapa mostra em vermelho as vias que o seu caminhão não pode usar (viaduto baixo, limite de peso, peso por eixo, largura, comprimento e proibido para caminhão), com a placa do limite. Restrições com horário, como as das marginais, valem só no horário.",
+        "Aviso antes de chegar, com e sem rota: cartão com a placa e voz uma vez (\"altura máxima de 3,8 metros à frente, seu caminhão não passa\"). Dados do mundo inteiro (OpenStreetMap). Liga e desliga em Ajustes rápidos > Restrições de caminhão.",
+        "Limite legal do país: se o seu caminhão passa da altura, largura, comprimento ou peso permitidos por lei no país (Brasil: 4,40 m de altura), o Vrumbi avisa que só circula com autorização especial.",
+        "Correção: os centros comerciais fora do Brasil não carregavam no celular."
+      ],
+      "en": [
+        "New: truck mode. When you pick a truck icon, Vrumbi offers truck mode and asks your truck height (with the load). In My vehicles, choosing Truck offers the icon.",
+        "In truck mode, the map shows in red the roads your truck cannot use (low bridge, weight limit, axle load, width, length and no trucks), with the limit sign. Time-based restrictions only apply at those times.",
+        "Warning before you get there, with or without a route: a card with the sign and a voice alert once (\"maximum height 3.8 meters ahead, your truck does not fit\"). Worldwide data (OpenStreetMap). Toggle it in Quick settings > Truck restrictions.",
+        "Legal limit of the country: if your truck exceeds the legal height, width, length or weight of the country, Vrumbi warns that it needs a special permit.",
+        "Fix: shopping centers outside Brazil did not load on the phone."
+      ],
+      "es": [
+        "Nuevo: modo camión. Al elegir un ícono de camión, Vrumbi ofrece el modo camión y pregunta la altura de tu camión (con la carga). En Mis vehículos, elegir Camión ofrece el ícono.",
+        "En el modo camión, el mapa muestra en rojo las vías que tu camión no puede usar (viaducto bajo, límite de peso, peso por eje, ancho, largo y prohibido para camiones), con la señal del límite. Las restricciones con horario valen solo en ese horario.",
+        "Aviso antes de llegar, con o sin ruta: tarjeta con la señal y voz una vez (\"altura máxima de 3,8 metros adelante, tu camión no pasa\"). Datos de todo el mundo (OpenStreetMap). Se activa en Ajustes rápidos > Restricciones para camiones.",
+        "Límite legal del país: si tu camión supera la altura, el ancho, el largo o el peso permitidos por ley en el país, Vrumbi avisa que solo circula con autorización especial.",
+        "Corrección: los centros comerciales fuera de Brasil no cargaban en el celular."
+      ]
+    },
     {
       "versao": "0.169.0",
       "data": "15/11/2026",
@@ -170,25 +199,6 @@
         "El administrador del borde abre al instante: basta tocar el borde entre las ventanas (antes, solo al soltar). Si arrastras, desaparece y la ventana cambia de tamaño; el área de toque del borde es mayor.",
         "Contactos acoplado: volvieron los íconos de llamar, enviar mensaje y ajustes arriba.",
         "Contactos se ajusta al ancho de la ventana, vertical y horizontal: angosta, Limpiar queda solo con el ícono y los botones se achican."
-      ]
-    },
-    {
-      "versao": "0.158.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Janelas lado a lado não descem mais sozinhas até o fim da tela; arrastar a borda de uma muda a altura das duas juntas.",
-        "Encaixar na borda ficou mais rápido: com a janela já encostada na beira, basta continuar empurrando que o encaixe aparece (antes o dedo precisava chegar quase na beira).",
-        "Contatos: o botão de janelas ficou alinhado e do tamanho do X."
-      ],
-      "en": [
-        "Side-by-side windows no longer slide down to the bottom of the screen on their own; dragging the border of one changes the height of both.",
-        "Docking to an edge is faster: with the window already touching the edge, just keep pushing and the dock preview appears (before, your finger had to reach almost the edge).",
-        "Contacts: the windows button is now aligned and the same size as the X."
-      ],
-      "es": [
-        "Las ventanas lado a lado ya no bajan solas hasta el final de la pantalla; arrastrar el borde de una cambia la altura de las dos juntas.",
-        "Acoplar al borde es más rápido: con la ventana ya tocando el borde, basta seguir empujando y aparece el acople (antes el dedo tenía que llegar casi al borde).",
-        "Contactos: el botón de ventanas quedó alineado y del tamaño de la X."
       ]
     }
   ]
