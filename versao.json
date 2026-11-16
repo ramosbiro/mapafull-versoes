@@ -1,20 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.170.0",
-  "codigo": 422,
-  "data": "15/11/2026",
-  "tamanho": 117906562,
-  "sha256": "65387334559118e92b043c7e9975494bf35790e8dc5de04e217dead0bd22a87a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.170.0/Vrumbi-0.170.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.170.0/Vrumbi-relogio-0.170.0.apk",
+  "versao": "0.171.0",
+  "codigo": 423,
+  "data": "16/11/2026",
+  "tamanho": 117913486,
+  "sha256": "ae7f1db5e652879587929ad1dcf5f2ecd8d4f3cec5ee305fbdde81acc9d2a879",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.171.0/Vrumbi-0.171.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.171.0/Vrumbi-relogio-0.171.0.apk",
   "notas": [
-    "Novo: modo caminhão. Ao escolher um ícone de caminhão, o Vrumbi oferece o modo caminhão e pergunta a altura do seu caminhão (com a carga). Em Meus veículos, escolher Caminhão oferece o ícone.",
-    "No modo caminhão, o mapa mostra em vermelho as vias que o seu caminhão não pode usar (viaduto baixo, limite de peso, peso por eixo, largura, comprimento e proibido para caminhão), com a placa do limite. Restrições com horário, como as das marginais, valem só no horário.",
-    "Aviso antes de chegar, com e sem rota: cartão com a placa e voz uma vez (\"altura máxima de 3,8 metros à frente, seu caminhão não passa\"). Dados do mundo inteiro (OpenStreetMap). Liga e desliga em Ajustes rápidos > Restrições de caminhão.",
-    "Limite legal do país: se o seu caminhão passa da altura, largura, comprimento ou peso permitidos por lei no país (Brasil: 4,40 m de altura), o Vrumbi avisa que só circula com autorização especial.",
-    "Correção: os centros comerciais fora do Brasil não carregavam no celular."
+    "Modo caminhão: zona de restrição de São Paulo (ZMRC), pelo contorno oficial da CET. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido (seg a sex 5h às 21h, sáb 10h às 14h). VUC fica liberado, como manda a regra."
   ],
   "versoes": [
+    {
+      "versao": "0.171.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Modo caminhão: zona de restrição de São Paulo (ZMRC), pelo contorno oficial da CET. O contorno aparece no mapa e o Vrumbi avisa antes de entrar e se você estiver dentro no horário proibido (seg a sex 5h às 21h, sáb 10h às 14h). VUC fica liberado, como manda a regra."
+      ],
+      "en": [
+        "Truck mode: São Paulo truck restriction zone (ZMRC), from the official CET boundary. The outline shows on the map and Vrumbi warns before you enter and if you are inside during restricted hours (Mon–Fri 5 am–9 pm, Sat 10 am–2 pm). Light urban trucks (VUC) are allowed, as the rule says."
+      ],
+      "es": [
+        "Modo camión: zona de restricción de São Paulo (ZMRC), con el contorno oficial de la CET. El contorno aparece en el mapa y Vrumbi avisa antes de entrar y si estás dentro en el horario prohibido (lun a vie 5 a 21 h, sáb 10 a 14 h). Los VUC quedan permitidos, como indica la regla."
+      ]
+    },
     {
       "versao": "0.170.0",
       "data": "15/11/2026",
@@ -180,25 +189,6 @@
       "es": [
         "Ventanas lado a lado: la barra entre ellas abre el administrador al tocarla -- soltar y cerrar cada una, cambiar el orden y poner una encima de la otra. La barra junto al mapa solo cambia el tamaño.",
         "El reproductor en tamaño mínimo nunca queda vacío: sin música, la columna angosta se vuelve una barra de atajos (las apps de música una debajo de otra, como el panel Edge) y la franja baja muestra los mismos íconos. Se quitó el botón de expandir, que repetía el administrador."
-      ]
-    },
-    {
-      "versao": "0.159.0",
-      "data": "14/11/2026",
-      "itens": [
-        "O gerenciador da borda abre na hora: é encostar o dedo na borda entre as janelas (antes só ao soltar). Arrastou, ele some e a janela muda de tamanho; a área de toque da borda ficou maior.",
-        "Contatos encaixado: voltaram os ícones de ligar, enviar mensagem e ajustes no alto.",
-        "Contatos se ajusta à largura da janela, em pé e deitado: estreita, o Limpar fica só com o ícone e os botões diminuem."
-      ],
-      "en": [
-        "The border manager opens instantly: just touch the border between the windows (before, only on release). Drag and it goes away while the window resizes; the border touch area is bigger.",
-        "Docked Contacts: the call, send message and settings icons are back at the top.",
-        "Contacts adapts to the window width, portrait and landscape: when narrow, Clear shows only its icon and the buttons get smaller."
-      ],
-      "es": [
-        "El administrador del borde abre al instante: basta tocar el borde entre las ventanas (antes, solo al soltar). Si arrastras, desaparece y la ventana cambia de tamaño; el área de toque del borde es mayor.",
-        "Contactos acoplado: volvieron los íconos de llamar, enviar mensaje y ajustes arriba.",
-        "Contactos se ajusta al ancho de la ventana, vertical y horizontal: angosta, Limpiar queda solo con el ícono y los botones se achican."
       ]
     }
   ]
