@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.173.0",
-  "codigo": 425,
+  "versao": "0.174.0",
+  "codigo": 426,
   "data": "16/11/2026",
-  "tamanho": 117925490,
-  "sha256": "d80b9c72470106bfe2815366c27e2822d1cb45cb37c53c2146cc3aa7592f4b5f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.173.0/Vrumbi-0.173.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.173.0/Vrumbi-relogio-0.173.0.apk",
+  "tamanho": 117947330,
+  "sha256": "9d035a48d16ecfc5f88a5d9dabf1353a8985adf7242cd1f5746ed1ba3eb1a771",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.174.0/Vrumbi-0.174.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.174.0/Vrumbi-relogio-0.174.0.apk",
   "notas": [
-    "Clima mais preciso: o \"agora\" passa a usar a chuva MEDIDA — o radar meteorológico em cima de onde você está e, no Brasil, os pluviômetros do Cemaden — e não só a previsão. Com chuva no radar, o app mostra chuva, mesmo que o modelo diga outra coisa.",
-    "Aviso \"chuva chegando\" refeito: não chega mais com a chuva já caindo; o tempo de chegada vem do deslocamento da chuva no radar, e a previsão sozinha só avisa se o radar vê chuva a até 40 km.",
-    "Tocar no céu (nas nuvens) com o mapa inclinado abre o Clima e tempo, e não mais um endereço."
+    "Caminhão do jeito que ele é: na ficha (Meus veículos), o tipo — VUC, 3/4, toco, truck, bitruck, carreta, carreta LS, bitrem, rodotrem ou cegonheira — preenche eixos e medidas típicas, e a carroceria (baú, frigorífico, sider, graneleiro, tanque, caçamba, prancha, plataforma, boiadeiro, cegonha) muda o desenho.",
+    "O desenho do caminhão em proporção real, com os eixos e os engates, e as medidas de comprimento e altura. Eixos suspensos (caminhão vazio) não entram no pedágio; a rota de caminhão também usa o número de eixos e o peso por eixo.",
+    "Alertas oficiais entram no clima: com alerta do INMET ou do Cemaden para onde você está, o aviso de chuva olha mais à frente e avisa chuva por perto, e o Vrumbi da tela do clima fala do alerta.",
+    "Configurações: tocar no + ou trocar uma opção não volta mais a tela para o topo."
   ],
   "versoes": [
+    {
+      "versao": "0.174.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Caminhão do jeito que ele é: na ficha (Meus veículos), o tipo — VUC, 3/4, toco, truck, bitruck, carreta, carreta LS, bitrem, rodotrem ou cegonheira — preenche eixos e medidas típicas, e a carroceria (baú, frigorífico, sider, graneleiro, tanque, caçamba, prancha, plataforma, boiadeiro, cegonha) muda o desenho.",
+        "O desenho do caminhão em proporção real, com os eixos e os engates, e as medidas de comprimento e altura. Eixos suspensos (caminhão vazio) não entram no pedágio; a rota de caminhão também usa o número de eixos e o peso por eixo.",
+        "Alertas oficiais entram no clima: com alerta do INMET ou do Cemaden para onde você está, o aviso de chuva olha mais à frente e avisa chuva por perto, e o Vrumbi da tela do clima fala do alerta.",
+        "Configurações: tocar no + ou trocar uma opção não volta mais a tela para o topo."
+      ],
+      "en": [
+        "Your truck as it really is: in My vehicles, the type — light urban, 3/4, single-axle, tandem, twin-steer, tractor-trailer, 6-axle, B-double, road train or car carrier — fills in axles and typical dimensions, and the body (box, refrigerated, curtain, grain, tank, dump, lowboy, flatbed, livestock, car carrier) changes the drawing.",
+        "A true-to-scale drawing of the truck with axles and couplings, plus length and height. Lifted axles (empty truck) are left out of tolls; the truck route also uses axle count and axle load.",
+        "Official alerts feed the weather: with an INMET or Cemaden alert where you are, the rain warning looks further ahead and warns about rain nearby, and Vrumbi on the weather screen mentions the alert.",
+        "Settings: tapping + or changing an option no longer jumps back to the top."
+      ],
+      "es": [
+        "Tu camión como es: en Mis vehículos, el tipo — VUC, 3/4, sencillo, doble troque, bitruck, tractocamión, 6 ejes, bitrén, rodotrén o portavehículos — completa ejes y medidas típicas, y la carrocería (furgón, frigorífico, sider, granelero, tanque, volqueta, cama baja, plataforma, ganadero, portavehículos) cambia el dibujo.",
+        "El dibujo del camión a escala real, con ejes y enganches, y las medidas de largo y alto. Los ejes suspendidos (camión vacío) no cuentan en el peaje; la ruta de camión también usa el número de ejes y el peso por eje.",
+        "Las alertas oficiales entran en el clima: con alerta del INMET o de Cemaden donde estás, el aviso de lluvia mira más adelante y avisa lluvia cerca, y Vrumbi en la pantalla del clima habla de la alerta.",
+        "Configuración: tocar + o cambiar una opción ya no vuelve la pantalla arriba."
+      ]
+    },
     {
       "versao": "0.173.0",
       "data": "16/11/2026",
@@ -187,19 +210,6 @@
       ],
       "es": [
         "El reproductor reducido al mínimo ya no queda vacío: sin nada sonando, la franja y la columna angosta muestran siempre los atajos de las apps de música, aunque la última fuente abierta haya sido Mi música o YouTube."
-      ]
-    },
-    {
-      "versao": "0.162.0",
-      "data": "14/11/2026",
-      "itens": [
-        "Gerenciador da barra das janelas mais enxuto: só trocar de lado, uma em cima da outra / lado a lado, e o X, que recolhe -- todas as janelas encaixadas voltam a ser janelas soltas, arrastáveis. Restaurar e fechar cada janela ficam só no alto de cada uma."
-      ],
-      "en": [
-        "Leaner window bar manager: just swap sides, stacked / side by side, and the X, which collapses -- every docked window goes back to being a floating, draggable window. Restore and close for each window stay only at its top."
-      ],
-      "es": [
-        "Administrador de la barra de ventanas más simple: solo cambiar de lado, una encima de la otra / lado a lado, y la X, que recoge -- todas las ventanas acopladas vuelven a ser ventanas sueltas y arrastrables. Restaurar y cerrar cada ventana quedan solo arriba de cada una."
       ]
     }
   ]
