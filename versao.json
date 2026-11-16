@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.194.0",
-  "codigo": 446,
+  "versao": "0.195.0",
+  "codigo": 447,
   "data": "16/11/2026",
-  "tamanho": 120602950,
-  "sha256": "d4a9353c29db411ddbb45d812f360cef052b0f6affbee95e84dab2af5730f710",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.194.0/Vrumbi-0.194.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.194.0/Vrumbi-relogio-0.194.0.apk",
+  "tamanho": 120647651,
+  "sha256": "4bb196f886c000fdcf8a31b7259039ea13c7026c9df01053905dd5e4af6f1519",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.195.0/Vrumbi-0.195.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.195.0/Vrumbi-relogio-0.195.0.apk",
   "notas": [
-    "Modo caminhão fora do Brasil: zonas de restrição de Londres (Lorry Control, acima de 18 t à noite e no fim de semana), Paris (pela área do caminhão no chão), Madri (dentro da M-30 acima de 18 t e Distrito Centro acima de 12 t), Roma (Anello Ferroviario, acima de 7,5 m) e Milão (Area C acima de 7,5 m e Area B acima de 12 m)."
+    "Portão e casa (Navegação > Portão e casa): o Vrumbi abre o portão ou a porta pela casa inteligente -- Home Assistant, um endereço de comando (relé Wi-Fi, IFTTT) ou o app do fabricante. Chegando em Casa ele pergunta \"Abrir o portão?\" (nunca abre sozinho), e você também pode pedir por voz: \"abre o portão\". O token fica cifrado só no celular.",
+    "Modo caminhão: Tóquio, dentro do anel 7 (Kan-nana), carga pesada proibida de sábado 22h a domingo 7h."
   ],
   "versoes": [
+    {
+      "versao": "0.195.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Portão e casa (Navegação > Portão e casa): o Vrumbi abre o portão ou a porta pela casa inteligente -- Home Assistant, um endereço de comando (relé Wi-Fi, IFTTT) ou o app do fabricante. Chegando em Casa ele pergunta \"Abrir o portão?\" (nunca abre sozinho), e você também pode pedir por voz: \"abre o portão\". O token fica cifrado só no celular.",
+        "Modo caminhão: Tóquio, dentro do anel 7 (Kan-nana), carga pesada proibida de sábado 22h a domingo 7h."
+      ],
+      "en": [
+        "Gate & home (Navigation > Gate & home): Vrumbi opens your gate or door through your smart home -- Home Assistant, a command address (Wi-Fi relay, IFTTT) or the maker's app. Arriving Home it asks \"Open the gate?\" (it never opens by itself), and you can also say \"open the gate\". The token stays encrypted on the phone only.",
+        "Truck mode: Tokyo, inside Ring 7 (Kan-nana), heavy goods vehicles banned Saturday 10 pm to Sunday 7 am."
+      ],
+      "es": [
+        "Portón y casa (Navegación > Portón y casa): Vrumbi abre el portón o la puerta por la casa inteligente -- Home Assistant, una dirección de comando (relé Wi-Fi, IFTTT) o la app del fabricante. Al llegar a Casa pregunta \"¿Abro el portón?\" (nunca abre solo), y también puedes pedir por voz: \"abre el portón\". El token queda cifrado solo en el celular.",
+        "Modo camión: Tokio, dentro del anillo 7 (Kan-nana), carga pesada prohibida del sábado 22 h al domingo 7 h."
+      ]
+    },
     {
       "versao": "0.194.0",
       "data": "16/11/2026",
@@ -164,25 +181,6 @@
       ],
       "es": [
         "Auto conectado: \"Gráfico del viaje\" con velocidad, rpm y consumo del motor de los últimos minutos (hasta 15), con el valor actual y el máximo."
-      ]
-    },
-    {
-      "versao": "0.183.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: \"Testes da central\" (modo 06) -- o resultado de cada sistema que a central do carro testa (sondas, catalisador, vapores, EGR...) e as falhas de combustão contadas por cilindro, para achar a vela, o cabo, a bobina ou o bico com problema.",
-        "Modo caminhão: limites legais em 168 países e territórios (mais Arábia Saudita, Bahrein, Omã, Iêmen, Hong Kong, Tailândia, Butão, Timor-Leste, Eritreia, Etiópia, Congo, Mayotte e Saint-Pierre-et-Miquelon), todos com fonte.",
-        "Proibição para caminhão e defeito do carro ficam sempre em vermelho, qualquer que seja a cor escolhida para o app."
-      ],
-      "en": [
-        "Connected car: \"ECU tests\" (mode 06) -- the result of every system the car's ECU tests (O2 sensors, catalyst, EVAP, EGR...) and misfires counted per cylinder, to find the bad plug, wire, coil or injector.",
-        "Truck mode: legal limits in 168 countries and territories (adding Saudi Arabia, Bahrain, Oman, Yemen, Hong Kong, Thailand, Bhutan, Timor-Leste, Eritrea, Ethiopia, DR Congo, Mayotte and Saint-Pierre-et-Miquelon), all sourced.",
-        "Truck bans and car faults always show in red, whatever color you chose for the app."
-      ],
-      "es": [
-        "Auto conectado: \"Pruebas de la central\" (modo 06) -- el resultado de cada sistema que prueba la central del auto (sondas, catalizador, vapores, EGR...) y los fallos de combustión por cilindro, para hallar la bujía, el cable, la bobina o el inyector con problema.",
-        "Modo camión: límites legales en 168 países y territorios (además Arabia Saudita, Baréin, Omán, Yemen, Hong Kong, Tailandia, Bután, Timor Oriental, Eritrea, Etiopía, Congo, Mayotte y San Pedro y Miquelón), todos con fuente.",
-        "La prohibición para camiones y los defectos del auto quedan siempre en rojo, sea cual sea el color elegido para la app."
       ]
     }
   ]
