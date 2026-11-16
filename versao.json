@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.195.0",
-  "codigo": 447,
+  "versao": "0.196.0",
+  "codigo": 448,
   "data": "16/11/2026",
-  "tamanho": 120647651,
-  "sha256": "4bb196f886c000fdcf8a31b7259039ea13c7026c9df01053905dd5e4af6f1519",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.195.0/Vrumbi-0.195.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.195.0/Vrumbi-relogio-0.195.0.apk",
+  "tamanho": 120648819,
+  "sha256": "238ac3b345413b4ec701ac3ffa1673ff3d380e53f9cd0d651d3b6d7be3f133af",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.196.0/Vrumbi-0.196.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.196.0/Vrumbi-relogio-0.196.0.apk",
   "notas": [
-    "Portão e casa (Navegação > Portão e casa): o Vrumbi abre o portão ou a porta pela casa inteligente -- Home Assistant, um endereço de comando (relé Wi-Fi, IFTTT) ou o app do fabricante. Chegando em Casa ele pergunta \"Abrir o portão?\" (nunca abre sozinho), e você também pode pedir por voz: \"abre o portão\". O token fica cifrado só no celular.",
-    "Modo caminhão: Tóquio, dentro do anel 7 (Kan-nana), carga pesada proibida de sábado 22h a domingo 7h."
+    "Portão e casa: com o celular no bolso ou a tela apagada (navegando), a pergunta \"Chegando em casa!\" vem na notificação, com o botão \"Abrir\" direto nela."
   ],
   "versoes": [
+    {
+      "versao": "0.196.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Portão e casa: com o celular no bolso ou a tela apagada (navegando), a pergunta \"Chegando em casa!\" vem na notificação, com o botão \"Abrir\" direto nela."
+      ],
+      "en": [
+        "Gate & home: with the phone in your pocket or the screen off (while navigating), the \"Arriving home!\" question comes as a notification with an \"Open\" button right on it."
+      ],
+      "es": [
+        "Portón y casa: con el celular en el bolsillo o la pantalla apagada (navegando), la pregunta \"¡Llegando a casa!\" llega como notificación, con el botón \"Abrir\" en ella."
+      ]
+    },
     {
       "versao": "0.195.0",
       "data": "16/11/2026",
@@ -168,19 +180,6 @@
         "Auto conectado: \"Organizar el panel\" -- elige qué números aparecen en vivo y en qué orden.",
         "Auto conectado: nota de conducción económica del viaje (0 a 100), por arrancadas y frenadas bruscas, motor encendido parado, revoluciones altas y velocidad, con el consejo de lo que más pesó.",
         "Panel de a bordo: con el auto conectado, el Cockpit muestra rpm, temperatura del motor, tanque y consumo, y el HUD muestra las rpm."
-      ]
-    },
-    {
-      "versao": "0.184.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: \"Gráfico da viagem\" com a velocidade, o giro e o consumo do motor dos últimos minutos (até 15), com o valor de agora e o máximo."
-      ],
-      "en": [
-        "Connected car: \"Trip chart\" with speed, rpm and engine consumption over the last minutes (up to 15), showing the current value and the maximum."
-      ],
-      "es": [
-        "Auto conectado: \"Gráfico del viaje\" con velocidad, rpm y consumo del motor de los últimos minutos (hasta 15), con el valor actual y el máximo."
       ]
     }
   ]
