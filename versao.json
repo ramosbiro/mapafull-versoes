@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.185.0",
-  "codigo": 437,
+  "versao": "0.186.0",
+  "codigo": 438,
   "data": "16/11/2026",
-  "tamanho": 119709590,
-  "sha256": "ee090f796d728931579ac0829d9ff5bf2b34c00bc00d2e1cbb0c5690070e019a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.185.0/Vrumbi-0.185.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.185.0/Vrumbi-relogio-0.185.0.apk",
+  "tamanho": 119737338,
+  "sha256": "c1a6fa1390fda36f37b8c30814bc4bfa4d1d5d8ba275fa9aaa1e56bb295fa3b8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.186.0/Vrumbi-0.186.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.186.0/Vrumbi-relogio-0.186.0.apk",
   "notas": [
-    "Carro conectado: \"Arrumar o painel\" -- escolha quais números aparecem ao vivo e em que ordem.",
-    "Carro conectado: nota de direção econômica da viagem (0 a 100), pelas arrancadas e freadas bruscas, motor ligado parado, giro alto e velocidade, com a dica do que mais pesou.",
-    "Painel de bordo: com o Carro conectado, o Cockpit mostra o giro, a temperatura do motor, o tanque e o consumo, e o HUD mostra o giro."
+    "Carro conectado: \"Dados do fabricante\" -- escolha o modelo (a marca e o ano já vêm do chassi) e o Vrumbi lê também o que as centrais do carro informam além do básico: câmbio, bateria do híbrido ou elétrico, pneus, odômetro, portas e mais. 544 modelos de 54 marcas, da base aberta OBDb."
   ],
   "versoes": [
+    {
+      "versao": "0.186.0",
+      "data": "16/11/2026",
+      "itens": [
+        "Carro conectado: \"Dados do fabricante\" -- escolha o modelo (a marca e o ano já vêm do chassi) e o Vrumbi lê também o que as centrais do carro informam além do básico: câmbio, bateria do híbrido ou elétrico, pneus, odômetro, portas e mais. 544 modelos de 54 marcas, da base aberta OBDb."
+      ],
+      "en": [
+        "Connected car: \"Manufacturer data\" -- choose the model (make and year come from the VIN) and Vrumbi also reads what the car's modules report beyond the basics: transmission, hybrid or EV battery, tires, odometer, doors and more. 544 models from 54 makes, from the open OBDb database."
+      ],
+      "es": [
+        "Auto conectado: \"Datos del fabricante\" -- elige el modelo (la marca y el año salen del chasis) y Vrumbi lee también lo que informan las centralitas del auto más allá de lo básico: caja, batería del híbrido o eléctrico, neumáticos, odómetro, puertas y más. 544 modelos de 54 marcas, de la base abierta OBDb."
+      ]
+    },
     {
       "versao": "0.185.0",
       "data": "16/11/2026",
@@ -181,28 +192,6 @@
         "Límite legal del camión por la posición: la app sabe en qué país estás por el GPS (fronteras en el propio aparato, sin internet), y no solo por la zona horaria del celular — en la frontera vale el lado donde está el camión.",
         "Estados Unidos estado por estado: la altura legal va de 13'6\" (4,11 m) a 14'6\" (4,42 m) — y 15' en Alaska —, y el aviso usa la del estado donde estás.",
         "Límites legales de camión en 15 países más de Asia (Corea del Sur, Taiwán, Filipinas, Laos, Kazajistán, Kirguistán, Tayikistán, Irán, Israel, Singapur, Indonesia, Vietnam, Pakistán, Uzbekistán, Mongolia): 155 países, todos con fuente."
-      ]
-    },
-    {
-      "versao": "0.174.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Caminhão do jeito que ele é: na ficha (Meus veículos), o tipo — VUC, 3/4, toco, truck, bitruck, carreta, carreta LS, bitrem, rodotrem ou cegonheira — preenche eixos e medidas típicas, e a carroceria (baú, frigorífico, sider, graneleiro, tanque, caçamba, prancha, plataforma, boiadeiro, cegonha) muda o desenho.",
-        "O desenho do caminhão em proporção real, com os eixos e os engates, e as medidas de comprimento e altura. Eixos suspensos (caminhão vazio) não entram no pedágio; a rota de caminhão também usa o número de eixos e o peso por eixo.",
-        "Alertas oficiais entram no clima: com alerta do INMET ou do Cemaden para onde você está, o aviso de chuva olha mais à frente e avisa chuva por perto, e o Vrumbi da tela do clima fala do alerta.",
-        "Configurações: tocar no + ou trocar uma opção não volta mais a tela para o topo."
-      ],
-      "en": [
-        "Your truck as it really is: in My vehicles, the type — light urban, 3/4, single-axle, tandem, twin-steer, tractor-trailer, 6-axle, B-double, road train or car carrier — fills in axles and typical dimensions, and the body (box, refrigerated, curtain, grain, tank, dump, lowboy, flatbed, livestock, car carrier) changes the drawing.",
-        "A true-to-scale drawing of the truck with axles and couplings, plus length and height. Lifted axles (empty truck) are left out of tolls; the truck route also uses axle count and axle load.",
-        "Official alerts feed the weather: with an INMET or Cemaden alert where you are, the rain warning looks further ahead and warns about rain nearby, and Vrumbi on the weather screen mentions the alert.",
-        "Settings: tapping + or changing an option no longer jumps back to the top."
-      ],
-      "es": [
-        "Tu camión como es: en Mis vehículos, el tipo — VUC, 3/4, sencillo, doble troque, bitruck, tractocamión, 6 ejes, bitrén, rodotrén o portavehículos — completa ejes y medidas típicas, y la carrocería (furgón, frigorífico, sider, granelero, tanque, volqueta, cama baja, plataforma, ganadero, portavehículos) cambia el dibujo.",
-        "El dibujo del camión a escala real, con ejes y enganches, y las medidas de largo y alto. Los ejes suspendidos (camión vacío) no cuentan en el peaje; la ruta de camión también usa el número de ejes y el peso por eje.",
-        "Las alertas oficiales entran en el clima: con alerta del INMET o de Cemaden donde estás, el aviso de lluvia mira más adelante y avisa lluvia cerca, y Vrumbi en la pantalla del clima habla de la alerta.",
-        "Configuración: tocar + o cambiar una opción ya no vuelve la pantalla arriba."
       ]
     }
   ]
