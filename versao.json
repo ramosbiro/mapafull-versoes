@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.212.0",
-  "codigo": 464,
+  "versao": "0.213.0",
+  "codigo": 465,
   "data": "17/11/2026",
-  "tamanho": 120934884,
-  "sha256": "8249c6ab5cf4961cc8bb025f3d5b4d428fd15a71aabc63f367d209d6f4c113a5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.212.0/Vrumbi-0.212.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.212.0/Vrumbi-relogio-0.212.0.apk",
+  "tamanho": 120935212,
+  "sha256": "e4caa39a00e61d42809ebdf4b8a392d7904c5dcc2f3ba04f9657e2c1cb85ece9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.213.0/Vrumbi-0.213.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.213.0/Vrumbi-relogio-0.213.0.apk",
   "notas": [
-    "Clima: o \"chovendo sem chover\" no centro de São Paulo era um ECO FIXO do radar (uma manchinha que fica parada no mesmo lugar há horas, reflexo dos prédios) -- agora mancha pequena parada há 2 horas não conta como chuva, nem no \"agora\", nem no \"chuva chegando\"."
+    "Vrumbi mais rápido: \"me leva para o Ibirapuera\" logo depois de abrir o app levava mais de um minuto (o índice de estabelecimentos carregando antes de responder) -- agora ~2 segundos; o índice termina de carregar por trás."
   ],
   "versoes": [
+    {
+      "versao": "0.213.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Vrumbi mais rápido: \"me leva para o Ibirapuera\" logo depois de abrir o app levava mais de um minuto (o índice de estabelecimentos carregando antes de responder) -- agora ~2 segundos; o índice termina de carregar por trás."
+      ],
+      "en": [
+        "Faster Vrumbi: \"take me to Ibirapuera\" right after opening the app took over a minute (the places index loading before answering) -- now ~2 seconds; the index finishes loading in the background."
+      ],
+      "es": [
+        "Vrumbi más rápido: \"llévame al Ibirapuera\" justo al abrir la app tardaba más de un minuto (el índice de lugares cargando antes de responder) -- ahora ~2 segundos; el índice termina de cargar por detrás."
+      ]
+    },
     {
       "versao": "0.212.0",
       "data": "17/11/2026",
@@ -188,22 +201,6 @@
         "Clima: al abrir la app, el cielo del mapa ya no empieza lloviendo con el pronóstico viejo guardado -- vale la hora correcta del pronóstico, y el tiempo nuevo llega enseguida (antes tardaba 1 a 2 minutos).",
         "Ícono: cambiar el modo de navegación cambia el ícono también (moto, bicicleta, a pie). Si eliges otro ícono en un modo, queda recordado para ese modo.",
         "Más liviana: el mapa dejó de leer la tarjeta de video en cada posición del GPS (casi la mitad del trabajo de la app quieta en el mapa); con poca memoria, el cerebro del Vrumbi sale de la memoria para que el mapa no se trabe."
-      ]
-    },
-    {
-      "versao": "0.201.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão: Cidade de Ho Chi Minh, área dentro do anel (QL1, Nguyễn Văn Linh, ponte Phú Mỹ, Xa lộ Hà Nội): caminhão pesado proibido das 6h às 22h, leve nos picos.",
-        "Busca: 142 mil empresas de Iowa (EUA)."
-      ],
-      "en": [
-        "Truck mode: Ho Chi Minh City, the area inside the ring (QL1, Nguyễn Văn Linh, Phú Mỹ bridge, Hanoi Highway): heavy trucks banned 6 am–10 pm, light trucks at peak hours.",
-        "Search: 142 thousand businesses in Iowa (USA)."
-      ],
-      "es": [
-        "Modo camión: Ciudad Ho Chi Minh, el área dentro del anillo (QL1, Nguyễn Văn Linh, puente Phú Mỹ, Xa lộ Hà Nội): camión pesado prohibido de 6 a 22 h, ligero en las horas pico.",
-        "Búsqueda: 142 mil empresas de Iowa (EE. UU.)."
       ]
     }
   ]
