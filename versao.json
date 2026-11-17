@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.205.0",
-  "codigo": 457,
+  "versao": "0.206.0",
+  "codigo": 458,
   "data": "17/11/2026",
-  "tamanho": 120921620,
-  "sha256": "f83ea274088ae5c5e7f59cf8f009999346d3ae6f41a78016622776a8790d5b7d",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.205.0/Vrumbi-0.205.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.205.0/Vrumbi-relogio-0.205.0.apk",
+  "tamanho": 120921908,
+  "sha256": "b7b5b55d1e38bf3bd2c8fbec5cc5869173adb650d8894d2971258b5b912ddbbc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.206.0/Vrumbi-0.206.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.206.0/Vrumbi-relogio-0.206.0.apk",
   "notas": [
-    "Alertas: avisos oficiais de tempo também nos Estados Unidos (National Weather Service) e no Canadá (Environment Canada) -- aparecem no mapa, na navegação, na voz do Vrumbi e na tela Alertas e notícias, como os do INMET aqui."
+    "Alertas: avisos oficiais de tempo da Alemanha (Deutscher Wetterdienst), por município -- chuva forte, rajadas, neve, gelo, calor."
   ],
   "versoes": [
+    {
+      "versao": "0.206.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Alertas: avisos oficiais de tempo da Alemanha (Deutscher Wetterdienst), por município -- chuva forte, rajadas, neve, gelo, calor."
+      ],
+      "en": [
+        "Alerts: official weather warnings for Germany (Deutscher Wetterdienst), by municipality -- heavy rain, gusts, snow, ice, heat."
+      ],
+      "es": [
+        "Alertas: avisos oficiales del tiempo de Alemania (Deutscher Wetterdienst), por municipio -- lluvia fuerte, ráfagas, nieve, hielo, calor."
+      ]
+    },
     {
       "versao": "0.205.0",
       "data": "17/11/2026",
@@ -182,19 +195,6 @@
       "es": [
         "Portón y casa (Navegación > Portón y casa): Vrumbi abre el portón o la puerta por la casa inteligente -- Home Assistant, una dirección de comando (relé Wi-Fi, IFTTT) o la app del fabricante. Al llegar a Casa pregunta \"¿Abro el portón?\" (nunca abre solo), y también puedes pedir por voz: \"abre el portón\". El token queda cifrado solo en el celular.",
         "Modo camión: Tokio, dentro del anillo 7 (Kan-nana), carga pesada prohibida del sábado 22 h al domingo 7 h."
-      ]
-    },
-    {
-      "versao": "0.194.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Modo caminhão fora do Brasil: zonas de restrição de Londres (Lorry Control, acima de 18 t à noite e no fim de semana), Paris (pela área do caminhão no chão), Madri (dentro da M-30 acima de 18 t e Distrito Centro acima de 12 t), Roma (Anello Ferroviario, acima de 7,5 m) e Milão (Area C acima de 7,5 m e Area B acima de 12 m)."
-      ],
-      "en": [
-        "Truck mode outside Brazil: restriction zones in London (Lorry Control, over 18 t at night and weekends), Paris (by the truck footprint), Madrid (inside the M-30 over 18 t and Centro district over 12 t), Rome (Anello Ferroviario, over 7.5 m) and Milan (Area C over 7.5 m and Area B over 12 m)."
-      ],
-      "es": [
-        "Modo camión fuera de Brasil: zonas de restricción de Londres (Lorry Control, más de 18 t de noche y fines de semana), París (por la superficie del camión), Madrid (dentro de la M-30 más de 18 t y Distrito Centro más de 12 t), Roma (Anello Ferroviario, más de 7,5 m) y Milán (Area C más de 7,5 m y Area B más de 12 m)."
       ]
     }
   ]
