@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.213.0",
-  "codigo": 465,
+  "versao": "0.214.0",
+  "codigo": 466,
   "data": "17/11/2026",
-  "tamanho": 120935212,
-  "sha256": "e4caa39a00e61d42809ebdf4b8a392d7904c5dcc2f3ba04f9657e2c1cb85ece9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.213.0/Vrumbi-0.213.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.213.0/Vrumbi-relogio-0.213.0.apk",
+  "tamanho": 120942925,
+  "sha256": "818d13a372a331f73a20beb907d45e8e6c2e10c13176e3befd6e3dc330a66364",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.214.0/Vrumbi-0.214.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.214.0/Vrumbi-relogio-0.214.0.apk",
   "notas": [
-    "Vrumbi mais rápido: \"me leva para o Ibirapuera\" logo depois de abrir o app levava mais de um minuto (o índice de estabelecimentos carregando antes de responder) -- agora ~2 segundos; o índice termina de carregar por trás."
+    "Desempenho: a busca nos estabelecimentos (escolas, comércio, empresas) saiu da linha da tela e roda num processo à parte -- a tela não trava mais enquanto o Vrumbi procura (antes congelava por segundos e a memória da tela chegava a 430 MB; agora 166 MB).",
+    "Vrumbi: o índice da região já começa a carregar quando a janela do Vrumbi abre; \"escola Deodato\" em Mogi acha a escola de Mogi (antes, escolas de Minas Gerais); um lugar repetido de duas fontes aparece uma vez só; e um pedido novo não é mais confundido com uma das opções da pergunta anterior."
   ],
   "versoes": [
+    {
+      "versao": "0.214.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Desempenho: a busca nos estabelecimentos (escolas, comércio, empresas) saiu da linha da tela e roda num processo à parte -- a tela não trava mais enquanto o Vrumbi procura (antes congelava por segundos e a memória da tela chegava a 430 MB; agora 166 MB).",
+        "Vrumbi: o índice da região já começa a carregar quando a janela do Vrumbi abre; \"escola Deodato\" em Mogi acha a escola de Mogi (antes, escolas de Minas Gerais); um lugar repetido de duas fontes aparece uma vez só; e um pedido novo não é mais confundido com uma das opções da pergunta anterior."
+      ],
+      "en": [
+        "Performance: the search over places (schools, shops, companies) moved off the screen thread into a separate worker -- the screen no longer freezes while Vrumbi searches (before it froze for seconds and screen memory reached 430 MB; now 166 MB).",
+        "Vrumbi: the area index starts loading when the Vrumbi window opens; local results win over far ones with the same name; duplicates from two sources appear once; a new request is no longer mistaken for one of the previous options."
+      ],
+      "es": [
+        "Rendimiento: la búsqueda en los establecimientos (escuelas, comercios, empresas) salió del hilo de la pantalla a un proceso aparte -- la pantalla ya no se congela mientras Vrumbi busca (antes se congelaba por segundos y la memoria de la pantalla llegaba a 430 MB; ahora 166 MB).",
+        "Vrumbi: el índice de la zona empieza a cargar al abrir la ventana del Vrumbi; el resultado local gana sobre otros lejanos con el mismo nombre; un lugar repetido de dos fuentes aparece una sola vez; un pedido nuevo ya no se confunde con una de las opciones anteriores."
+      ]
+    },
     {
       "versao": "0.213.0",
       "data": "17/11/2026",
@@ -182,25 +199,6 @@
       "es": [
         "Vrumbi: \"ahora no\", \"no\", \"nada\", \"déjalo\" y \"chau\" terminan enseguida -- antes se volvían una pregunta para el cerebro y podían trabar la navegación.",
         "Vrumbi: el cerebro ya no traba la app. En celulares con menos de 10 GB ya no se abre solo con la ventana, solo con memoria libre de sobra (en el procesador cuando falta memoria para la tarjeta de video), y cada pregunta tiene plazo: si tarda, avisa y te suelta."
-      ]
-    },
-    {
-      "versao": "0.202.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Clima: ao abrir o app, o céu do mapa não começa mais chovendo com a previsão velha guardada -- vale a hora certa da previsão, e o tempo novo chega na hora (antes demorava 1 a 2 minutos).",
-        "Ícone: trocar o modo de navegação troca o ícone junto (moto vira moto, bicicleta vira bicicleta, a pé vira pessoa). Se você escolher outro ícone num modo, ele fica lembrado para aquele modo.",
-        "Mais leve: o mapa deixou de ler a placa de vídeo a cada posição do GPS (era quase metade do trabalho do app parado no mapa); com pouca memória no celular, o cérebro do Vrumbi sai da memória para o mapa não travar."
-      ],
-      "en": [
-        "Weather: when the app opens, the map sky no longer starts raining from the old saved forecast -- it uses the right hour of the forecast, and fresh weather arrives right away (it used to take 1 to 2 minutes).",
-        "Icon: changing the navigation mode changes the icon too (motorcycle, bicycle, walking). If you pick another icon in a mode, it is remembered for that mode.",
-        "Lighter: the map no longer reads the graphics card on every GPS fix (almost half of the app's work while idle on the map); on phones low on memory, the Vrumbi brain leaves memory so the map does not stutter."
-      ],
-      "es": [
-        "Clima: al abrir la app, el cielo del mapa ya no empieza lloviendo con el pronóstico viejo guardado -- vale la hora correcta del pronóstico, y el tiempo nuevo llega enseguida (antes tardaba 1 a 2 minutos).",
-        "Ícono: cambiar el modo de navegación cambia el ícono también (moto, bicicleta, a pie). Si eliges otro ícono en un modo, queda recordado para ese modo.",
-        "Más liviana: el mapa dejó de leer la tarjeta de video en cada posición del GPS (casi la mitad del trabajo de la app quieta en el mapa); con poca memoria, el cerebro del Vrumbi sale de la memoria para que el mapa no se trabe."
       ]
     }
   ]
