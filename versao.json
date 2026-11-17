@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.207.0",
-  "codigo": 459,
+  "versao": "0.208.0",
+  "codigo": 460,
   "data": "17/11/2026",
-  "tamanho": 120922208,
-  "sha256": "de4883832ce1c6668ffb7e252f73eb37dcf20d90c4f8ca7cb258e8ce25e2481c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.207.0/Vrumbi-0.207.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.207.0/Vrumbi-relogio-0.207.0.apk",
+  "tamanho": 120923220,
+  "sha256": "47a7a441a1ab11bdbf968367e926dd147584be48fb7c78daeecd10d6b41af9cd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.208.0/Vrumbi-0.208.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.208.0/Vrumbi-relogio-0.208.0.apk",
   "notas": [
-    "Endereço fora do Brasil: o cartão não carrega mais a rua e o CEP do lugar anterior, mostra o código postal do país (sem \"CEP\") e o nome do país em vez do código (\"Berlim - Alemanha\")."
+    "Vrumbi: \"o mais perto\" agora é o mais perto de verdade -- antes pegava quinze lugares quaisquer numa área de 9 km e escolhia entre eles (no Louvre, restaurante a 1,5 km; agora a 400 m).",
+    "Vrumbi: \"hospital mais perto\", \"posto mais perto\"... não viram mais zoom do mapa (\"Chegando mais perto!\"); \"cancelar rota\" não vira mais destino; \"tem aviso de chuva?\" é pergunta, não um aviso para a comunidade.",
+    "Alertas da comunidade (buraco, acidente, blitz...) no mundo todo -- antes só no Brasil."
   ],
   "versoes": [
+    {
+      "versao": "0.208.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Vrumbi: \"o mais perto\" agora é o mais perto de verdade -- antes pegava quinze lugares quaisquer numa área de 9 km e escolhia entre eles (no Louvre, restaurante a 1,5 km; agora a 400 m).",
+        "Vrumbi: \"hospital mais perto\", \"posto mais perto\"... não viram mais zoom do mapa (\"Chegando mais perto!\"); \"cancelar rota\" não vira mais destino; \"tem aviso de chuva?\" é pergunta, não um aviso para a comunidade.",
+        "Alertas da comunidade (buraco, acidente, blitz...) no mundo todo -- antes só no Brasil."
+      ],
+      "en": [
+        "Vrumbi: \"the nearest\" is now really the nearest -- before it took fifteen random places in a 9 km area and picked among them (at the Louvre, a restaurant 1.5 km away; now 400 m).",
+        "Vrumbi: \"nearest hospital\", \"nearest gas station\"... no longer zoom the map; \"cancel route\" is no longer a destination; \"is there a rain warning?\" is a question, not a community report.",
+        "Community alerts (pothole, crash, checkpoint...) worldwide -- before only in Brazil."
+      ],
+      "es": [
+        "Vrumbi: \"el más cercano\" ahora es el más cercano de verdad -- antes tomaba quince lugares cualesquiera en un área de 9 km y elegía entre ellos (en el Louvre, un restaurante a 1,5 km; ahora a 400 m).",
+        "Vrumbi: \"hospital más cercano\", \"gasolinera más cercana\"... ya no hacen zoom en el mapa; \"cancelar ruta\" ya no es un destino; \"¿hay aviso de lluvia?\" es una pregunta, no un aviso para la comunidad.",
+        "Alertas de la comunidad (bache, choque, retén...) en todo el mundo -- antes solo en Brasil."
+      ]
+    },
     {
       "versao": "0.207.0",
       "data": "17/11/2026",
@@ -179,19 +200,6 @@
       "es": [
         "Portón y casa: con Home Assistant, el botón \"Buscar portones y puertas en la central\" lista lo que tiene tu casa (portones, puertas, cerraduras, relés) para elegir, sin escribir el nombre técnico.",
         "Modo camión: Montevideo, dentro del Anillo Perimetral (Zona B), combinación articulada prohibida todo el día."
-      ]
-    },
-    {
-      "versao": "0.196.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Portão e casa: com o celular no bolso ou a tela apagada (navegando), a pergunta \"Chegando em casa!\" vem na notificação, com o botão \"Abrir\" direto nela."
-      ],
-      "en": [
-        "Gate & home: with the phone in your pocket or the screen off (while navigating), the \"Arriving home!\" question comes as a notification with an \"Open\" button right on it."
-      ],
-      "es": [
-        "Portón y casa: con el celular en el bolsillo o la pantalla apagada (navegando), la pregunta \"¡Llegando a casa!\" llega como notificación, con el botón \"Abrir\" en ella."
       ]
     }
   ]
