@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.211.0",
-  "codigo": 463,
+  "versao": "0.212.0",
+  "codigo": 464,
   "data": "17/11/2026",
-  "tamanho": 120934576,
-  "sha256": "57f342f69a627d1fb3a0e272a2a5daf9bd757c01eac811ae8bd67107761fdfa6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.211.0/Vrumbi-0.211.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.211.0/Vrumbi-relogio-0.211.0.apk",
+  "tamanho": 120934884,
+  "sha256": "8249c6ab5cf4961cc8bb025f3d5b4d428fd15a71aabc63f367d209d6f4c113a5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.212.0/Vrumbi-0.212.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.212.0/Vrumbi-relogio-0.212.0.apk",
   "notas": [
-    "Vrumbi em espanhol e outros idiomas com o app em português: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" agora são entendidos (antes viravam rota para \"a llover\" ou até \"mensagens\").",
-    "Vrumbi: \"tem rodízio hoje?\", \"hoy no circula\", \"pico y placa\" respondem pelo rodízio da cidade e pela placa do seu veículo.",
-    "Vrumbi: lugar pelo nome popular (\"ir al Zócalo\" = Plaza de la Constitución) e o mais perto quando há dois com o mesmo nome."
+    "Clima: o \"chovendo sem chover\" no centro de São Paulo era um ECO FIXO do radar (uma manchinha que fica parada no mesmo lugar há horas, reflexo dos prédios) -- agora mancha pequena parada há 2 horas não conta como chuva, nem no \"agora\", nem no \"chuva chegando\"."
   ],
   "versoes": [
+    {
+      "versao": "0.212.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Clima: o \"chovendo sem chover\" no centro de São Paulo era um ECO FIXO do radar (uma manchinha que fica parada no mesmo lugar há horas, reflexo dos prédios) -- agora mancha pequena parada há 2 horas não conta como chuva, nem no \"agora\", nem no \"chuva chegando\"."
+      ],
+      "en": [
+        "Weather: the \"raining with no rain\" over central São Paulo was a FIXED radar echo (a small blot that stays in the same place for hours, reflection from buildings) -- now a small blot that has not moved for 2 hours does not count as rain."
+      ],
+      "es": [
+        "Clima: el \"lloviendo sin llover\" en el centro de São Paulo era un ECO FIJO del radar (una manchita que queda en el mismo lugar por horas, reflejo de los edificios) -- ahora una mancha pequeña quieta hace 2 horas no cuenta como lluvia."
+      ]
+    },
     {
       "versao": "0.211.0",
       "data": "17/11/2026",
@@ -193,22 +204,6 @@
       "es": [
         "Modo camión: Ciudad Ho Chi Minh, el área dentro del anillo (QL1, Nguyễn Văn Linh, puente Phú Mỹ, Xa lộ Hà Nội): camión pesado prohibido de 6 a 22 h, ligero en las horas pico.",
         "Búsqueda: 142 mil empresas de Iowa (EE. UU.)."
-      ]
-    },
-    {
-      "versao": "0.200.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Risco onde você estaciona: agora também no Mato Grosso do Sul, por município (SEJUSP-MS).",
-        "Busca: 2,75 milhões de lojas da Coreia do Sul, com o ponto de cada uma."
-      ],
-      "en": [
-        "Risk where you park: now also in Mato Grosso do Sul, by municipality (SEJUSP-MS).",
-        "Search: 2.75 million shops in South Korea, each with its exact point."
-      ],
-      "es": [
-        "Riesgo donde estacionas: ahora también en Mato Grosso do Sul, por municipio (SEJUSP-MS).",
-        "Búsqueda: 2,75 millones de tiendas de Corea del Sur, cada una con su punto."
       ]
     }
   ]
