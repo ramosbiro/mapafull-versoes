@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.220.0",
-  "codigo": 472,
+  "versao": "0.221.0",
+  "codigo": 473,
   "data": "17/11/2026",
-  "tamanho": 121125641,
-  "sha256": "336114e827564c051ae69f720beee9c1f17c486b1973b972036d61f149422948",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.220.0/Vrumbi-0.220.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.220.0/Vrumbi-relogio-0.220.0.apk",
+  "tamanho": 121154397,
+  "sha256": "466e02a097b0ac512e07a96ffaef003bee0749cf0c4cea15ad7100f64f3fec39",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.221.0/Vrumbi-0.221.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.221.0/Vrumbi-relogio-0.221.0.apk",
   "notas": [
-    "Treino: a detecção automática não confunde mais o carro com bicicleta. Dentro do carro (ou logo depois de sair dele), com o celular no Bluetooth do carro, no Android Auto ou navegando no Vrumbi, o aviso \"Parece que você está pedalando\" não aparece. E o aviso ganhou o botão \"Estou de carro\", que silencia a detecção por 3 horas."
+    "Treino automático: não espera mais 10 minutos nem pergunta. Começou a andar, correr ou pedalar, o Vrumbi já grava desde o primeiro passo e confere no primeiro minuto com o acelerômetro, os passos e os sinais do carro. Parado ou no carro, apaga sem avisar (nada de \"pedalando\" sentado no carro). A cadência acerta caminhada, corrida ou bicicleta. Abrir o app liga o GPS; 3 minutos parado encerram e o treino entra no histórico (a partir de 5 minutos). A notificação tem Descartar."
   ],
   "versoes": [
+    {
+      "versao": "0.221.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Treino automático: não espera mais 10 minutos nem pergunta. Começou a andar, correr ou pedalar, o Vrumbi já grava desde o primeiro passo e confere no primeiro minuto com o acelerômetro, os passos e os sinais do carro. Parado ou no carro, apaga sem avisar (nada de \"pedalando\" sentado no carro). A cadência acerta caminhada, corrida ou bicicleta. Abrir o app liga o GPS; 3 minutos parado encerram e o treino entra no histórico (a partir de 5 minutos). A notificação tem Descartar."
+      ],
+      "en": [
+        "Automatic workout: no more 10-minute wait or question. Start walking, running or riding and Vrumbi records from the first step, checking during the first minute with the accelerometer, steps and car signals. Standing still or in a car, it is deleted without a notice (no more \"cycling\" while sitting in the car). Cadence tells walk, run or ride apart. Opening the app turns on GPS; 3 minutes still end it and the workout goes into history (from 5 minutes). The notification has Discard."
+      ],
+      "es": [
+        "Entreno automático: ya no espera 10 minutos ni pregunta. Empiezas a caminar, correr o pedalear y Vrumbi graba desde el primer paso, revisando en el primer minuto con el acelerómetro, los pasos y las señales del coche. Quieto o en el coche, se borra sin avisar (nada de \"pedaleando\" sentado en el coche). La cadencia distingue caminata, carrera o bici. Abrir la app enciende el GPS; 3 minutos quieto lo terminan y el entreno entra en el historial (desde 5 minutos). La notificación tiene Descartar."
+      ]
+    },
     {
       "versao": "0.220.0",
       "data": "17/11/2026",
@@ -164,28 +177,6 @@
       ],
       "es": [
         "Corrección de cierre: cuando una descarga pequeña (archivo de direcciones, datos del mapa) terminaba antes de que subiera la notificación, Android cerraba toda la app."
-      ]
-    },
-    {
-      "versao": "0.209.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Clima: o radar lia a garoa mais fraca (o bege do mapa de radar) como CHUVA FORTE e a chuva mais forte como fraca -- era a \"chuva forte\" com 0 mm em Paris e Tóquio, e pode explicar o céu chovendo sem chuva. Agora cada cor vale o que é, e o eco muito fraco não vira \"garoa\" sozinho.",
-        "Vrumbi: \"tem radar por aqui?\" responde quantos radares há a menos de 2 km, o mais perto e o limite (antes procurava um lugar chamado \"radar\" -- e podia até mandar um alerta de radar para a comunidade).",
-        "Vrumbi: lugar pelo nome em português no exterior (\"me leva para a Torre de Tóquio\") -- antes caía numa rua na Espanha; e o nome em outra escrita é dito como você falou.",
-        "\"Onde estou\" não diz mais \"elevador, 2º andar\" dentro de estação."
-      ],
-      "en": [
-        "Weather: the radar read the faintest drizzle (the beige on the radar map) as HEAVY RAIN and the heaviest rain as light -- that was the \"heavy rain\" with 0 mm in Paris and Tokyo. Now each color means what it is, and a very faint echo alone no longer becomes \"drizzle\".",
-        "Vrumbi: \"any speed cameras around here?\" tells how many are within 2 km, the nearest and the limit (before it searched for a place called \"radar\").",
-        "Vrumbi: places abroad by their Portuguese/Spanish name (\"take me to Tokyo Tower\") -- before it went to a street in Spain; names in another script are spoken as you said them.",
-        "\"Where am I\" no longer says \"elevator, 2nd floor\" inside stations."
-      ],
-      "es": [
-        "Clima: el radar leía la llovizna más débil (el beige del mapa de radar) como LLUVIA FUERTE y la lluvia más fuerte como débil -- era la \"lluvia fuerte\" con 0 mm en París y Tokio. Ahora cada color vale lo que es, y el eco muy débil ya no se vuelve \"llovizna\" solo.",
-        "Vrumbi: \"¿hay radar por aquí?\" responde cuántos radares hay a menos de 2 km, el más cercano y el límite (antes buscaba un lugar llamado \"radar\").",
-        "Vrumbi: lugares en el exterior por el nombre en español/portugués (\"llévame a la Torre de Tokio\") -- antes iba a una calle en España; los nombres en otra escritura se dicen como los dijiste.",
-        "\"Dónde estoy\" ya no dice \"ascensor, 2º piso\" dentro de una estación."
       ]
     }
   ]
