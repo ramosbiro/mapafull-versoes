@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.219.0",
-  "codigo": 471,
+  "versao": "0.220.0",
+  "codigo": 472,
   "data": "17/11/2026",
-  "tamanho": 121124665,
-  "sha256": "4dafecfdba1e65ebc3b5242c6d76ed966b640f274a72b2a62e3db0471a698b33",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.219.0/Vrumbi-0.219.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.219.0/Vrumbi-relogio-0.219.0.apk",
+  "tamanho": 121125641,
+  "sha256": "336114e827564c051ae69f720beee9c1f17c486b1973b972036d61f149422948",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.220.0/Vrumbi-0.220.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.220.0/Vrumbi-relogio-0.220.0.apk",
   "notas": [
-    "Mapa: os nomes das ruas, cidades e lugares aparecem no idioma do app (antes sempre em português). Fora do Brasil, quem usa o app em português, inglês, espanhol... vê os nomes em letras latinas (Tóquio: \"Shinjuku\" em vez de 新宿; Moscou: \"Tverskaya\" em vez de Тверская), e a rua falada na navegação e o cartão do endereço também."
+    "Treino: a detecção automática não confunde mais o carro com bicicleta. Dentro do carro (ou logo depois de sair dele), com o celular no Bluetooth do carro, no Android Auto ou navegando no Vrumbi, o aviso \"Parece que você está pedalando\" não aparece. E o aviso ganhou o botão \"Estou de carro\", que silencia a detecção por 3 horas."
   ],
   "versoes": [
+    {
+      "versao": "0.220.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Treino: a detecção automática não confunde mais o carro com bicicleta. Dentro do carro (ou logo depois de sair dele), com o celular no Bluetooth do carro, no Android Auto ou navegando no Vrumbi, o aviso \"Parece que você está pedalando\" não aparece. E o aviso ganhou o botão \"Estou de carro\", que silencia a detecção por 3 horas."
+      ],
+      "en": [
+        "Workout: automatic detection no longer mistakes the car for a bike. Inside the car (or right after leaving it), with the phone on the car Bluetooth, on Android Auto or navigating with Vrumbi, the \"Looks like you are cycling\" notice does not show. And the notice got an \"I'm in a car\" button that mutes detection for 3 hours."
+      ],
+      "es": [
+        "Entrenamiento: la detección automática ya no confunde el coche con una bicicleta. Dentro del coche (o justo al salir), con el celular en el Bluetooth del coche, en Android Auto o navegando con Vrumbi, el aviso \"Parece que estás pedaleando\" no aparece. Y el aviso ganó el botón \"Voy en coche\", que silencia la detección por 3 horas."
+      ]
+    },
     {
       "versao": "0.219.0",
       "data": "17/11/2026",
@@ -173,25 +186,6 @@
         "Vrumbi: \"¿hay radar por aquí?\" responde cuántos radares hay a menos de 2 km, el más cercano y el límite (antes buscaba un lugar llamado \"radar\").",
         "Vrumbi: lugares en el exterior por el nombre en español/portugués (\"llévame a la Torre de Tokio\") -- antes iba a una calle en España; los nombres en otra escritura se dicen como los dijiste.",
         "\"Dónde estoy\" ya no dice \"ascensor, 2º piso\" dentro de una estación."
-      ]
-    },
-    {
-      "versao": "0.208.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Vrumbi: \"o mais perto\" agora é o mais perto de verdade -- antes pegava quinze lugares quaisquer numa área de 9 km e escolhia entre eles (no Louvre, restaurante a 1,5 km; agora a 400 m).",
-        "Vrumbi: \"hospital mais perto\", \"posto mais perto\"... não viram mais zoom do mapa (\"Chegando mais perto!\"); \"cancelar rota\" não vira mais destino; \"tem aviso de chuva?\" é pergunta, não um aviso para a comunidade.",
-        "Alertas da comunidade (buraco, acidente, blitz...) no mundo todo -- antes só no Brasil."
-      ],
-      "en": [
-        "Vrumbi: \"the nearest\" is now really the nearest -- before it took fifteen random places in a 9 km area and picked among them (at the Louvre, a restaurant 1.5 km away; now 400 m).",
-        "Vrumbi: \"nearest hospital\", \"nearest gas station\"... no longer zoom the map; \"cancel route\" is no longer a destination; \"is there a rain warning?\" is a question, not a community report.",
-        "Community alerts (pothole, crash, checkpoint...) worldwide -- before only in Brazil."
-      ],
-      "es": [
-        "Vrumbi: \"el más cercano\" ahora es el más cercano de verdad -- antes tomaba quince lugares cualesquiera en un área de 9 km y elegía entre ellos (en el Louvre, un restaurante a 1,5 km; ahora a 400 m).",
-        "Vrumbi: \"hospital más cercano\", \"gasolinera más cercana\"... ya no hacen zoom en el mapa; \"cancelar ruta\" ya no es un destino; \"¿hay aviso de lluvia?\" es una pregunta, no un aviso para la comunidad.",
-        "Alertas de la comunidad (bache, choque, retén...) en todo el mundo -- antes solo en Brasil."
       ]
     }
   ]
