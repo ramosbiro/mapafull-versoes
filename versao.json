@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.210.0",
-  "codigo": 462,
+  "versao": "0.211.0",
+  "codigo": 463,
   "data": "17/11/2026",
-  "tamanho": 120928612,
-  "sha256": "e5baf07d4497317feb3101c3ac4316e8a4a8b76f9eea0b26ee9e0a126b7c8388",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.210.0/Vrumbi-0.210.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.210.0/Vrumbi-relogio-0.210.0.apk",
+  "tamanho": 120934576,
+  "sha256": "57f342f69a627d1fb3a0e272a2a5daf9bd757c01eac811ae8bd67107761fdfa6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.211.0/Vrumbi-0.211.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.211.0/Vrumbi-relogio-0.211.0.apk",
   "notas": [
-    "Correção de queda: quando um download pequeno (arquivo de endereços, dados do mapa) terminava antes da notificação subir, o Android fechava o app inteiro."
+    "Vrumbi em espanhol e outros idiomas com o app em português: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" agora são entendidos (antes viravam rota para \"a llover\" ou até \"mensagens\").",
+    "Vrumbi: \"tem rodízio hoje?\", \"hoy no circula\", \"pico y placa\" respondem pelo rodízio da cidade e pela placa do seu veículo.",
+    "Vrumbi: lugar pelo nome popular (\"ir al Zócalo\" = Plaza de la Constitución) e o mais perto quando há dois com o mesmo nome."
   ],
   "versoes": [
+    {
+      "versao": "0.211.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Vrumbi em espanhol e outros idiomas com o app em português: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" agora são entendidos (antes viravam rota para \"a llover\" ou até \"mensagens\").",
+        "Vrumbi: \"tem rodízio hoje?\", \"hoy no circula\", \"pico y placa\" respondem pelo rodízio da cidade e pela placa do seu veículo.",
+        "Vrumbi: lugar pelo nome popular (\"ir al Zócalo\" = Plaza de la Constitución) e o mais perto quando há dois com o mesmo nome."
+      ],
+      "en": [
+        "Vrumbi in Spanish and other languages with the app in Portuguese: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" are now understood.",
+        "Vrumbi: \"is there a driving restriction today?\", \"hoy no circula\", \"pico y placa\" answer from the city rule and your vehicle plate.",
+        "Vrumbi: places by their popular name (\"ir al Zócalo\" = Plaza de la Constitución) and the nearest one when two share a name."
+      ],
+      "es": [
+        "Vrumbi en español y otros idiomas con la app en portugués: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" ahora se entienden.",
+        "Vrumbi: \"¿hoy no circula?\", \"pico y placa\" responden con la regla de la ciudad y la placa de tu vehículo.",
+        "Vrumbi: lugares por el nombre popular (\"ir al Zócalo\" = Plaza de la Constitución) y el más cercano cuando dos se llaman igual."
+      ]
+    },
     {
       "versao": "0.210.0",
       "data": "17/11/2026",
@@ -188,19 +209,6 @@
       "es": [
         "Riesgo donde estacionas: ahora también en Mato Grosso do Sul, por municipio (SEJUSP-MS).",
         "Búsqueda: 2,75 millones de tiendas de Corea del Sur, cada una con su punto."
-      ]
-    },
-    {
-      "versao": "0.199.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Vrumbi por voz: \"abre o carro conectado\", \"abre portão e casa\", \"modo HUD\", \"abre o cockpit\" e \"conecta o carro\" (liga no adaptador OBD2 salvo)."
-      ],
-      "en": [
-        "Vrumbi by voice: \"open connected car\", \"open gate and home\", \"HUD mode\", \"open the cockpit\" and \"connect the car\" (connects to the saved OBD2 adapter)."
-      ],
-      "es": [
-        "Vrumbi por voz: \"abre el auto conectado\", \"abre portón y casa\", \"modo HUD\", \"abre el cockpit\" y \"conecta el auto\" (se conecta al adaptador OBD2 guardado)."
       ]
     }
   ]
