@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.216.0",
-  "codigo": 468,
+  "versao": "0.217.0",
+  "codigo": 469,
   "data": "17/11/2026",
-  "tamanho": 121059673,
-  "sha256": "512eadf676eee166d609f9de0ac891727b099298371d14d6d13c9a7c0a0ed65c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.216.0/Vrumbi-0.216.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.216.0/Vrumbi-relogio-0.216.0.apk",
+  "tamanho": 121123237,
+  "sha256": "36b070e6ddf637b1f51f711ca7f1ecbd0ed1739f31d6febf50fa763d61700bbf",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.217.0/Vrumbi-0.217.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.217.0/Vrumbi-relogio-0.217.0.apk",
   "notas": [
-    "Carro conectado: SCANNER COMPLETO -- o Vrumbi fala com todas as centrais do carro (motor, câmbio, freios ABS/ESP, airbag, painel, carroceria, direção...), mostra cada defeito com o estado (ativo, confirmado, pendente, histórico), faz a análise (o que é grave, por onde começar, bateria fraca gerando defeito falso), pesquisa o código na internet com a marca e o ano do carro, apaga os defeitos de uma central ou de todas e compartilha o relatório para o mecânico."
+    "Carro conectado: CAMINHÃO E ÔNIBUS (J1939) -- com um adaptador J1939 e o cabo do conector de 9 pinos, o Vrumbi lê giro, velocidade, temperatura da água e do óleo, pressão do óleo, tanque, consumo, horas de motor, hodômetro, turbo e nível do ARLA 32 dos pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), os defeitos SPN/FMI em português, separados por central (motor, câmbio, freios, painel, emissões), com a análise (ARLA 32, motor em proteção, superaquecimento) e o apagar. Tem também a demonstração de caminhão.",
+    "Alertas: avisos oficiais de tempo da Áustria (GeoSphere Austria), da Noruega (MET Norway), da Suécia (SMHI) e da Finlândia (FMI), por local -- vento, chuva, neve, gelo, tempestade, calor."
   ],
   "versoes": [
+    {
+      "versao": "0.217.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Carro conectado: CAMINHÃO E ÔNIBUS (J1939) -- com um adaptador J1939 e o cabo do conector de 9 pinos, o Vrumbi lê giro, velocidade, temperatura da água e do óleo, pressão do óleo, tanque, consumo, horas de motor, hodômetro, turbo e nível do ARLA 32 dos pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), os defeitos SPN/FMI em português, separados por central (motor, câmbio, freios, painel, emissões), com a análise (ARLA 32, motor em proteção, superaquecimento) e o apagar. Tem também a demonstração de caminhão.",
+        "Alertas: avisos oficiais de tempo da Áustria (GeoSphere Austria), da Noruega (MET Norway), da Suécia (SMHI) e da Finlândia (FMI), por local -- vento, chuva, neve, gelo, tempestade, calor."
+      ],
+      "en": [
+        "Connected car: TRUCKS AND BUSES (J1939) -- with a J1939 adapter and the 9-pin connector cable, Vrumbi reads engine speed, speed, coolant and oil temperature, oil pressure, fuel level, fuel rate, engine hours, odometer, boost and DEF level of heavy vehicles (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), the SPN/FMI faults by control unit (engine, transmission, brakes, cluster, emissions), with the analysis (DEF, engine derate, overheating) and clearing. There is also a truck demo.",
+        "Alerts: official weather warnings for Austria (GeoSphere Austria), Norway (MET Norway), Sweden (SMHI) and Finland (FMI), by location -- wind, rain, snow, ice, thunderstorms, heat."
+      ],
+      "es": [
+        "Auto conectado: CAMIONES Y BUSES (J1939) -- con un adaptador J1939 y el cable del conector de 9 pines, Vrumbi lee rpm, velocidad, temperatura del agua y del aceite, presión del aceite, tanque, consumo, horas de motor, odómetro, turbo y nivel de AdBlue de los pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), las fallas SPN/FMI por centralita (motor, caja, frenos, tablero, emisiones), con el análisis (AdBlue, motor en protección, sobrecalentamiento) y el borrado. También hay una demostración de camión.",
+        "Alertas: avisos oficiales del tiempo de Austria (GeoSphere Austria), Noruega (MET Norway), Suecia (SMHI) y Finlandia (FMI), por lugar -- viento, lluvia, nieve, hielo, tormenta, calor."
+      ]
+    },
     {
       "versao": "0.216.0",
       "data": "17/11/2026",
@@ -176,19 +193,6 @@
       ],
       "es": [
         "Alertas: avisos oficiales del tiempo de Alemania (Deutscher Wetterdienst), por municipio -- lluvia fuerte, ráfagas, nieve, hielo, calor."
-      ]
-    },
-    {
-      "versao": "0.205.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Alertas: avisos oficiais de tempo também nos Estados Unidos (National Weather Service) e no Canadá (Environment Canada) -- aparecem no mapa, na navegação, na voz do Vrumbi e na tela Alertas e notícias, como os do INMET aqui."
-      ],
-      "en": [
-        "Alerts: official weather warnings now also in the United States (National Weather Service) and Canada (Environment Canada) -- on the map, in navigation, in the Vrumbi voice and in the Alerts and news screen, like the Brazilian ones."
-      ],
-      "es": [
-        "Alertas: avisos oficiales del tiempo también en Estados Unidos (National Weather Service) y Canadá (Environment Canada) -- en el mapa, en la navegación, en la voz del Vrumbi y en la pantalla Alertas y noticias, como los de Brasil."
       ]
     }
   ]
