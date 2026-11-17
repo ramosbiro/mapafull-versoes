@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.206.0",
-  "codigo": 458,
+  "versao": "0.207.0",
+  "codigo": 459,
   "data": "17/11/2026",
-  "tamanho": 120921908,
-  "sha256": "b7b5b55d1e38bf3bd2c8fbec5cc5869173adb650d8894d2971258b5b912ddbbc",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.206.0/Vrumbi-0.206.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.206.0/Vrumbi-relogio-0.206.0.apk",
+  "tamanho": 120922208,
+  "sha256": "de4883832ce1c6668ffb7e252f73eb37dcf20d90c4f8ca7cb258e8ce25e2481c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.207.0/Vrumbi-0.207.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.207.0/Vrumbi-relogio-0.207.0.apk",
   "notas": [
-    "Alertas: avisos oficiais de tempo da Alemanha (Deutscher Wetterdienst), por município -- chuva forte, rajadas, neve, gelo, calor."
+    "Endereço fora do Brasil: o cartão não carrega mais a rua e o CEP do lugar anterior, mostra o código postal do país (sem \"CEP\") e o nome do país em vez do código (\"Berlim - Alemanha\")."
   ],
   "versoes": [
+    {
+      "versao": "0.207.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Endereço fora do Brasil: o cartão não carrega mais a rua e o CEP do lugar anterior, mostra o código postal do país (sem \"CEP\") e o nome do país em vez do código (\"Berlim - Alemanha\")."
+      ],
+      "en": [
+        "Address outside Brazil: the card no longer keeps the street and postal code of the previous place, shows the local postal code and the country name instead of the code (\"Berlin - Germany\")."
+      ],
+      "es": [
+        "Dirección fuera de Brasil: la tarjeta ya no arrastra la calle y el código postal del lugar anterior, muestra el código postal del país y el nombre del país en vez del código (\"Berlín - Alemania\")."
+      ]
+    },
     {
       "versao": "0.206.0",
       "data": "17/11/2026",
@@ -179,22 +192,6 @@
       ],
       "es": [
         "Portón y casa: con el celular en el bolsillo o la pantalla apagada (navegando), la pregunta \"¡Llegando a casa!\" llega como notificación, con el botón \"Abrir\" en ella."
-      ]
-    },
-    {
-      "versao": "0.195.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Portão e casa (Navegação > Portão e casa): o Vrumbi abre o portão ou a porta pela casa inteligente -- Home Assistant, um endereço de comando (relé Wi-Fi, IFTTT) ou o app do fabricante. Chegando em Casa ele pergunta \"Abrir o portão?\" (nunca abre sozinho), e você também pode pedir por voz: \"abre o portão\". O token fica cifrado só no celular.",
-        "Modo caminhão: Tóquio, dentro do anel 7 (Kan-nana), carga pesada proibida de sábado 22h a domingo 7h."
-      ],
-      "en": [
-        "Gate & home (Navigation > Gate & home): Vrumbi opens your gate or door through your smart home -- Home Assistant, a command address (Wi-Fi relay, IFTTT) or the maker's app. Arriving Home it asks \"Open the gate?\" (it never opens by itself), and you can also say \"open the gate\". The token stays encrypted on the phone only.",
-        "Truck mode: Tokyo, inside Ring 7 (Kan-nana), heavy goods vehicles banned Saturday 10 pm to Sunday 7 am."
-      ],
-      "es": [
-        "Portón y casa (Navegación > Portón y casa): Vrumbi abre el portón o la puerta por la casa inteligente -- Home Assistant, una dirección de comando (relé Wi-Fi, IFTTT) o la app del fabricante. Al llegar a Casa pregunta \"¿Abro el portón?\" (nunca abre solo), y también puedes pedir por voz: \"abre el portón\". El token queda cifrado solo en el celular.",
-        "Modo camión: Tokio, dentro del anillo 7 (Kan-nana), carga pesada prohibida del sábado 22 h al domingo 7 h."
       ]
     }
   ]
