@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.217.0",
-  "codigo": 469,
+  "versao": "0.218.0",
+  "codigo": 470,
   "data": "17/11/2026",
-  "tamanho": 121123237,
-  "sha256": "36b070e6ddf637b1f51f711ca7f1ecbd0ed1739f31d6febf50fa763d61700bbf",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.217.0/Vrumbi-0.217.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.217.0/Vrumbi-relogio-0.217.0.apk",
+  "tamanho": 121123713,
+  "sha256": "6c1b6a74075618ab415bfb487c4040772d2a83c268f6bcfe3f23a0d67f8aee10",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.218.0/Vrumbi-0.218.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.218.0/Vrumbi-relogio-0.218.0.apk",
   "notas": [
-    "Carro conectado: CAMINHÃO E ÔNIBUS (J1939) -- com um adaptador J1939 e o cabo do conector de 9 pinos, o Vrumbi lê giro, velocidade, temperatura da água e do óleo, pressão do óleo, tanque, consumo, horas de motor, hodômetro, turbo e nível do ARLA 32 dos pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), os defeitos SPN/FMI em português, separados por central (motor, câmbio, freios, painel, emissões), com a análise (ARLA 32, motor em proteção, superaquecimento) e o apagar. Tem também a demonstração de caminhão.",
-    "Alertas: avisos oficiais de tempo da Áustria (GeoSphere Austria), da Noruega (MET Norway), da Suécia (SMHI) e da Finlândia (FMI), por local -- vento, chuva, neve, gelo, tempestade, calor."
+    "Alertas: avisos oficiais de tempo do Japão (Agência Meteorológica do Japão, o sistema novo de 2026), por município -- chuva, deslizamento, trovoada e tornado, vento, neve, neblina. E os avisos de fora reconhecem deslizamento, avalanche, ressaca e vento forte (antes \"Storm Warning\" virava chuva)."
   ],
   "versoes": [
+    {
+      "versao": "0.218.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Alertas: avisos oficiais de tempo do Japão (Agência Meteorológica do Japão, o sistema novo de 2026), por município -- chuva, deslizamento, trovoada e tornado, vento, neve, neblina. E os avisos de fora reconhecem deslizamento, avalanche, ressaca e vento forte (antes \"Storm Warning\" virava chuva)."
+      ],
+      "en": [
+        "Alerts: official weather warnings for Japan (Japan Meteorological Agency, the new 2026 system), by municipality -- rain, landslide, thunderstorm and tornado, wind, snow, fog. Warnings abroad now recognize landslide, avalanche, storm surge and strong wind (before, \"Storm Warning\" became rain)."
+      ],
+      "es": [
+        "Alertas: avisos oficiales del tiempo de Japón (Agencia Meteorológica de Japón, el sistema nuevo de 2026), por municipio -- lluvia, deslizamiento, tormenta y tornado, viento, nieve, niebla. Los avisos de afuera reconocen deslizamiento, avalancha, marejada y viento fuerte (antes \"Storm Warning\" se volvía lluvia)."
+      ]
+    },
     {
       "versao": "0.217.0",
       "data": "17/11/2026",
@@ -180,19 +192,6 @@
       ],
       "es": [
         "Dirección fuera de Brasil: la tarjeta ya no arrastra la calle y el código postal del lugar anterior, muestra el código postal del país y el nombre del país en vez del código (\"Berlín - Alemania\")."
-      ]
-    },
-    {
-      "versao": "0.206.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Alertas: avisos oficiais de tempo da Alemanha (Deutscher Wetterdienst), por município -- chuva forte, rajadas, neve, gelo, calor."
-      ],
-      "en": [
-        "Alerts: official weather warnings for Germany (Deutscher Wetterdienst), by municipality -- heavy rain, gusts, snow, ice, heat."
-      ],
-      "es": [
-        "Alertas: avisos oficiales del tiempo de Alemania (Deutscher Wetterdienst), por municipio -- lluvia fuerte, ráfagas, nieve, hielo, calor."
       ]
     }
   ]
