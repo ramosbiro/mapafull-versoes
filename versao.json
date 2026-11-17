@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.222.0",
-  "codigo": 474,
+  "versao": "0.223.0",
+  "codigo": 475,
   "data": "17/11/2026",
-  "tamanho": 121156173,
-  "sha256": "69ae9c8f560e94a43aee4343a2f2ab468ef680d983a1f3cfed9d34b5b1243f7f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.222.0/Vrumbi-0.222.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.222.0/Vrumbi-relogio-0.222.0.apk",
+  "tamanho": 121156601,
+  "sha256": "b4c865c9a50b2657956e3c48c921704630bba04666d7a5ada5b9ef3c62dd833e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.223.0/Vrumbi-0.223.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.223.0/Vrumbi-relogio-0.223.0.apk",
   "notas": [
-    "Busca fora do Brasil: endereço com número e código postal aparecem em \"Endereços\" (antes caíam no meio dos estabelecimentos), e todo resultado mostra o código postal e, se for em outro país, o nome do país. Dá para digitar o código postal de qualquer país (SW1A 1AA, 75001, 160-0022, 10118). Com o app em inglês, alemão ou francês, os nomes da busca vêm nesse idioma; nos outros, em letras latinas quando o lugar usa outra escrita."
+    "Alertas: avisos oficiais de tempo da Nova Zelândia (MetService), das Filipinas (PAGASA: chuva, inundação, ciclone) e de Hong Kong (Observatório: sinais de tufão, temporal, trovoada, deslizamento, calor), por local."
   ],
   "versoes": [
+    {
+      "versao": "0.223.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Alertas: avisos oficiais de tempo da Nova Zelândia (MetService), das Filipinas (PAGASA: chuva, inundação, ciclone) e de Hong Kong (Observatório: sinais de tufão, temporal, trovoada, deslizamento, calor), por local."
+      ],
+      "en": [
+        "Alerts: official weather warnings for New Zealand (MetService), the Philippines (PAGASA: rain, flood, cyclone) and Hong Kong (Observatory: typhoon signals, rainstorm, thunderstorm, landslip, heat), by location."
+      ],
+      "es": [
+        "Alertas: avisos oficiales del tiempo de Nueva Zelanda (MetService), Filipinas (PAGASA: lluvia, inundación, ciclón) y Hong Kong (Observatorio: señales de tifón, tormenta, tormenta eléctrica, deslizamiento, calor), por lugar."
+      ]
+    },
     {
       "versao": "0.222.0",
       "data": "17/11/2026",
@@ -158,25 +171,6 @@
       ],
       "es": [
         "Clima: el \"lloviendo sin llover\" en el centro de São Paulo era un ECO FIJO del radar (una manchita que queda en el mismo lugar por horas, reflejo de los edificios) -- ahora una mancha pequeña quieta hace 2 horas no cuenta como lluvia."
-      ]
-    },
-    {
-      "versao": "0.211.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Vrumbi em espanhol e outros idiomas com o app em português: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" agora são entendidos (antes viravam rota para \"a llover\" ou até \"mensagens\").",
-        "Vrumbi: \"tem rodízio hoje?\", \"hoy no circula\", \"pico y placa\" respondem pelo rodízio da cidade e pela placa do seu veículo.",
-        "Vrumbi: lugar pelo nome popular (\"ir al Zócalo\" = Plaza de la Constitución) e o mais perto quando há dois com o mesmo nome."
-      ],
-      "en": [
-        "Vrumbi in Spanish and other languages with the app in Portuguese: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" are now understood.",
-        "Vrumbi: \"is there a driving restriction today?\", \"hoy no circula\", \"pico y placa\" answer from the city rule and your vehicle plate.",
-        "Vrumbi: places by their popular name (\"ir al Zócalo\" = Plaza de la Constitución) and the nearest one when two share a name."
-      ],
-      "es": [
-        "Vrumbi en español y otros idiomas con la app en portugués: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" ahora se entienden.",
-        "Vrumbi: \"¿hoy no circula?\", \"pico y placa\" responden con la regla de la ciudad y la placa de tu vehículo.",
-        "Vrumbi: lugares por el nombre popular (\"ir al Zócalo\" = Plaza de la Constitución) y el más cercano cuando dos se llaman igual."
       ]
     }
   ]
