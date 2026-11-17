@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.218.0",
-  "codigo": 470,
+  "versao": "0.219.0",
+  "codigo": 471,
   "data": "17/11/2026",
-  "tamanho": 121123713,
-  "sha256": "6c1b6a74075618ab415bfb487c4040772d2a83c268f6bcfe3f23a0d67f8aee10",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.218.0/Vrumbi-0.218.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.218.0/Vrumbi-relogio-0.218.0.apk",
+  "tamanho": 121124665,
+  "sha256": "4dafecfdba1e65ebc3b5242c6d76ed966b640f274a72b2a62e3db0471a698b33",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.219.0/Vrumbi-0.219.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.219.0/Vrumbi-relogio-0.219.0.apk",
   "notas": [
-    "Alertas: avisos oficiais de tempo do Japão (Agência Meteorológica do Japão, o sistema novo de 2026), por município -- chuva, deslizamento, trovoada e tornado, vento, neve, neblina. E os avisos de fora reconhecem deslizamento, avalanche, ressaca e vento forte (antes \"Storm Warning\" virava chuva)."
+    "Mapa: os nomes das ruas, cidades e lugares aparecem no idioma do app (antes sempre em português). Fora do Brasil, quem usa o app em português, inglês, espanhol... vê os nomes em letras latinas (Tóquio: \"Shinjuku\" em vez de 新宿; Moscou: \"Tverskaya\" em vez de Тверская), e a rua falada na navegação e o cartão do endereço também."
   ],
   "versoes": [
+    {
+      "versao": "0.219.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Mapa: os nomes das ruas, cidades e lugares aparecem no idioma do app (antes sempre em português). Fora do Brasil, quem usa o app em português, inglês, espanhol... vê os nomes em letras latinas (Tóquio: \"Shinjuku\" em vez de 新宿; Moscou: \"Tverskaya\" em vez de Тверская), e a rua falada na navegação e o cartão do endereço também."
+      ],
+      "en": [
+        "Map: street, city and place names show in the app language (before, always in Portuguese). Abroad, people using the app in English, Spanish, Portuguese... see names in Latin letters (Tokyo: \"Shinjuku\" instead of 新宿; Moscow: \"Tverskaya\" instead of Тверская), and the street spoken during navigation and the address card too."
+      ],
+      "es": [
+        "Mapa: los nombres de calles, ciudades y lugares aparecen en el idioma de la app (antes siempre en portugués). Afuera, quien usa la app en español, inglés, portugués... ve los nombres en letras latinas (Tokio: \"Shinjuku\" en vez de 新宿; Moscú: \"Tverskaya\" en vez de Тверская), y la calle hablada en la navegación y la tarjeta de la dirección también."
+      ]
+    },
     {
       "versao": "0.218.0",
       "data": "17/11/2026",
@@ -179,19 +192,6 @@
         "Vrumbi: \"el más cercano\" ahora es el más cercano de verdad -- antes tomaba quince lugares cualesquiera en un área de 9 km y elegía entre ellos (en el Louvre, un restaurante a 1,5 km; ahora a 400 m).",
         "Vrumbi: \"hospital más cercano\", \"gasolinera más cercana\"... ya no hacen zoom en el mapa; \"cancelar ruta\" ya no es un destino; \"¿hay aviso de lluvia?\" es una pregunta, no un aviso para la comunidad.",
         "Alertas de la comunidad (bache, choque, retén...) en todo el mundo -- antes solo en Brasil."
-      ]
-    },
-    {
-      "versao": "0.207.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Endereço fora do Brasil: o cartão não carrega mais a rua e o CEP do lugar anterior, mostra o código postal do país (sem \"CEP\") e o nome do país em vez do código (\"Berlim - Alemanha\")."
-      ],
-      "en": [
-        "Address outside Brazil: the card no longer keeps the street and postal code of the previous place, shows the local postal code and the country name instead of the code (\"Berlin - Germany\")."
-      ],
-      "es": [
-        "Dirección fuera de Brasil: la tarjeta ya no arrastra la calle y el código postal del lugar anterior, muestra el código postal del país y el nombre del país en vez del código (\"Berlín - Alemania\")."
       ]
     }
   ]
