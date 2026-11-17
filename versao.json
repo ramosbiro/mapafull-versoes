@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.204.0",
-  "codigo": 456,
+  "versao": "0.205.0",
+  "codigo": 457,
   "data": "17/11/2026",
-  "tamanho": 120919612,
-  "sha256": "ee1fe0456892fd9e74159dcb8628113e17b391fdd81d809d30bad00630eb7285",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.204.0/Vrumbi-0.204.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.204.0/Vrumbi-relogio-0.204.0.apk",
+  "tamanho": 120921620,
+  "sha256": "f83ea274088ae5c5e7f59cf8f009999346d3ae6f41a78016622776a8790d5b7d",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.205.0/Vrumbi-0.205.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.205.0/Vrumbi-relogio-0.205.0.apk",
   "notas": [
-    "Clima: o app não abre mais chovendo. O mapa e o tempo do canto começam onde você estava da última vez (antes começavam na Av. Paulista até o GPS responder, com o tempo de lá), e quando o GPS chega o tempo daqui troca na hora.",
-    "Vrumbi: o cérebro grande (Gênio) agora é só para celulares de 12 GB ou mais -- num celular de 8 GB, com o mapa aberto, ele não cabia e travava o aparelho. Quem já tinha baixado o grande recebe o leve (Esperto) sozinho, no Wi-Fi, e o grande é apagado.",
-    "Vrumbi: \"como está o trânsito\" não vira mais cumprimento, e \"oi Vrumbi, como vai?\" não vira mais uma rota."
+    "Alertas: avisos oficiais de tempo também nos Estados Unidos (National Weather Service) e no Canadá (Environment Canada) -- aparecem no mapa, na navegação, na voz do Vrumbi e na tela Alertas e notícias, como os do INMET aqui."
   ],
   "versoes": [
+    {
+      "versao": "0.205.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Alertas: avisos oficiais de tempo também nos Estados Unidos (National Weather Service) e no Canadá (Environment Canada) -- aparecem no mapa, na navegação, na voz do Vrumbi e na tela Alertas e notícias, como os do INMET aqui."
+      ],
+      "en": [
+        "Alerts: official weather warnings now also in the United States (National Weather Service) and Canada (Environment Canada) -- on the map, in navigation, in the Vrumbi voice and in the Alerts and news screen, like the Brazilian ones."
+      ],
+      "es": [
+        "Alertas: avisos oficiales del tiempo también en Estados Unidos (National Weather Service) y Canadá (Environment Canada) -- en el mapa, en la navegación, en la voz del Vrumbi y en la pantalla Alertas y noticias, como los de Brasil."
+      ]
+    },
     {
       "versao": "0.204.0",
       "data": "17/11/2026",
@@ -184,19 +195,6 @@
       ],
       "es": [
         "Modo camión fuera de Brasil: zonas de restricción de Londres (Lorry Control, más de 18 t de noche y fines de semana), París (por la superficie del camión), Madrid (dentro de la M-30 más de 18 t y Distrito Centro más de 12 t), Roma (Anello Ferroviario, más de 7,5 m) y Milán (Area C más de 7,5 m y Area B más de 12 m)."
-      ]
-    },
-    {
-      "versao": "0.193.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: mais mil códigos de defeito com o nome em português (4.100 no total), inclusive os de carro elétrico e híbrido."
-      ],
-      "en": [
-        "Connected car: another thousand fault codes with a Portuguese title (4,100 in total), including electric and hybrid ones."
-      ],
-      "es": [
-        "Auto conectado: mil códigos de avería más con el nombre en portugués (4.100 en total), incluidos los de autos eléctricos e híbridos."
       ]
     }
   ]
