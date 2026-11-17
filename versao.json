@@ -1,18 +1,41 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.208.0",
-  "codigo": 460,
+  "versao": "0.209.0",
+  "codigo": 461,
   "data": "17/11/2026",
-  "tamanho": 120923220,
-  "sha256": "47a7a441a1ab11bdbf968367e926dd147584be48fb7c78daeecd10d6b41af9cd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.208.0/Vrumbi-0.208.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.208.0/Vrumbi-relogio-0.208.0.apk",
+  "tamanho": 120928372,
+  "sha256": "b36900a7e7ac097659a2daea91c233bbd698430e7a1a32ffb19bc89471f1af48",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.209.0/Vrumbi-0.209.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.209.0/Vrumbi-relogio-0.209.0.apk",
   "notas": [
-    "Vrumbi: \"o mais perto\" agora é o mais perto de verdade -- antes pegava quinze lugares quaisquer numa área de 9 km e escolhia entre eles (no Louvre, restaurante a 1,5 km; agora a 400 m).",
-    "Vrumbi: \"hospital mais perto\", \"posto mais perto\"... não viram mais zoom do mapa (\"Chegando mais perto!\"); \"cancelar rota\" não vira mais destino; \"tem aviso de chuva?\" é pergunta, não um aviso para a comunidade.",
-    "Alertas da comunidade (buraco, acidente, blitz...) no mundo todo -- antes só no Brasil."
+    "Clima: o radar lia a garoa mais fraca (o bege do mapa de radar) como CHUVA FORTE e a chuva mais forte como fraca -- era a \"chuva forte\" com 0 mm em Paris e Tóquio, e pode explicar o céu chovendo sem chuva. Agora cada cor vale o que é, e o eco muito fraco não vira \"garoa\" sozinho.",
+    "Vrumbi: \"tem radar por aqui?\" responde quantos radares há a menos de 2 km, o mais perto e o limite (antes procurava um lugar chamado \"radar\" -- e podia até mandar um alerta de radar para a comunidade).",
+    "Vrumbi: lugar pelo nome em português no exterior (\"me leva para a Torre de Tóquio\") -- antes caía numa rua na Espanha; e o nome em outra escrita é dito como você falou.",
+    "\"Onde estou\" não diz mais \"elevador, 2º andar\" dentro de estação."
   ],
   "versoes": [
+    {
+      "versao": "0.209.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Clima: o radar lia a garoa mais fraca (o bege do mapa de radar) como CHUVA FORTE e a chuva mais forte como fraca -- era a \"chuva forte\" com 0 mm em Paris e Tóquio, e pode explicar o céu chovendo sem chuva. Agora cada cor vale o que é, e o eco muito fraco não vira \"garoa\" sozinho.",
+        "Vrumbi: \"tem radar por aqui?\" responde quantos radares há a menos de 2 km, o mais perto e o limite (antes procurava um lugar chamado \"radar\" -- e podia até mandar um alerta de radar para a comunidade).",
+        "Vrumbi: lugar pelo nome em português no exterior (\"me leva para a Torre de Tóquio\") -- antes caía numa rua na Espanha; e o nome em outra escrita é dito como você falou.",
+        "\"Onde estou\" não diz mais \"elevador, 2º andar\" dentro de estação."
+      ],
+      "en": [
+        "Weather: the radar read the faintest drizzle (the beige on the radar map) as HEAVY RAIN and the heaviest rain as light -- that was the \"heavy rain\" with 0 mm in Paris and Tokyo. Now each color means what it is, and a very faint echo alone no longer becomes \"drizzle\".",
+        "Vrumbi: \"any speed cameras around here?\" tells how many are within 2 km, the nearest and the limit (before it searched for a place called \"radar\").",
+        "Vrumbi: places abroad by their Portuguese/Spanish name (\"take me to Tokyo Tower\") -- before it went to a street in Spain; names in another script are spoken as you said them.",
+        "\"Where am I\" no longer says \"elevator, 2nd floor\" inside stations."
+      ],
+      "es": [
+        "Clima: el radar leía la llovizna más débil (el beige del mapa de radar) como LLUVIA FUERTE y la lluvia más fuerte como débil -- era la \"lluvia fuerte\" con 0 mm en París y Tokio. Ahora cada color vale lo que es, y el eco muy débil ya no se vuelve \"llovizna\" solo.",
+        "Vrumbi: \"¿hay radar por aquí?\" responde cuántos radares hay a menos de 2 km, el más cercano y el límite (antes buscaba un lugar llamado \"radar\").",
+        "Vrumbi: lugares en el exterior por el nombre en español/portugués (\"llévame a la Torre de Tokio\") -- antes iba a una calle en España; los nombres en otra escritura se dicen como los dijiste.",
+        "\"Dónde estoy\" ya no dice \"ascensor, 2º piso\" dentro de una estación."
+      ]
+    },
     {
       "versao": "0.208.0",
       "data": "17/11/2026",
@@ -184,22 +207,6 @@
       "es": [
         "Búsqueda: los locales comerciales abiertos de la ciudad de Madrid (100 mil, con el tipo de cada uno), y las licencias de Calgary, Nueva Orleans y Norfolk.",
         "Sobre la app: la lista de todos los registros de empresas usados en la búsqueda, con sus licencias."
-      ]
-    },
-    {
-      "versao": "0.197.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Portão e casa: no Home Assistant, o botão \"Buscar portões e portas na central\" lista o que a sua casa tem (portões, portas, fechaduras, relés) para escolher, sem digitar o nome técnico.",
-        "Modo caminhão: Montevidéu, dentro do Anillo Perimetral (Zona B), combinação articulada proibida o dia todo."
-      ],
-      "en": [
-        "Gate & home: with Home Assistant, the \"Find gates and doors on the hub\" button lists what your home has (gates, doors, locks, relays) to pick, without typing the technical name.",
-        "Truck mode: Montevideo, inside the Anillo Perimetral (Zone B), articulated combinations banned all day."
-      ],
-      "es": [
-        "Portón y casa: con Home Assistant, el botón \"Buscar portones y puertas en la central\" lista lo que tiene tu casa (portones, puertas, cerraduras, relés) para elegir, sin escribir el nombre técnico.",
-        "Modo camión: Montevideo, dentro del Anillo Perimetral (Zona B), combinación articulada prohibida todo el día."
       ]
     }
   ]
