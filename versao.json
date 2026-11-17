@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.215.0",
-  "codigo": 467,
+  "versao": "0.216.0",
+  "codigo": 468,
   "data": "17/11/2026",
-  "tamanho": 120943073,
-  "sha256": "bc7753d842f9bf598508b0315b0346a52d72d15b855e2903885730ddb3a7f313",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.215.0/Vrumbi-0.215.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.215.0/Vrumbi-relogio-0.215.0.apk",
+  "tamanho": 121059673,
+  "sha256": "512eadf676eee166d609f9de0ac891727b099298371d14d6d13c9a7c0a0ed65c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.216.0/Vrumbi-0.216.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.216.0/Vrumbi-relogio-0.216.0.apk",
   "notas": [
-    "Vrumbi: \"cancelar rota\" sem rota ativa responde que não há rota (antes perguntava \"quer mesmo encerrar?\")."
+    "Carro conectado: SCANNER COMPLETO -- o Vrumbi fala com todas as centrais do carro (motor, câmbio, freios ABS/ESP, airbag, painel, carroceria, direção...), mostra cada defeito com o estado (ativo, confirmado, pendente, histórico), faz a análise (o que é grave, por onde começar, bateria fraca gerando defeito falso), pesquisa o código na internet com a marca e o ano do carro, apaga os defeitos de uma central ou de todas e compartilha o relatório para o mecânico."
   ],
   "versoes": [
+    {
+      "versao": "0.216.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Carro conectado: SCANNER COMPLETO -- o Vrumbi fala com todas as centrais do carro (motor, câmbio, freios ABS/ESP, airbag, painel, carroceria, direção...), mostra cada defeito com o estado (ativo, confirmado, pendente, histórico), faz a análise (o que é grave, por onde começar, bateria fraca gerando defeito falso), pesquisa o código na internet com a marca e o ano do carro, apaga os defeitos de uma central ou de todas e compartilha o relatório para o mecânico."
+      ],
+      "en": [
+        "Connected car: FULL SCAN -- Vrumbi talks to every control unit in the car (engine, transmission, ABS/ESP brakes, airbag, cluster, body, steering...), shows each fault with its status (active, confirmed, pending, history), analyzes them (what is serious, where to start, a weak battery causing false faults), searches the code on the web with the car make and year, clears one unit or all of them and shares the report with the mechanic."
+      ],
+      "es": [
+        "Auto conectado: ESCÁNER COMPLETO -- Vrumbi habla con todas las centralitas del auto (motor, caja, frenos ABS/ESP, airbag, tablero, carrocería, dirección...), muestra cada falla con su estado (activa, confirmada, pendiente, historial), las analiza (qué es grave, por dónde empezar, batería débil causando fallas falsas), busca el código en internet con la marca y el año del auto, borra una centralita o todas y comparte el informe con el mecánico."
+      ]
+    },
     {
       "versao": "0.215.0",
       "data": "17/11/2026",
@@ -176,25 +189,6 @@
       ],
       "es": [
         "Alertas: avisos oficiales del tiempo también en Estados Unidos (National Weather Service) y Canadá (Environment Canada) -- en el mapa, en la navegación, en la voz del Vrumbi y en la pantalla Alertas y noticias, como los de Brasil."
-      ]
-    },
-    {
-      "versao": "0.204.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Clima: o app não abre mais chovendo. O mapa e o tempo do canto começam onde você estava da última vez (antes começavam na Av. Paulista até o GPS responder, com o tempo de lá), e quando o GPS chega o tempo daqui troca na hora.",
-        "Vrumbi: o cérebro grande (Gênio) agora é só para celulares de 12 GB ou mais -- num celular de 8 GB, com o mapa aberto, ele não cabia e travava o aparelho. Quem já tinha baixado o grande recebe o leve (Esperto) sozinho, no Wi-Fi, e o grande é apagado.",
-        "Vrumbi: \"como está o trânsito\" não vira mais cumprimento, e \"oi Vrumbi, como vai?\" não vira mais uma rota."
-      ],
-      "en": [
-        "Weather: the app no longer opens raining. The map and the corner weather start where you were last time (before, they started on Av. Paulista until the GPS answered, with the weather there), and when the GPS arrives the local weather switches right away.",
-        "Vrumbi: the big brain (Genius) is now only for phones with 12 GB or more -- on an 8 GB phone, with the map open, it did not fit and froze the device. Anyone who had downloaded the big one gets the light one (Smart) automatically, on Wi-Fi, and the big one is deleted.",
-        "Vrumbi: \"how is the traffic\" is no longer taken as a greeting, and \"hi Vrumbi, how are you?\" no longer becomes a route."
-      ],
-      "es": [
-        "Clima: la app ya no abre lloviendo. El mapa y el tiempo de la esquina empiezan donde estabas la última vez (antes empezaban en la Av. Paulista hasta que respondía el GPS, con el tiempo de allí), y cuando llega el GPS el tiempo de aquí cambia enseguida.",
-        "Vrumbi: el cerebro grande (Genio) ahora es solo para celulares de 12 GB o más -- en un celular de 8 GB, con el mapa abierto, no cabía y trababa el aparato. Quien ya había bajado el grande recibe el liviano (Listo) solo, por Wi-Fi, y el grande se borra.",
-        "Vrumbi: \"cómo está el tránsito\" ya no se toma como saludo, y \"hola Vrumbi, ¿cómo va?\" ya no se vuelve una ruta."
       ]
     }
   ]
