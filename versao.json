@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.221.0",
-  "codigo": 473,
+  "versao": "0.222.0",
+  "codigo": 474,
   "data": "17/11/2026",
-  "tamanho": 121154397,
-  "sha256": "466e02a097b0ac512e07a96ffaef003bee0749cf0c4cea15ad7100f64f3fec39",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.221.0/Vrumbi-0.221.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.221.0/Vrumbi-relogio-0.221.0.apk",
+  "tamanho": 121156173,
+  "sha256": "69ae9c8f560e94a43aee4343a2f2ab468ef680d983a1f3cfed9d34b5b1243f7f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.222.0/Vrumbi-0.222.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.222.0/Vrumbi-relogio-0.222.0.apk",
   "notas": [
-    "Treino automático: não espera mais 10 minutos nem pergunta. Começou a andar, correr ou pedalar, o Vrumbi já grava desde o primeiro passo e confere no primeiro minuto com o acelerômetro, os passos e os sinais do carro. Parado ou no carro, apaga sem avisar (nada de \"pedalando\" sentado no carro). A cadência acerta caminhada, corrida ou bicicleta. Abrir o app liga o GPS; 3 minutos parado encerram e o treino entra no histórico (a partir de 5 minutos). A notificação tem Descartar."
+    "Busca fora do Brasil: endereço com número e código postal aparecem em \"Endereços\" (antes caíam no meio dos estabelecimentos), e todo resultado mostra o código postal e, se for em outro país, o nome do país. Dá para digitar o código postal de qualquer país (SW1A 1AA, 75001, 160-0022, 10118). Com o app em inglês, alemão ou francês, os nomes da busca vêm nesse idioma; nos outros, em letras latinas quando o lugar usa outra escrita."
   ],
   "versoes": [
+    {
+      "versao": "0.222.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Busca fora do Brasil: endereço com número e código postal aparecem em \"Endereços\" (antes caíam no meio dos estabelecimentos), e todo resultado mostra o código postal e, se for em outro país, o nome do país. Dá para digitar o código postal de qualquer país (SW1A 1AA, 75001, 160-0022, 10118). Com o app em inglês, alemão ou francês, os nomes da busca vêm nesse idioma; nos outros, em letras latinas quando o lugar usa outra escrita."
+      ],
+      "en": [
+        "Search outside Brazil: addresses with a house number and postal codes show under \"Addresses\" (before they were mixed with businesses), and every result shows the postal code and, when in another country, the country name. You can type the postal code of any country (SW1A 1AA, 75001, 160-0022, 10118). With the app in English, German or French, search names come in that language; in the others, in Latin letters where the place uses another script."
+      ],
+      "es": [
+        "Búsqueda fuera de Brasil: las direcciones con número y los códigos postales aparecen en \"Direcciones\" (antes se mezclaban con los comercios), y cada resultado muestra el código postal y, si es en otro país, el nombre del país. Se puede escribir el código postal de cualquier país (SW1A 1AA, 75001, 160-0022, 10118). Con la app en inglés, alemán o francés, los nombres de la búsqueda vienen en ese idioma; en los demás, en letras latinas cuando el lugar usa otra escritura."
+      ]
+    },
     {
       "versao": "0.221.0",
       "data": "17/11/2026",
@@ -164,19 +177,6 @@
         "Vrumbi en español y otros idiomas con la app en portugués: \"gasolinera más cercana\", \"va a llover\", \"ir al centro\", \"去天安门\" ahora se entienden.",
         "Vrumbi: \"¿hoy no circula?\", \"pico y placa\" responden con la regla de la ciudad y la placa de tu vehículo.",
         "Vrumbi: lugares por el nombre popular (\"ir al Zócalo\" = Plaza de la Constitución) y el más cercano cuando dos se llaman igual."
-      ]
-    },
-    {
-      "versao": "0.210.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Correção de queda: quando um download pequeno (arquivo de endereços, dados do mapa) terminava antes da notificação subir, o Android fechava o app inteiro."
-      ],
-      "en": [
-        "Crash fix: when a small download (address file, map data) finished before its notification came up, Android closed the whole app."
-      ],
-      "es": [
-        "Corrección de cierre: cuando una descarga pequeña (archivo de direcciones, datos del mapa) terminaba antes de que subiera la notificación, Android cerraba toda la app."
       ]
     }
   ]
