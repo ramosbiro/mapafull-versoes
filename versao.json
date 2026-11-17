@@ -1,17 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.203.0",
-  "codigo": 455,
-  "data": "16/11/2026",
-  "tamanho": 120918296,
-  "sha256": "f3b6cf32d2898d70fdb2ca5c91c768a5f23d83a0db7232434952728cd5671a4b",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.203.0/Vrumbi-0.203.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.203.0/Vrumbi-relogio-0.203.0.apk",
+  "versao": "0.204.0",
+  "codigo": 456,
+  "data": "17/11/2026",
+  "tamanho": 120919612,
+  "sha256": "ee1fe0456892fd9e74159dcb8628113e17b391fdd81d809d30bad00630eb7285",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.204.0/Vrumbi-0.204.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.204.0/Vrumbi-relogio-0.204.0.apk",
   "notas": [
-    "Vrumbi: \"agora não\", \"não\", \"nada\", \"deixa pra lá\" e \"tchau\" encerram na hora -- antes viravam pergunta para o cérebro e podiam travar a navegação.",
-    "Vrumbi: o cérebro nunca mais trava o app. Em celular com menos de 10 GB ele não abre sozinho com a janela, só abre com memória livre de sobra (e no processador quando falta memória para a placa de vídeo), e cada pergunta tem prazo: demorou, ele avisa e solta você."
+    "Clima: o app não abre mais chovendo. O mapa e o tempo do canto começam onde você estava da última vez (antes começavam na Av. Paulista até o GPS responder, com o tempo de lá), e quando o GPS chega o tempo daqui troca na hora.",
+    "Vrumbi: o cérebro grande (Gênio) agora é só para celulares de 12 GB ou mais -- num celular de 8 GB, com o mapa aberto, ele não cabia e travava o aparelho. Quem já tinha baixado o grande recebe o leve (Esperto) sozinho, no Wi-Fi, e o grande é apagado.",
+    "Vrumbi: \"como está o trânsito\" não vira mais cumprimento, e \"oi Vrumbi, como vai?\" não vira mais uma rota."
   ],
   "versoes": [
+    {
+      "versao": "0.204.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Clima: o app não abre mais chovendo. O mapa e o tempo do canto começam onde você estava da última vez (antes começavam na Av. Paulista até o GPS responder, com o tempo de lá), e quando o GPS chega o tempo daqui troca na hora.",
+        "Vrumbi: o cérebro grande (Gênio) agora é só para celulares de 12 GB ou mais -- num celular de 8 GB, com o mapa aberto, ele não cabia e travava o aparelho. Quem já tinha baixado o grande recebe o leve (Esperto) sozinho, no Wi-Fi, e o grande é apagado.",
+        "Vrumbi: \"como está o trânsito\" não vira mais cumprimento, e \"oi Vrumbi, como vai?\" não vira mais uma rota."
+      ],
+      "en": [
+        "Weather: the app no longer opens raining. The map and the corner weather start where you were last time (before, they started on Av. Paulista until the GPS answered, with the weather there), and when the GPS arrives the local weather switches right away.",
+        "Vrumbi: the big brain (Genius) is now only for phones with 12 GB or more -- on an 8 GB phone, with the map open, it did not fit and froze the device. Anyone who had downloaded the big one gets the light one (Smart) automatically, on Wi-Fi, and the big one is deleted.",
+        "Vrumbi: \"how is the traffic\" is no longer taken as a greeting, and \"hi Vrumbi, how are you?\" no longer becomes a route."
+      ],
+      "es": [
+        "Clima: la app ya no abre lloviendo. El mapa y el tiempo de la esquina empiezan donde estabas la última vez (antes empezaban en la Av. Paulista hasta que respondía el GPS, con el tiempo de allí), y cuando llega el GPS el tiempo de aquí cambia enseguida.",
+        "Vrumbi: el cerebro grande (Genio) ahora es solo para celulares de 12 GB o más -- en un celular de 8 GB, con el mapa abierto, no cabía y trababa el aparato. Quien ya había bajado el grande recibe el liviano (Listo) solo, por Wi-Fi, y el grande se borra.",
+        "Vrumbi: \"cómo está el tránsito\" ya no se toma como saludo, y \"hola Vrumbi, ¿cómo va?\" ya no se vuelve una ruta."
+      ]
+    },
     {
       "versao": "0.203.0",
       "data": "16/11/2026",
@@ -177,19 +197,6 @@
       ],
       "es": [
         "Auto conectado: mil códigos de avería más con el nombre en portugués (4.100 en total), incluidos los de autos eléctricos e híbridos."
-      ]
-    },
-    {
-      "versao": "0.192.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Carro conectado: quase 3 mil códigos de defeito a mais com o nome em português (injetores, sondas, solenoides do câmbio, bateria do híbrido, Arla 32...)."
-      ],
-      "en": [
-        "Connected car: almost 3,000 more fault codes with a Portuguese title (for Portuguese users)."
-      ],
-      "es": [
-        "Auto conectado: casi 3 mil códigos de avería más con el nombre en portugués (para quien usa el app en portugués)."
       ]
     }
   ]
