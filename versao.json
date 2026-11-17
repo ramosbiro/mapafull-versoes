@@ -1,19 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.209.0",
-  "codigo": 461,
+  "versao": "0.210.0",
+  "codigo": 462,
   "data": "17/11/2026",
-  "tamanho": 120928372,
-  "sha256": "b36900a7e7ac097659a2daea91c233bbd698430e7a1a32ffb19bc89471f1af48",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.209.0/Vrumbi-0.209.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.209.0/Vrumbi-relogio-0.209.0.apk",
+  "tamanho": 120928612,
+  "sha256": "e5baf07d4497317feb3101c3ac4316e8a4a8b76f9eea0b26ee9e0a126b7c8388",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.210.0/Vrumbi-0.210.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.210.0/Vrumbi-relogio-0.210.0.apk",
   "notas": [
-    "Clima: o radar lia a garoa mais fraca (o bege do mapa de radar) como CHUVA FORTE e a chuva mais forte como fraca -- era a \"chuva forte\" com 0 mm em Paris e Tóquio, e pode explicar o céu chovendo sem chuva. Agora cada cor vale o que é, e o eco muito fraco não vira \"garoa\" sozinho.",
-    "Vrumbi: \"tem radar por aqui?\" responde quantos radares há a menos de 2 km, o mais perto e o limite (antes procurava um lugar chamado \"radar\" -- e podia até mandar um alerta de radar para a comunidade).",
-    "Vrumbi: lugar pelo nome em português no exterior (\"me leva para a Torre de Tóquio\") -- antes caía numa rua na Espanha; e o nome em outra escrita é dito como você falou.",
-    "\"Onde estou\" não diz mais \"elevador, 2º andar\" dentro de estação."
+    "Correção de queda: quando um download pequeno (arquivo de endereços, dados do mapa) terminava antes da notificação subir, o Android fechava o app inteiro."
   ],
   "versoes": [
+    {
+      "versao": "0.210.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Correção de queda: quando um download pequeno (arquivo de endereços, dados do mapa) terminava antes da notificação subir, o Android fechava o app inteiro."
+      ],
+      "en": [
+        "Crash fix: when a small download (address file, map data) finished before its notification came up, Android closed the whole app."
+      ],
+      "es": [
+        "Corrección de cierre: cuando una descarga pequeña (archivo de direcciones, datos del mapa) terminaba antes de que subiera la notificación, Android cerraba toda la app."
+      ]
+    },
     {
       "versao": "0.209.0",
       "data": "17/11/2026",
@@ -191,22 +201,6 @@
       ],
       "es": [
         "Vrumbi por voz: \"abre el auto conectado\", \"abre portón y casa\", \"modo HUD\", \"abre el cockpit\" y \"conecta el auto\" (se conecta al adaptador OBD2 guardado)."
-      ]
-    },
-    {
-      "versao": "0.198.0",
-      "data": "16/11/2026",
-      "itens": [
-        "Busca: os locais comerciais abertos da cidade de Madri (100 mil, com o tipo de cada um), e as licenças de Calgary, New Orleans e Norfolk.",
-        "Sobre o app: a lista de todos os cadastros de empresas usados na busca, com as licenças."
-      ],
-      "en": [
-        "Search: the open commercial premises of the city of Madrid (100 thousand, with each one's type), plus business licenses from Calgary, New Orleans and Norfolk.",
-        "About the app: the list of every business registry used in search, with its license."
-      ],
-      "es": [
-        "Búsqueda: los locales comerciales abiertos de la ciudad de Madrid (100 mil, con el tipo de cada uno), y las licencias de Calgary, Nueva Orleans y Norfolk.",
-        "Sobre la app: la lista de todos los registros de empresas usados en la búsqueda, con sus licencias."
       ]
     }
   ]
