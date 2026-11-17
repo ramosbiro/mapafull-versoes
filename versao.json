@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.223.0",
-  "codigo": 475,
+  "versao": "0.224.0",
+  "codigo": 476,
   "data": "17/11/2026",
-  "tamanho": 121156601,
-  "sha256": "b4c865c9a50b2657956e3c48c921704630bba04666d7a5ada5b9ef3c62dd833e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.223.0/Vrumbi-0.223.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.223.0/Vrumbi-relogio-0.223.0.apk",
+  "tamanho": 121156981,
+  "sha256": "d3f2cb63124481fe3479b0d182364b2c087d07895ee8ec0e494d12612df344fb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.224.0/Vrumbi-0.224.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.224.0/Vrumbi-relogio-0.224.0.apk",
   "notas": [
-    "Alertas: avisos oficiais de tempo da Nova Zelândia (MetService), das Filipinas (PAGASA: chuva, inundação, ciclone) e de Hong Kong (Observatório: sinais de tufão, temporal, trovoada, deslizamento, calor), por local."
+    "Alertas: avisos oficiais de tempo de Portugal (IPMA, por distrito, e nas zonas da Madeira e dos Açores: chuva, vento, trovoada, neve, agitação marítima, calor e frio) e da Polônia (IMGW, por powiat: vento, chuva, neve, gelo, neblina, calor)."
   ],
   "versoes": [
+    {
+      "versao": "0.224.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Alertas: avisos oficiais de tempo de Portugal (IPMA, por distrito, e nas zonas da Madeira e dos Açores: chuva, vento, trovoada, neve, agitação marítima, calor e frio) e da Polônia (IMGW, por powiat: vento, chuva, neve, gelo, neblina, calor)."
+      ],
+      "en": [
+        "Alerts: official weather warnings for Portugal (IPMA, by district, plus the Madeira and Azores zones: rain, wind, thunderstorm, snow, rough sea, heat and cold) and Poland (IMGW, by county: wind, rain, snow, ice, fog, heat)."
+      ],
+      "es": [
+        "Alertas: avisos oficiales del tiempo de Portugal (IPMA, por distrito, y en las zonas de Madeira y Azores: lluvia, viento, tormenta, nieve, mar agitado, calor y frío) y de Polonia (IMGW, por powiat: viento, lluvia, nieve, hielo, niebla, calor)."
+      ]
+    },
     {
       "versao": "0.223.0",
       "data": "17/11/2026",
@@ -158,19 +171,6 @@
       ],
       "es": [
         "Vrumbi más rápido: \"llévame al Ibirapuera\" justo al abrir la app tardaba más de un minuto (el índice de lugares cargando antes de responder) -- ahora ~2 segundos; el índice termina de cargar por detrás."
-      ]
-    },
-    {
-      "versao": "0.212.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Clima: o \"chovendo sem chover\" no centro de São Paulo era um ECO FIXO do radar (uma manchinha que fica parada no mesmo lugar há horas, reflexo dos prédios) -- agora mancha pequena parada há 2 horas não conta como chuva, nem no \"agora\", nem no \"chuva chegando\"."
-      ],
-      "en": [
-        "Weather: the \"raining with no rain\" over central São Paulo was a FIXED radar echo (a small blot that stays in the same place for hours, reflection from buildings) -- now a small blot that has not moved for 2 hours does not count as rain."
-      ],
-      "es": [
-        "Clima: el \"lloviendo sin llover\" en el centro de São Paulo era un ECO FIJO del radar (una manchita que queda en el mismo lugar por horas, reflejo de los edificios) -- ahora una mancha pequeña quieta hace 2 horas no cuenta como lluvia."
       ]
     }
   ]
