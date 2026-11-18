@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.225.0",
-  "codigo": 477,
-  "data": "17/11/2026",
-  "tamanho": 121158229,
-  "sha256": "3ec52757ef7ef2a932f41163cb56cd429d6253a6f0c76f768353b2adda17b53c",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.225.0/Vrumbi-0.225.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.225.0/Vrumbi-relogio-0.225.0.apk",
+  "versao": "0.226.0",
+  "codigo": 478,
+  "data": "18/11/2026",
+  "tamanho": 121159205,
+  "sha256": "9a23caefdc0691618caef6ba2428c455960a162088be9b4302efe49617c22597",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.226.0/Vrumbi-0.226.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.226.0/Vrumbi-relogio-0.226.0.apk",
   "notas": [
-    "Notícias fora do Brasil: as manchetes da cidade vêm da edição de notícias do país e no idioma de lá (Porto: jornais de Portugal, não mais Porto Alegre e Porto Velho; Tóquio: jornais japoneses; Nova Zelândia: RNZ, NZ Herald). País sem edição própria: em inglês, com o nome do país na busca."
+    "Clima mais preciso (comparação com outro app no Parque Santana): o índice UV vinha de um modelo diferente do céu mostrado e caía para 3 com \"Sol entre nuvens\" às 14h. Agora o UV é o de céu limpo reduzido pelas nuvens de cada camada (baixas seguram muito, altas quase nada), e o véu de nuvens altas não vira mais \"Nublado\" com o sol aparecendo. Vale no app, no widget e nos avisos."
   ],
   "versoes": [
+    {
+      "versao": "0.226.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Clima mais preciso (comparação com outro app no Parque Santana): o índice UV vinha de um modelo diferente do céu mostrado e caía para 3 com \"Sol entre nuvens\" às 14h. Agora o UV é o de céu limpo reduzido pelas nuvens de cada camada (baixas seguram muito, altas quase nada), e o véu de nuvens altas não vira mais \"Nublado\" com o sol aparecendo. Vale no app, no widget e nos avisos."
+      ],
+      "en": [
+        "More accurate weather (compared with another app): the UV index came from a different model than the sky shown and dropped to 3 with \"Partly cloudy\" at 2 pm. Now UV is the clear-sky value reduced by the clouds of each layer (low clouds block a lot, high ones almost nothing), and a veil of high clouds no longer shows as \"Cloudy\" while the sun is out. Applies to the app, the widget and alerts."
+      ],
+      "es": [
+        "Clima más preciso (comparación con otra app): el índice UV venía de un modelo distinto del cielo mostrado y bajaba a 3 con \"Sol entre nubes\" a las 14 h. Ahora el UV es el de cielo despejado reducido por las nubes de cada capa (las bajas frenan mucho, las altas casi nada), y el velo de nubes altas ya no aparece como \"Nublado\" con el sol afuera. Vale en la app, el widget y los avisos."
+      ]
+    },
     {
       "versao": "0.225.0",
       "data": "17/11/2026",
@@ -155,22 +168,6 @@
       ],
       "es": [
         "Vrumbi: \"cancelar ruta\" sin ruta activa responde que no hay ruta (antes preguntaba \"¿seguro que quieres terminarla?\")."
-      ]
-    },
-    {
-      "versao": "0.214.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Desempenho: a busca nos estabelecimentos (escolas, comércio, empresas) saiu da linha da tela e roda num processo à parte -- a tela não trava mais enquanto o Vrumbi procura (antes congelava por segundos e a memória da tela chegava a 430 MB; agora 166 MB).",
-        "Vrumbi: o índice da região já começa a carregar quando a janela do Vrumbi abre; \"escola Deodato\" em Mogi acha a escola de Mogi (antes, escolas de Minas Gerais); um lugar repetido de duas fontes aparece uma vez só; e um pedido novo não é mais confundido com uma das opções da pergunta anterior."
-      ],
-      "en": [
-        "Performance: the search over places (schools, shops, companies) moved off the screen thread into a separate worker -- the screen no longer freezes while Vrumbi searches (before it froze for seconds and screen memory reached 430 MB; now 166 MB).",
-        "Vrumbi: the area index starts loading when the Vrumbi window opens; local results win over far ones with the same name; duplicates from two sources appear once; a new request is no longer mistaken for one of the previous options."
-      ],
-      "es": [
-        "Rendimiento: la búsqueda en los establecimientos (escuelas, comercios, empresas) salió del hilo de la pantalla a un proceso aparte -- la pantalla ya no se congela mientras Vrumbi busca (antes se congelaba por segundos y la memoria de la pantalla llegaba a 430 MB; ahora 166 MB).",
-        "Vrumbi: el índice de la zona empieza a cargar al abrir la ventana del Vrumbi; el resultado local gana sobre otros lejanos con el mismo nombre; un lugar repetido de dos fuentes aparece una sola vez; un pedido nuevo ya no se confunde con una de las opciones anteriores."
       ]
     }
   ]
