@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.237.0",
-  "codigo": 490,
+  "versao": "0.238.0",
+  "codigo": 491,
   "data": "18/11/2026",
-  "tamanho": 121179806,
-  "sha256": "066c7fadc583153714b7b17c35f0710046df36dce93f45a7d0fb1001506b10e3",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.237.0/Vrumbi-0.237.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.237.0/Vrumbi-relogio-0.237.0.apk",
+  "tamanho": 121197334,
+  "sha256": "d75072ac64f0fffbb70a0023129201f2d60bc18ce380da81d1df28fcadbf4969",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.238.0/Vrumbi-0.238.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.238.0/Vrumbi-relogio-0.238.0.apk",
   "notas": [
-    "Temperatura de agora mais certa: com um aeroporto a até 30 km (e altitude parecida), o Vrumbi usa a temperatura MEDIDA lá para o \"agora\" e corrige as 2 horas seguintes. Nos 7 dias medidos, o erro do agora caiu de 1,37° para 0,95°, e o da próxima hora de 1,38° para 1,02°. Vale no app, no widget e nos avisos."
+    "Clima: nova seção \"Coisas do ar\" nas próximas 12 horas, separada do ícone (que mostra o céu): ar seco nos níveis da Defesa Civil (atenção, alerta, emergência), calor pela sensação, abafado, frio e risco de geada, vento forte com a hora das rajadas, a janela de UV muito alto, a qualidade do ar (fumaça de queimada e poluição) e a poeira."
   ],
   "versoes": [
+    {
+      "versao": "0.238.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Clima: nova seção \"Coisas do ar\" nas próximas 12 horas, separada do ícone (que mostra o céu): ar seco nos níveis da Defesa Civil (atenção, alerta, emergência), calor pela sensação, abafado, frio e risco de geada, vento forte com a hora das rajadas, a janela de UV muito alto, a qualidade do ar (fumaça de queimada e poluição) e a poeira."
+      ],
+      "en": [
+        "Weather: new \"Things in the air\" section for the next 12 hours, separate from the icon (which shows the sky): dry air at Civil Defense levels (attention, alert, emergency), heat by feels-like, muggy, cold and frost risk, strong wind with the gust time, the very-high-UV window, air quality (wildfire smoke and pollution) and dust."
+      ],
+      "es": [
+        "Clima: nueva sección \"Cosas del aire\" para las próximas 12 horas, separada del ícono (que muestra el cielo): aire seco en los niveles de Defensa Civil (atención, alerta, emergencia), calor por sensación, bochorno, frío y riesgo de helada, viento fuerte con la hora de las ráfagas, la franja de UV muy alto, la calidad del aire (humo de incendios y contaminación) y el polvo."
+      ]
+    },
     {
       "versao": "0.237.0",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
         "Costo del viaje fuera de Brasil: el combustible usa el precio promedio oficial del país (los 27 de la Unión Europea, EE. UU. y Reino Unido, actualizado cada semana) y la cuenta sale en la moneda de allá (€, US$, £, zloty...). El viaje que cruza la frontera convierte con el cambio del Banco Central Europeo. En Brasil sigue la ANP, ahora siempre con la semana más reciente.",
         "Mapas sin conexión: los países con otra escritura (Japón, China, Corea, Rusia, mundo árabe, India, Tailandia...) se están rehaciendo con los nombres en el idioma de la app y en letras latinas, como el mapa en línea. Los paquetes nuevos llegan de a poco.",
         "Acerca de la app: las fuentes de los precios de combustibles y de los avisos oficiales del tiempo de cada país."
-      ]
-    },
-    {
-      "versao": "0.226.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Clima mais preciso (comparação com outro app no Parque Santana): o índice UV vinha de um modelo diferente do céu mostrado e caía para 3 com \"Sol entre nuvens\" às 14h. Agora o UV é o de céu limpo reduzido pelas nuvens de cada camada (baixas seguram muito, altas quase nada), e o véu de nuvens altas não vira mais \"Nublado\" com o sol aparecendo. Vale no app, no widget e nos avisos."
-      ],
-      "en": [
-        "More accurate weather (compared with another app): the UV index came from a different model than the sky shown and dropped to 3 with \"Partly cloudy\" at 2 pm. Now UV is the clear-sky value reduced by the clouds of each layer (low clouds block a lot, high ones almost nothing), and a veil of high clouds no longer shows as \"Cloudy\" while the sun is out. Applies to the app, the widget and alerts."
-      ],
-      "es": [
-        "Clima más preciso (comparación con otra app): el índice UV venía de un modelo distinto del cielo mostrado y bajaba a 3 con \"Sol entre nubes\" a las 14 h. Ahora el UV es el de cielo despejado reducido por las nubes de cada capa (las bajas frenan mucho, las altas casi nada), y el velo de nubes altas ya no aparece como \"Nublado\" con el sol afuera. Vale en la app, el widget y los avisos."
       ]
     }
   ]
