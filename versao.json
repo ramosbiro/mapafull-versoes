@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.239.0",
-  "codigo": 492,
+  "versao": "0.240.0",
+  "codigo": 493,
   "data": "18/11/2026",
-  "tamanho": 121198294,
-  "sha256": "bbccfd8081d1df9c1218d131b3d4edb86b509cd6e5782b841f41eda2fbd59abc",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.239.0/Vrumbi-0.239.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.239.0/Vrumbi-relogio-0.239.0.apk",
+  "tamanho": 121198618,
+  "sha256": "e32bcf25827e8a0a767905906eb221d9e2f9e04cec9555fe352d7baece93f78e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.240.0/Vrumbi-0.240.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.240.0/Vrumbi-relogio-0.240.0.apk",
   "notas": [
-    "Alertas: novo \"Radar fixo\" (em Fiscalização, no celular, no relógio e por voz: \"radar fixo\") para o radar que ainda não aparece no mapa. Ele fica valendo 30 dias e cada confirmação de outro motorista renova (até 1 ano); quem passar e não achar pode tirar. O aviso de alerta à frente fala \"Radar fixo\" na navegação."
+    "Mapa de longe: as rodovias principais de todos os países aparecem quando você afasta o zoom (antes só as do Brasil), com o número da estrada. Um download único de 23 MB, que substitui o de 19 MB só do Brasil."
   ],
   "versoes": [
+    {
+      "versao": "0.240.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Mapa de longe: as rodovias principais de todos os países aparecem quando você afasta o zoom (antes só as do Brasil), com o número da estrada. Um download único de 23 MB, que substitui o de 19 MB só do Brasil."
+      ],
+      "en": [
+        "Zoomed-out map: major highways of every country now show when you zoom out (before, only Brazil), with the road number. One 23 MB download, replacing the 19 MB Brazil-only one."
+      ],
+      "es": [
+        "Mapa de lejos: las rutas principales de todos los países aparecen al alejar el zoom (antes solo las de Brasil), con el número de la ruta. Una descarga única de 23 MB, que reemplaza la de 19 MB solo de Brasil."
+      ]
+    },
     {
       "versao": "0.239.0",
       "data": "18/11/2026",
@@ -155,19 +168,6 @@
       ],
       "es": [
         "Rutas en Europa: cuando el camino pasa por un país que cobra viñeta en la autopista (Austria, Suiza, Chequia, Eslovaquia, Eslovenia, Hungría, Rumanía, Bulgaria), la opción de ruta avisa \"viñeta obligatoria\" y \"Viñetas de esta ruta\" trae el sitio oficial de compra de cada país. En camión, el recordatorio de que por encima de 3,5 t se cobra por kilómetro."
-      ]
-    },
-    {
-      "versao": "0.228.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Custo da viagem: México entra na tabela de preços (mediana dos postos, CRE/CNE), em pesos mexicanos."
-      ],
-      "en": [
-        "Trip cost: Mexico joins the fuel price table (median of stations, CRE/CNE), in Mexican pesos."
-      ],
-      "es": [
-        "Costo del viaje: México entra en la tabla de precios (mediana de las estaciones, CRE/CNE), en pesos mexicanos."
       ]
     }
   ]
