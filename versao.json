@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.229.0",
-  "codigo": 481,
+  "versao": "0.230.0",
+  "codigo": 482,
   "data": "18/11/2026",
-  "tamanho": 121168026,
-  "sha256": "45ad715045f15cec29f748f3d27166689ad9697317bac3c600624fab161f4edd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.229.0/Vrumbi-0.229.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.229.0/Vrumbi-relogio-0.229.0.apk",
+  "tamanho": 121169902,
+  "sha256": "d067d1eb4673ddc69fca6069bd54b9fb749d0a405938c2bef583f140dbb9130e",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.230.0/Vrumbi-0.230.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.230.0/Vrumbi-relogio-0.230.0.apk",
   "notas": [
-    "Rotas na Europa: quando o caminho passa por país que cobra vinheta na autoestrada (Áustria, Suíça, Tchéquia, Eslováquia, Eslovênia, Hungria, Romênia, Bulgária), a opção de rota avisa \"vinheta obrigatória\" e \"Vinhetas desta rota\" traz o site oficial de compra de cada país. De caminhão, o lembrete de que acima de 3,5 t a cobrança é por quilômetro."
+    "Rodízio: Tianjin (China) entra -- dias úteis das 7h às 19h dentro do Anel Externo, dois finais por dia (a mesma rotação de Pequim neste trimestre), elétricos isentos. O aviso e o desvio funcionam como em São Paulo e Pequim."
   ],
   "versoes": [
+    {
+      "versao": "0.230.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Rodízio: Tianjin (China) entra -- dias úteis das 7h às 19h dentro do Anel Externo, dois finais por dia (a mesma rotação de Pequim neste trimestre), elétricos isentos. O aviso e o desvio funcionam como em São Paulo e Pequim."
+      ],
+      "en": [
+        "Plate restriction: Tianjin (China) added -- weekdays 7 am to 7 pm inside the Outer Ring, two plate endings per day (same rotation as Beijing this quarter), electric cars exempt. Alerts and detours work as in São Paulo and Beijing."
+      ],
+      "es": [
+        "Restricción por placa: entra Tianjin (China) -- días hábiles de 7 a 19 h dentro del Anillo Exterior, dos terminaciones por día (la misma rotación de Pekín este trimestre), eléctricos exentos. El aviso y el desvío funcionan como en São Paulo y Pekín."
+      ]
+    },
     {
       "versao": "0.229.0",
       "data": "18/11/2026",
@@ -158,19 +171,6 @@
       ],
       "es": [
         "Mapa: los nombres de calles, ciudades y lugares aparecen en el idioma de la app (antes siempre en portugués). Afuera, quien usa la app en español, inglés, portugués... ve los nombres en letras latinas (Tokio: \"Shinjuku\" en vez de 新宿; Moscú: \"Tverskaya\" en vez de Тверская), y la calle hablada en la navegación y la tarjeta de la dirección también."
-      ]
-    },
-    {
-      "versao": "0.218.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Alertas: avisos oficiais de tempo do Japão (Agência Meteorológica do Japão, o sistema novo de 2026), por município -- chuva, deslizamento, trovoada e tornado, vento, neve, neblina. E os avisos de fora reconhecem deslizamento, avalanche, ressaca e vento forte (antes \"Storm Warning\" virava chuva)."
-      ],
-      "en": [
-        "Alerts: official weather warnings for Japan (Japan Meteorological Agency, the new 2026 system), by municipality -- rain, landslide, thunderstorm and tornado, wind, snow, fog. Warnings abroad now recognize landslide, avalanche, storm surge and strong wind (before, \"Storm Warning\" became rain)."
-      ],
-      "es": [
-        "Alertas: avisos oficiales del tiempo de Japón (Agencia Meteorológica de Japón, el sistema nuevo de 2026), por municipio -- lluvia, deslizamiento, tormenta y tornado, viento, nieve, niebla. Los avisos de afuera reconocen deslizamiento, avalancha, marejada y viento fuerte (antes \"Storm Warning\" se volvía lluvia)."
       ]
     }
   ]
