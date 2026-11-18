@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.224.0",
-  "codigo": 476,
+  "versao": "0.225.0",
+  "codigo": 477,
   "data": "17/11/2026",
-  "tamanho": 121156981,
-  "sha256": "d3f2cb63124481fe3479b0d182364b2c087d07895ee8ec0e494d12612df344fb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.224.0/Vrumbi-0.224.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.224.0/Vrumbi-relogio-0.224.0.apk",
+  "tamanho": 121158229,
+  "sha256": "3ec52757ef7ef2a932f41163cb56cd429d6253a6f0c76f768353b2adda17b53c",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.225.0/Vrumbi-0.225.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.225.0/Vrumbi-relogio-0.225.0.apk",
   "notas": [
-    "Alertas: avisos oficiais de tempo de Portugal (IPMA, por distrito, e nas zonas da Madeira e dos Açores: chuva, vento, trovoada, neve, agitação marítima, calor e frio) e da Polônia (IMGW, por powiat: vento, chuva, neve, gelo, neblina, calor)."
+    "Notícias fora do Brasil: as manchetes da cidade vêm da edição de notícias do país e no idioma de lá (Porto: jornais de Portugal, não mais Porto Alegre e Porto Velho; Tóquio: jornais japoneses; Nova Zelândia: RNZ, NZ Herald). País sem edição própria: em inglês, com o nome do país na busca."
   ],
   "versoes": [
+    {
+      "versao": "0.225.0",
+      "data": "17/11/2026",
+      "itens": [
+        "Notícias fora do Brasil: as manchetes da cidade vêm da edição de notícias do país e no idioma de lá (Porto: jornais de Portugal, não mais Porto Alegre e Porto Velho; Tóquio: jornais japoneses; Nova Zelândia: RNZ, NZ Herald). País sem edição própria: em inglês, com o nome do país na busca."
+      ],
+      "en": [
+        "News outside Brazil: city headlines come from the country news edition, in the local language (Porto: Portuguese papers, no longer Porto Alegre and Porto Velho in Brazil; Tokyo: Japanese papers; New Zealand: RNZ, NZ Herald). Countries without their own edition: in English, with the country name in the search."
+      ],
+      "es": [
+        "Noticias fuera de Brasil: los titulares de la ciudad vienen de la edición de noticias del país y en su idioma (Oporto: diarios de Portugal, ya no Porto Alegre y Porto Velho de Brasil; Tokio: diarios japoneses; Nueva Zelanda: RNZ, NZ Herald). País sin edición propia: en inglés, con el nombre del país en la búsqueda."
+      ]
+    },
     {
       "versao": "0.224.0",
       "data": "17/11/2026",
@@ -158,19 +171,6 @@
       "es": [
         "Rendimiento: la búsqueda en los establecimientos (escuelas, comercios, empresas) salió del hilo de la pantalla a un proceso aparte -- la pantalla ya no se congela mientras Vrumbi busca (antes se congelaba por segundos y la memoria de la pantalla llegaba a 430 MB; ahora 166 MB).",
         "Vrumbi: el índice de la zona empieza a cargar al abrir la ventana del Vrumbi; el resultado local gana sobre otros lejanos con el mismo nombre; un lugar repetido de dos fuentes aparece una sola vez; un pedido nuevo ya no se confunde con una de las opciones anteriores."
-      ]
-    },
-    {
-      "versao": "0.213.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Vrumbi mais rápido: \"me leva para o Ibirapuera\" logo depois de abrir o app levava mais de um minuto (o índice de estabelecimentos carregando antes de responder) -- agora ~2 segundos; o índice termina de carregar por trás."
-      ],
-      "en": [
-        "Faster Vrumbi: \"take me to Ibirapuera\" right after opening the app took over a minute (the places index loading before answering) -- now ~2 seconds; the index finishes loading in the background."
-      ],
-      "es": [
-        "Vrumbi más rápido: \"llévame al Ibirapuera\" justo al abrir la app tardaba más de un minuto (el índice de lugares cargando antes de responder) -- ahora ~2 segundos; el índice termina de cargar por detrás."
       ]
     }
   ]
