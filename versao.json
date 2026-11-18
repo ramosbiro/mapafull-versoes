@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.241.0",
-  "codigo": 494,
+  "versao": "0.242.0",
+  "codigo": 495,
   "data": "18/11/2026",
-  "tamanho": 121201790,
-  "sha256": "38226d5a16f85b1433f1ea95257874d1f71eab1ef466ec7e5171ef5c664ddc57",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.241.0/Vrumbi-0.241.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.241.0/Vrumbi-relogio-0.241.0.apk",
+  "tamanho": 121217042,
+  "sha256": "1e8bcf7af4b05ce8c7a2dac8a5e56bb957c28d709bf5079c2754d4f0cc309d16",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.242.0/Vrumbi-0.242.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.242.0/Vrumbi-relogio-0.242.0.apk",
   "notas": [
-    "Saúde: novo resumo \"Esta semana × semana anterior\" -- passos, sono, pontuação do sono, batimentos em repouso, variabilidade cardíaca, peso, água e energia, com a média dos últimos 7 dias, a da semana anterior, a diferença em % e a seta verde quando a mudança é boa para a saúde."
+    "Radares: entram os 1.104 radares das rodovias federais concedidas, da lista oficial da ANTT (com rodovia, km e velocidade) -- a base passa de 75 mil pontos no mundo."
   ],
   "versoes": [
+    {
+      "versao": "0.242.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Radares: entram os 1.104 radares das rodovias federais concedidas, da lista oficial da ANTT (com rodovia, km e velocidade) -- a base passa de 75 mil pontos no mundo."
+      ],
+      "en": [
+        "Speed cameras: the 1,104 cameras on Brazil's conceded federal highways from the official ANTT list (with highway, km and speed) are in -- the base now has over 75 thousand points worldwide."
+      ],
+      "es": [
+        "Radares: entran los 1.104 radares de las rutas federales concesionadas de Brasil, de la lista oficial de la ANTT (con ruta, km y velocidad) -- la base supera los 75 mil puntos en el mundo."
+      ]
+    },
     {
       "versao": "0.241.0",
       "data": "18/11/2026",
@@ -155,19 +168,6 @@
       "es": [
         "Restricción por placa: entra San José (Costa Rica) -- días hábiles de 6 a 19 h dentro de la Circunvalación, dos terminaciones por día, eléctricos exentos, con aviso y desvío.",
         "Costo del viaje: Japón entra en la tabla de precios de combustibles (promedio nacional semanal del gobierno), en yenes."
-      ]
-    },
-    {
-      "versao": "0.230.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Rodízio: Tianjin (China) entra -- dias úteis das 7h às 19h dentro do Anel Externo, dois finais por dia (a mesma rotação de Pequim neste trimestre), elétricos isentos. O aviso e o desvio funcionam como em São Paulo e Pequim."
-      ],
-      "en": [
-        "Plate restriction: Tianjin (China) added -- weekdays 7 am to 7 pm inside the Outer Ring, two plate endings per day (same rotation as Beijing this quarter), electric cars exempt. Alerts and detours work as in São Paulo and Beijing."
-      ],
-      "es": [
-        "Restricción por placa: entra Tianjin (China) -- días hábiles de 7 a 19 h dentro del Anillo Exterior, dos terminaciones por día (la misma rotación de Pekín este trimestre), eléctricos exentos. El aviso y el desvío funcionan como en São Paulo y Pekín."
       ]
     }
   ]
