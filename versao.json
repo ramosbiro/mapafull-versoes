@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.240.0",
-  "codigo": 493,
+  "versao": "0.241.0",
+  "codigo": 494,
   "data": "18/11/2026",
-  "tamanho": 121198618,
-  "sha256": "e32bcf25827e8a0a767905906eb221d9e2f9e04cec9555fe352d7baece93f78e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.240.0/Vrumbi-0.240.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.240.0/Vrumbi-relogio-0.240.0.apk",
+  "tamanho": 121201790,
+  "sha256": "38226d5a16f85b1433f1ea95257874d1f71eab1ef466ec7e5171ef5c664ddc57",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.241.0/Vrumbi-0.241.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.241.0/Vrumbi-relogio-0.241.0.apk",
   "notas": [
-    "Mapa de longe: as rodovias principais de todos os países aparecem quando você afasta o zoom (antes só as do Brasil), com o número da estrada. Um download único de 23 MB, que substitui o de 19 MB só do Brasil."
+    "Saúde: novo resumo \"Esta semana × semana anterior\" -- passos, sono, pontuação do sono, batimentos em repouso, variabilidade cardíaca, peso, água e energia, com a média dos últimos 7 dias, a da semana anterior, a diferença em % e a seta verde quando a mudança é boa para a saúde."
   ],
   "versoes": [
+    {
+      "versao": "0.241.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Saúde: novo resumo \"Esta semana × semana anterior\" -- passos, sono, pontuação do sono, batimentos em repouso, variabilidade cardíaca, peso, água e energia, com a média dos últimos 7 dias, a da semana anterior, a diferença em % e a seta verde quando a mudança é boa para a saúde."
+      ],
+      "en": [
+        "Health: new \"This week × last week\" summary -- steps, sleep, sleep score, resting heart rate, heart rate variability, weight, water and energy, with the last 7 days average, last week's, the % difference and a green arrow when the change is good for your health."
+      ],
+      "es": [
+        "Salud: nuevo resumen \"Esta semana × semana anterior\" -- pasos, sueño, puntuación del sueño, pulso en reposo, variabilidad cardíaca, peso, agua y energía, con el promedio de los últimos 7 días, el de la semana anterior, la diferencia en % y la flecha verde cuando el cambio es bueno para la salud."
+      ]
+    },
     {
       "versao": "0.240.0",
       "data": "18/11/2026",
@@ -155,19 +168,6 @@
       ],
       "es": [
         "Restricción por placa: entra Tianjin (China) -- días hábiles de 7 a 19 h dentro del Anillo Exterior, dos terminaciones por día (la misma rotación de Pekín este trimestre), eléctricos exentos. El aviso y el desvío funcionan como en São Paulo y Pekín."
-      ]
-    },
-    {
-      "versao": "0.229.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Rotas na Europa: quando o caminho passa por país que cobra vinheta na autoestrada (Áustria, Suíça, Tchéquia, Eslováquia, Eslovênia, Hungria, Romênia, Bulgária), a opção de rota avisa \"vinheta obrigatória\" e \"Vinhetas desta rota\" traz o site oficial de compra de cada país. De caminhão, o lembrete de que acima de 3,5 t a cobrança é por quilômetro."
-      ],
-      "en": [
-        "Routes in Europe: when the way goes through a country that charges a motorway vignette (Austria, Switzerland, Czechia, Slovakia, Slovenia, Hungary, Romania, Bulgaria), the route option says \"vignette required\" and \"Vignettes on this route\" lists the official purchase site of each country. By truck, a reminder that above 3.5 t the toll is per kilometre."
-      ],
-      "es": [
-        "Rutas en Europa: cuando el camino pasa por un país que cobra viñeta en la autopista (Austria, Suiza, Chequia, Eslovaquia, Eslovenia, Hungría, Rumanía, Bulgaria), la opción de ruta avisa \"viñeta obligatoria\" y \"Viñetas de esta ruta\" trae el sitio oficial de compra de cada país. En camión, el recordatorio de que por encima de 3,5 t se cobra por kilómetro."
       ]
     }
   ]
