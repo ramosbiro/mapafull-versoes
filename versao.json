@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.231.0",
-  "codigo": 483,
+  "versao": "0.232.0",
+  "codigo": 484,
   "data": "18/11/2026",
-  "tamanho": 121170982,
-  "sha256": "53e0bfc00026a7b808f763c95dad6d52f516f78d7bb2598d142731d060b336cb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.231.0/Vrumbi-0.231.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.231.0/Vrumbi-relogio-0.231.0.apk",
+  "tamanho": 121172462,
+  "sha256": "d1b39633e3fb61c8991ced5a194da6e7efe73d528a3cde16e4aa8fe8708b7bb5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.232.0/Vrumbi-0.232.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.232.0/Vrumbi-relogio-0.232.0.apk",
   "notas": [
-    "Rodízio: San José (Costa Rica) entra -- dias úteis das 6h às 19h dentro da Circunvalação, dois finais por dia, elétricos isentos, com aviso e desvio.",
-    "Custo da viagem: Japão entra na tabela de preços dos combustíveis (média nacional semanal do governo), em ienes."
+    "Rodízio: quando a escala do trimestre de Pequim ou Tianjin terminar e a nova ainda não estiver no app, a ficha do veículo avisa \"a escala nova ainda não chegou ao app; confira o aviso oficial\" -- antes a regra sumia e parecia que não havia rodízio."
   ],
   "versoes": [
+    {
+      "versao": "0.232.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Rodízio: quando a escala do trimestre de Pequim ou Tianjin terminar e a nova ainda não estiver no app, a ficha do veículo avisa \"a escala nova ainda não chegou ao app; confira o aviso oficial\" -- antes a regra sumia e parecia que não havia rodízio."
+      ],
+      "en": [
+        "Plate restriction: when the quarterly schedule of Beijing or Tianjin ends and the new one is not in the app yet, the vehicle card says so and asks you to check the official notice -- before, the rule disappeared and it looked like there was no restriction."
+      ],
+      "es": [
+        "Restricción por placa: cuando termine el calendario trimestral de Pekín o Tianjin y el nuevo aún no esté en la app, la ficha del vehículo lo avisa y pide revisar el aviso oficial -- antes la regla desaparecía y parecía que no había restricción."
+      ]
+    },
     {
       "versao": "0.231.0",
       "data": "18/11/2026",
@@ -162,19 +174,6 @@
       ],
       "es": [
         "Entreno automático: ya no espera 10 minutos ni pregunta. Empiezas a caminar, correr o pedalear y Vrumbi graba desde el primer paso, revisando en el primer minuto con el acelerómetro, los pasos y las señales del coche. Quieto o en el coche, se borra sin avisar (nada de \"pedaleando\" sentado en el coche). La cadencia distingue caminata, carrera o bici. Abrir la app enciende el GPS; 3 minutos quieto lo terminan y el entreno entra en el historial (desde 5 minutos). La notificación tiene Descartar."
-      ]
-    },
-    {
-      "versao": "0.220.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Treino: a detecção automática não confunde mais o carro com bicicleta. Dentro do carro (ou logo depois de sair dele), com o celular no Bluetooth do carro, no Android Auto ou navegando no Vrumbi, o aviso \"Parece que você está pedalando\" não aparece. E o aviso ganhou o botão \"Estou de carro\", que silencia a detecção por 3 horas."
-      ],
-      "en": [
-        "Workout: automatic detection no longer mistakes the car for a bike. Inside the car (or right after leaving it), with the phone on the car Bluetooth, on Android Auto or navigating with Vrumbi, the \"Looks like you are cycling\" notice does not show. And the notice got an \"I'm in a car\" button that mutes detection for 3 hours."
-      ],
-      "es": [
-        "Entrenamiento: la detección automática ya no confunde el coche con una bicicleta. Dentro del coche (o justo al salir), con el celular en el Bluetooth del coche, en Android Auto o navegando con Vrumbi, el aviso \"Parece que estás pedaleando\" no aparece. Y el aviso ganó el botón \"Voy en coche\", que silencia la detección por 3 horas."
       ]
     }
   ]
