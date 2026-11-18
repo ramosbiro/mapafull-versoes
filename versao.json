@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.235.0",
-  "codigo": 488,
+  "versao": "0.236.0",
+  "codigo": 489,
   "data": "18/11/2026",
-  "tamanho": 121177838,
-  "sha256": "1de3f0d715eab3a8dcc7ae4aa32cc0b71f10b4b32991938efe1ed54dd03b91aa",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.235.0/Vrumbi-0.235.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.235.0/Vrumbi-relogio-0.235.0.apk",
+  "tamanho": 121179054,
+  "sha256": "35b43202c9be394079f871c3c52551134889ceb9d7ee91a2a3f9893b58e7d238",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.236.0/Vrumbi-0.236.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.236.0/Vrumbi-relogio-0.236.0.apk",
   "notas": [
-    "Clima de hora em hora: com aviso oficial de tempestade (INMET e os serviços dos outros países) valendo para o lugar e chance de chuva de 60% ou mais, a hora mostra \"Possibilidade de tempestade\". Na comparação de 18/11 em Mogi, a tempestade de 20 a 27 mm chegou às 14h30 com o aviso do INMET ativo, e o Vrumbi ainda mostrava \"Garoa\" às 15h."
+    "Temperatura mais precisa: medimos 7 dias em 11 aeroportos do Brasil (cerca de 1.000 horas) e a previsão que o Vrumbi usava saía, em média, 1,1° mais fria de dia. Agora a temperatura, a sensação térmica e as máximas e mínimas são a média de 6 modelos meteorológicos (europeu, americano, alemão, canadense, francês e britânico): o erro médio caiu de 1,57° para 1,28° de dia e de 1,18° para 0,97° à noite, melhor em 10 dos 11 aeroportos. Vale no app, no widget e nos avisos, e o servidor segue medindo todo dia."
   ],
   "versoes": [
+    {
+      "versao": "0.236.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Temperatura mais precisa: medimos 7 dias em 11 aeroportos do Brasil (cerca de 1.000 horas) e a previsão que o Vrumbi usava saía, em média, 1,1° mais fria de dia. Agora a temperatura, a sensação térmica e as máximas e mínimas são a média de 6 modelos meteorológicos (europeu, americano, alemão, canadense, francês e britânico): o erro médio caiu de 1,57° para 1,28° de dia e de 1,18° para 0,97° à noite, melhor em 10 dos 11 aeroportos. Vale no app, no widget e nos avisos, e o servidor segue medindo todo dia."
+      ],
+      "en": [
+        "More accurate temperature: we measured 7 days at 11 airports in Brazil (about 1,000 hours) and the forecast Vrumbi used ran on average 1.1° too cold during the day. Now temperature, feels-like and highs/lows are the average of 6 weather models (European, American, German, Canadian, French and British): the average error dropped from 1.57° to 1.28° by day and from 1.18° to 0.97° at night, better at 10 of 11 airports. Applies to the app, the widget and alerts, and the server keeps measuring every day."
+      ],
+      "es": [
+        "Temperatura más precisa: medimos 7 días en 11 aeropuertos de Brasil (unas 1.000 horas) y el pronóstico que usaba Vrumbi salía, en promedio, 1,1° más frío de día. Ahora la temperatura, la sensación térmica y las máximas y mínimas son el promedio de 6 modelos meteorológicos (europeo, estadounidense, alemán, canadiense, francés y británico): el error medio bajó de 1,57° a 1,28° de día y de 1,18° a 0,97° de noche, mejor en 10 de los 11 aeropuertos. Vale en la app, el widget y los avisos, y el servidor sigue midiendo todos los días."
+      ]
+    },
     {
       "versao": "0.235.0",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Noticias fuera de Brasil: los titulares de la ciudad vienen de la edición de noticias del país y en su idioma (Oporto: diarios de Portugal, ya no Porto Alegre y Porto Velho de Brasil; Tokio: diarios japoneses; Nueva Zelanda: RNZ, NZ Herald). País sin edición propia: en inglés, con el nombre del país en la búsqueda."
-      ]
-    },
-    {
-      "versao": "0.224.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Alertas: avisos oficiais de tempo de Portugal (IPMA, por distrito, e nas zonas da Madeira e dos Açores: chuva, vento, trovoada, neve, agitação marítima, calor e frio) e da Polônia (IMGW, por powiat: vento, chuva, neve, gelo, neblina, calor)."
-      ],
-      "en": [
-        "Alerts: official weather warnings for Portugal (IPMA, by district, plus the Madeira and Azores zones: rain, wind, thunderstorm, snow, rough sea, heat and cold) and Poland (IMGW, by county: wind, rain, snow, ice, fog, heat)."
-      ],
-      "es": [
-        "Alertas: avisos oficiales del tiempo de Portugal (IPMA, por distrito, y en las zonas de Madeira y Azores: lluvia, viento, tormenta, nieve, mar agitado, calor y frío) y de Polonia (IMGW, por powiat: viento, lluvia, nieve, hielo, niebla, calor)."
       ]
     }
   ]
