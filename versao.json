@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.234.0",
-  "codigo": 487,
+  "versao": "0.235.0",
+  "codigo": 488,
   "data": "18/11/2026",
-  "tamanho": 121177246,
-  "sha256": "7904a3f74a73b5451eefcd332798b62d53e2c0fb5a29bb1c17d911f0bf9b11f7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.234.0/Vrumbi-0.234.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.234.0/Vrumbi-relogio-0.234.0.apk",
+  "tamanho": 121177838,
+  "sha256": "1de3f0d715eab3a8dcc7ae4aa32cc0b71f10b4b32991938efe1ed54dd03b91aa",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.235.0/Vrumbi-0.235.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.235.0/Vrumbi-relogio-0.235.0.apk",
   "notas": [
-    "Microfone da busca e comandos de voz consertados: com o \"Ei, Vrumbi\" ligado, o app segurava o microfone e o reconhecimento de voz do Google recebia silêncio ou \"ocupado\" -- \"Não consegui ouvir\" e nada no campo. Agora o \"Ei, Vrumbi\" solta o microfone enquanto você fala o endereço (e volta depois), o assistente espera o microfone ficar livre antes de ouvir, e se o Android disser \"ocupado\" o Vrumbi tenta de novo sozinho. Se não ouvir nada, ele avisa."
+    "Clima de hora em hora: com aviso oficial de tempestade (INMET e os serviços dos outros países) valendo para o lugar e chance de chuva de 60% ou mais, a hora mostra \"Possibilidade de tempestade\". Na comparação de 18/11 em Mogi, a tempestade de 20 a 27 mm chegou às 14h30 com o aviso do INMET ativo, e o Vrumbi ainda mostrava \"Garoa\" às 15h."
   ],
   "versoes": [
+    {
+      "versao": "0.235.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Clima de hora em hora: com aviso oficial de tempestade (INMET e os serviços dos outros países) valendo para o lugar e chance de chuva de 60% ou mais, a hora mostra \"Possibilidade de tempestade\". Na comparação de 18/11 em Mogi, a tempestade de 20 a 27 mm chegou às 14h30 com o aviso do INMET ativo, e o Vrumbi ainda mostrava \"Garoa\" às 15h."
+      ],
+      "en": [
+        "Hourly weather: with an official storm warning (INMET and the other countries' services) valid for the place and a 60%+ chance of rain, the hour shows \"Possible thunderstorm\". In the 18/11 comparison in Mogi, the 20-27 mm storm arrived at 2:30 pm with the INMET warning active, and Vrumbi still showed \"Drizzle\" at 3 pm."
+      ],
+      "es": [
+        "Clima hora por hora: con aviso oficial de tormenta (INMET y los servicios de los otros países) vigente para el lugar y probabilidad de lluvia de 60% o más, la hora muestra \"Posibilidad de tormenta\". En la comparación del 18/11 en Mogi, la tormenta de 20 a 27 mm llegó a las 14:30 con el aviso del INMET activo, y Vrumbi todavía mostraba \"Llovizna\" a las 15 h."
+      ]
+    },
     {
       "versao": "0.234.0",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Alertas: avisos oficiales del tiempo de Portugal (IPMA, por distrito, y en las zonas de Madeira y Azores: lluvia, viento, tormenta, nieve, mar agitado, calor y frío) y de Polonia (IMGW, por powiat: viento, lluvia, nieve, hielo, niebla, calor)."
-      ]
-    },
-    {
-      "versao": "0.223.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Alertas: avisos oficiais de tempo da Nova Zelândia (MetService), das Filipinas (PAGASA: chuva, inundação, ciclone) e de Hong Kong (Observatório: sinais de tufão, temporal, trovoada, deslizamento, calor), por local."
-      ],
-      "en": [
-        "Alerts: official weather warnings for New Zealand (MetService), the Philippines (PAGASA: rain, flood, cyclone) and Hong Kong (Observatory: typhoon signals, rainstorm, thunderstorm, landslip, heat), by location."
-      ],
-      "es": [
-        "Alertas: avisos oficiales del tiempo de Nueva Zelanda (MetService), Filipinas (PAGASA: lluvia, inundación, ciclón) y Hong Kong (Observatorio: señales de tifón, tormenta, tormenta eléctrica, deslizamiento, calor), por lugar."
       ]
     }
   ]
