@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.238.0",
-  "codigo": 491,
+  "versao": "0.239.0",
+  "codigo": 492,
   "data": "18/11/2026",
-  "tamanho": 121197334,
-  "sha256": "d75072ac64f0fffbb70a0023129201f2d60bc18ce380da81d1df28fcadbf4969",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.238.0/Vrumbi-0.238.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.238.0/Vrumbi-relogio-0.238.0.apk",
+  "tamanho": 121198294,
+  "sha256": "bbccfd8081d1df9c1218d131b3d4edb86b509cd6e5782b841f41eda2fbd59abc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.239.0/Vrumbi-0.239.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.239.0/Vrumbi-relogio-0.239.0.apk",
   "notas": [
-    "Clima: nova seção \"Coisas do ar\" nas próximas 12 horas, separada do ícone (que mostra o céu): ar seco nos níveis da Defesa Civil (atenção, alerta, emergência), calor pela sensação, abafado, frio e risco de geada, vento forte com a hora das rajadas, a janela de UV muito alto, a qualidade do ar (fumaça de queimada e poluição) e a poeira."
+    "Alertas: novo \"Radar fixo\" (em Fiscalização, no celular, no relógio e por voz: \"radar fixo\") para o radar que ainda não aparece no mapa. Ele fica valendo 30 dias e cada confirmação de outro motorista renova (até 1 ano); quem passar e não achar pode tirar. O aviso de alerta à frente fala \"Radar fixo\" na navegação."
   ],
   "versoes": [
+    {
+      "versao": "0.239.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Alertas: novo \"Radar fixo\" (em Fiscalização, no celular, no relógio e por voz: \"radar fixo\") para o radar que ainda não aparece no mapa. Ele fica valendo 30 dias e cada confirmação de outro motorista renova (até 1 ano); quem passar e não achar pode tirar. O aviso de alerta à frente fala \"Radar fixo\" na navegação."
+      ],
+      "en": [
+        "Alerts: new \"Fixed speed camera\" (under Enforcement, on the phone, the watch and by voice) for cameras not yet on the map. It lasts 30 days and every confirmation by another driver renews it (up to 1 year); anyone who drives by and does not find it can remove it. The alert-ahead warning says \"Fixed camera\" during navigation."
+      ],
+      "es": [
+        "Alertas: nuevo \"Radar fijo\" (en Fiscalización, en el celular, el reloj y por voz) para el radar que aún no aparece en el mapa. Vale 30 días y cada confirmación de otro conductor lo renueva (hasta 1 año); quien pase y no lo encuentre puede quitarlo. El aviso de alerta adelante dice \"Radar fijo\" en la navegación."
+      ]
+    },
     {
       "versao": "0.238.0",
       "data": "18/11/2026",
@@ -155,25 +168,6 @@
       ],
       "es": [
         "Costo del viaje: México entra en la tabla de precios (mediana de las estaciones, CRE/CNE), en pesos mexicanos."
-      ]
-    },
-    {
-      "versao": "0.227.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Custo da viagem fora do Brasil: o combustível usa o preço médio oficial do país (os 27 da União Europeia, EUA e Reino Unido, atualizado toda semana) e a conta sai na moeda de lá (€, US$, £, zloty...). Viagem que cruza a fronteira converte pelo câmbio do Banco Central Europeu. No Brasil continua a ANP, agora sempre com a semana mais nova.",
-        "Mapas offline: os países de outra escrita (Japão, China, Coreia, Rússia, mundo árabe, Índia, Tailândia...) estão sendo refeitos com os nomes no idioma do app e em letras latinas, como no mapa online. Os pacotes novos chegam aos poucos.",
-        "Sobre o app: as fontes dos preços dos combustíveis e dos avisos oficiais de tempo de cada país."
-      ],
-      "en": [
-        "Trip cost outside Brazil: fuel uses the official national average price (the 27 EU countries, the US and the UK, updated weekly) and the total shows in the local currency (€, US$, £, zloty...). Cross-border trips convert with European Central Bank rates. In Brazil it is still ANP, now always with the latest week.",
-        "Offline maps: countries with other scripts (Japan, China, Korea, Russia, the Arab world, India, Thailand...) are being rebuilt with names in the app language and in Latin letters, like the online map. New packs arrive gradually.",
-        "About: the sources of fuel prices and official weather warnings for each country."
-      ],
-      "es": [
-        "Costo del viaje fuera de Brasil: el combustible usa el precio promedio oficial del país (los 27 de la Unión Europea, EE. UU. y Reino Unido, actualizado cada semana) y la cuenta sale en la moneda de allá (€, US$, £, zloty...). El viaje que cruza la frontera convierte con el cambio del Banco Central Europeo. En Brasil sigue la ANP, ahora siempre con la semana más reciente.",
-        "Mapas sin conexión: los países con otra escritura (Japón, China, Corea, Rusia, mundo árabe, India, Tailandia...) se están rehaciendo con los nombres en el idioma de la app y en letras latinas, como el mapa en línea. Los paquetes nuevos llegan de a poco.",
-        "Acerca de la app: las fuentes de los precios de combustibles y de los avisos oficiales del tiempo de cada país."
       ]
     }
   ]
