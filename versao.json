@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.233.1",
-  "codigo": 486,
+  "versao": "0.234.0",
+  "codigo": 487,
   "data": "18/11/2026",
-  "tamanho": 121173898,
-  "sha256": "e6f7af2fff3a8cd0f7144b93414d76cfd842b58c494d767c1b0f79ed8e9f8cf0",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.1/Vrumbi-0.233.1.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.1/Vrumbi-relogio-0.233.1.apk",
+  "tamanho": 121177246,
+  "sha256": "7904a3f74a73b5451eefcd332798b62d53e2c0fb5a29bb1c17d911f0bf9b11f7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.234.0/Vrumbi-0.234.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.234.0/Vrumbi-relogio-0.234.0.apk",
   "notas": [
-    "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
+    "Microfone da busca e comandos de voz consertados: com o \"Ei, Vrumbi\" ligado, o app segurava o microfone e o reconhecimento de voz do Google recebia silêncio ou \"ocupado\" -- \"Não consegui ouvir\" e nada no campo. Agora o \"Ei, Vrumbi\" solta o microfone enquanto você fala o endereço (e volta depois), o assistente espera o microfone ficar livre antes de ouvir, e se o Android disser \"ocupado\" o Vrumbi tenta de novo sozinho. Se não ouvir nada, ele avisa."
   ],
   "versoes": [
+    {
+      "versao": "0.234.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Microfone da busca e comandos de voz consertados: com o \"Ei, Vrumbi\" ligado, o app segurava o microfone e o reconhecimento de voz do Google recebia silêncio ou \"ocupado\" -- \"Não consegui ouvir\" e nada no campo. Agora o \"Ei, Vrumbi\" solta o microfone enquanto você fala o endereço (e volta depois), o assistente espera o microfone ficar livre antes de ouvir, e se o Android disser \"ocupado\" o Vrumbi tenta de novo sozinho. Se não ouvir nada, ele avisa."
+      ],
+      "en": [
+        "Search microphone and voice commands fixed: with \"Hey, Vrumbi\" on, the app held the microphone and Google speech recognition got silence or \"busy\" -- \"I could not hear you\" and nothing in the field. Now \"Hey, Vrumbi\" releases the microphone while you say the address (and comes back after), the assistant waits for the microphone to be free before listening, and if Android says \"busy\" Vrumbi retries on its own. If it hears nothing, it tells you."
+      ],
+      "es": [
+        "Micrófono de la búsqueda y comandos de voz arreglados: con \"Oye, Vrumbi\" activado, la app retenía el micrófono y el reconocimiento de voz de Google recibía silencio u \"ocupado\" -- \"No pude oír\" y nada en el campo. Ahora \"Oye, Vrumbi\" suelta el micrófono mientras dices la dirección (y vuelve después), el asistente espera a que el micrófono esté libre antes de escuchar y, si Android dice \"ocupado\", Vrumbi lo intenta de nuevo solo. Si no oye nada, te avisa."
+      ]
+    },
     {
       "versao": "0.233.1",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Alertas: avisos oficiales del tiempo de Nueva Zelanda (MetService), Filipinas (PAGASA: lluvia, inundación, ciclón) y Hong Kong (Observatorio: señales de tifón, tormenta, tormenta eléctrica, deslizamiento, calor), por lugar."
-      ]
-    },
-    {
-      "versao": "0.222.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Busca fora do Brasil: endereço com número e código postal aparecem em \"Endereços\" (antes caíam no meio dos estabelecimentos), e todo resultado mostra o código postal e, se for em outro país, o nome do país. Dá para digitar o código postal de qualquer país (SW1A 1AA, 75001, 160-0022, 10118). Com o app em inglês, alemão ou francês, os nomes da busca vêm nesse idioma; nos outros, em letras latinas quando o lugar usa outra escrita."
-      ],
-      "en": [
-        "Search outside Brazil: addresses with a house number and postal codes show under \"Addresses\" (before they were mixed with businesses), and every result shows the postal code and, when in another country, the country name. You can type the postal code of any country (SW1A 1AA, 75001, 160-0022, 10118). With the app in English, German or French, search names come in that language; in the others, in Latin letters where the place uses another script."
-      ],
-      "es": [
-        "Búsqueda fuera de Brasil: las direcciones con número y los códigos postales aparecen en \"Direcciones\" (antes se mezclaban con los comercios), y cada resultado muestra el código postal y, si es en otro país, el nombre del país. Se puede escribir el código postal de cualquier país (SW1A 1AA, 75001, 160-0022, 10118). Con la app en inglés, alemán o francés, los nombres de la búsqueda vienen en ese idioma; en los demás, en letras latinas cuando el lugar usa otra escritura."
       ]
     }
   ]
