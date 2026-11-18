@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.230.0",
-  "codigo": 482,
+  "versao": "0.231.0",
+  "codigo": 483,
   "data": "18/11/2026",
-  "tamanho": 121169902,
-  "sha256": "d067d1eb4673ddc69fca6069bd54b9fb749d0a405938c2bef583f140dbb9130e",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.230.0/Vrumbi-0.230.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.230.0/Vrumbi-relogio-0.230.0.apk",
+  "tamanho": 121170982,
+  "sha256": "53e0bfc00026a7b808f763c95dad6d52f516f78d7bb2598d142731d060b336cb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.231.0/Vrumbi-0.231.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.231.0/Vrumbi-relogio-0.231.0.apk",
   "notas": [
-    "Rodízio: Tianjin (China) entra -- dias úteis das 7h às 19h dentro do Anel Externo, dois finais por dia (a mesma rotação de Pequim neste trimestre), elétricos isentos. O aviso e o desvio funcionam como em São Paulo e Pequim."
+    "Rodízio: San José (Costa Rica) entra -- dias úteis das 6h às 19h dentro da Circunvalação, dois finais por dia, elétricos isentos, com aviso e desvio.",
+    "Custo da viagem: Japão entra na tabela de preços dos combustíveis (média nacional semanal do governo), em ienes."
   ],
   "versoes": [
+    {
+      "versao": "0.231.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Rodízio: San José (Costa Rica) entra -- dias úteis das 6h às 19h dentro da Circunvalação, dois finais por dia, elétricos isentos, com aviso e desvio.",
+        "Custo da viagem: Japão entra na tabela de preços dos combustíveis (média nacional semanal do governo), em ienes."
+      ],
+      "en": [
+        "Plate restriction: San José (Costa Rica) added -- weekdays 6 am to 7 pm inside the Circunvalación ring, two plate endings per day, electric cars exempt, with alert and detour.",
+        "Trip cost: Japan joins the fuel price table (government weekly national average), in yen."
+      ],
+      "es": [
+        "Restricción por placa: entra San José (Costa Rica) -- días hábiles de 6 a 19 h dentro de la Circunvalación, dos terminaciones por día, eléctricos exentos, con aviso y desvío.",
+        "Costo del viaje: Japón entra en la tabla de precios de combustibles (promedio nacional semanal del gobierno), en yenes."
+      ]
+    },
     {
       "versao": "0.230.0",
       "data": "18/11/2026",
@@ -158,19 +175,6 @@
       ],
       "es": [
         "Entrenamiento: la detección automática ya no confunde el coche con una bicicleta. Dentro del coche (o justo al salir), con el celular en el Bluetooth del coche, en Android Auto o navegando con Vrumbi, el aviso \"Parece que estás pedaleando\" no aparece. Y el aviso ganó el botón \"Voy en coche\", que silencia la detección por 3 horas."
-      ]
-    },
-    {
-      "versao": "0.219.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Mapa: os nomes das ruas, cidades e lugares aparecem no idioma do app (antes sempre em português). Fora do Brasil, quem usa o app em português, inglês, espanhol... vê os nomes em letras latinas (Tóquio: \"Shinjuku\" em vez de 新宿; Moscou: \"Tverskaya\" em vez de Тверская), e a rua falada na navegação e o cartão do endereço também."
-      ],
-      "en": [
-        "Map: street, city and place names show in the app language (before, always in Portuguese). Abroad, people using the app in English, Spanish, Portuguese... see names in Latin letters (Tokyo: \"Shinjuku\" instead of 新宿; Moscow: \"Tverskaya\" instead of Тверская), and the street spoken during navigation and the address card too."
-      ],
-      "es": [
-        "Mapa: los nombres de calles, ciudades y lugares aparecen en el idioma de la app (antes siempre en portugués). Afuera, quien usa la app en español, inglés, portugués... ve los nombres en letras latinas (Tokio: \"Shinjuku\" en vez de 新宿; Moscú: \"Tverskaya\" en vez de Тверская), y la calle hablada en la navegación y la tarjeta de la dirección también."
       ]
     }
   ]
