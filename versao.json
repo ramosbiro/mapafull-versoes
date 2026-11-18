@@ -1,18 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.227.0",
-  "codigo": 479,
+  "versao": "0.228.0",
+  "codigo": 480,
   "data": "18/11/2026",
-  "tamanho": 121162246,
-  "sha256": "8c66fec6caa3ed0747784208e4b4befb1291df59ea2e0098ac1c9bc23abaf309",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.227.0/Vrumbi-0.227.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.227.0/Vrumbi-relogio-0.227.0.apk",
+  "tamanho": 121162490,
+  "sha256": "2bf539140fabb211e4ac11d72dd4a19d4f5984145f999169872b4ebb7d56575a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.228.0/Vrumbi-0.228.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.228.0/Vrumbi-relogio-0.228.0.apk",
   "notas": [
-    "Custo da viagem fora do Brasil: o combustível usa o preço médio oficial do país (os 27 da União Europeia, EUA e Reino Unido, atualizado toda semana) e a conta sai na moeda de lá (€, US$, £, zloty...). Viagem que cruza a fronteira converte pelo câmbio do Banco Central Europeu. No Brasil continua a ANP, agora sempre com a semana mais nova.",
-    "Mapas offline: os países de outra escrita (Japão, China, Coreia, Rússia, mundo árabe, Índia, Tailândia...) estão sendo refeitos com os nomes no idioma do app e em letras latinas, como no mapa online. Os pacotes novos chegam aos poucos.",
-    "Sobre o app: as fontes dos preços dos combustíveis e dos avisos oficiais de tempo de cada país."
+    "Custo da viagem: México entra na tabela de preços (mediana dos postos, CRE/CNE), em pesos mexicanos."
   ],
   "versoes": [
+    {
+      "versao": "0.228.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Custo da viagem: México entra na tabela de preços (mediana dos postos, CRE/CNE), em pesos mexicanos."
+      ],
+      "en": [
+        "Trip cost: Mexico joins the fuel price table (median of stations, CRE/CNE), in Mexican pesos."
+      ],
+      "es": [
+        "Costo del viaje: México entra en la tabla de precios (mediana de las estaciones, CRE/CNE), en pesos mexicanos."
+      ]
+    },
     {
       "versao": "0.227.0",
       "data": "18/11/2026",
@@ -163,19 +174,6 @@
       "es": [
         "Auto conectado: CAMIONES Y BUSES (J1939) -- con un adaptador J1939 y el cable del conector de 9 pines, Vrumbi lee rpm, velocidad, temperatura del agua y del aceite, presión del aceite, tanque, consumo, horas de motor, odómetro, turbo y nivel de AdBlue de los pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), las fallas SPN/FMI por centralita (motor, caja, frenos, tablero, emisiones), con el análisis (AdBlue, motor en protección, sobrecalentamiento) y el borrado. También hay una demostración de camión.",
         "Alertas: avisos oficiales del tiempo de Austria (GeoSphere Austria), Noruega (MET Norway), Suecia (SMHI) y Finlandia (FMI), por lugar -- viento, lluvia, nieve, hielo, tormenta, calor."
-      ]
-    },
-    {
-      "versao": "0.216.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Carro conectado: SCANNER COMPLETO -- o Vrumbi fala com todas as centrais do carro (motor, câmbio, freios ABS/ESP, airbag, painel, carroceria, direção...), mostra cada defeito com o estado (ativo, confirmado, pendente, histórico), faz a análise (o que é grave, por onde começar, bateria fraca gerando defeito falso), pesquisa o código na internet com a marca e o ano do carro, apaga os defeitos de uma central ou de todas e compartilha o relatório para o mecânico."
-      ],
-      "en": [
-        "Connected car: FULL SCAN -- Vrumbi talks to every control unit in the car (engine, transmission, ABS/ESP brakes, airbag, cluster, body, steering...), shows each fault with its status (active, confirmed, pending, history), analyzes them (what is serious, where to start, a weak battery causing false faults), searches the code on the web with the car make and year, clears one unit or all of them and shares the report with the mechanic."
-      ],
-      "es": [
-        "Auto conectado: ESCÁNER COMPLETO -- Vrumbi habla con todas las centralitas del auto (motor, caja, frenos ABS/ESP, airbag, tablero, carrocería, dirección...), muestra cada falla con su estado (activa, confirmada, pendiente, historial), las analiza (qué es grave, por dónde empezar, batería débil causando fallas falsas), busca el código en internet con la marca y el año del auto, borra una centralita o todas y comparte el informe con el mecánico."
       ]
     }
   ]
