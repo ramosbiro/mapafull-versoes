@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.232.0",
-  "codigo": 484,
+  "versao": "0.233.0",
+  "codigo": 485,
   "data": "18/11/2026",
-  "tamanho": 121172462,
-  "sha256": "d1b39633e3fb61c8991ced5a194da6e7efe73d528a3cde16e4aa8fe8708b7bb5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.232.0/Vrumbi-0.232.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.232.0/Vrumbi-relogio-0.232.0.apk",
+  "tamanho": 121173834,
+  "sha256": "bf0d872e4b62c79f747a4ff5ea056722385d38b0356d2d42a35be557989772fe",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.0/Vrumbi-0.233.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.0/Vrumbi-relogio-0.233.0.apk",
   "notas": [
-    "Rodízio: quando a escala do trimestre de Pequim ou Tianjin terminar e a nova ainda não estiver no app, a ficha do veículo avisa \"a escala nova ainda não chegou ao app; confira o aviso oficial\" -- antes a regra sumia e parecia que não havia rodízio."
+    "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
   ],
   "versoes": [
+    {
+      "versao": "0.233.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
+      ],
+      "en": [
+        "Alerts: in Argentina, the official short-term warnings of the National Meteorological Service (severe storms with heavy rain, hail and gusts, orange or red level), by location, with what to do. The phone fetches them straight from SMN every 10 minutes."
+      ],
+      "es": [
+        "Alertas: en Argentina, los avisos oficiales a corto plazo del Servicio Meteorológico Nacional (tormentas fuertes con lluvia intensa, granizo y ráfagas, nivel naranja o rojo), por lugar, con qué hacer. El celular los busca directo en el SMN cada 10 minutos."
+      ]
+    },
     {
       "versao": "0.232.0",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Búsqueda fuera de Brasil: las direcciones con número y los códigos postales aparecen en \"Direcciones\" (antes se mezclaban con los comercios), y cada resultado muestra el código postal y, si es en otro país, el nombre del país. Se puede escribir el código postal de cualquier país (SW1A 1AA, 75001, 160-0022, 10118). Con la app en inglés, alemán o francés, los nombres de la búsqueda vienen en ese idioma; en los demás, en letras latinas cuando el lugar usa otra escritura."
-      ]
-    },
-    {
-      "versao": "0.221.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Treino automático: não espera mais 10 minutos nem pergunta. Começou a andar, correr ou pedalar, o Vrumbi já grava desde o primeiro passo e confere no primeiro minuto com o acelerômetro, os passos e os sinais do carro. Parado ou no carro, apaga sem avisar (nada de \"pedalando\" sentado no carro). A cadência acerta caminhada, corrida ou bicicleta. Abrir o app liga o GPS; 3 minutos parado encerram e o treino entra no histórico (a partir de 5 minutos). A notificação tem Descartar."
-      ],
-      "en": [
-        "Automatic workout: no more 10-minute wait or question. Start walking, running or riding and Vrumbi records from the first step, checking during the first minute with the accelerometer, steps and car signals. Standing still or in a car, it is deleted without a notice (no more \"cycling\" while sitting in the car). Cadence tells walk, run or ride apart. Opening the app turns on GPS; 3 minutes still end it and the workout goes into history (from 5 minutes). The notification has Discard."
-      ],
-      "es": [
-        "Entreno automático: ya no espera 10 minutos ni pregunta. Empiezas a caminar, correr o pedalear y Vrumbi graba desde el primer paso, revisando en el primer minuto con el acelerómetro, los pasos y las señales del coche. Quieto o en el coche, se borra sin avisar (nada de \"pedaleando\" sentado en el coche). La cadencia distingue caminata, carrera o bici. Abrir la app enciende el GPS; 3 minutos quieto lo terminan y el entreno entra en el historial (desde 5 minutos). La notificación tiene Descartar."
       ]
     }
   ]
