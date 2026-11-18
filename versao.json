@@ -1,16 +1,37 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.226.0",
-  "codigo": 478,
+  "versao": "0.227.0",
+  "codigo": 479,
   "data": "18/11/2026",
-  "tamanho": 121159205,
-  "sha256": "9a23caefdc0691618caef6ba2428c455960a162088be9b4302efe49617c22597",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.226.0/Vrumbi-0.226.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.226.0/Vrumbi-relogio-0.226.0.apk",
+  "tamanho": 121162246,
+  "sha256": "8c66fec6caa3ed0747784208e4b4befb1291df59ea2e0098ac1c9bc23abaf309",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.227.0/Vrumbi-0.227.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.227.0/Vrumbi-relogio-0.227.0.apk",
   "notas": [
-    "Clima mais preciso (comparação com outro app no Parque Santana): o índice UV vinha de um modelo diferente do céu mostrado e caía para 3 com \"Sol entre nuvens\" às 14h. Agora o UV é o de céu limpo reduzido pelas nuvens de cada camada (baixas seguram muito, altas quase nada), e o véu de nuvens altas não vira mais \"Nublado\" com o sol aparecendo. Vale no app, no widget e nos avisos."
+    "Custo da viagem fora do Brasil: o combustível usa o preço médio oficial do país (os 27 da União Europeia, EUA e Reino Unido, atualizado toda semana) e a conta sai na moeda de lá (€, US$, £, zloty...). Viagem que cruza a fronteira converte pelo câmbio do Banco Central Europeu. No Brasil continua a ANP, agora sempre com a semana mais nova.",
+    "Mapas offline: os países de outra escrita (Japão, China, Coreia, Rússia, mundo árabe, Índia, Tailândia...) estão sendo refeitos com os nomes no idioma do app e em letras latinas, como no mapa online. Os pacotes novos chegam aos poucos.",
+    "Sobre o app: as fontes dos preços dos combustíveis e dos avisos oficiais de tempo de cada país."
   ],
   "versoes": [
+    {
+      "versao": "0.227.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Custo da viagem fora do Brasil: o combustível usa o preço médio oficial do país (os 27 da União Europeia, EUA e Reino Unido, atualizado toda semana) e a conta sai na moeda de lá (€, US$, £, zloty...). Viagem que cruza a fronteira converte pelo câmbio do Banco Central Europeu. No Brasil continua a ANP, agora sempre com a semana mais nova.",
+        "Mapas offline: os países de outra escrita (Japão, China, Coreia, Rússia, mundo árabe, Índia, Tailândia...) estão sendo refeitos com os nomes no idioma do app e em letras latinas, como no mapa online. Os pacotes novos chegam aos poucos.",
+        "Sobre o app: as fontes dos preços dos combustíveis e dos avisos oficiais de tempo de cada país."
+      ],
+      "en": [
+        "Trip cost outside Brazil: fuel uses the official national average price (the 27 EU countries, the US and the UK, updated weekly) and the total shows in the local currency (€, US$, £, zloty...). Cross-border trips convert with European Central Bank rates. In Brazil it is still ANP, now always with the latest week.",
+        "Offline maps: countries with other scripts (Japan, China, Korea, Russia, the Arab world, India, Thailand...) are being rebuilt with names in the app language and in Latin letters, like the online map. New packs arrive gradually.",
+        "About: the sources of fuel prices and official weather warnings for each country."
+      ],
+      "es": [
+        "Costo del viaje fuera de Brasil: el combustible usa el precio promedio oficial del país (los 27 de la Unión Europea, EE. UU. y Reino Unido, actualizado cada semana) y la cuenta sale en la moneda de allá (€, US$, £, zloty...). El viaje que cruza la frontera convierte con el cambio del Banco Central Europeo. En Brasil sigue la ANP, ahora siempre con la semana más reciente.",
+        "Mapas sin conexión: los países con otra escritura (Japón, China, Corea, Rusia, mundo árabe, India, Tailandia...) se están rehaciendo con los nombres en el idioma de la app y en letras latinas, como el mapa en línea. Los paquetes nuevos llegan de a poco.",
+        "Acerca de la app: las fuentes de los precios de combustibles y de los avisos oficiales del tiempo de cada país."
+      ]
+    },
     {
       "versao": "0.226.0",
       "data": "18/11/2026",
@@ -155,19 +176,6 @@
       ],
       "es": [
         "Auto conectado: ESCÁNER COMPLETO -- Vrumbi habla con todas las centralitas del auto (motor, caja, frenos ABS/ESP, airbag, tablero, carrocería, dirección...), muestra cada falla con su estado (activa, confirmada, pendiente, historial), las analiza (qué es grave, por dónde empezar, batería débil causando fallas falsas), busca el código en internet con la marca y el año del auto, borra una centralita o todas y comparte el informe con el mecánico."
-      ]
-    },
-    {
-      "versao": "0.215.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Vrumbi: \"cancelar rota\" sem rota ativa responde que não há rota (antes perguntava \"quer mesmo encerrar?\")."
-      ],
-      "en": [
-        "Vrumbi: \"cancel route\" with no active route says there is none (before it asked \"do you really want to end it?\")."
-      ],
-      "es": [
-        "Vrumbi: \"cancelar ruta\" sin ruta activa responde que no hay ruta (antes preguntaba \"¿seguro que quieres terminarla?\")."
       ]
     }
   ]
