@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.236.0",
-  "codigo": 489,
+  "versao": "0.237.0",
+  "codigo": 490,
   "data": "18/11/2026",
-  "tamanho": 121179054,
-  "sha256": "35b43202c9be394079f871c3c52551134889ceb9d7ee91a2a3f9893b58e7d238",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.236.0/Vrumbi-0.236.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.236.0/Vrumbi-relogio-0.236.0.apk",
+  "tamanho": 121179806,
+  "sha256": "066c7fadc583153714b7b17c35f0710046df36dce93f45a7d0fb1001506b10e3",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.237.0/Vrumbi-0.237.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.237.0/Vrumbi-relogio-0.237.0.apk",
   "notas": [
-    "Temperatura mais precisa: medimos 7 dias em 11 aeroportos do Brasil (cerca de 1.000 horas) e a previsão que o Vrumbi usava saía, em média, 1,1° mais fria de dia. Agora a temperatura, a sensação térmica e as máximas e mínimas são a média de 6 modelos meteorológicos (europeu, americano, alemão, canadense, francês e britânico): o erro médio caiu de 1,57° para 1,28° de dia e de 1,18° para 0,97° à noite, melhor em 10 dos 11 aeroportos. Vale no app, no widget e nos avisos, e o servidor segue medindo todo dia."
+    "Temperatura de agora mais certa: com um aeroporto a até 30 km (e altitude parecida), o Vrumbi usa a temperatura MEDIDA lá para o \"agora\" e corrige as 2 horas seguintes. Nos 7 dias medidos, o erro do agora caiu de 1,37° para 0,95°, e o da próxima hora de 1,38° para 1,02°. Vale no app, no widget e nos avisos."
   ],
   "versoes": [
+    {
+      "versao": "0.237.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Temperatura de agora mais certa: com um aeroporto a até 30 km (e altitude parecida), o Vrumbi usa a temperatura MEDIDA lá para o \"agora\" e corrige as 2 horas seguintes. Nos 7 dias medidos, o erro do agora caiu de 1,37° para 0,95°, e o da próxima hora de 1,38° para 1,02°. Vale no app, no widget e nos avisos."
+      ],
+      "en": [
+        "More accurate current temperature: with an airport within 30 km (and similar altitude), Vrumbi uses the temperature MEASURED there for \"now\" and corrects the next 2 hours. Over the 7 measured days, the error of \"now\" dropped from 1.37° to 0.95°, and next hour from 1.38° to 1.02°. Applies to the app, the widget and alerts."
+      ],
+      "es": [
+        "Temperatura actual más precisa: con un aeropuerto a menos de 30 km (y altitud parecida), Vrumbi usa la temperatura MEDIDA allí para el \"ahora\" y corrige las 2 horas siguientes. En los 7 días medidos, el error del ahora bajó de 1,37° a 0,95°, y el de la hora siguiente de 1,38° a 1,02°. Vale en la app, el widget y los avisos."
+      ]
+    },
     {
       "versao": "0.236.0",
       "data": "18/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Clima más preciso (comparación con otra app): el índice UV venía de un modelo distinto del cielo mostrado y bajaba a 3 con \"Sol entre nubes\" a las 14 h. Ahora el UV es el de cielo despejado reducido por las nubes de cada capa (las bajas frenan mucho, las altas casi nada), y el velo de nubes altas ya no aparece como \"Nublado\" con el sol afuera. Vale en la app, el widget y los avisos."
-      ]
-    },
-    {
-      "versao": "0.225.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Notícias fora do Brasil: as manchetes da cidade vêm da edição de notícias do país e no idioma de lá (Porto: jornais de Portugal, não mais Porto Alegre e Porto Velho; Tóquio: jornais japoneses; Nova Zelândia: RNZ, NZ Herald). País sem edição própria: em inglês, com o nome do país na busca."
-      ],
-      "en": [
-        "News outside Brazil: city headlines come from the country news edition, in the local language (Porto: Portuguese papers, no longer Porto Alegre and Porto Velho in Brazil; Tokyo: Japanese papers; New Zealand: RNZ, NZ Herald). Countries without their own edition: in English, with the country name in the search."
-      ],
-      "es": [
-        "Noticias fuera de Brasil: los titulares de la ciudad vienen de la edición de noticias del país y en su idioma (Oporto: diarios de Portugal, ya no Porto Alegre y Porto Velho de Brasil; Tokio: diarios japoneses; Nueva Zelanda: RNZ, NZ Herald). País sin edición propia: en inglés, con el nombre del país en la búsqueda."
       ]
     }
   ]
