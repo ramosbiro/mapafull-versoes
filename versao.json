@@ -1,18 +1,18 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.233.0",
-  "codigo": 485,
+  "versao": "0.233.1",
+  "codigo": 486,
   "data": "18/11/2026",
-  "tamanho": 121173834,
-  "sha256": "bf0d872e4b62c79f747a4ff5ea056722385d38b0356d2d42a35be557989772fe",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.0/Vrumbi-0.233.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.0/Vrumbi-relogio-0.233.0.apk",
+  "tamanho": 121173898,
+  "sha256": "e6f7af2fff3a8cd0f7144b93414d76cfd842b58c494d767c1b0f79ed8e9f8cf0",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.1/Vrumbi-0.233.1.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.233.1/Vrumbi-relogio-0.233.1.apk",
   "notas": [
     "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
   ],
   "versoes": [
     {
-      "versao": "0.233.0",
+      "versao": "0.233.1",
       "data": "18/11/2026",
       "itens": [
         "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
