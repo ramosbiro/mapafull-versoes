@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.228.0",
-  "codigo": 480,
+  "versao": "0.229.0",
+  "codigo": 481,
   "data": "18/11/2026",
-  "tamanho": 121162490,
-  "sha256": "2bf539140fabb211e4ac11d72dd4a19d4f5984145f999169872b4ebb7d56575a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.228.0/Vrumbi-0.228.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.228.0/Vrumbi-relogio-0.228.0.apk",
+  "tamanho": 121168026,
+  "sha256": "45ad715045f15cec29f748f3d27166689ad9697317bac3c600624fab161f4edd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.229.0/Vrumbi-0.229.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.229.0/Vrumbi-relogio-0.229.0.apk",
   "notas": [
-    "Custo da viagem: México entra na tabela de preços (mediana dos postos, CRE/CNE), em pesos mexicanos."
+    "Rotas na Europa: quando o caminho passa por país que cobra vinheta na autoestrada (Áustria, Suíça, Tchéquia, Eslováquia, Eslovênia, Hungria, Romênia, Bulgária), a opção de rota avisa \"vinheta obrigatória\" e \"Vinhetas desta rota\" traz o site oficial de compra de cada país. De caminhão, o lembrete de que acima de 3,5 t a cobrança é por quilômetro."
   ],
   "versoes": [
+    {
+      "versao": "0.229.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Rotas na Europa: quando o caminho passa por país que cobra vinheta na autoestrada (Áustria, Suíça, Tchéquia, Eslováquia, Eslovênia, Hungria, Romênia, Bulgária), a opção de rota avisa \"vinheta obrigatória\" e \"Vinhetas desta rota\" traz o site oficial de compra de cada país. De caminhão, o lembrete de que acima de 3,5 t a cobrança é por quilômetro."
+      ],
+      "en": [
+        "Routes in Europe: when the way goes through a country that charges a motorway vignette (Austria, Switzerland, Czechia, Slovakia, Slovenia, Hungary, Romania, Bulgaria), the route option says \"vignette required\" and \"Vignettes on this route\" lists the official purchase site of each country. By truck, a reminder that above 3.5 t the toll is per kilometre."
+      ],
+      "es": [
+        "Rutas en Europa: cuando el camino pasa por un país que cobra viñeta en la autopista (Austria, Suiza, Chequia, Eslovaquia, Eslovenia, Hungría, Rumanía, Bulgaria), la opción de ruta avisa \"viñeta obligatoria\" y \"Viñetas de esta ruta\" trae el sitio oficial de compra de cada país. En camión, el recordatorio de que por encima de 3,5 t se cobra por kilómetro."
+      ]
+    },
     {
       "versao": "0.228.0",
       "data": "18/11/2026",
@@ -158,22 +171,6 @@
       ],
       "es": [
         "Alertas: avisos oficiales del tiempo de Japón (Agencia Meteorológica de Japón, el sistema nuevo de 2026), por municipio -- lluvia, deslizamiento, tormenta y tornado, viento, nieve, niebla. Los avisos de afuera reconocen deslizamiento, avalancha, marejada y viento fuerte (antes \"Storm Warning\" se volvía lluvia)."
-      ]
-    },
-    {
-      "versao": "0.217.0",
-      "data": "17/11/2026",
-      "itens": [
-        "Carro conectado: CAMINHÃO E ÔNIBUS (J1939) -- com um adaptador J1939 e o cabo do conector de 9 pinos, o Vrumbi lê giro, velocidade, temperatura da água e do óleo, pressão do óleo, tanque, consumo, horas de motor, hodômetro, turbo e nível do ARLA 32 dos pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), os defeitos SPN/FMI em português, separados por central (motor, câmbio, freios, painel, emissões), com a análise (ARLA 32, motor em proteção, superaquecimento) e o apagar. Tem também a demonstração de caminhão.",
-        "Alertas: avisos oficiais de tempo da Áustria (GeoSphere Austria), da Noruega (MET Norway), da Suécia (SMHI) e da Finlândia (FMI), por local -- vento, chuva, neve, gelo, tempestade, calor."
-      ],
-      "en": [
-        "Connected car: TRUCKS AND BUSES (J1939) -- with a J1939 adapter and the 9-pin connector cable, Vrumbi reads engine speed, speed, coolant and oil temperature, oil pressure, fuel level, fuel rate, engine hours, odometer, boost and DEF level of heavy vehicles (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), the SPN/FMI faults by control unit (engine, transmission, brakes, cluster, emissions), with the analysis (DEF, engine derate, overheating) and clearing. There is also a truck demo.",
-        "Alerts: official weather warnings for Austria (GeoSphere Austria), Norway (MET Norway), Sweden (SMHI) and Finland (FMI), by location -- wind, rain, snow, ice, thunderstorms, heat."
-      ],
-      "es": [
-        "Auto conectado: CAMIONES Y BUSES (J1939) -- con un adaptador J1939 y el cable del conector de 9 pines, Vrumbi lee rpm, velocidad, temperatura del agua y del aceite, presión del aceite, tanque, consumo, horas de motor, odómetro, turbo y nivel de AdBlue de los pesados (Scania, Volvo, Mercedes, VW/MAN, Iveco, DAF...), las fallas SPN/FMI por centralita (motor, caja, frenos, tablero, emisiones), con el análisis (AdBlue, motor en protección, sobrecalentamiento) y el borrado. También hay una demostración de camión.",
-        "Alertas: avisos oficiales del tiempo de Austria (GeoSphere Austria), Noruega (MET Norway), Suecia (SMHI) y Finlandia (FMI), por lugar -- viento, lluvia, nieve, hielo, tormenta, calor."
       ]
     }
   ]
