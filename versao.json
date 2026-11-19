@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.253.0",
-  "codigo": 506,
+  "versao": "0.254.0",
+  "codigo": 507,
   "data": "19/11/2026",
-  "tamanho": 121272967,
-  "sha256": "aef559b92ed488e2d48953ab3d8cc7ea1c28b32696c435da9054228e5d7cb7bb",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.253.0/Vrumbi-0.253.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.253.0/Vrumbi-relogio-0.253.0.apk",
+  "tamanho": 121273567,
+  "sha256": "0f817d81ba5cf63a106917a20152a57adf352fa87f1c55ea6c0468182291b2ad",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.254.0/Vrumbi-0.254.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.254.0/Vrumbi-relogio-0.254.0.apk",
   "notas": [
-    "Risco para o veículo estacionado também no Reino Unido (Inglaterra, País de Gales e Irlanda do Norte): ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia registrou a até 300 m nos últimos 3 meses (data.police.uk). Onde a polícia não publica (Grande Manchester, Escócia), ele avisa que não há dados."
+    "México entra no preço oficial de cada posto na rota (CRE, todos os postos do país): em \"Postos à frente\" e na pergunta \"qual o posto mais barato no caminho?\", em pesos mexicanos."
   ],
   "versoes": [
+    {
+      "versao": "0.254.0",
+      "data": "19/11/2026",
+      "itens": [
+        "México entra no preço oficial de cada posto na rota (CRE, todos os postos do país): em \"Postos à frente\" e na pergunta \"qual o posto mais barato no caminho?\", em pesos mexicanos."
+      ],
+      "en": [
+        "Mexico joins the official price of each station on the route (CRE, every station in the country): in \"Stations ahead\" and in \"which is the cheapest gas station on the way?\", in Mexican pesos."
+      ],
+      "es": [
+        "México entra en el precio oficial de cada estación en la ruta (CRE, todas las estaciones del país): en \"Estaciones adelante\" y en \"¿cuál es la gasolinera más barata en el camino?\", en pesos mexicanos."
+      ]
+    },
     {
       "versao": "0.253.0",
       "data": "19/11/2026",
@@ -158,19 +171,6 @@
       ],
       "es": [
         "Búsqueda de dirección con el número exacto en todo Brasil: además de São Paulo, los otros estados entran con el registro de direcciones del IBGE (Censo 2022), uno por uno a medida que están listos -- sin actualizar la app. Calle y número llevan directo a la puerta, con el código postal."
-      ]
-    },
-    {
-      "versao": "0.242.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Radares: entram os 1.104 radares das rodovias federais concedidas, da lista oficial da ANTT (com rodovia, km e velocidade) -- a base passa de 75 mil pontos no mundo."
-      ],
-      "en": [
-        "Speed cameras: the 1,104 cameras on Brazil's conceded federal highways from the official ANTT list (with highway, km and speed) are in -- the base now has over 75 thousand points worldwide."
-      ],
-      "es": [
-        "Radares: entran los 1.104 radares de las rutas federales concesionadas de Brasil, de la lista oficial de la ANTT (con ruta, km y velocidad) -- la base supera los 75 mil puntos en el mundo."
       ]
     }
   ]
