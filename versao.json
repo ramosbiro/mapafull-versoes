@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.256.0",
-  "codigo": 509,
+  "versao": "0.257.0",
+  "codigo": 510,
   "data": "19/11/2026",
-  "tamanho": 121289291,
-  "sha256": "1ddcc6b849cb6f69022aa275d2c21e39ccdd0768a60e587c7251b344da44d7a9",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.256.0/Vrumbi-0.256.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.256.0/Vrumbi-relogio-0.256.0.apk",
+  "tamanho": 121290035,
+  "sha256": "39278a60be8eff1d6d97d97f4622e58700d47fcb1f3ad0525e76b7d2caaa5f4a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.257.0/Vrumbi-0.257.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.257.0/Vrumbi-relogio-0.257.0.apk",
   "notas": [
-    "Mais perguntas ao Vrumbi dirigindo: \"qual a minha velocidade?\", \"quanto eu já andei?\" / \"quanto tempo eu dirigi?\", \"repete\" (a última instrução) e \"desliga a voz\" / \"silencia\" / \"liga a voz\" (a voz das manobras)."
+    "Avisos oficiais de tempo em mais 18 países, pelos serviços de meteorologia de cada um: Paraguai, Equador, Panamá, Costa Rica, República Dominicana, Belize, Turks e Caicos, Jordânia, Catar, Bahrein, Paquistão, Mongólia, Tanzânia, Essuatíni, Madagascar, Camarões, Nigéria e Ilhas Salomão. Só aparece o aviso cuja área inclui onde você está."
   ],
   "versoes": [
+    {
+      "versao": "0.257.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Avisos oficiais de tempo em mais 18 países, pelos serviços de meteorologia de cada um: Paraguai, Equador, Panamá, Costa Rica, República Dominicana, Belize, Turks e Caicos, Jordânia, Catar, Bahrein, Paquistão, Mongólia, Tanzânia, Essuatíni, Madagascar, Camarões, Nigéria e Ilhas Salomão. Só aparece o aviso cuja área inclui onde você está."
+      ],
+      "en": [
+        "Official weather warnings in 18 more countries, from each national weather service: Paraguay, Ecuador, Panama, Costa Rica, Dominican Republic, Belize, Turks and Caicos, Jordan, Qatar, Bahrain, Pakistan, Mongolia, Tanzania, Eswatini, Madagascar, Cameroon, Nigeria and Solomon Islands. Only warnings whose area includes where you are show up."
+      ],
+      "es": [
+        "Avisos oficiales del tiempo en 18 países más, de cada servicio meteorológico: Paraguay, Ecuador, Panamá, Costa Rica, República Dominicana, Belice, Turks y Caicos, Jordania, Catar, Baréin, Pakistán, Mongolia, Tanzania, Esuatini, Madagascar, Camerún, Nigeria e Islas Salomón. Solo aparece el aviso cuya área incluye dónde estás."
+      ]
+    },
     {
       "versao": "0.256.0",
       "data": "19/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Vrumbi: pregunta \"¿el aire está seco?\", \"¿cómo está la calidad del aire?\", \"¿el sol está fuerte?\" o \"¿va a haber helada?\" -- responde con los mismos avisos de la sección Cosas del aire (niveles de Defensa Civil, UV, humo, polvo) y, si todo está bien, dice la humedad y el UV de ahora. La calidad del aire ahora sigue la escala de la CETESB (buena a pésima) por el promedio de las próximas 12 horas, sin alarma por picos cortos."
-      ]
-    },
-    {
-      "versao": "0.245.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Relógio: na natação o relógio conta as voltas e as braçadas, e na musculação as repetições (quando o relógio mede) -- dá para pôr na tela do treino (editar telas) e aparecem no resumo do fim."
-      ],
-      "en": [
-        "Watch: swimming now counts laps and strokes, and strength training counts reps (when the watch measures them) -- add them to the workout screen (edit screens) and they show in the final summary."
-      ],
-      "es": [
-        "Reloj: en la natación el reloj cuenta los largos y las brazadas, y en la musculación las repeticiones (cuando el reloj las mide) -- se pueden poner en la pantalla del entreno (editar pantallas) y aparecen en el resumen final."
       ]
     }
   ]
