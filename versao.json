@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.248.0",
-  "codigo": 501,
+  "versao": "0.249.0",
+  "codigo": 502,
   "data": "19/11/2026",
-  "tamanho": 121246751,
-  "sha256": "e9a4b92c264ff0bb87886e1f90e302df470dcedac5fb29bb6b48639b1ef7c227",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.248.0/Vrumbi-0.248.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.248.0/Vrumbi-relogio-0.248.0.apk",
+  "tamanho": 121249915,
+  "sha256": "517a444c922a6375fcb205a6b0a4f7d246d77e5c820a67072d0d3b4b91afaff5",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.249.0/Vrumbi-0.249.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.249.0/Vrumbi-relogio-0.249.0.apk",
   "notas": [
-    "Viagem fora do Brasil: em \"Postos à frente\" (menu da rota) cada posto mostra o preço oficial do litro, publicado pelo governo e atualizado pelo próprio posto -- França, Espanha, Áustria e Itália --, no combustível do seu veículo (diesel ou gasolina), com o mais barato da lista em verde."
+    "Portugal entra no preço oficial de cada posto na rota (DGEG): em \"Postos à frente\", o preço do litro da gasolina simples 95 ou do gasóleo simples, conforme o seu veículo, com o mais barato em verde.",
+    "Escolha da rota com 4 opções, celular em pé: cartões em 2 por linha (antes o texto passava para o cartão vizinho)."
   ],
   "versoes": [
+    {
+      "versao": "0.249.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Portugal entra no preço oficial de cada posto na rota (DGEG): em \"Postos à frente\", o preço do litro da gasolina simples 95 ou do gasóleo simples, conforme o seu veículo, com o mais barato em verde.",
+        "Escolha da rota com 4 opções, celular em pé: cartões em 2 por linha (antes o texto passava para o cartão vizinho)."
+      ],
+      "en": [
+        "Portugal joins the official price of each station on the route (DGEG): in \"Stations ahead\", the price per litre of regular 95 gasoline or regular diesel, by your vehicle, with the cheapest in green.",
+        "Route choice with 4 options, phone upright: cards 2 per row (text used to spill into the next card)."
+      ],
+      "es": [
+        "Portugal entra en el precio oficial de cada estación en la ruta (DGEG): en \"Estaciones adelante\", el precio del litro de gasolina 95 o gasóleo, según tu vehículo, con la más barata en verde.",
+        "Elección de ruta con 4 opciones, celular vertical: tarjetas de 2 por fila (antes el texto pasaba a la tarjeta vecina)."
+      ]
+    },
     {
       "versao": "0.248.0",
       "data": "19/11/2026",
@@ -152,19 +169,6 @@
       ],
       "es": [
         "Clima: nueva sección \"Cosas del aire\" para las próximas 12 horas, separada del ícono (que muestra el cielo): aire seco en los niveles de Defensa Civil (atención, alerta, emergencia), calor por sensación, bochorno, frío y riesgo de helada, viento fuerte con la hora de las ráfagas, la franja de UV muy alto, la calidad del aire (humo de incendios y contaminación) y el polvo."
-      ]
-    },
-    {
-      "versao": "0.237.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Temperatura de agora mais certa: com um aeroporto a até 30 km (e altitude parecida), o Vrumbi usa a temperatura MEDIDA lá para o \"agora\" e corrige as 2 horas seguintes. Nos 7 dias medidos, o erro do agora caiu de 1,37° para 0,95°, e o da próxima hora de 1,38° para 1,02°. Vale no app, no widget e nos avisos."
-      ],
-      "en": [
-        "More accurate current temperature: with an airport within 30 km (and similar altitude), Vrumbi uses the temperature MEASURED there for \"now\" and corrects the next 2 hours. Over the 7 measured days, the error of \"now\" dropped from 1.37° to 0.95°, and next hour from 1.38° to 1.02°. Applies to the app, the widget and alerts."
-      ],
-      "es": [
-        "Temperatura actual más precisa: con un aeropuerto a menos de 30 km (y altitud parecida), Vrumbi usa la temperatura MEDIDA allí para el \"ahora\" y corrige las 2 horas siguientes. En los 7 días medidos, el error del ahora bajó de 1,37° a 0,95°, y el de la hora siguiente de 1,38° a 1,02°. Vale en la app, el widget y los avisos."
       ]
     }
   ]
