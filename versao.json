@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.249.0",
-  "codigo": 502,
+  "versao": "0.250.0",
+  "codigo": 503,
   "data": "19/11/2026",
-  "tamanho": 121249915,
-  "sha256": "517a444c922a6375fcb205a6b0a4f7d246d77e5c820a67072d0d3b4b91afaff5",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.249.0/Vrumbi-0.249.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.249.0/Vrumbi-relogio-0.249.0.apk",
+  "tamanho": 121259335,
+  "sha256": "d16dda55e238f6617cfa79daf36216cc31930540d417ce9809bb093d2b0c0e0f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.250.0/Vrumbi-0.250.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.250.0/Vrumbi-relogio-0.250.0.apk",
   "notas": [
-    "Portugal entra no preço oficial de cada posto na rota (DGEG): em \"Postos à frente\", o preço do litro da gasolina simples 95 ou do gasóleo simples, conforme o seu veículo, com o mais barato em verde.",
-    "Escolha da rota com 4 opções, celular em pé: cartões em 2 por linha (antes o texto passava para o cartão vizinho)."
+    "Vrumbi: durante a rota, pergunte \"qual o posto mais barato no caminho?\" -- ele procura os postos à frente e fala o mais barato com o preço oficial do litro (França, Espanha, Portugal, Itália, Áustria) e quanto você economiza em relação ao mais caro. Onde não há preço por posto, ele avisa e indica o mais perto."
   ],
   "versoes": [
+    {
+      "versao": "0.250.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Vrumbi: durante a rota, pergunte \"qual o posto mais barato no caminho?\" -- ele procura os postos à frente e fala o mais barato com o preço oficial do litro (França, Espanha, Portugal, Itália, Áustria) e quanto você economiza em relação ao mais caro. Onde não há preço por posto, ele avisa e indica o mais perto."
+      ],
+      "en": [
+        "Vrumbi: during a route, ask \"which is the cheapest gas station on the way?\" -- it searches the stations ahead and tells the cheapest with the official price per litre (France, Spain, Portugal, Italy, Austria) and how much you save over the most expensive. Where there is no per-station price, it says so and points to the nearest."
+      ],
+      "es": [
+        "Vrumbi: durante la ruta, pregunta \"¿cuál es la gasolinera más barata en el camino?\" -- busca las estaciones adelante y dice la más barata con el precio oficial del litro (Francia, España, Portugal, Italia, Austria) y cuánto ahorras frente a la más cara. Donde no hay precio por estación, lo avisa e indica la más cercana."
+      ]
+    },
     {
       "versao": "0.249.0",
       "data": "19/11/2026",
@@ -156,19 +168,6 @@
       ],
       "es": [
         "Alertas: nuevo \"Radar fijo\" (en Fiscalización, en el celular, el reloj y por voz) para el radar que aún no aparece en el mapa. Vale 30 días y cada confirmación de otro conductor lo renueva (hasta 1 año); quien pase y no lo encuentre puede quitarlo. El aviso de alerta adelante dice \"Radar fijo\" en la navegación."
-      ]
-    },
-    {
-      "versao": "0.238.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Clima: nova seção \"Coisas do ar\" nas próximas 12 horas, separada do ícone (que mostra o céu): ar seco nos níveis da Defesa Civil (atenção, alerta, emergência), calor pela sensação, abafado, frio e risco de geada, vento forte com a hora das rajadas, a janela de UV muito alto, a qualidade do ar (fumaça de queimada e poluição) e a poeira."
-      ],
-      "en": [
-        "Weather: new \"Things in the air\" section for the next 12 hours, separate from the icon (which shows the sky): dry air at Civil Defense levels (attention, alert, emergency), heat by feels-like, muggy, cold and frost risk, strong wind with the gust time, the very-high-UV window, air quality (wildfire smoke and pollution) and dust."
-      ],
-      "es": [
-        "Clima: nueva sección \"Cosas del aire\" para las próximas 12 horas, separada del ícono (que muestra el cielo): aire seco en los niveles de Defensa Civil (atención, alerta, emergencia), calor por sensación, bochorno, frío y riesgo de helada, viento fuerte con la hora de las ráfagas, la franja de UV muy alto, la calidad del aire (humo de incendios y contaminación) y el polvo."
       ]
     }
   ]
