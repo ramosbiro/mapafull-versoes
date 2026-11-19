@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.246.0",
-  "codigo": 499,
+  "versao": "0.247.0",
+  "codigo": 500,
   "data": "18/11/2026",
-  "tamanho": 121225166,
-  "sha256": "d1f2c4bc1e9daae321aa4ea7ffc0518433c65df435c0c2f5d2c6a782db3b14ee",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.246.0/Vrumbi-0.246.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.246.0/Vrumbi-relogio-0.246.0.apk",
+  "tamanho": 121231870,
+  "sha256": "0d9c950de325a7ce0d018118b0f42f683a702ac1f604d93a53131c6928cb9fe6",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.247.0/Vrumbi-0.247.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.247.0/Vrumbi-relogio-0.247.0.apk",
   "notas": [
-    "Vrumbi: pergunte \"o ar está seco?\", \"como está a qualidade do ar?\", \"o sol está forte?\" ou \"vai ter geada?\" -- ele responde com os mesmos avisos da seção Coisas do ar (níveis da Defesa Civil, UV, fumaça, poeira) e, se estiver tudo bem, diz a umidade e o UV de agora. A qualidade do ar agora segue a escala da CETESB (boa, moderada, ruim, muito ruim, péssima) pela média das próximas 12 horas, sem alarme por pico de poucas horas."
+    "Vrumbi: pergunte \"como foi minha semana?\", \"quantos passos eu dei?\", \"como estou dormindo?\" ou \"meus batimentos\" -- ele abre Saúde > Seus dados e fala a média de passos, sono e batimentos em repouso desta semana, comparando com a anterior. Tudo calculado no próprio aparelho."
   ],
   "versoes": [
+    {
+      "versao": "0.247.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Vrumbi: pergunte \"como foi minha semana?\", \"quantos passos eu dei?\", \"como estou dormindo?\" ou \"meus batimentos\" -- ele abre Saúde > Seus dados e fala a média de passos, sono e batimentos em repouso desta semana, comparando com a anterior. Tudo calculado no próprio aparelho."
+      ],
+      "en": [
+        "Vrumbi: ask \"how was my week?\", \"how many steps did I take?\", \"how am I sleeping?\" or \"my heart rate\" -- it opens Health > Your data and tells this week's average steps, sleep and resting heart rate compared with the week before. All computed on the device."
+      ],
+      "es": [
+        "Vrumbi: pregunta \"¿cómo fue mi semana?\", \"¿cuántos pasos di?\", \"¿cómo estoy durmiendo?\" o \"mi pulso\" -- abre Salud > Tus datos y dice el promedio de pasos, sueño y pulso en reposo de esta semana, comparado con la anterior. Todo calculado en el propio aparato."
+      ]
+    },
     {
       "versao": "0.246.0",
       "data": "18/11/2026",
@@ -152,19 +165,6 @@
       ],
       "es": [
         "Temperatura más precisa: medimos 7 días en 11 aeropuertos de Brasil (unas 1.000 horas) y el pronóstico que usaba Vrumbi salía, en promedio, 1,1° más frío de día. Ahora la temperatura, la sensación térmica y las máximas y mínimas son el promedio de 6 modelos meteorológicos (europeo, estadounidense, alemán, canadiense, francés y británico): el error medio bajó de 1,57° a 1,28° de día y de 1,18° a 0,97° de noche, mejor en 10 de los 11 aeropuertos. Vale en la app, el widget y los avisos, y el servidor sigue midiendo todos los días."
-      ]
-    },
-    {
-      "versao": "0.235.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Clima de hora em hora: com aviso oficial de tempestade (INMET e os serviços dos outros países) valendo para o lugar e chance de chuva de 60% ou mais, a hora mostra \"Possibilidade de tempestade\". Na comparação de 18/11 em Mogi, a tempestade de 20 a 27 mm chegou às 14h30 com o aviso do INMET ativo, e o Vrumbi ainda mostrava \"Garoa\" às 15h."
-      ],
-      "en": [
-        "Hourly weather: with an official storm warning (INMET and the other countries' services) valid for the place and a 60%+ chance of rain, the hour shows \"Possible thunderstorm\". In the 18/11 comparison in Mogi, the 20-27 mm storm arrived at 2:30 pm with the INMET warning active, and Vrumbi still showed \"Drizzle\" at 3 pm."
-      ],
-      "es": [
-        "Clima hora por hora: con aviso oficial de tormenta (INMET y los servicios de los otros países) vigente para el lugar y probabilidad de lluvia de 60% o más, la hora muestra \"Posibilidad de tormenta\". En la comparación del 18/11 en Mogi, la tormenta de 20 a 27 mm llegó a las 14:30 con el aviso del INMET activo, y Vrumbi todavía mostraba \"Llovizna\" a las 15 h."
       ]
     }
   ]
