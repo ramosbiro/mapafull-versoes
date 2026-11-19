@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.243.0",
-  "codigo": 496,
+  "versao": "0.244.0",
+  "codigo": 497,
   "data": "18/11/2026",
-  "tamanho": 121217698,
-  "sha256": "34db08838f18381be5f197198c798b40f5efb805396985baf2690118d817e2c7",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.243.0/Vrumbi-0.243.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.243.0/Vrumbi-relogio-0.243.0.apk",
+  "tamanho": 121219658,
+  "sha256": "17956369bdcc5f9adb808f237efd51f79d2317af7dc1476652efbf8d56a2c2c8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.244.0/Vrumbi-0.244.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.244.0/Vrumbi-relogio-0.244.0.apk",
   "notas": [
-    "Busca de endereço com o número exato em todo o Brasil: além de São Paulo, os outros estados entram com o cadastro de endereços do IBGE (Censo 2022), estado por estado, conforme ficam prontos -- sem precisar atualizar o app. Rua e número levam direto à porta, com o CEP."
+    "Saúde: os batimentos e a variabilidade cardíaca agora têm o dia hora a hora -- a média de cada hora com a faixa do mínimo ao máximo, o horário mais alto e o mais baixo, e os últimos 8 dias para escolher. Vem do relógio pela Conexão Saúde."
   ],
   "versoes": [
+    {
+      "versao": "0.244.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Saúde: os batimentos e a variabilidade cardíaca agora têm o dia hora a hora -- a média de cada hora com a faixa do mínimo ao máximo, o horário mais alto e o mais baixo, e os últimos 8 dias para escolher. Vem do relógio pela Conexão Saúde."
+      ],
+      "en": [
+        "Health: heart rate and heart rate variability now show the day hour by hour -- the average of each hour with the min-to-max range, the highest and lowest times, and the last 8 days to pick from. It comes from the watch through Health Connect."
+      ],
+      "es": [
+        "Salud: el pulso y la variabilidad cardíaca ahora muestran el día hora por hora -- el promedio de cada hora con la franja del mínimo al máximo, la hora más alta y la más baja, y los últimos 8 días para elegir. Viene del reloj por Health Connect."
+      ]
+    },
     {
       "versao": "0.243.0",
       "data": "18/11/2026",
@@ -152,19 +165,6 @@
       ],
       "es": [
         "Alertas: en Argentina, los avisos oficiales a corto plazo del Servicio Meteorológico Nacional (tormentas fuertes con lluvia intensa, granizo y ráfagas, nivel naranja o rojo), por lugar, con qué hacer. El celular los busca directo en el SMN cada 10 minutos."
-      ]
-    },
-    {
-      "versao": "0.232.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Rodízio: quando a escala do trimestre de Pequim ou Tianjin terminar e a nova ainda não estiver no app, a ficha do veículo avisa \"a escala nova ainda não chegou ao app; confira o aviso oficial\" -- antes a regra sumia e parecia que não havia rodízio."
-      ],
-      "en": [
-        "Plate restriction: when the quarterly schedule of Beijing or Tianjin ends and the new one is not in the app yet, the vehicle card says so and asks you to check the official notice -- before, the rule disappeared and it looked like there was no restriction."
-      ],
-      "es": [
-        "Restricción por placa: cuando termine el calendario trimestral de Pekín o Tianjin y el nuevo aún no esté en la app, la ficha del vehículo lo avisa y pide revisar el aviso oficial -- antes la regla desaparecía y parecía que no había restricción."
       ]
     }
   ]
