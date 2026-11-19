@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.251.0",
-  "codigo": 504,
+  "versao": "0.252.0",
+  "codigo": 505,
   "data": "19/11/2026",
-  "tamanho": 121261171,
-  "sha256": "435ec86bc8833c39040e8c2befd034f23acd09b4811bdbb31c2821b4a99362f8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.251.0/Vrumbi-0.251.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.251.0/Vrumbi-relogio-0.251.0.apk",
+  "tamanho": 121264859,
+  "sha256": "a021d26b94fb8e0a0023c83006ee457b425639c609e4f410a20cfc01fa7373a2",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.252.0/Vrumbi-0.252.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.252.0/Vrumbi-relogio-0.252.0.apk",
   "notas": [
-    "Preço oficial de cada posto na rota também na Eslovênia e na Croácia; na Itália a busca agora cobre a rota inteira (antes só achava postos perto do começo).",
-    "Radares de Belo Horizonte (lista oficial da BHTrans): 75 dos 82 locais no mapa, avisados na navegação."
+    "Vrumbi: pergunte \"quanto está a gasolina aqui?\" (ou etanol, diesel, GNV) -- ele diz o preço médio do litro na sua cidade pela ANP (ou o preço que você cadastrou em Meus veículos); fora do Brasil, a média oficial do país, na moeda de lá."
   ],
   "versoes": [
+    {
+      "versao": "0.252.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Vrumbi: pergunte \"quanto está a gasolina aqui?\" (ou etanol, diesel, GNV) -- ele diz o preço médio do litro na sua cidade pela ANP (ou o preço que você cadastrou em Meus veículos); fora do Brasil, a média oficial do país, na moeda de lá."
+      ],
+      "en": [
+        "Vrumbi: ask \"how much is gasoline here?\" (or ethanol, diesel, CNG) -- it tells the average price per litre in your city from ANP (or the price you entered in My vehicles); outside Brazil, the official country average, in the local currency."
+      ],
+      "es": [
+        "Vrumbi: pregunta \"¿cuánto está la gasolina aquí?\" (o etanol, diésel, GNV) -- dice el precio medio del litro en tu ciudad según la ANP (o el precio que registraste en Mis vehículos); fuera de Brasil, el promedio oficial del país, en la moneda local."
+      ]
+    },
     {
       "versao": "0.251.0",
       "data": "19/11/2026",
@@ -159,19 +171,6 @@
       ],
       "es": [
         "Salud: nuevo resumen \"Esta semana × semana anterior\" -- pasos, sueño, puntuación del sueño, pulso en reposo, variabilidad cardíaca, peso, agua y energía, con el promedio de los últimos 7 días, el de la semana anterior, la diferencia en % y la flecha verde cuando el cambio es bueno para la salud."
-      ]
-    },
-    {
-      "versao": "0.240.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Mapa de longe: as rodovias principais de todos os países aparecem quando você afasta o zoom (antes só as do Brasil), com o número da estrada. Um download único de 23 MB, que substitui o de 19 MB só do Brasil."
-      ],
-      "en": [
-        "Zoomed-out map: major highways of every country now show when you zoom out (before, only Brazil), with the road number. One 23 MB download, replacing the 19 MB Brazil-only one."
-      ],
-      "es": [
-        "Mapa de lejos: las rutas principales de todos los países aparecen al alejar el zoom (antes solo las de Brasil), con el número de la ruta. Una descarga única de 23 MB, que reemplaza la de 19 MB solo de Brasil."
       ]
     }
   ]
