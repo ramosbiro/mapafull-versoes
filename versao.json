@@ -1,17 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.255.0",
-  "codigo": 508,
+  "versao": "0.256.0",
+  "codigo": 509,
   "data": "19/11/2026",
-  "tamanho": 121283395,
-  "sha256": "5c5b18fe4af6821a24772305872b46638020c22ae6495203f989a1850c312e4a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.255.0/Vrumbi-0.255.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.255.0/Vrumbi-relogio-0.255.0.apk",
+  "tamanho": 121289291,
+  "sha256": "1ddcc6b849cb6f69022aa275d2c21e39ccdd0768a60e587c7251b344da44d7a9",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.256.0/Vrumbi-0.256.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.256.0/Vrumbi-relogio-0.256.0.apk",
   "notas": [
-    "Vrumbi responde ao dirigir: \"qual a velocidade máxima aqui?\" (o limite da placa no mapa ou o provável pelo tipo da via), \"tem pedágio no caminho?\" / \"quanto vou pagar de pedágio?\" (quantos faltam, o próximo e o total) e \"qual a próxima curva?\".",
-    "Corrigido: perguntar \"tem pedágio no caminho?\" ligava sem querer o \"evitar pedágio\"."
+    "Mais perguntas ao Vrumbi dirigindo: \"qual a minha velocidade?\", \"quanto eu já andei?\" / \"quanto tempo eu dirigi?\", \"repete\" (a última instrução) e \"desliga a voz\" / \"silencia\" / \"liga a voz\" (a voz das manobras)."
   ],
   "versoes": [
+    {
+      "versao": "0.256.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Mais perguntas ao Vrumbi dirigindo: \"qual a minha velocidade?\", \"quanto eu já andei?\" / \"quanto tempo eu dirigi?\", \"repete\" (a última instrução) e \"desliga a voz\" / \"silencia\" / \"liga a voz\" (a voz das manobras)."
+      ],
+      "en": [
+        "More questions for Vrumbi while driving: \"what is my speed?\", \"how far have I driven?\" / \"how long have I been driving?\", \"repeat\" (the last instruction) and \"turn off the voice\" / \"mute\" / \"turn on the voice\" (turn-by-turn voice)."
+      ],
+      "es": [
+        "Más preguntas a Vrumbi al conducir: \"¿a qué velocidad voy?\", \"¿cuánto he recorrido?\" / \"¿cuánto llevo manejando?\", \"repite\" (la última instrucción) y \"apaga la voz\" / \"silencio\" / \"activa la voz\" (la voz de las maniobras)."
+      ]
+    },
     {
       "versao": "0.255.0",
       "data": "19/11/2026",
@@ -162,19 +174,6 @@
       ],
       "es": [
         "Reloj: en la natación el reloj cuenta los largos y las brazadas, y en la musculación las repeticiones (cuando el reloj las mide) -- se pueden poner en la pantalla del entreno (editar pantallas) y aparecen en el resumen final."
-      ]
-    },
-    {
-      "versao": "0.244.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Saúde: os batimentos e a variabilidade cardíaca agora têm o dia hora a hora -- a média de cada hora com a faixa do mínimo ao máximo, o horário mais alto e o mais baixo, e os últimos 8 dias para escolher. Vem do relógio pela Conexão Saúde."
-      ],
-      "en": [
-        "Health: heart rate and heart rate variability now show the day hour by hour -- the average of each hour with the min-to-max range, the highest and lowest times, and the last 8 days to pick from. It comes from the watch through Health Connect."
-      ],
-      "es": [
-        "Salud: el pulso y la variabilidad cardíaca ahora muestran el día hora por hora -- el promedio de cada hora con la franja del mínimo al máximo, la hora más alta y la más baja, y los últimos 8 días para elegir. Viene del reloj por Health Connect."
       ]
     }
   ]
