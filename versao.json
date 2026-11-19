@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.242.0",
-  "codigo": 495,
+  "versao": "0.243.0",
+  "codigo": 496,
   "data": "18/11/2026",
-  "tamanho": 121217042,
-  "sha256": "1e8bcf7af4b05ce8c7a2dac8a5e56bb957c28d709bf5079c2754d4f0cc309d16",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.242.0/Vrumbi-0.242.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.242.0/Vrumbi-relogio-0.242.0.apk",
+  "tamanho": 121217698,
+  "sha256": "34db08838f18381be5f197198c798b40f5efb805396985baf2690118d817e2c7",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.243.0/Vrumbi-0.243.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.243.0/Vrumbi-relogio-0.243.0.apk",
   "notas": [
-    "Radares: entram os 1.104 radares das rodovias federais concedidas, da lista oficial da ANTT (com rodovia, km e velocidade) -- a base passa de 75 mil pontos no mundo."
+    "Busca de endereço com o número exato em todo o Brasil: além de São Paulo, os outros estados entram com o cadastro de endereços do IBGE (Censo 2022), estado por estado, conforme ficam prontos -- sem precisar atualizar o app. Rua e número levam direto à porta, com o CEP."
   ],
   "versoes": [
+    {
+      "versao": "0.243.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Busca de endereço com o número exato em todo o Brasil: além de São Paulo, os outros estados entram com o cadastro de endereços do IBGE (Censo 2022), estado por estado, conforme ficam prontos -- sem precisar atualizar o app. Rua e número levam direto à porta, com o CEP."
+      ],
+      "en": [
+        "Address search with the exact house number across Brazil: besides São Paulo, the other states join with IBGE's address register (2022 Census), one by one as they are ready -- no app update needed. Street and number take you right to the door, with the postal code."
+      ],
+      "es": [
+        "Búsqueda de dirección con el número exacto en todo Brasil: además de São Paulo, los otros estados entran con el registro de direcciones del IBGE (Censo 2022), uno por uno a medida que están listos -- sin actualizar la app. Calle y número llevan directo a la puerta, con el código postal."
+      ]
+    },
     {
       "versao": "0.242.0",
       "data": "18/11/2026",
@@ -152,22 +165,6 @@
       ],
       "es": [
         "Restricción por placa: cuando termine el calendario trimestral de Pekín o Tianjin y el nuevo aún no esté en la app, la ficha del vehículo lo avisa y pide revisar el aviso oficial -- antes la regla desaparecía y parecía que no había restricción."
-      ]
-    },
-    {
-      "versao": "0.231.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Rodízio: San José (Costa Rica) entra -- dias úteis das 6h às 19h dentro da Circunvalação, dois finais por dia, elétricos isentos, com aviso e desvio.",
-        "Custo da viagem: Japão entra na tabela de preços dos combustíveis (média nacional semanal do governo), em ienes."
-      ],
-      "en": [
-        "Plate restriction: San José (Costa Rica) added -- weekdays 6 am to 7 pm inside the Circunvalación ring, two plate endings per day, electric cars exempt, with alert and detour.",
-        "Trip cost: Japan joins the fuel price table (government weekly national average), in yen."
-      ],
-      "es": [
-        "Restricción por placa: entra San José (Costa Rica) -- días hábiles de 6 a 19 h dentro de la Circunvalación, dos terminaciones por día, eléctricos exentos, con aviso y desvío.",
-        "Costo del viaje: Japón entra en la tabla de precios de combustibles (promedio nacional semanal del gobierno), en yenes."
       ]
     }
   ]
