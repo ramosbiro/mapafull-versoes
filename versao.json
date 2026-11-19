@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.244.0",
-  "codigo": 497,
+  "versao": "0.245.0",
+  "codigo": 498,
   "data": "18/11/2026",
-  "tamanho": 121219658,
-  "sha256": "17956369bdcc5f9adb808f237efd51f79d2317af7dc1476652efbf8d56a2c2c8",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.244.0/Vrumbi-0.244.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.244.0/Vrumbi-relogio-0.244.0.apk",
+  "tamanho": 121219922,
+  "sha256": "96da881bf7bb23c094e743a4f833aaf089695beb9227c6f743a071708582e69f",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.245.0/Vrumbi-0.245.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.245.0/Vrumbi-relogio-0.245.0.apk",
   "notas": [
-    "Saúde: os batimentos e a variabilidade cardíaca agora têm o dia hora a hora -- a média de cada hora com a faixa do mínimo ao máximo, o horário mais alto e o mais baixo, e os últimos 8 dias para escolher. Vem do relógio pela Conexão Saúde."
+    "Relógio: na natação o relógio conta as voltas e as braçadas, e na musculação as repetições (quando o relógio mede) -- dá para pôr na tela do treino (editar telas) e aparecem no resumo do fim."
   ],
   "versoes": [
+    {
+      "versao": "0.245.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Relógio: na natação o relógio conta as voltas e as braçadas, e na musculação as repetições (quando o relógio mede) -- dá para pôr na tela do treino (editar telas) e aparecem no resumo do fim."
+      ],
+      "en": [
+        "Watch: swimming now counts laps and strokes, and strength training counts reps (when the watch measures them) -- add them to the workout screen (edit screens) and they show in the final summary."
+      ],
+      "es": [
+        "Reloj: en la natación el reloj cuenta los largos y las brazadas, y en la musculación las repeticiones (cuando el reloj las mide) -- se pueden poner en la pantalla del entreno (editar pantallas) y aparecen en el resumen final."
+      ]
+    },
     {
       "versao": "0.244.0",
       "data": "18/11/2026",
@@ -152,19 +165,6 @@
       ],
       "es": [
         "Micrófono de la búsqueda y comandos de voz arreglados: con \"Oye, Vrumbi\" activado, la app retenía el micrófono y el reconocimiento de voz de Google recibía silencio u \"ocupado\" -- \"No pude oír\" y nada en el campo. Ahora \"Oye, Vrumbi\" suelta el micrófono mientras dices la dirección (y vuelve después), el asistente espera a que el micrófono esté libre antes de escuchar y, si Android dice \"ocupado\", Vrumbi lo intenta de nuevo solo. Si no oye nada, te avisa."
-      ]
-    },
-    {
-      "versao": "0.233.1",
-      "data": "18/11/2026",
-      "itens": [
-        "Alertas: na Argentina, os avisos oficiais de curto prazo do Servicio Meteorológico Nacional (tempestade forte com chuva intensa, granizo e rajadas, nível laranja ou vermelho), por local, com o que fazer. O celular busca direto no SMN a cada 10 minutos."
-      ],
-      "en": [
-        "Alerts: in Argentina, the official short-term warnings of the National Meteorological Service (severe storms with heavy rain, hail and gusts, orange or red level), by location, with what to do. The phone fetches them straight from SMN every 10 minutes."
-      ],
-      "es": [
-        "Alertas: en Argentina, los avisos oficiales a corto plazo del Servicio Meteorológico Nacional (tormentas fuertes con lluvia intensa, granizo y ráfagas, nivel naranja o rojo), por lugar, con qué hacer. El celular los busca directo en el SMN cada 10 minutos."
       ]
     }
   ]
