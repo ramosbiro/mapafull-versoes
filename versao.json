@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.250.0",
-  "codigo": 503,
+  "versao": "0.251.0",
+  "codigo": 504,
   "data": "19/11/2026",
-  "tamanho": 121259335,
-  "sha256": "d16dda55e238f6617cfa79daf36216cc31930540d417ce9809bb093d2b0c0e0f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.250.0/Vrumbi-0.250.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.250.0/Vrumbi-relogio-0.250.0.apk",
+  "tamanho": 121261171,
+  "sha256": "435ec86bc8833c39040e8c2befd034f23acd09b4811bdbb31c2821b4a99362f8",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.251.0/Vrumbi-0.251.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.251.0/Vrumbi-relogio-0.251.0.apk",
   "notas": [
-    "Vrumbi: durante a rota, pergunte \"qual o posto mais barato no caminho?\" -- ele procura os postos à frente e fala o mais barato com o preço oficial do litro (França, Espanha, Portugal, Itália, Áustria) e quanto você economiza em relação ao mais caro. Onde não há preço por posto, ele avisa e indica o mais perto."
+    "Preço oficial de cada posto na rota também na Eslovênia e na Croácia; na Itália a busca agora cobre a rota inteira (antes só achava postos perto do começo).",
+    "Radares de Belo Horizonte (lista oficial da BHTrans): 75 dos 82 locais no mapa, avisados na navegação."
   ],
   "versoes": [
+    {
+      "versao": "0.251.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Preço oficial de cada posto na rota também na Eslovênia e na Croácia; na Itália a busca agora cobre a rota inteira (antes só achava postos perto do começo).",
+        "Radares de Belo Horizonte (lista oficial da BHTrans): 75 dos 82 locais no mapa, avisados na navegação."
+      ],
+      "en": [
+        "Official price of each station on the route also in Slovenia and Croatia; in Italy the search now covers the whole route (it used to find only stations near the start).",
+        "Belo Horizonte speed cameras (official BHTrans list): 75 of 82 sites on the map, announced while navigating."
+      ],
+      "es": [
+        "Precio oficial de cada estación en la ruta también en Eslovenia y Croacia; en Italia la búsqueda ahora cubre toda la ruta (antes solo encontraba estaciones cerca del inicio).",
+        "Radares de Belo Horizonte (lista oficial de BHTrans): 75 de 82 sitios en el mapa, avisados en la navegación."
+      ]
+    },
     {
       "versao": "0.250.0",
       "data": "19/11/2026",
@@ -155,19 +172,6 @@
       ],
       "es": [
         "Mapa de lejos: las rutas principales de todos los países aparecen al alejar el zoom (antes solo las de Brasil), con el número de la ruta. Una descarga única de 23 MB, que reemplaza la de 19 MB solo de Brasil."
-      ]
-    },
-    {
-      "versao": "0.239.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Alertas: novo \"Radar fixo\" (em Fiscalização, no celular, no relógio e por voz: \"radar fixo\") para o radar que ainda não aparece no mapa. Ele fica valendo 30 dias e cada confirmação de outro motorista renova (até 1 ano); quem passar e não achar pode tirar. O aviso de alerta à frente fala \"Radar fixo\" na navegação."
-      ],
-      "en": [
-        "Alerts: new \"Fixed speed camera\" (under Enforcement, on the phone, the watch and by voice) for cameras not yet on the map. It lasts 30 days and every confirmation by another driver renews it (up to 1 year); anyone who drives by and does not find it can remove it. The alert-ahead warning says \"Fixed camera\" during navigation."
-      ],
-      "es": [
-        "Alertas: nuevo \"Radar fijo\" (en Fiscalización, en el celular, el reloj y por voz) para el radar que aún no aparece en el mapa. Vale 30 días y cada confirmación de otro conductor lo renueva (hasta 1 año); quien pase y no lo encuentre puede quitarlo. El aviso de alerta adelante dice \"Radar fijo\" en la navegación."
       ]
     }
   ]
