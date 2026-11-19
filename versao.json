@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.245.0",
-  "codigo": 498,
+  "versao": "0.246.0",
+  "codigo": 499,
   "data": "18/11/2026",
-  "tamanho": 121219922,
-  "sha256": "96da881bf7bb23c094e743a4f833aaf089695beb9227c6f743a071708582e69f",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.245.0/Vrumbi-0.245.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.245.0/Vrumbi-relogio-0.245.0.apk",
+  "tamanho": 121225166,
+  "sha256": "d1f2c4bc1e9daae321aa4ea7ffc0518433c65df435c0c2f5d2c6a782db3b14ee",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.246.0/Vrumbi-0.246.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.246.0/Vrumbi-relogio-0.246.0.apk",
   "notas": [
-    "Relógio: na natação o relógio conta as voltas e as braçadas, e na musculação as repetições (quando o relógio mede) -- dá para pôr na tela do treino (editar telas) e aparecem no resumo do fim."
+    "Vrumbi: pergunte \"o ar está seco?\", \"como está a qualidade do ar?\", \"o sol está forte?\" ou \"vai ter geada?\" -- ele responde com os mesmos avisos da seção Coisas do ar (níveis da Defesa Civil, UV, fumaça, poeira) e, se estiver tudo bem, diz a umidade e o UV de agora. A qualidade do ar agora segue a escala da CETESB (boa, moderada, ruim, muito ruim, péssima) pela média das próximas 12 horas, sem alarme por pico de poucas horas."
   ],
   "versoes": [
+    {
+      "versao": "0.246.0",
+      "data": "18/11/2026",
+      "itens": [
+        "Vrumbi: pergunte \"o ar está seco?\", \"como está a qualidade do ar?\", \"o sol está forte?\" ou \"vai ter geada?\" -- ele responde com os mesmos avisos da seção Coisas do ar (níveis da Defesa Civil, UV, fumaça, poeira) e, se estiver tudo bem, diz a umidade e o UV de agora. A qualidade do ar agora segue a escala da CETESB (boa, moderada, ruim, muito ruim, péssima) pela média das próximas 12 horas, sem alarme por pico de poucas horas."
+      ],
+      "en": [
+        "Vrumbi: ask \"is the air dry?\", \"how is the air quality?\", \"is the sun strong?\" or \"will there be frost?\" -- it answers with the same notes as the Things in the air section (Civil Defense levels, UV, smoke, dust) and, if all is fine, tells the humidity and UV now. Air quality now follows the CETESB scale (good to very poor) using the next 12 hours average, with no alarms for short peaks."
+      ],
+      "es": [
+        "Vrumbi: pregunta \"¿el aire está seco?\", \"¿cómo está la calidad del aire?\", \"¿el sol está fuerte?\" o \"¿va a haber helada?\" -- responde con los mismos avisos de la sección Cosas del aire (niveles de Defensa Civil, UV, humo, polvo) y, si todo está bien, dice la humedad y el UV de ahora. La calidad del aire ahora sigue la escala de la CETESB (buena a pésima) por el promedio de las próximas 12 horas, sin alarma por picos cortos."
+      ]
+    },
     {
       "versao": "0.245.0",
       "data": "18/11/2026",
@@ -152,19 +165,6 @@
       ],
       "es": [
         "Clima hora por hora: con aviso oficial de tormenta (INMET y los servicios de los otros países) vigente para el lugar y probabilidad de lluvia de 60% o más, la hora muestra \"Posibilidad de tormenta\". En la comparación del 18/11 en Mogi, la tormenta de 20 a 27 mm llegó a las 14:30 con el aviso del INMET activo, y Vrumbi todavía mostraba \"Llovizna\" a las 15 h."
-      ]
-    },
-    {
-      "versao": "0.234.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Microfone da busca e comandos de voz consertados: com o \"Ei, Vrumbi\" ligado, o app segurava o microfone e o reconhecimento de voz do Google recebia silêncio ou \"ocupado\" -- \"Não consegui ouvir\" e nada no campo. Agora o \"Ei, Vrumbi\" solta o microfone enquanto você fala o endereço (e volta depois), o assistente espera o microfone ficar livre antes de ouvir, e se o Android disser \"ocupado\" o Vrumbi tenta de novo sozinho. Se não ouvir nada, ele avisa."
-      ],
-      "en": [
-        "Search microphone and voice commands fixed: with \"Hey, Vrumbi\" on, the app held the microphone and Google speech recognition got silence or \"busy\" -- \"I could not hear you\" and nothing in the field. Now \"Hey, Vrumbi\" releases the microphone while you say the address (and comes back after), the assistant waits for the microphone to be free before listening, and if Android says \"busy\" Vrumbi retries on its own. If it hears nothing, it tells you."
-      ],
-      "es": [
-        "Micrófono de la búsqueda y comandos de voz arreglados: con \"Oye, Vrumbi\" activado, la app retenía el micrófono y el reconocimiento de voz de Google recibía silencio u \"ocupado\" -- \"No pude oír\" y nada en el campo. Ahora \"Oye, Vrumbi\" suelta el micrófono mientras dices la dirección (y vuelve después), el asistente espera a que el micrófono esté libre antes de escuchar y, si Android dice \"ocupado\", Vrumbi lo intenta de nuevo solo. Si no oye nada, te avisa."
       ]
     }
   ]
