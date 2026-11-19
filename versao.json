@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.247.0",
-  "codigo": 500,
-  "data": "18/11/2026",
-  "tamanho": 121231870,
-  "sha256": "0d9c950de325a7ce0d018118b0f42f683a702ac1f604d93a53131c6928cb9fe6",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.247.0/Vrumbi-0.247.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.247.0/Vrumbi-relogio-0.247.0.apk",
+  "versao": "0.248.0",
+  "codigo": 501,
+  "data": "19/11/2026",
+  "tamanho": 121246751,
+  "sha256": "e9a4b92c264ff0bb87886e1f90e302df470dcedac5fb29bb6b48639b1ef7c227",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.248.0/Vrumbi-0.248.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.248.0/Vrumbi-relogio-0.248.0.apk",
   "notas": [
-    "Vrumbi: pergunte \"como foi minha semana?\", \"quantos passos eu dei?\", \"como estou dormindo?\" ou \"meus batimentos\" -- ele abre Saúde > Seus dados e fala a média de passos, sono e batimentos em repouso desta semana, comparando com a anterior. Tudo calculado no próprio aparelho."
+    "Viagem fora do Brasil: em \"Postos à frente\" (menu da rota) cada posto mostra o preço oficial do litro, publicado pelo governo e atualizado pelo próprio posto -- França, Espanha, Áustria e Itália --, no combustível do seu veículo (diesel ou gasolina), com o mais barato da lista em verde."
   ],
   "versoes": [
+    {
+      "versao": "0.248.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Viagem fora do Brasil: em \"Postos à frente\" (menu da rota) cada posto mostra o preço oficial do litro, publicado pelo governo e atualizado pelo próprio posto -- França, Espanha, Áustria e Itália --, no combustível do seu veículo (diesel ou gasolina), com o mais barato da lista em verde."
+      ],
+      "en": [
+        "Trips outside Brazil: in \"Stations ahead\" (route menu) each station shows the official price per litre, published by the government and updated by the station itself -- France, Spain, Austria and Italy --, for your vehicle's fuel (diesel or gasoline), with the cheapest in green."
+      ],
+      "es": [
+        "Viajes fuera de Brasil: en \"Estaciones adelante\" (menú de la ruta) cada estación muestra el precio oficial del litro, publicado por el gobierno y actualizado por la propia estación -- Francia, España, Austria e Italia --, en el combustible de tu vehículo (diésel o gasolina), con la más barata en verde."
+      ]
+    },
     {
       "versao": "0.247.0",
       "data": "18/11/2026",
@@ -152,19 +165,6 @@
       ],
       "es": [
         "Temperatura actual más precisa: con un aeropuerto a menos de 30 km (y altitud parecida), Vrumbi usa la temperatura MEDIDA allí para el \"ahora\" y corrige las 2 horas siguientes. En los 7 días medidos, el error del ahora bajó de 1,37° a 0,95°, y el de la hora siguiente de 1,38° a 1,02°. Vale en la app, el widget y los avisos."
-      ]
-    },
-    {
-      "versao": "0.236.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Temperatura mais precisa: medimos 7 dias em 11 aeroportos do Brasil (cerca de 1.000 horas) e a previsão que o Vrumbi usava saía, em média, 1,1° mais fria de dia. Agora a temperatura, a sensação térmica e as máximas e mínimas são a média de 6 modelos meteorológicos (europeu, americano, alemão, canadense, francês e britânico): o erro médio caiu de 1,57° para 1,28° de dia e de 1,18° para 0,97° à noite, melhor em 10 dos 11 aeroportos. Vale no app, no widget e nos avisos, e o servidor segue medindo todo dia."
-      ],
-      "en": [
-        "More accurate temperature: we measured 7 days at 11 airports in Brazil (about 1,000 hours) and the forecast Vrumbi used ran on average 1.1° too cold during the day. Now temperature, feels-like and highs/lows are the average of 6 weather models (European, American, German, Canadian, French and British): the average error dropped from 1.57° to 1.28° by day and from 1.18° to 0.97° at night, better at 10 of 11 airports. Applies to the app, the widget and alerts, and the server keeps measuring every day."
-      ],
-      "es": [
-        "Temperatura más precisa: medimos 7 días en 11 aeropuertos de Brasil (unas 1.000 horas) y el pronóstico que usaba Vrumbi salía, en promedio, 1,1° más frío de día. Ahora la temperatura, la sensación térmica y las máximas y mínimas son el promedio de 6 modelos meteorológicos (europeo, estadounidense, alemán, canadiense, francés y británico): el error medio bajó de 1,57° a 1,28° de día y de 1,18° a 0,97° de noche, mejor en 10 de los 11 aeropuertos. Vale en la app, el widget y los avisos, y el servidor sigue midiendo todos los días."
       ]
     }
   ]
