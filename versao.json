@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.252.0",
-  "codigo": 505,
+  "versao": "0.253.0",
+  "codigo": 506,
   "data": "19/11/2026",
-  "tamanho": 121264859,
-  "sha256": "a021d26b94fb8e0a0023c83006ee457b425639c609e4f410a20cfc01fa7373a2",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.252.0/Vrumbi-0.252.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.252.0/Vrumbi-relogio-0.252.0.apk",
+  "tamanho": 121272967,
+  "sha256": "aef559b92ed488e2d48953ab3d8cc7ea1c28b32696c435da9054228e5d7cb7bb",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.253.0/Vrumbi-0.253.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.253.0/Vrumbi-relogio-0.253.0.apk",
   "notas": [
-    "Vrumbi: pergunte \"quanto está a gasolina aqui?\" (ou etanol, diesel, GNV) -- ele diz o preço médio do litro na sua cidade pela ANP (ou o preço que você cadastrou em Meus veículos); fora do Brasil, a média oficial do país, na moeda de lá."
+    "Risco para o veículo estacionado também no Reino Unido (Inglaterra, País de Gales e Irlanda do Norte): ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia registrou a até 300 m nos últimos 3 meses (data.police.uk). Onde a polícia não publica (Grande Manchester, Escócia), ele avisa que não há dados."
   ],
   "versoes": [
+    {
+      "versao": "0.253.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Risco para o veículo estacionado também no Reino Unido (Inglaterra, País de Gales e Irlanda do Norte): ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia registrou a até 300 m nos últimos 3 meses (data.police.uk). Onde a polícia não publica (Grande Manchester, Escócia), ele avisa que não há dados."
+      ],
+      "en": [
+        "Parked-vehicle risk also in the UK (England, Wales and Northern Ireland): when you mark where you parked, Vrumbi tells how many vehicle thefts and thefts from vehicles the police recorded within 300 m in the last 3 months (data.police.uk). Where the police do not publish (Greater Manchester, Scotland), it says there is no data."
+      ],
+      "es": [
+        "Riesgo para el vehículo estacionado también en el Reino Unido (Inglaterra, Gales e Irlanda del Norte): al marcar dónde dejaste el auto, Vrumbi dice cuántos robos de vehículos y de objetos dentro de ellos registró la policía a menos de 300 m en los últimos 3 meses (data.police.uk). Donde la policía no publica (Gran Mánchester, Escocia), avisa que no hay datos."
+      ]
+    },
     {
       "versao": "0.252.0",
       "data": "19/11/2026",
@@ -158,19 +171,6 @@
       ],
       "es": [
         "Radares: entran los 1.104 radares de las rutas federales concesionadas de Brasil, de la lista oficial de la ANTT (con ruta, km y velocidad) -- la base supera los 75 mil puntos en el mundo."
-      ]
-    },
-    {
-      "versao": "0.241.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Saúde: novo resumo \"Esta semana × semana anterior\" -- passos, sono, pontuação do sono, batimentos em repouso, variabilidade cardíaca, peso, água e energia, com a média dos últimos 7 dias, a da semana anterior, a diferença em % e a seta verde quando a mudança é boa para a saúde."
-      ],
-      "en": [
-        "Health: new \"This week × last week\" summary -- steps, sleep, sleep score, resting heart rate, heart rate variability, weight, water and energy, with the last 7 days average, last week's, the % difference and a green arrow when the change is good for your health."
-      ],
-      "es": [
-        "Salud: nuevo resumen \"Esta semana × semana anterior\" -- pasos, sueño, puntuación del sueño, pulso en reposo, variabilidad cardíaca, peso, agua y energía, con el promedio de los últimos 7 días, el de la semana anterior, la diferencia en % y la flecha verde cuando el cambio es bueno para la salud."
       ]
     }
   ]
