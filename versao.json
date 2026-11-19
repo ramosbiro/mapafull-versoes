@@ -1,16 +1,33 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.254.0",
-  "codigo": 507,
+  "versao": "0.255.0",
+  "codigo": 508,
   "data": "19/11/2026",
-  "tamanho": 121273567,
-  "sha256": "0f817d81ba5cf63a106917a20152a57adf352fa87f1c55ea6c0468182291b2ad",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.254.0/Vrumbi-0.254.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.254.0/Vrumbi-relogio-0.254.0.apk",
+  "tamanho": 121283395,
+  "sha256": "5c5b18fe4af6821a24772305872b46638020c22ae6495203f989a1850c312e4a",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.255.0/Vrumbi-0.255.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.255.0/Vrumbi-relogio-0.255.0.apk",
   "notas": [
-    "México entra no preço oficial de cada posto na rota (CRE, todos os postos do país): em \"Postos à frente\" e na pergunta \"qual o posto mais barato no caminho?\", em pesos mexicanos."
+    "Vrumbi responde ao dirigir: \"qual a velocidade máxima aqui?\" (o limite da placa no mapa ou o provável pelo tipo da via), \"tem pedágio no caminho?\" / \"quanto vou pagar de pedágio?\" (quantos faltam, o próximo e o total) e \"qual a próxima curva?\".",
+    "Corrigido: perguntar \"tem pedágio no caminho?\" ligava sem querer o \"evitar pedágio\"."
   ],
   "versoes": [
+    {
+      "versao": "0.255.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Vrumbi responde ao dirigir: \"qual a velocidade máxima aqui?\" (o limite da placa no mapa ou o provável pelo tipo da via), \"tem pedágio no caminho?\" / \"quanto vou pagar de pedágio?\" (quantos faltam, o próximo e o total) e \"qual a próxima curva?\".",
+        "Corrigido: perguntar \"tem pedágio no caminho?\" ligava sem querer o \"evitar pedágio\"."
+      ],
+      "en": [
+        "Vrumbi answers while driving: \"what is the speed limit here?\" (the sign on the map or the probable one by road type), \"are there tolls on the way?\" / \"how much will I pay in tolls?\" (how many left, the next one and the total) and \"what is the next turn?\".",
+        "Fixed: asking \"is there a toll on the way?\" used to turn on \"avoid tolls\" by mistake."
+      ],
+      "es": [
+        "Vrumbi responde al conducir: \"¿cuál es la velocidad máxima aquí?\" (la señal del mapa o la probable por el tipo de vía), \"¿hay peajes en el camino?\" / \"¿cuánto voy a pagar de peaje?\" (cuántos faltan, el próximo y el total) y \"¿cuál es el próximo giro?\".",
+        "Corregido: preguntar \"¿hay peaje en el camino?\" activaba sin querer \"evitar peajes\"."
+      ]
+    },
     {
       "versao": "0.254.0",
       "data": "19/11/2026",
@@ -158,19 +175,6 @@
       ],
       "es": [
         "Salud: el pulso y la variabilidad cardíaca ahora muestran el día hora por hora -- el promedio de cada hora con la franja del mínimo al máximo, la hora más alta y la más baja, y los últimos 8 días para elegir. Viene del reloj por Health Connect."
-      ]
-    },
-    {
-      "versao": "0.243.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Busca de endereço com o número exato em todo o Brasil: além de São Paulo, os outros estados entram com o cadastro de endereços do IBGE (Censo 2022), estado por estado, conforme ficam prontos -- sem precisar atualizar o app. Rua e número levam direto à porta, com o CEP."
-      ],
-      "en": [
-        "Address search with the exact house number across Brazil: besides São Paulo, the other states join with IBGE's address register (2022 Census), one by one as they are ready -- no app update needed. Street and number take you right to the door, with the postal code."
-      ],
-      "es": [
-        "Búsqueda de dirección con el número exacto en todo Brasil: además de São Paulo, los otros estados entran con el registro de direcciones del IBGE (Censo 2022), uno por uno a medida que están listos -- sin actualizar la app. Calle y número llevan directo a la puerta, con el código postal."
       ]
     }
   ]
