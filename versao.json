@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.260.0",
-  "codigo": 513,
+  "versao": "0.261.0",
+  "codigo": 514,
   "data": "20/11/2026",
-  "tamanho": 121300055,
-  "sha256": "fc0a3248d3dc460a3adf7ae7a75cf9941efc93c554429b2cacca47b236fb90dc",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.260.0/Vrumbi-0.260.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.260.0/Vrumbi-relogio-0.260.0.apk",
+  "tamanho": 121303739,
+  "sha256": "c97a65240647073d9377531b4febd56935268884d66549f92de93e8576f33e48",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.261.0/Vrumbi-0.261.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.261.0/Vrumbi-relogio-0.261.0.apk",
   "notas": [
-    "Vrumbi: durante a rota, diga \"adiciona uma parada no posto\" ou \"preciso abastecer\" e ele põe o próximo posto à frente como parada; com \"no posto mais barato\", escolhe o de menor preço oficial (onde houver)."
+    "Vrumbi: \"compartilha minha localização\" ou \"manda minha localização pra minha esposa\" abre o compartilhar do celular com o endereço, o link do mapa e, durante a rota, a hora de chegada -- é só escolher a conversa."
   ],
   "versoes": [
+    {
+      "versao": "0.261.0",
+      "data": "20/11/2026",
+      "itens": [
+        "Vrumbi: \"compartilha minha localização\" ou \"manda minha localização pra minha esposa\" abre o compartilhar do celular com o endereço, o link do mapa e, durante a rota, a hora de chegada -- é só escolher a conversa."
+      ],
+      "en": [
+        "Vrumbi: \"share my location\" opens the phone share sheet with the address, a map link and, during a route, the arrival time -- just pick the chat."
+      ],
+      "es": [
+        "Vrumbi: \"comparte mi ubicación\" abre compartir del celular con la dirección, el enlace del mapa y, durante la ruta, la hora de llegada -- solo elige la conversación."
+      ]
+    },
     {
       "versao": "0.260.0",
       "data": "20/11/2026",
@@ -158,22 +171,6 @@
       ],
       "es": [
         "Vrumbi: durante la ruta, pregunta \"¿cuál es la gasolinera más barata en el camino?\" -- busca las estaciones adelante y dice la más barata con el precio oficial del litro (Francia, España, Portugal, Italia, Austria) y cuánto ahorras frente a la más cara. Donde no hay precio por estación, lo avisa e indica la más cercana."
-      ]
-    },
-    {
-      "versao": "0.249.0",
-      "data": "19/11/2026",
-      "itens": [
-        "Portugal entra no preço oficial de cada posto na rota (DGEG): em \"Postos à frente\", o preço do litro da gasolina simples 95 ou do gasóleo simples, conforme o seu veículo, com o mais barato em verde.",
-        "Escolha da rota com 4 opções, celular em pé: cartões em 2 por linha (antes o texto passava para o cartão vizinho)."
-      ],
-      "en": [
-        "Portugal joins the official price of each station on the route (DGEG): in \"Stations ahead\", the price per litre of regular 95 gasoline or regular diesel, by your vehicle, with the cheapest in green.",
-        "Route choice with 4 options, phone upright: cards 2 per row (text used to spill into the next card)."
-      ],
-      "es": [
-        "Portugal entra en el precio oficial de cada estación en la ruta (DGEG): en \"Estaciones adelante\", el precio del litro de gasolina 95 o gasóleo, según tu vehículo, con la más barata en verde.",
-        "Elección de ruta con 4 opciones, celular vertical: tarjetas de 2 por fila (antes el texto pasaba a la tarjeta vecina)."
       ]
     }
   ]
