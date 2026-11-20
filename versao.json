@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.262.0",
-  "codigo": 515,
+  "versao": "0.263.0",
+  "codigo": 516,
   "data": "20/11/2026",
-  "tamanho": 121310499,
-  "sha256": "74e217f63af36291bdef76489c2074a817d634a68b4f22e52a28b5f8c9683549",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.262.0/Vrumbi-0.262.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.262.0/Vrumbi-relogio-0.262.0.apk",
+  "tamanho": 121315095,
+  "sha256": "fdf9a1e884e0b98739375abcc2d5ceb57451cee43064e9cd829c2fbce4666513",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.263.0/Vrumbi-0.263.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.263.0/Vrumbi-relogio-0.263.0.apk",
   "notas": [
-    "Vrumbi: \"quanto eu caminhei hoje?\" / \"quantas calorias eu gastei?\" (passos, km e kcal de hoje), \"como dormi essa noite?\", \"qual meu batimento agora?\", \"que horas o sol se põe?\" e \"qual a fase da lua?\" (calculados no próprio aparelho)."
+    "Vrumbi: \"deixa a seta azul\" (cor do ícone pela voz), \"aumenta o tamanho do ícone\" / \"diminui o ícone\" (50% a 200%) e \"qual o meu veículo?\"."
   ],
   "versoes": [
+    {
+      "versao": "0.263.0",
+      "data": "20/11/2026",
+      "itens": [
+        "Vrumbi: \"deixa a seta azul\" (cor do ícone pela voz), \"aumenta o tamanho do ícone\" / \"diminui o ícone\" (50% a 200%) e \"qual o meu veículo?\"."
+      ],
+      "en": [
+        "Vrumbi: \"make the arrow blue\" (icon color by voice), \"make the icon bigger\" / \"smaller\" (50% to 200%) and \"what is my vehicle?\"."
+      ],
+      "es": [
+        "Vrumbi: \"pon la flecha azul\" (color del ícono por voz), \"agranda el ícono\" / \"achica el ícono\" (50% a 200%) y \"¿cuál es mi vehículo?\"."
+      ]
+    },
     {
       "versao": "0.262.0",
       "data": "20/11/2026",
@@ -155,22 +168,6 @@
       ],
       "es": [
         "Vrumbi: pregunta \"¿cuánto está la gasolina aquí?\" (o etanol, diésel, GNV) -- dice el precio medio del litro en tu ciudad según la ANP (o el precio que registraste en Mis vehículos); fuera de Brasil, el promedio oficial del país, en la moneda local."
-      ]
-    },
-    {
-      "versao": "0.251.0",
-      "data": "19/11/2026",
-      "itens": [
-        "Preço oficial de cada posto na rota também na Eslovênia e na Croácia; na Itália a busca agora cobre a rota inteira (antes só achava postos perto do começo).",
-        "Radares de Belo Horizonte (lista oficial da BHTrans): 75 dos 82 locais no mapa, avisados na navegação."
-      ],
-      "en": [
-        "Official price of each station on the route also in Slovenia and Croatia; in Italy the search now covers the whole route (it used to find only stations near the start).",
-        "Belo Horizonte speed cameras (official BHTrans list): 75 of 82 sites on the map, announced while navigating."
-      ],
-      "es": [
-        "Precio oficial de cada estación en la ruta también en Eslovenia y Croacia; en Italia la búsqueda ahora cubre toda la ruta (antes solo encontraba estaciones cerca del inicio).",
-        "Radares de Belo Horizonte (lista oficial de BHTrans): 75 de 82 sitios en el mapa, avisados en la navegación."
       ]
     }
   ]
