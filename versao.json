@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.257.0",
-  "codigo": 510,
+  "versao": "0.258.0",
+  "codigo": 511,
   "data": "19/11/2026",
-  "tamanho": 121290035,
-  "sha256": "39278a60be8eff1d6d97d97f4622e58700d47fcb1f3ad0525e76b7d2caaa5f4a",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.257.0/Vrumbi-0.257.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.257.0/Vrumbi-relogio-0.257.0.apk",
+  "tamanho": 121291695,
+  "sha256": "5e066e7df511a9052c549310300ca8b813c03b11fb9439241d6a2f5beebac6ee",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.258.0/Vrumbi-0.258.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.258.0/Vrumbi-relogio-0.258.0.apk",
   "notas": [
-    "Avisos oficiais de tempo em mais 18 países, pelos serviços de meteorologia de cada um: Paraguai, Equador, Panamá, Costa Rica, República Dominicana, Belize, Turks e Caicos, Jordânia, Catar, Bahrein, Paquistão, Mongólia, Tanzânia, Essuatíni, Madagascar, Camarões, Nigéria e Ilhas Salomão. Só aparece o aviso cuja área inclui onde você está."
+    "Risco para o veículo estacionado também em Chicago, São Francisco, Seattle e Nova York: ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia da cidade registrou a até 300 m nos últimos 3 meses publicados."
   ],
   "versoes": [
+    {
+      "versao": "0.258.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Risco para o veículo estacionado também em Chicago, São Francisco, Seattle e Nova York: ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia da cidade registrou a até 300 m nos últimos 3 meses publicados."
+      ],
+      "en": [
+        "Parked-vehicle risk also in Chicago, San Francisco, Seattle and New York: when you mark where you parked, Vrumbi tells how many vehicle thefts and thefts from vehicles the city police recorded within 300 m in the last 3 published months."
+      ],
+      "es": [
+        "Riesgo para el vehículo estacionado también en Chicago, San Francisco, Seattle y Nueva York: al marcar dónde dejaste el auto, Vrumbi dice cuántos robos de vehículos y de objetos dentro de ellos registró la policía de la ciudad a menos de 300 m en los últimos 3 meses publicados."
+      ]
+    },
     {
       "versao": "0.257.0",
       "data": "19/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Vrumbi: pregunta \"¿cómo fue mi semana?\", \"¿cuántos pasos di?\", \"¿cómo estoy durmiendo?\" o \"mi pulso\" -- abre Salud > Tus datos y dice el promedio de pasos, sueño y pulso en reposo de esta semana, comparado con la anterior. Todo calculado en el propio aparato."
-      ]
-    },
-    {
-      "versao": "0.246.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Vrumbi: pergunte \"o ar está seco?\", \"como está a qualidade do ar?\", \"o sol está forte?\" ou \"vai ter geada?\" -- ele responde com os mesmos avisos da seção Coisas do ar (níveis da Defesa Civil, UV, fumaça, poeira) e, se estiver tudo bem, diz a umidade e o UV de agora. A qualidade do ar agora segue a escala da CETESB (boa, moderada, ruim, muito ruim, péssima) pela média das próximas 12 horas, sem alarme por pico de poucas horas."
-      ],
-      "en": [
-        "Vrumbi: ask \"is the air dry?\", \"how is the air quality?\", \"is the sun strong?\" or \"will there be frost?\" -- it answers with the same notes as the Things in the air section (Civil Defense levels, UV, smoke, dust) and, if all is fine, tells the humidity and UV now. Air quality now follows the CETESB scale (good to very poor) using the next 12 hours average, with no alarms for short peaks."
-      ],
-      "es": [
-        "Vrumbi: pregunta \"¿el aire está seco?\", \"¿cómo está la calidad del aire?\", \"¿el sol está fuerte?\" o \"¿va a haber helada?\" -- responde con los mismos avisos de la sección Cosas del aire (niveles de Defensa Civil, UV, humo, polvo) y, si todo está bien, dice la humedad y el UV de ahora. La calidad del aire ahora sigue la escala de la CETESB (buena a pésima) por el promedio de las próximas 12 horas, sin alarma por picos cortos."
       ]
     }
   ]
