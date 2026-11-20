@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.258.0",
-  "codigo": 511,
+  "versao": "0.259.0",
+  "codigo": 512,
   "data": "19/11/2026",
-  "tamanho": 121291695,
-  "sha256": "5e066e7df511a9052c549310300ca8b813c03b11fb9439241d6a2f5beebac6ee",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.258.0/Vrumbi-0.258.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.258.0/Vrumbi-relogio-0.258.0.apk",
+  "tamanho": 121298211,
+  "sha256": "3f3dad2d3addd07c14805828f171ab4abf33e61f153b18e433833e03334f6efd",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.259.0/Vrumbi-0.259.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.259.0/Vrumbi-relogio-0.259.0.apk",
   "notas": [
-    "Risco para o veículo estacionado também em Chicago, São Francisco, Seattle e Nova York: ao marcar onde parou o carro, o Vrumbi diz quantos furtos de veículos e de objetos dentro deles a polícia da cidade registrou a até 300 m nos últimos 3 meses publicados."
+    "Vrumbi: \"qual o nome dessa rua?\" e \"qual o CEP daqui?\" (o endereço com bairro, cidade e CEP), \"que horas eu chego?\" / \"vou chegar atrasado?\" (a chegada e o que falta), \"tem trânsito pela frente?\" (os avisos da comunidade à frente; o app não tem trânsito ao vivo) e \"volta para minha posição\"."
   ],
   "versoes": [
+    {
+      "versao": "0.259.0",
+      "data": "19/11/2026",
+      "itens": [
+        "Vrumbi: \"qual o nome dessa rua?\" e \"qual o CEP daqui?\" (o endereço com bairro, cidade e CEP), \"que horas eu chego?\" / \"vou chegar atrasado?\" (a chegada e o que falta), \"tem trânsito pela frente?\" (os avisos da comunidade à frente; o app não tem trânsito ao vivo) e \"volta para minha posição\"."
+      ],
+      "en": [
+        "Vrumbi: \"what street is this?\" and \"what is the postcode here?\" (address with district, city and postcode), \"what time will I arrive?\" (arrival and what is left), \"is there traffic ahead?\" (community reports ahead; the app has no live traffic) and \"back to my position\"."
+      ],
+      "es": [
+        "Vrumbi: \"¿qué calle es esta?\" y \"¿cuál es el código postal aquí?\" (dirección con barrio, ciudad y código), \"¿a qué hora llego?\" (llegada y lo que falta), \"¿hay tráfico adelante?\" (avisos de la comunidad; la app no tiene tráfico en vivo) y \"vuelve a mi posición\"."
+      ]
+    },
     {
       "versao": "0.258.0",
       "data": "19/11/2026",
@@ -161,19 +174,6 @@
       ],
       "es": [
         "Viajes fuera de Brasil: en \"Estaciones adelante\" (menú de la ruta) cada estación muestra el precio oficial del litro, publicado por el gobierno y actualizado por la propia estación -- Francia, España, Austria e Italia --, en el combustible de tu vehículo (diésel o gasolina), con la más barata en verde."
-      ]
-    },
-    {
-      "versao": "0.247.0",
-      "data": "18/11/2026",
-      "itens": [
-        "Vrumbi: pergunte \"como foi minha semana?\", \"quantos passos eu dei?\", \"como estou dormindo?\" ou \"meus batimentos\" -- ele abre Saúde > Seus dados e fala a média de passos, sono e batimentos em repouso desta semana, comparando com a anterior. Tudo calculado no próprio aparelho."
-      ],
-      "en": [
-        "Vrumbi: ask \"how was my week?\", \"how many steps did I take?\", \"how am I sleeping?\" or \"my heart rate\" -- it opens Health > Your data and tells this week's average steps, sleep and resting heart rate compared with the week before. All computed on the device."
-      ],
-      "es": [
-        "Vrumbi: pregunta \"¿cómo fue mi semana?\", \"¿cuántos pasos di?\", \"¿cómo estoy durmiendo?\" o \"mi pulso\" -- abre Salud > Tus datos y dice el promedio de pasos, sueño y pulso en reposo de esta semana, comparado con la anterior. Todo calculado en el propio aparato."
       ]
     }
   ]
