@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.261.0",
-  "codigo": 514,
+  "versao": "0.262.0",
+  "codigo": 515,
   "data": "20/11/2026",
-  "tamanho": 121303739,
-  "sha256": "c97a65240647073d9377531b4febd56935268884d66549f92de93e8576f33e48",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.261.0/Vrumbi-0.261.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.261.0/Vrumbi-relogio-0.261.0.apk",
+  "tamanho": 121310499,
+  "sha256": "74e217f63af36291bdef76489c2074a817d634a68b4f22e52a28b5f8c9683549",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.262.0/Vrumbi-0.262.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.262.0/Vrumbi-relogio-0.262.0.apk",
   "notas": [
-    "Vrumbi: \"compartilha minha localização\" ou \"manda minha localização pra minha esposa\" abre o compartilhar do celular com o endereço, o link do mapa e, durante a rota, a hora de chegada -- é só escolher a conversa."
+    "Vrumbi: \"quanto eu caminhei hoje?\" / \"quantas calorias eu gastei?\" (passos, km e kcal de hoje), \"como dormi essa noite?\", \"qual meu batimento agora?\", \"que horas o sol se põe?\" e \"qual a fase da lua?\" (calculados no próprio aparelho)."
   ],
   "versoes": [
+    {
+      "versao": "0.262.0",
+      "data": "20/11/2026",
+      "itens": [
+        "Vrumbi: \"quanto eu caminhei hoje?\" / \"quantas calorias eu gastei?\" (passos, km e kcal de hoje), \"como dormi essa noite?\", \"qual meu batimento agora?\", \"que horas o sol se põe?\" e \"qual a fase da lua?\" (calculados no próprio aparelho)."
+      ],
+      "en": [
+        "Vrumbi: \"how much did I walk today?\" / \"how many calories did I burn?\" (today's steps, km and kcal), \"how did I sleep?\", \"what is my heart rate now?\", \"what time is sunset?\" and \"what is the moon phase?\" (computed on the device)."
+      ],
+      "es": [
+        "Vrumbi: \"¿cuánto caminé hoy?\" / \"¿cuántas calorías gasté?\" (pasos, km y kcal de hoy), \"¿cómo dormí anoche?\", \"¿cuál es mi pulso ahora?\", \"¿a qué hora es la puesta del sol?\" y \"¿cuál es la fase de la luna?\" (calculados en el aparato)."
+      ]
+    },
     {
       "versao": "0.261.0",
       "data": "20/11/2026",
@@ -158,19 +171,6 @@
       "es": [
         "Precio oficial de cada estación en la ruta también en Eslovenia y Croacia; en Italia la búsqueda ahora cubre toda la ruta (antes solo encontraba estaciones cerca del inicio).",
         "Radares de Belo Horizonte (lista oficial de BHTrans): 75 de 82 sitios en el mapa, avisados en la navegación."
-      ]
-    },
-    {
-      "versao": "0.250.0",
-      "data": "19/11/2026",
-      "itens": [
-        "Vrumbi: durante a rota, pergunte \"qual o posto mais barato no caminho?\" -- ele procura os postos à frente e fala o mais barato com o preço oficial do litro (França, Espanha, Portugal, Itália, Áustria) e quanto você economiza em relação ao mais caro. Onde não há preço por posto, ele avisa e indica o mais perto."
-      ],
-      "en": [
-        "Vrumbi: during a route, ask \"which is the cheapest gas station on the way?\" -- it searches the stations ahead and tells the cheapest with the official price per litre (France, Spain, Portugal, Italy, Austria) and how much you save over the most expensive. Where there is no per-station price, it says so and points to the nearest."
-      ],
-      "es": [
-        "Vrumbi: durante la ruta, pregunta \"¿cuál es la gasolinera más barata en el camino?\" -- busca las estaciones adelante y dice la más barata con el precio oficial del litro (Francia, España, Portugal, Italia, Austria) y cuánto ahorras frente a la más cara. Donde no hay precio por estación, lo avisa e indica la más cercana."
       ]
     }
   ]
