@@ -1,16 +1,29 @@
 {
   "nome": "Vrumbi",
-  "versao": "0.259.0",
-  "codigo": 512,
-  "data": "19/11/2026",
-  "tamanho": 121298211,
-  "sha256": "3f3dad2d3addd07c14805828f171ab4abf33e61f153b18e433833e03334f6efd",
-  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.259.0/Vrumbi-0.259.0.apk",
-  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.259.0/Vrumbi-relogio-0.259.0.apk",
+  "versao": "0.260.0",
+  "codigo": 513,
+  "data": "20/11/2026",
+  "tamanho": 121300055,
+  "sha256": "fc0a3248d3dc460a3adf7ae7a75cf9941efc93c554429b2cacca47b236fb90dc",
+  "apk": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.260.0/Vrumbi-0.260.0.apk",
+  "apkRelogio": "https://github.com/ramosbiro/mapafull-versoes/releases/download/v0.260.0/Vrumbi-relogio-0.260.0.apk",
   "notas": [
-    "Vrumbi: \"qual o nome dessa rua?\" e \"qual o CEP daqui?\" (o endereço com bairro, cidade e CEP), \"que horas eu chego?\" / \"vou chegar atrasado?\" (a chegada e o que falta), \"tem trânsito pela frente?\" (os avisos da comunidade à frente; o app não tem trânsito ao vivo) e \"volta para minha posição\"."
+    "Vrumbi: durante a rota, diga \"adiciona uma parada no posto\" ou \"preciso abastecer\" e ele põe o próximo posto à frente como parada; com \"no posto mais barato\", escolhe o de menor preço oficial (onde houver)."
   ],
   "versoes": [
+    {
+      "versao": "0.260.0",
+      "data": "20/11/2026",
+      "itens": [
+        "Vrumbi: durante a rota, diga \"adiciona uma parada no posto\" ou \"preciso abastecer\" e ele põe o próximo posto à frente como parada; com \"no posto mais barato\", escolhe o de menor preço oficial (onde houver)."
+      ],
+      "en": [
+        "Vrumbi: during a route, say \"add a gas stop\" or \"I need gas\" and it adds the next station ahead as a stop; with \"at the cheapest station\", it picks the lowest official price (where available)."
+      ],
+      "es": [
+        "Vrumbi: durante la ruta, di \"añade una parada en la gasolinera\" o \"necesito cargar gasolina\" y pone la próxima estación como parada; con \"en la más barata\", elige el menor precio oficial (donde lo haya)."
+      ]
+    },
     {
       "versao": "0.259.0",
       "data": "19/11/2026",
@@ -161,19 +174,6 @@
       "es": [
         "Portugal entra en el precio oficial de cada estación en la ruta (DGEG): en \"Estaciones adelante\", el precio del litro de gasolina 95 o gasóleo, según tu vehículo, con la más barata en verde.",
         "Elección de ruta con 4 opciones, celular vertical: tarjetas de 2 por fila (antes el texto pasaba a la tarjeta vecina)."
-      ]
-    },
-    {
-      "versao": "0.248.0",
-      "data": "19/11/2026",
-      "itens": [
-        "Viagem fora do Brasil: em \"Postos à frente\" (menu da rota) cada posto mostra o preço oficial do litro, publicado pelo governo e atualizado pelo próprio posto -- França, Espanha, Áustria e Itália --, no combustível do seu veículo (diesel ou gasolina), com o mais barato da lista em verde."
-      ],
-      "en": [
-        "Trips outside Brazil: in \"Stations ahead\" (route menu) each station shows the official price per litre, published by the government and updated by the station itself -- France, Spain, Austria and Italy --, for your vehicle's fuel (diesel or gasoline), with the cheapest in green."
-      ],
-      "es": [
-        "Viajes fuera de Brasil: en \"Estaciones adelante\" (menú de la ruta) cada estación muestra el precio oficial del litro, publicado por el gobierno y actualizado por la propia estación -- Francia, España, Austria e Italia --, en el combustible de tu vehículo (diésel o gasolina), con la más barata en verde."
       ]
     }
   ]
